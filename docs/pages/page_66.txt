@@ -1,0 +1,198 @@
+URL: https://support.microsoft.com/en-us/accessibility/office-accessibility/everything-you-need-to-know-to-write-effective-alt-text
+Everything you need to know to write effective alt text
+Applies To
+Excel for Microsoft 365
+Word for Microsoft 365
+Outlook for Microsoft 365
+PowerPoint for Microsoft 365
+Project Online Desktop Client
+Excel 2024
+Outlook 2024
+PowerPoint 2024
+Office 2024
+Office 2024 for Mac
+Excel 2021
+Word 2021
+Outlook 2021
+PowerPoint 2021
+Office 2021
+Office 2021 for Mac
+Excel 2019
+Word 2019
+Outlook 2019
+PowerPoint 2019
+Office 2019
+Excel 2016
+Word 2016
+Outlook 2016
+PowerPoint 2016
+Office 2016
+Sway
+Get help with Copilot
+How can I open the Microsoft 365 accessibility checker?
+How should I toggle automatic alt text on and off?
+How can I add alt text to an object?
+If a picture is worth a thousand words, what's it worth to people who cannot see? Without words, it's easy for people with a visual disability to miss critical information or get frustrated with the experience.
+Alternative text (alt text) is descriptive text which conveys the meaning and context of a visual item in a digital setting, such as on an app or web page. When screen readers like Microsoft Narrator, JAWS, and NVDA reach content with alt text, the alt text is read aloud so people can better understand what's on the screen. Well-written, descriptive alt text dramatically reduces ambiguity and improves user experience.
+This topic describes how to understand, write, and use effective alt text in Microsoft 365 products.
+\
+Alt text tools in Microsoft 365
+To help you with alt text, Microsoft 365 offers the Accessibility checker to review relevant visual content for alt text and get suggestions on improving content accessibility, an Automatic alt text generator, and a manual alt text editor.
+Open the Microsoft 365 Accessibility Checker:
+On the
+Review
+tab, select
+Check Accessibility
+.
+In the right
+Accessibility Assistant
+pane, issues with accessibility appear under category headings.
+Select any flagged issues to see recommended actions.
+Manually view and edit alt text, or approve automatic alt text:
+Right-click an image, chart, or other object, and select
+View Alt Text
+.
+Tip
+: On the
+Review
+tab, you can select the
+Check Accessibility
+drop down and choose
+Alt Text
+.
+In the
+Alt text
+pane on the right, edit or approve the displayed alt text (if automatically generated).
+If the image doesn't need alt text, such as a border, select
+Mark as decorative
+.
+Turn automatically generated alt text on or off:
+On the
+File
+tab, select
+Options
+and choose the
+Accessibility
+tab.
+Select or clear the
+Enable the option to generate alt text using AI
+checkbox under
+Alt Text
+.
+When to use alt text?
+Images and pictures
+Make sure to convey the content and the purpose of an image in a concise and unambiguous manner. The alt text shouldn't be longer than a sentence or two—most of the time a few thoughtfully selected words will do. Consider what is important about an image. For example, important context might be the setting, the emotions on people's faces, the colors, or the relative sizes.
+Do not repeat the surrounding textual content as alt text or use phrases referring to images, such as, "a graphic of" or "an image of." In the example below, the alt text is referring to the image and does not describe the content of the image sufficiently.
+You can also add alt text as an argument to the
+IMAGE function
+either by using text in quotes or by using a cell reference that contains the text. For example, IMAGE("www.contoso.com/logo.jpg", "Contoso logo").
+Diagrams, flow charts, and charts
+When dealing with objects that give detailed information, such as an infographic, use alt text to provide the information conveyed in the object. Describing a chart as ‘A bar chart showing sales over time,' for example, would not be useful to a blind person. Try to convey the insight; for example, ‘A bar chart showing sales over time. In July, sales for brand A surpassed sales for brand B and kept increasing throughout the year.' Alt text should also clearly describe the beginning point, progress, and conclusion of flow charts.
+Videos
+Videos that don't explain their content require alt text to describe the visual experience, even if the user hears music, background sounds, and speech. Alt text should describe the content and purpose of the video.
+Ideally, a video should contain a second audio track with a description of the video elements that are purely visual and not accessible to people with a visual disability.
+Tables
+The Accessibility Checker does not flag if a table is missing alt text. However, it is always a good practice to write a clear, descriptive, and concise alt text for a table.
+When not to use alt text?
+Decorative visual objects
+Decorative objects add visual interest but aren't informative (for example, stylistic borders). People using screen readers hear these are decorative so they know they aren't missing any important information. To mark a visual as decorative, select
+Mark as decorative
+in the
+Alt Text
+pane. The text entry field becomes grayed out.
+Tip
+If you export your document as a PDF, any visuals you have marked as decorative are automatically tagged as artifacts. They are then ignored by screen readers when navigating through PDFs.
+Slicers
+If the Accessibility Checker doesn't flag an object when it's missing alt text, you don't have to write alt text for it. A slicer is an example of such an object.
+How to add alt text to an object?
+For instructions on how to add alt text in Outlook, Word, Excel, and PowerPoint, go to
+Add alternative text to a shape, picture, chart, SmartArt graphic, or other object
+.
+Tips for using alt text in Microsoft 365
+Remember to use the Accessibility Checker during your review process. It checks that all relevant visual content has alt text and also gives you other suggestions for improving the accessibility of your content, such as checking contrast ratios. To run the Accessibility Checker, on the
+Review
+tab, select
+Check Accessibility
+. For more info on the Accessibility Checker, see
+Improve accessibility with the Accessibility Checker
+.
+Do not use a file name, duplicate text, or URLs as alt text. The Accessibility Checker flags these since they are not useful to someone with a visual disability. For more info, see
+Rules for the Accessibility Checker
+.
+If there is a group of objects that forms a semantic group, such as a group of photos that all show dogs, assign alt text for the whole group. If objects have been grouped together for formatting reasons, ungroup the objects and assign appropriate alt text for each object.
+Note
+If you have used Microsoft 365 for a while, you might have noticed that the
+Alt Text
+pane used to have two fields,
+Title
+and
+Description
+. Now we use a single
+Description
+field in most of our apps—it has been found that having a single field is easier and less confusing for both you as the author and also anyone using a screen reader to consume the content.
+Automatic alt text
+In Microsoft 365, alt text can be generated automatically. When you insert a picture, you might see a bar show up at the bottom of the picture with automatically generated alt text.
+If you checked
+Enable the option to generate alt text using AI
+, Microsoft 365 attempts to generate alt text for inserted pictures. Depending on the content of the image, sometimes the feature gives you descriptive tags and sometimes you get full sentences.
+If automatic alt text is generated or you want to change it, you can review and edit it in the
+Alt Text
+pane. You can also manually select
+Generate alt text for me
+to get additional possibilities. Remember to review and edit it in the
+Alt Text
+pane and remove any comments added there such as "Description generated with high confidence."
+Turn automatic alt text on
+On the
+File
+tab, select
+Options
+and choose
+Accessibility
+.
+Select or clear the
+Enable the option to generate alt text using AI
+checkbox under
+Alt Text
+.
+Approve automatic alt text
+In the Microsoft 365 app, right-click the item to review and select
+View Alt Text
+. The
+Alt Text
+pane opens.
+If the alt text is satisfactory, select the
+Approve alt text
+checkbox.
+Turn automatic alt text off
+On the
+File
+tab, select
+Options
+and choose
+Accessibility
+.
+Clear
+Automatically generate alt text for me
+under
+Automatic Alt Text
+.
+Where to find alt text functional guidelines
+Get additional resources to help you write effective alt text:
+Improve accessibility with the Accessibility Checker
+Rules for the Accessibility Checker
+Make your content accessible to everyone
+Make your Word documents accessible to people with disabilities
+Make your Excel documents accessible to people with disabilities
+Make your OneNote notebooks accessible to people with disabilities
+Make your Outlook email accessible to people with disabilities
+Make your PowerPoint presentations accessible to people with disabilities
+Make your Project Online sites and projects accessible to people with disabilities
+Make your SharePoint site accessible to people with disabilities
+Make your Sway design accessible to people with disabilities
+Make your Visio diagram accessible to people with disabilities
+For more information on how to ensure that Microsoft 365 products and user experiences meet the requirements for accessibility, visit our accessibility sites
+An inclusive, accessible Microsoft 365
+and
+Make your content accessible to everyone with the Accessibility Checker
+.

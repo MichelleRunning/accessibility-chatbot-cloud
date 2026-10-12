@@ -1,0 +1,1555 @@
+URL: https://support.microsoft.com/en-us/accessibility/teams/basic-tasks-using-a-screen-reader-with-microsoft-teams
+Basic tasks using a screen reader with Microsoft Teams
+Applies To
+Teams
+Microsoft Teams
+This article is for people who use a screen reader program such as Windows Narrator, JAWS, or NVDA with Windows tools or features and Microsoft 365 products. This article is part of the
+Accessibility help & learning
+content set where you can find more accessibility information on our apps. For general help, visit
+Microsoft Support
+.
+Windows
+macOS
+iOS
+Android
+Web
+Use Microsoft Teams with your keyboard and a screen reader to chat, search, and organize your chats and channels. You’ll learn how to navigate the Teams, create and manage messages, use search commands, and customize your workspace using filters, sections, and view settings.
+Note
+To quickly view keyboard shortcuts in Teams, press
+Ctrl+Period (.)
+.
+To learn more about screen readers, go to
+How screen readers work with Microsoft 365
+.
+In this topic
+Open Microsoft Teams desktop app
+Navigate Chats and Channels list
+Switch between combined and separate list views
+Create a new message
+Use the search commands
+Work with sections
+Apply filters
+Navigate the Mentions view
+Sign out of Microsoft Teams
+Open Microsoft Teams desktop app
+Note
+To download Microsoft Teams go to
+https:⁠//teams.microsoft.com/downloads,
+navigate to the
+Download Microsoft Teams for Windows
+button, and press
+Enter
+.
+Press the
+Windows
+key and type
+Microsoft Teams
+.
+You hear "Microsoft Teams app," and then press
+Enter
+to open the app.
+Type
+your email, phone and Skype name
+when your screen reader prompts you to log in.
+Press the
+Tab
+key to move to the
+Next
+button, and then press
+Enter
+.
+You will be prompted to select the method you want to use for authentication. Press the
+Tab
+key until you hear the option you want, and then press
+Enter
+.
+Depending on the sign in method, follow and act on the prompts as the screen reader announces them. For example, type
+your password
+or select your smart card certificate and type the
+PIN code
+, and then press
+Enter
+. If needed, press the
+Tab
+key to move to the
+Sign in
+button, and then press
+Enter
+.
+Navigate the Chats and Channels list
+You can use keyboard shortcuts to quickly move between your chat or channel list and the conversation area. The following instructions apply to both chats and channels in Microsoft Teams.
+Quickly reply and return to the chat list
+In Teams, press
+Ctrl+2
+to access the Chat view.
+Note
+The number ‘2’ signifies the sequential position of the
+Chat
+tab within the app bar. This position may vary depending on the individual setup.
+Use the
+Down arrow
+key to move to the chat you want to reply to, and then press
+Enter
+to move focus to the message compose area.
+Type your reply and press
+Enter
+to send it.
+Press
+Esc
+to return focus to the chat list.
+Quickly access and read chat messages
+In the Chat or Channels view, use the
+Down arrow
+key to move to the conversation you want to read.
+Press
+Spacebar
+to move focus directly to the oldest unread message.
+Use the
+Down arrow
+key to move through messages in the conversation.
+When you're done, press
+Esc
+to return to the chat or channel list.
+Note
+By using the
+Up
+and
+Down arrow
+keys in the chat or channel list and
+Enter
+or
+Spacebar
+to jump into conversations, you can navigate Teams quickly and efficiently with a screen reader.
+Switch between combined and separate list views
+You can choose between a combined list view, which shows all chats and channels in one list, and a separate list view, which divides chats and channels into different apps on the app bar.
+For more information, go to
+Navigate the combined and separate list views.
+Note
+By default, Teams will show chats and channels in the combined list view.
+Create a new message
+Creating a new message is now easier than ever with updated keyboard shortcuts and options. You can quickly compose and send messages to individuals, groups, or entire teams, helping you share updates and stay connected.
+Press
+Ctrl+N
+to open a new chat window.
+Alternatively, press the
+Tab
+key until you hear “More list options button,” then use the
+Up
+or
+Down arrow
+key to select the
+New message
+button, and press
+Enter
+.
+Type the desired name, email, group, team channel, or tag in the search bar and press
+Enter
+.
+Press the
+Tab
+key until you hear “Type a message,” then start typing your message and press
+Enter
+to send.
+Edit messages
+Navigate to the message you want to edit, and press
+Enter
+. The
+Reactions and message actions
+toolbar will open.
+Use the
+Right arrow
+key until you hear “Edit button," and then press
+Enter
+.
+You can now edit your message text in the box. You can also add emojis or attachments to your message.
+Once you're done, navigate to the
+Done
+button, and then press
+Enter
+.
+Delete messages
+Navigate to the message you want to delete, and press
+Enter
+. The
+Reactions and message actions
+toolbar will open.
+Use the
+Right arrow
+key until you hear “More options button,” and then press
+Enter
+to open a dialog.
+Use the
+Down arrow
+key until you hear “Delete this message.” Press
+Enter
+to delete the selected message.
+To return the focus to the message list, press
+Esc
+.
+Reply to a message
+Navigate to the message you wish to respond to, and then press
+Enter
+. The
+Reactions and message actions
+toolbar will open.
+Press the
+Right arrow
+key until you hear “Reply with quote,” and then press
+Enter.
+Type
+your reply
+and press
+Enter
+to send the reply.
+Use the search commands
+In Microsoft Teams, the
+Search
+box at the top of the window allows you to quickly navigate, take actions using commands, and find people, messages, files, and more.
+To go to the
+Search
+box, press
+Ctrl
++
+E
+.
+Do one of the following:
+Type a forward slash (/) to open the list of available commands. Use the
+Up
+and
+Down arrow
+keys to navigate through the list. When you hear the command you want, press
+Enter
+. For example, by entering “/files,” you can instantly see a list of your recent files.
+Type your desired command directly in the
+Search
+box and press
+Enter
+to execute it.
+To search for content, type your search term and press
+Enter
+. You can refine your search by using filters, and the results page will include multiple sections such as People, Messages, Files, Images, Group chats, Meetings, and Channels.
+Press the
+Tab
+key to move between result sections, then use the
+Up
+and
+Down arrow keys
+to navigate within each section.
+To view all results, press
+Tab
+until you reach
+View all results
+, then press
+Enter
+. Use the
+arrow keys
+to navigate the search results.
+Tip
+You can also use commands like /goto, /chat, or /call directly from the
+Search
+box to jump to specific views or actions.
+Work with sections
+You can organize your chats and channels into custom sections and sort them as per your preferences. This helps you stay focused and quickly access important conversations.
+Create custom sections
+You can organize related chats and channels into custom sections, making it easier to track important conversations. Custom sections let you group chats and channels by topic, project, or preference for quick access. This can be done in both the combined and separate list views.
+Press the
+Tab
+key until you hear “More list options button,” then use the
+Up
+or
+Down arrow
+key to select the
+New items
+button and press
+Enter
+.
+Press the
+Up
+or
+Down arrow
+key until you hear “New section menu item,” then press
+Enter
+.
+Type the name of your section, then navigate to the
+Create
+button using the
+Tab
+key, and press
+Enter
+.
+Navigate to the chat or channel you want to add to the new section, open the
+More options
+menu, and select the
+Move to
+menu item. Then, choose the desired section name from the list.
+Alternatively, press
+Shift+F10
+to open the context menu, then use the
+Up
+or
+Down arrow
+key to navigate to the
+Move to
+menu item and press
+Enter
+.
+Note
+You can also rename or remove custom sections to keep your list organized.
+Sort sections
+Organize your chats and channels to keep important conversations accessible by adjusting the sort order in each section. The sorting options are:
+Customized
+: This option arranges chats and channels manually in your preferred order. This is the default sort for
+Favorites
+and custom sections.
+Most Recent
+: This option displays chats and channels based on the latest activity, with the most recently updated items at the top.
+Unread Only
+: This option displays only unread messages, keeping the list compact and focused on new activity.
+Apply filters
+Use filters to focus on specific conversations within your chat or channel list. By default, filters like
+Unread
+,
+Chats
+,
+Meetings
+, and
+Unmuted
+are available in the
+Chat
+app, and the
+Unread
+filter is available in the
+Channels
+app. You can select multiple filters to refine your results further.
+For more information, go to
+An overview of key changes
+.
+Press the
+Tab
+key until you hear “Filter options toolbar,” then press
+Enter
+.
+Use the
+arrow
+keys to select a filter, such as
+Unread
+or
+Unmuted
+, then press
+Enter
+to apply. To find more filters, navigate to the
+More filters
+button and press
+Enter.
+Alternatively, use the following shortcuts to directly apply the filters:
+To filter and view unread items, press
+Ctrl+Alt+U
+.
+To display unmuted items, press
+Ctrl+Alt+Q
+.
+To view all meetings, press
+Ctrl+Alt+B
+.
+To show all chat items, press
+Ctrl+Alt+C
+.
+To display all channel items, press
+Ctrl+Alt+A
+.
+To search for a specific chat, channel, or person by name, press
+Ctrl+Shift+F
+.
+Note
+The selected filters remain active even if you exit the list, allowing you to pick up where you left off. For more keyboard shortcuts, refer to
+Keyboard shortcuts for Microsoft Teams.
+To remove a filter, press the
+Tab
+key until you hear the active filter name and press
+Enter
+again.
+Alternatively, you can clear all filters in your list view by using the keyboard shortcut
+Ctrl+Alt+Z
+.
+Navigate the Mentions view
+The
+Mentions
+view compiles all personal mentions in one convenient list, making it simple to stay updated on conversations that need your attention. This view includes notifications from team channels, chat messages, and meeting chats, ensuring you can respond quickly to relevant messages.
+Navigate to the
+Chats
+or
+Channels
+list in Microsoft Teams.
+Use the
+Tab
+and
+arrow
+keys to navigate to the
+Mentions
+option and press
+Enter
+to open the view.
+Use the
+Up
+or
+Down arrow
+key to browse through mention notifications, which will list messages from both chats and channels.
+To open the conversation and reply, navigate to the desired item and press
+Enter.⁠
+Sign out of Microsoft Teams
+Press
+Ctrl
++
+E
+to move to the search box.
+Press the
+Tab
+key until you hear "Your profile, status
+your current status
+," and press
+Enter
+.
+Press the
+Down arrow
+key until you hear the
+Sign out
+menu item, and then press
+Enter
+.
+See also
+Use a screen reader to create and modify teams in Microsoft Teams
+Use a screen reader to search for a conversation, person, or file in Microsoft Teams
+Keyboard shortcuts for Microsoft Teams
+Set up your device to work with accessibility in Microsoft 365
+Use a screen reader to explore and navigate Microsoft Teams
+Video: What is Microsoft Teams?
+Use Microsoft Teams with your keyboard and a screen reader to chat, search, and organize your chats and channels. You’ll learn how to navigate Teams, create and manage messages, use search commands, and customize your workspace using filters, sections, and view settings.
+Note
+To quickly view keyboard shortcuts in Teams, press
+Command+Period (.)
+.
+To learn more about screen readers, go to
+How screen readers work with Microsoft 365
+.
+In this topic
+Open Microsoft Teams desktop app
+Navigate Chats and Channels list
+Switch between combined and separate list views
+Create a new message
+Use the search commands
+Work with sections
+Apply filters
+Navigate the Mentions view
+Sign out of Microsoft Teams
+Open Microsoft Teams desktop app
+Note
+To install Microsoft Teams, open
+https:⁠//teams.microsoft.com/downloads
+, navigate to the
+Download Microsoft Teams for Mac
+button, and press
+Ctrl+Option+Spacebar
+. Follow the on-screen prompts to complete installation.
+Press
+Command+Spacebar
+to open
+Spotlight search
+, type Microsoft Teams, and press
+Return
+.
+You hear “Microsoft Teams, application,” then press
+Return
+to open the app.
+When the
+Sign in
+dialog opens, type your email address or phone number, and press
+Return
+.
+If prompted, press
+Tab
+until you hear “Next button,” and press
+Ctrl+Option+Spacebar
+.
+Follow the authentication prompts as VoiceOver announces them. For example, type your password, approve the sign-in request, or select your verification method, then press
+Return
+.
+Navigate Chats and Channels list
+You can use keyboard shortcuts to quickly move between your chat or channel list and the conversation area.
+Quickly reply and return to the chat list
+In Teams, press
+Command+2
+to access the
+Chat
+view.
+Note
+The number 2 represents the sequential position of the Chat app on the app bar. This may vary based on your setup.
+Use the
+Down arrow
+key to move to the chat you want to reply to, and press
+Return
+to move focus to the message compose area.
+Type your reply and press
+Return
+to send it.
+Press
+Esc
+to return focus to the chat list.
+Quickly access and read chat messages
+In the
+Chat
+or
+Channels
+view, use the
+Down arrow
+key to move to the conversation you want to read.
+Press
+Spacebar
+to move focus directly to the oldest unread message.
+Use the
+Down arrow
+key to move through messages in the conversation.
+When done, press
+Esc
+to return to the chat or channel list.
+Note
+By using the
+Up
+and
+Down arrow
+keys in the chat or channel list, and
+Return
+or
+Spacebar
+to open conversations, you can navigate Teams efficiently with VoiceOver.
+Switch between combined and separate list views
+You can choose between a combined list view, which shows all chats and channels in one list, and a separate list view, which divides chats and channels into different apps on the app bar.
+Note
+By default, Teams shows chats and channels in the combined list view. For more information, go to
+Navigate the combined and separate list views
+.
+Create a new message
+Creating a new message is simple using keyboard shortcuts or menu navigation.
+Press
+Command+N
+to open a new chat window.
+Alternatively, press
+Tab
+until you hear “More list options button,” then use the
+Up
+or
+Down arrow
+key to select “New message button,” and press
+Return
+.
+Type the name, email, group, team channel, or tag in the search bar, then press
+Return
+.
+Press
+Tab
+until you hear “Type a message,” then type your message and press
+Return
+to send it.
+Edit messages
+Navigate to the message you want to edit, and press
+Return
+. The
+Reactions and message actions toolbar
+opens.
+Use the
+Right arrow
+key until you hear “Edit button,” and press
+Return
+.
+The message text becomes editable. Make your changes or add emojis or attachments.
+When finished, press
+Tab
+until you hear “Done button,” and press
+Return
+.
+Delete messages
+Navigate to the message you want to delete, and press
+Return
+. The
+Reactions and message actions toolbar
+opens.
+Use the
+Right arrow
+key until you hear “More options button,” and press
+Return
+to open the menu.
+Use the
+Down arrow
+key until you hear “Delete this message,” and press
+Return
+to confirm.
+To return focus to the message list, press
+Esc
+.
+Reply to a message
+Navigate to the message you want to reply to, and press
+Return
+. The
+Reactions and message actions toolbar
+opens.
+Use the
+Right arrow
+key until you hear “Reply with quote,” and press
+Return
+.
+Type your reply and press
+Return
+to send it.
+Use the search commands
+The
+Search
+box at the top of the window lets you quickly find people, messages, files, and perform actions using commands.
+To go to the
+Search box
+, press
+Command+E
+.
+Do one of the following:
+Type a forward slash ( / ) to open a list of available commands. Use the
+Up
+and
+Down arrow
+keys to navigate. When you hear the command you want, press
+Return
+.
+Type your search term, such as a person’s name or keyword, and press
+Return
+to view results.
+Press
+Tab
+to move between result sections (People, Messages, Files, etc.), then use the
+arrow
+keys to navigate within each section.
+To view all results, press
+Tab
+until you hear “View all results,” and press
+Return
+.
+Tip
+You can also type commands like
+/chat
+,
+/call
+, or
+/files
+directly in the Search box.
+Work with sections
+You can organize your chats and channels into custom sections and sort them as you prefer. This helps you stay focused and quickly access important conversations.
+Create custom sections
+Press
+Tab
+until you hear “More list options button,” then use the
+arrow keys
+to select “New items button,” and press
+Return
+.
+Use the
+Up
+or
+Down arrow
+key until you hear “New section menu item,” and press
+Return
+.
+Type a name for your section, press
+Tab
+to move to the
+Create
+button, and press
+Return
+.
+Navigate to the chat or channel you want to move. Open the
+More options
+menu and select “Move to,” then choose the desired section name.
+Note
+You can rename or remove custom sections anytime.
+Sort sections
+Organize your chats and channels to keep important conversations accessible by adjusting the sort order in each section. The sorting options are:
+Customized
+: This option arranges chats and channels manually in your preferred order. This is the default sort for
+Favorites
+and custom sections.
+Most Recent
+: This option displays chats and channels based on the latest activity, with the most recently updated items at the top.
+Unread Only
+: This option displays only unread messages, keeping the list compact and focused on new activity.
+Steps to sort a section
+To sort, navigate to the desired section and press the
+Tab
+key until you hear “More options button,” then press
+Return
+.
+Use the
+Up
+or
+Down arrow
+key to select a sorting option and press
+Return
+to apply the selected sort order.
+Tip
+For an optimized view,
+Unread only
+mode will keep the list compact by displaying only unread items.
+Apply filters
+Use filters to focus on specific conversations within your chat or channel list. By default, filters like
+Unread
+,
+Chats
+,
+Meetings
+, and
+Unmuted
+are available in the
+Chat
+app, and the
+Unread
+filter is available in the
+Channels
+app. You can select multiple filters to refine your results further.
+For more information, go to
+An overview of key changes
+.
+Press the
+Tab
+key until you hear “Filter options toolbar,” then press
+Return
+.
+Use the
+arrow
+keys to select a filter, such as
+Unread
+or
+Unmuted
+, then press
+Enter
+to apply. To find more filters, navigate to
+More filters
+and press
+Return⁠.⁠
+​​​​​​​Alternatively, use the following shortcuts to directly apply the filters:
+To filter and view unread items, press
+Option+Command+U
+.
+To display unmuted items, press
+Option+Command+Q
+.
+To view all meetings, press
+Option+Command+T
+.
+To show all chat items, press
+Option+Command+C
+.
+To display all channel items, press
+Option+Command+A
+.
+To search for a specific chat, channel, or person by name, press
+Command+Shift+F
+.
+Note
+The selected filters remain active even if you exit the list, allowing you to pick up where you left off. For more keyboard shortcuts, refer to
+Keyboard shortcuts for Microsoft Teams
+.
+To remove a filter, press the
+Tab
+key until you hear the active filter name and press
+Return
+again.
+Alternatively, you can clear all filters in your list view by using the keyboard shortcut
+Opt+Cmd+Z
+.
+Navigate the Mentions view
+The
+Mentions
+view compiles all personal mentions in one convenient list, making it simple to stay updated on conversations that need your attention. This view includes notifications from team channels, chat messages, and meeting chats, ensuring you can respond quickly to relevant messages.
+Navigate to the
+Chats
+or
+Channels
+list in Microsoft Teams.
+Use the
+Tab
+and
+Up
+or
+Down arrow
+key to navigate to the
+Mentions
+option and press
+Return
+to open the view.
+Use the
+Up
+or
+Down arrow
+key to move through mention notifications, which will list messages from both chats and channels.
+To open the conversation and reply, navigate to the desired item and press
+Return
+.
+Sign out of Microsoft Teams
+In Microsoft Teams, press
+Command
++
+E
+to go to the
+Search
+box.
+Press the
+Tab
+key until you hear "Your profile and
+your current status
+," and press
+Return
+.
+Press the
+Down arrow
+key until you hear the
+Sign out
+menu item, and then press
+Return
+.
+See also
+Use a screen reader to create and modify teams in Microsoft Teams
+Use a screen reader to search for a conversation, person, or file in Microsoft Teams
+Keyboard shortcuts for Microsoft Teams
+Set up your device to work with accessibility in Microsoft 365
+Use a screen reader to explore and navigate Microsoft Teams
+Video: What is Microsoft Teams?
+Use Microsoft Teams with VoiceOver, the built-in screen reader for iOS, to chat, search, and organize your chats and channels. You’ll learn how to navigate the Teams app, create and manage messages, use search commands, and customize your workspace using filters, sections, and view settings.
+Note
+This topic assumes that you are using the built-in iOS screen reader, VoiceOver. To learn more about using VoiceOver, visit
+Apple accessibility
+.
+In this topic
+Open Microsoft Teams and sign in
+Navigate the Chats and Channels list
+Switch between combined and separate list views
+Create a new message
+Use the search commands
+Work with sections
+Apply filters
+Navigate the Mentions view
+Sign out of Microsoft Teams
+Open Microsoft Teams and sign in
+If not already installed on your phone, download and install the Microsoft Teams app from the App Store.
+On your phone, flick right until you hear “Teams,” and double-tap the screen.
+Flick right until you hear “Account text field,” and double-tap the screen.
+Enter the email address you want to sign in with. When done, flick right until you hear “Next button,” and double-tap the screen.
+The sign in page will open. Flick right until you hear “Enter password,” and double-tap the screen.
+Enter your password. When done, flick right until you hear “Sign in button,” and double-tap the screen.
+The app asks for your permission to send you notifications and access the microphone for calls. To allow, flick right until you hear “Allow button,” and double-tap the screen.
+Follow any additional prompts from Microsoft Teams to complete the sign in.
+Microsoft Teams opens the
+Activity
+view.
+Navigate the Chats and Channels list
+Use VoiceOver gestures to quickly move between your chat or channel list and the conversation area.
+Quickly reply and return to the chat list
+In Teams, flick right until you hear “Chat tab,” and double-tap to open it.
+Flick right or left to move through your chat list. When you hear the name of the chat you want to reply to, double-tap to open it.
+Flick until you hear “Type a message,” then double-tap to move focus to the compose area.
+Type your message using the on-screen keyboard, and then double-tap the
+Send
+button.
+To return to the chat list, flick until you hear “Hide keyboard,” and then double-tap.
+Quickly access and read chat messages
+In the
+Chat
+or
+Channels
+tab, flick right or left until you hear the name of the conversation you want to read, and double-tap to open it.
+Flick right to move through messages in the conversation. VoiceOver reads each message along with the sender’s name and time stamp.
+Note
+By flicking right or left to move between elements and double-tapping to activate, you can navigate Teams efficiently with VoiceOver.
+Switch between combined and separate list views
+You can choose between a
+combined list view
+, which shows all chats and channels in one list, and a
+separate list view
+, which divides chats and channels into different apps on the app bar.
+Flick left or right until you hear the “More button,” then double-tap to activate it.
+Flick right until you hear “Customize view button,” then double-tap to activate it.
+Flick right to select the
+Combined
+button, and double-tap to activate the combined view.
+To switch to the separate view, double-tap on the
+Separate
+button.
+For more information, go to
+Navigate the combined and separate lists
+.
+Create a new message
+You can quickly compose and send messages to individuals, groups, or entire teams, helping you share updates and stay connected.
+Flick left or right until you hear “New message button,” then double-tap to start a new chat.
+Type the name, chat, channel, email, or tag in the search bar and double-tap.
+Flick right to navigate the suggested list, and double-tap to start the chat.
+Flick right until you hear “Type a message,” then type your message.
+Flick right to the
+Send
+button and double-tap to send.
+Edit messages
+Flick right or left until you hear the message you want to edit, then double-tap and hold to open the message actions menu.
+Flick right until you hear “Edit,” and double-tap.
+The edit box opens with your existing message text. Make the necessary changes. You can also insert emojis or attachments if needed.
+Flick right until you hear “Send,” and double-tap to save your edits.
+Delete messages
+Flick right or left until you hear the message you want to delete, then double-tap and hold to open the message actions menu.
+Flick right until you hear “Delete,” and double-tap.
+When prompted to confirm, flick right to the
+Delete
+button, and double-tap.
+VoiceOver announces that the message has been deleted, and focus returns to the message list.
+Reply to a message
+Flick right or left until you hear the message you want to reply to, then double-tap and hold to open the message actions menu.
+Flick right until you hear “Reply with quote,” and double-tap.
+The focus moves to the message compose area with the quoted message above it. Type your reply.
+Flick right to the
+Send
+button and double-tap to send your reply.
+Use the search commands
+In Microsoft Teams for iOS, the Search field allows you to quickly find people, messages, files, and more.
+Flick right or left until you hear “Search,” and double-tap to place focus in the search field.
+To search for content, type your search term and double-tap
+Search
+on the keyboard. The results screen includes sections such as
+People
+,
+Files
+,
+Group chats
+,
+Meetings
+, and
+Teams and Channels
+.
+Flick right or left to move between the result sections, and double-tap a section to open it.
+Within a section, flick right or left to navigate the search results.
+To view all results, flick until you hear “See all,” and double-tap.
+Work with sections
+You can organize your chats and channels into custom sections and sort them as per your preferences. This helps you stay focused and quickly access important conversations.
+Create custom sections
+You can organize related chats and channels into custom sections, making it easier to track important conversations. Custom sections let you group chats and channels by topic, project, or preference for quick access. This can be done in both the combined and separate list views.
+In the Chats or Channels list, flick left or right to find the desired contact or channel and double-tap to open it.
+Flick left or right until you hear “Profile” or “Channel name,” then double-tap to activate it.
+Flick left or right until you hear “Move to button,” then double-tap to activate it.
+Flick right until you hear “New section button,” then double-tap to create a section.
+Type a name for your new section, then flick to the
+Done
+button and double-tap to save it.
+Note:
+You can also rename or remove custom sections to keep your chat and channel lists organized.
+Sort sections
+Organize your chats and channels to keep important conversations accessible by adjusting the sort order in each section.
+The sorting options are:
+Customized:
+Arrange chats and channels manually in your preferred order. This is the default sort for Favorites and custom sections.
+By recency:
+Display chats and channels based on the latest activity, with the most recently updated items at the top.
+Steps to sort a section:
+Flick to the desired section and double-tap when you hear “More options button.”
+Flick left or right to select a sorting option, and double-tap to apply the selected sort order.
+Apply filters
+Apply filters to focus on specific conversations within the
+Chat
+or
+Channels
+app. Access filters like
+Unread
+,
+Mentions
+,
+Chats
+,
+Channels
+,
+Meetings
+, and
+Muted
+through the Filters menu. You can select multiple filters to refine your results further.
+For more information, go to
+An overview of key changes
+.
+Flick left or right until you hear filter options such as “Unread,” “Meetings,” or “Chats,” then double-tap to apply.
+To find more filters, flick right until you hear “More button,” and double-tap to view all the filters.
+Note
+The selected filters remain active even if you exit the list, allowing you to resume from where you left off.
+To remove the filter, flick left or right until you hear the active filter name and double-tap to deactivate.
+Navigate the Mentions view
+The
+Mentions
+view compiles all personal mentions in one convenient list, making it simple to stay updated on conversations that need your attention. This view includes notifications from team channels, chat messages, and meeting chats, ensuring you can respond quickly to relevant messages.
+Open Microsoft Teams and flick left or right until you hear “Mentions button,” then double-tap to activate it.
+Flick left or right to browse through mention notifications, which list messages from both chats and channels.
+To open the conversation and reply, navigate to the desired item and double-tap to open it.
+Sign out of Microsoft Teams
+You can sign out of Microsoft Teams when you no longer need to stay signed in or want to switch accounts.
+Flick right until you hear “Navigation button,” then double-tap to open the navigation menu.
+Flick right until you hear “Settings,” and double-tap to open it.
+Flick right until you hear “Sign out button,” and double-tap.
+When the Sign out confirmation dialog opens, flick right until you hear “Sign out button,” and double-tap to confirm.
+Note
+After you sign out, you return to the Teams sign in screen.
+See also
+Use a screen reader to work with files in Microsoft Teams
+Use a screen reader to search for a conversation, person, or file in Microsoft Teams
+Set up your device to work with accessibility in Microsoft 365
+Use a screen reader to explore and navigate Microsoft Teams
+Video: What is Microsoft Teams?
+Use Microsoft Teams for Android with TalkBack, the built-in Android screen reader, to chat, search, and organize your chats and channels. You’ll learn how to navigate the Teams app, create and manage messages, use search commands, and customize your workspace using filters, sections, and view settings.
+Note
+This topic assumes that you are using the built-in Android screen reader, TalkBack. To learn more about using TalkBack, go to
+Android accessibility
+.
+In this topic
+Open Microsoft Teams and sign in
+Navigate the Chats and Channels list
+Switch between combined and separate list views
+Create a new message
+Use the search commands
+Work with sections
+Apply filters
+Navigate the Mentions view
+Sign out of Microsoft Teams
+Open Microsoft Teams and sign in
+If not already installed on your phone, download and install the Microsoft Teams app from the Play Store.
+On your phone, flick right until Talkback announces the Microsoft Teams app, and double tap the screen to open it.
+The sign in screen will open. Flick right until you hear "Sign in button," then double-tap the screen.
+Use the on-screen keyboard to type the
+email address or phone number associated
+with the account you want to sign in with. When done, flick right to move to the
+Next
+button, and double-tap the screen.
+Flick right until you hear "Edit box," and double-tap the screen. Use the on-screen keyboard to type
+your password
+. When done, flick right until you hear "Sign in button," and double-tap the screen.
+The
+Welcome to Microsoft Teams
+page will open. To hear the page contents, flick right. To move to the next page, flick left with two fingers. When you reach the last page, flick right until you hear "Got it button," and double-tap the screen.
+Navigate the Chats and Channels list
+Use TalkBack gestures to quickly move between your chat or channel list and the conversation area.
+Quickly reply and return to the chat list
+In Teams, flick right until you hear “Chat tab,” and double-tap to open it.
+Flick right or left to move through your chat list. When you hear the name of the chat you want to reply to, double-tap to open it.
+Flick until you hear “Type a message,” then double-tap to move focus to the compose area.
+Type your message using the on-screen keyboard, and then double-tap the
+Sendmessage
+button.
+To return to the chat list, flick until you hear “Back,” and double-tap.
+Quickly access and read chat messages
+In the Chat or Channels tab, flick right or left until you hear the name of the conversation you want to read, and then double-tap to open it.
+Flick right to move through messages in the conversation. TalkBack reads each message along with the sender’s name and time stamp.
+To return to the chat or channel list, flick until you hear “Back,” and double-tap.
+Note
+By flicking right or left to move between elements and double-tapping to activate, you can navigate Teams quickly and efficiently with TalkBack.
+Switch between combined and separate list views
+You can choose between a combined list view, which shows all chats and channels in one list, and a separate list view, which divides chat and teams into different tabs.
+For more information, go to
+Navigate the combined and separate list views
+.
+Create a new message
+Creating a new message is now easier than ever with updated keyboard shortcuts and options. You can quickly compose and send messages to individuals, groups, or entire teams, helping you share updates and stay connected.
+Flick left or right until you hear “New conversation button,” then double-tap to create a new message.
+Type the name, email, group, team channel, or tag in the search bar and double-tap.
+Flick left or right until you hear "Type a message," then type your message.
+Flick right to the
+Send message
+button and double-tap to send.
+Edit messages
+Flick right or left until you hear the message you want to edit, then double-tap and hold to open the message actions menu.
+Flick right until you hear “Edit,” and double-tap.
+The edit box opens with your existing message text. Make the necessary changes. You can also insert emojis or attachments if needed.
+Flick right until you hear “Send,” and double-tap to save your edits.
+Delete messages
+Flick right or left until you hear the message you want to delete, then double-tap and hold to open the message actions menu.
+Flick right until you hear “Delete,” and double-tap.
+When prompted to confirm, flick to “Delete” again, and double-tap.
+TalkBack announces that the message has been deleted, and focus returns to the message list.
+Reply to a message
+Flick right or left until you hear the message you want to reply to, then double-tap and hold to open the message actions menu.
+Flick right until you hear “Reply,” and double-tap.
+The focus moves to the message compose area with the quoted message above it. Type your reply.
+Flick right to the
+Send
+button and double-tap to send your reply.
+Use the search commands
+In Microsoft Teams for Android, the Search field at the top of the screen allows you to quickly find people, messages, files, and more, or take actions using commands.
+Flick right or left until you hear “Search,” and double-tap to place focus in the Search field.
+To search for content, type your search term and double-tap
+Search
+. The results screen includes sections such as
+People
+,
+Files
+,
+Group chats
+,
+Meetings
+, and
+Teams andChannels
+.
+Flick right or left to move between the result sections, and double-tap a section to open it.
+Within a section, flick right or left to navigate the search results.
+To view all results, flick until you hear “See all,” and double-tap.
+Work with sections
+You can organize your chats and channels into custom sections and sort them as per your preferences. This helps you stay focused and quickly access important conversations.
+Create custom sections
+You can organize related chats and channels into custom sections, making it easier to track important conversations. Custom sections let you group chats and channels by topic, project, or preference for quick access. This can be done in both the combined and separate list views.
+In the Chats or Channels list, flick left or right to find the chat or channel you want to move, and double-tap to open it.
+Flick left or right until you hear “Chat details button,” then double-tap to activate it.
+Flick left or right until you hear “Move to button,” and double-tap to open the move options.
+Flick right until you hear “New section button,” then double-tap to create a section.
+Type a name for your new section, then flick to the
+Done
+button and double-tap to save it.
+Note
+You can also rename or remove custom sections to keep your chat and channel lists organized.
+Sort sections
+Organize your chats and channels to keep important conversations accessible by adjusting the sort order in each section. The sorting options are:
+Customized:
+Arrange chats and channels manually in your preferred order. This is the default sort for Favorites and custom sections.
+By recency:
+Display chats and channels based on the latest activity, with the most recently updated items at the top.
+Steps to sort a section
+Flick to the desired section and double-tap when you hear “More options button.”
+Flick left or right to select a sorting option, and double-tap to apply the selected sort order.
+Apply filters
+Apply filters to focus on specific conversations within the
+Chat
+or
+Channels
+tab. Access filters like
+Unread
+,
+Mentions
+,
+Chats
+,
+Channels
+,
+Meetings
+, and
+Muted
+through the Filters menu. You can select multiple filters to refine your results further.
+For more information, go to
+An overview of key changes
+.
+Flick left or right until you hear filter options such as “Unread, Meetings, Chats, etc.,” then double-tap to apply. To find more filters, flick right until you hear “More button,” and double-tap to view all the filters.
+Note
+The selected filters remain active even if you exit the list, allowing you to resume from where you left off.
+To remove the filter, flick left or right until you hear the active filter name and double-tap to deactivate.
+Navigate the Mentions view
+The Mentions view compiles all personal mentions in one convenient list, making it simple to stay updated on conversations that need your attention. This view includes notifications from team channels, chat messages, and meeting chats, ensuring you can respond quickly to relevant messages.
+Open Microsoft Teams and flick left or right until you hear “button mentions,” then double-tap to activate it.
+Flick left or right to browse through mention notifications, which will list messages from both chats and channels.
+To open the conversation and reply, navigate to the desired item and double-tap to open it.
+Sign out of Microsoft Teams
+You can sign out of Microsoft Teams when you no longer need to stay signed in or want to switch accounts.
+Flick right until you hear “Navigation button,” then double-tap to open the navigation menu.
+Flick right until you hear “Open settings,” and double-tap to open it.
+Flick right until you hear “Sign out button,” and double-tap.
+When the Sign out confirmation dialog opens, flick right until you hear “OK button,” and double-tap to confirm.
+Note
+After you sign out, you return to the Teams sign in screen.
+See also
+Use a screen reader to search for a conversation, person, or file in Microsoft Teams
+Use a screen reader to like and save messages in Microsoft Teams
+Set up your device to work with accessibility in Microsoft 365
+Use a screen reader to explore and navigate Microsoft Teams
+Video: What is Microsoft Teams?
+Use Microsoft Teams on the web with your keyboard and a screen reader to chat, search, and organize your chats and channels. You’ll learn how to navigate to the Teams, create and manage messages, use search commands, and customize your workspace using filters, sections, and view settings.
+Note
+To quickly view keyboard shortcuts in Teams, press
+Ctrl+Period (.)
+.
+To learn more about screen readers, go to
+How screen readers work with Microsoft 365
+.
+In this topic
+Open Microsoft Teams and sign in
+Navigate Chats and Channels list
+Switch between combined and separate list views
+Create a new message
+Use the search commands
+Work with sections
+Apply filters
+Navigate the Mentions view
+Sign out of Microsoft Teams
+Open Microsoft Teams and sign in
+On your computer, open Microsoft Edge, and browse to
+https:⁠//teams.microsoft.com
+.
+A sign in page will open with a focus on the
+Email, phone or Skype
+edit field.
+If there are no previously used account details, type
+your details
+in the box.
+If there are several accounts to choose from, press the
+Tab
+key to browse the options. To select, press
+Enter
+.
+Press the
+Tab
+key until you reach the
+Next
+button, and then press
+Enter
+.
+Type
+your password,
+then press
+Enter
+to sign in.
+Note
+Depending on the sign in method chosen, follow and act on the prompts as the screen reader announces them.
+Navigate the Chats and Channels list
+You can use keyboard shortcuts to quickly move between your chat or channel list and the conversation area. The following instructions apply to both chats and channels in Microsoft Teams.
+Quickly reply and return to the chat list
+In Teams, press
+Ctrl+Shift+2
+to access the Chat view.
+Note
+The number ‘2’ signifies the sequential position of the
+Chat
+tab within the app bar. This position may vary depending on the individual setup.
+Use the
+Down arrow
+key to move to the chat you want to reply to, and then press
+Enter
+to move focus to the message compose area.
+Type your reply and press
+Enter
+to send it.
+Press
+Esc
+to return focus to the chat list.
+Quickly access and read chat messages
+In the Chat or Channels view, use the
+Down arrow
+key to move to the conversation you want to read.
+Press
+Spacebar
+to move focus directly to the oldest unread message.
+Use the
+Down arrow
+key to move through messages in the conversation.
+When you're done, press
+Esc
+to return to the chat or channel list.
+Note
+By using the
+Up
+and
+Down arrow
+keys in the chat or channel list and
+Enter
+or
+Spacebar
+to jump into conversations, you can navigate Teams quickly and efficiently with a screen reader.
+Switch between combined and separate list views
+You can choose between a combined list view, which shows all chats and channels in one list, and a separate list view, which divides chats and channels into different apps on the app bar.
+For more information, go to
+Navigate the combined and separate list views.
+Note
+By default, Teams will show chats and channels in the combined list view.
+Create a new message
+Creating a new message is now easier than ever with updated keyboard shortcuts and options. You can quickly compose and send messages to individuals, groups, or entire teams, helping you share updates and stay connected.
+Press
+Alt+Shift+N
+to open a new chat window.
+Alternatively, press the
+Tab
+key until you hear “More list options button,” then use the
+Up
+or
+Down arrow
+key to select the
+New message
+button, and press
+Enter
+.
+Type the desired name, email, group, team channel, or tag in the search bar and press
+Enter
+.
+Press the
+Tab
+key until you hear “Type a message,” then start typing your message and press
+Enter
+to send.
+Edit messages
+Navigate to the message you want to edit, and press
+Enter
+. The
+Reactions and message actions
+toolbar will open.
+Use the
+Right arrow
+key until you hear “Edit button," and then press
+Enter
+.
+You can now edit your message text in the box. You can also add emojis or attachments to your message.
+Once you're done, navigate to the
+Done
+button, and then press
+Enter
+.
+Delete messages
+Navigate to the message you want to delete, and press
+Enter
+. The
+Reactions and message actions
+toolbar will open.
+Use the
+Right arrow
+key until you hear “More options button,” and then press
+Enter
+to open a dialog.
+Use the
+Down arrow
+key until you hear “Delete this message.” Press
+Enter
+to delete the selected message.
+To return the focus to the message list, press
+Esc
+.
+Reply to a message
+Navigate to the message you wish to respond to, and then press
+Enter
+. The
+Reactions and message actions
+toolbar will open.
+Press the
+Right arrow
+key until you hear “Reply with quote,” and then press
+Enter.
+Type
+your reply
+and press
+Enter
+to send the reply.
+Use the search commands
+In Microsoft Teams, the
+Search
+box at the top of the window allows you to quickly navigate, take actions using commands, and find people, messages, files, and more.
+To go to the
+Search
+box, press
+Ctrl+Alt+E
+.
+Do one of the following:
+Type a forward slash (/) to open the list of available commands. Use the
+Up
+and
+Down arrow
+keys to navigate through the list. When you hear the command you want, press
+Enter
+. For example, by entering “/files,” you can instantly see a list of your recent files.
+Type your desired command directly in the
+Search
+box and press
+Enter
+to execute it.
+To search for content, type your search term and press
+Enter
+. You can refine your search by using filters, and the results page will include multiple sections such as People, Messages, Files, Images, Group chats, Meetings, and Channels.
+Press the
+Tab
+key to move between result sections, then use the
+Up
+and
+Down arrow keys
+to navigate within each section.
+To view all results, press
+Tab
+until you reach
+View all results
+, then press
+Enter
+. Use the
+arrow keys
+to navigate the search results.
+Tip
+You can also use commands like /goto, /chat, or /call directly from the
+Search
+box to jump to specific views or actions.
+Work with sections
+You can organize your chats and channels into custom sections and sort them as per your preferences. This helps you stay focused and quickly access important conversations.
+Create custom sections
+You can organize related chats and channels into custom sections, making it easier to track important conversations. Custom sections let you group chats and channels by topic, project, or preference for quick access. This can be done in both the combined and separate list views.
+Press the
+Tab
+key until you hear “More list options button,” then use the
+Up
+or
+Down arrow
+key to select the
+New items
+button and press
+Enter
+.
+Press the
+Up
+or
+Down arrow
+key until you hear “New section menu item,” then press
+Enter
+.
+Type the name of your section, then navigate to the
+Create
+button using the
+Tab
+key, and press
+Enter
+.
+Navigate to the chat or channel you want to add to the new section, open the
+More options
+menu, and select the
+Move to
+menu item. Then, choose the desired section name from the list.
+Alternatively, press
+Shift+F10
+to open the context menu, then use the
+Up
+or
+Down arrow
+key to navigate to the
+Move to
+menu item and press
+Enter
+.
+Note
+You can also rename or remove custom sections to keep your list organized.
+Sort sections
+Organize your chats and channels to keep important conversations accessible by adjusting the sort order in each section. The sorting options are:
+Customized
+: This option arranges chats and channels manually in your preferred order. This is the default sort for
+Favorites
+and custom sections.
+Most Recent
+: This option displays chats and channels based on the latest activity, with the most recently updated items at the top.
+Unread Only
+: This option displays only unread messages, keeping the list compact and focused on new activity.
+Apply filters
+Use filters to focus on specific conversations within your chat or channel list. By default, filters like
+Unread
+,
+Chats
+,
+Meetings
+, and
+Unmuted
+are available in the
+Chat
+app, and the
+Unread
+filter is available in the
+Channels
+app. You can select multiple filters to refine your results further.
+For more information, go to
+An overview of key changes
+.
+Press the
+Tab
+key until you hear “Filter options toolbar,” then press
+Enter
+.
+Use the
+arrow
+keys to select a filter, such as
+Unread
+or
+Unmuted
+, then press
+Enter
+to apply. To find more filters, navigate to the
+More filters
+button and press
+Enter.
+Alternatively, use the following shortcuts to directly apply the filters:
+To filter and view unread items, press
+Ctrl+Alt+U
+.
+To display unmuted items, press
+Ctrl+Alt+Q
+.
+To view all meetings, press
+Ctrl+Alt+B
+.
+To show all chat items, press
+Ctrl+Alt+C
+.
+To display all channel items, press
+Ctrl+Alt+A
+.
+To search for a specific chat, channel, or person by name, press
+Ctrl+Shift+F
+.
+Note
+The selected filters remain active even if you exit the list, allowing you to pick up where you left off. For more keyboard shortcuts, refer to
+Keyboard shortcuts for Microsoft Teams,
+To remove a filter, press the
+Tab
+key until you hear the active filter name and press
+Enter
+again.
+Alternatively, you can clear all filters in your list view by using the keyboard shortcut
+Ctrl+Alt+Z
+.
+Navigate the Mentions view
+The
+Mentions
+view compiles all personal mentions in one convenient list, making it simple to stay updated on conversations that need your attention. This view includes notifications from team channels, chat messages, and meeting chats, ensuring you can respond quickly to relevant messages.
+Navigate to the
+Chats
+or
+Channels
+list in Microsoft Teams.
+Use the
+Tab
+and
+arrow
+keys to navigate to the
+Mentions
+option and press
+Enter
+to open the view.
+Use the
+Up
+or
+Down arrow
+key to browse through mention notifications, which will list messages from both chats and channels.
+To open the conversation and reply, navigate to the desired item and press
+Enter.⁠
+Sign out of Microsoft Teams
+In Microsoft Teams, Press
+Ctrl+Alt
++
+E
+to move to the search box.
+Press the
+Tab
+key until you hear "Your profile, status
+your current status
+," and press
+Enter
+.
+Press the
+Down arrow
+key repeatedly until you hear the sign out option, and press
+Enter
+.
+See also
+Use a screen reader to create and modify teams in Microsoft Teams
+Use a screen reader to search for a conversation, person, or file in Microsoft Teams
+Use a screen reader to explore and navigate Microsoft Teams
+Video: What is Microsoft Teams?
+Technical support for customers with disabilities
+Microsoft wants to provide the best possible experience for all our customers. If you have a disability or questions related to accessibility, please contact the
+Microsoft Disability Answer Desk
+for technical assistance. The Disability Answer Desk support team is trained in using many popular assistive technologies and can offer assistance in English, Spanish, French, and American Sign Language. Please go to the Microsoft Disability Answer Desk site to find out the contact details for your region.
+If you are a government, commercial, or enterprise user, please contact
+the enterprise Disability Answer Desk
+.

@@ -1,0 +1,1301 @@
+URL: https://support.microsoft.com/en-us/accessibility/teams/keyboard-shortcuts-for-microsoft-teams
+Keyboard shortcuts for Microsoft Teams
+Applies To
+Teams
+Microsoft Teams
+Windows
+MacOS
+iPad
+Using an external keyboard with keyboard shortcuts for Microsoft Teams on Windows can help you work more efficiently. For those who have mobility or vision disabilities, keyboard shortcuts can be easier than a touchscreen and are an essential alternative to a mouse. This article itemizes the keyboard shortcuts for Microsoft Teams on Windows or the web app using a PC keyboard.
+Note
+The shortcuts in this topic refer to the US keyboard layout. Keys for other layouts might not correspond exactly to the keys on a US keyboard.
+A plus sign (+) in a shortcut means that you need to press multiple keys at the same time.
+A comma sign (,) in a shortcut means that you need to press multiple keys in order.
+You can easily access the keyboard shortcuts list from within Microsoft Teams.
+In this topic
+General
+Navigation
+Messaging
+Compose
+Meetings, Calls, and Calendar
+Activity feed
+Debug
+Open and customize keyboard shortcuts
+General
+To do this
+In the Desktop app, press
+In the Web app, press
+Show keyboard shortcuts.
+Ctrl+Period (.) or Alt+/
+Ctrl+Period (.) or Alt+/
+Go to
+Search
+.
+Ctrl+E
+Ctrl+Alt+E
+Open filter.
+Ctrl+Shift+F
+Ctrl+Shift+F
+Start a new chat.
+Ctrl+N
+Left Alt+N
+Start a chat in a new window.
+Ctrl+Shift+N
+No shortcut
+Open
+Settings
+.
+Ctrl+Comma (,)
+Ctrl+Shift+Comma (,)
+Open
+Help
+.
+F1
+Ctrl+F1
+Close.
+Esc
+Esc
+Zoom in.
+Ctrl+Equals sign (=)
+No shortcut
+Zoom out.
+Ctrl+Minus sign (-)
+No shortcut
+Reset zoom level.
+Ctrl+0
+No shortcut
+Report a problem.
+Ctrl+Alt+Shift+R
+Ctrl+Alt+Shift+R
+Go to a specific chat or channel.
+Ctrl+G
+Ctrl+G
+Move focus to pane divider.
+Ctrl+Alt+Enter
+Ctrl+Alt+Enter
+Return pane to the default width.
+Ctrl+Shift+Enter
+Ctrl+Shift+Enter
+Pin a window on top.
+Ctrl+Shift+T
+Shift+Command+T
+Open existing conversation in new window.
+Ctrl+O
+No shortcut
+Show keyboard shortcuts
+You can access the keyboard shortcuts directly from within the app in several ways. The methods below apply to both the Desktop and Web apps.
+Press
+Ctrl
++
+Period
+(
+⁠.⁠
+).
+Select the
+Settings and more
+button in the upper-right corner of Microsoft Teams, and then select
+Keyboard shortcuts
+. To use shortcuts from 3rd party apps, select an option in the
+Use shortcuts from other apps
+dropdown menu.
+To navigate to the keyboard shortcuts with a screen reader, press the
+Tab
+key until you hear "Settings and more," then press
+Enter
+. Press the
+Down arrow
+key until you hear "Keyboard shortcuts," then press
+Enter
+.
+Top of Page
+Navigation
+Note
+If you're using the default app bar configuration in the Microsoft Teams desktop app, use the commands in the table below. If you've changed the order of your apps or added additional apps, the command depends on the app's sequential order on the app bar. For example, if you've moved
+Calendar
+to the top of the app bar, press
+Ctrl
++
+1
+to open it, not
+Ctrl
++
+4
+.
+To do this
+In the Desktop app, press
+In the Web app, press
+Open 1st app on app bar.
+Ctrl+1
+Ctrl+Shift+1
+Open 2nd app on app bar.
+Ctrl+2
+Ctrl+Shift+2
+Open 3rd app on app bar.
+Ctrl+3
+Ctrl+Shift+3
+Open 4th app on app bar.
+Ctrl+4
+Ctrl+Shift+4
+Open 5th app on app bar.
+Ctrl+5
+Ctrl+Shift+5
+Open 6th app on app bar.
+Ctrl+6
+Ctrl+Shift+6
+Open 7th app on app bar.
+Ctrl+7
+Ctrl+Shift+7
+Open 8th app on app bar.
+Ctrl+8
+Ctrl+Shift+8
+Open 9th app on app bar.
+Ctrl+9
+Ctrl+Shift+9
+Add Loop paragraph.
+Alt+Shift+L
+Alt+Shift+L
+Move focus to chat or channel list.
+Ctrl+L
+Alt+Shift+L
+Move focus to message pane.
+Ctrl+M
+Alt+Shift+M
+Move focus to toast.
+Ctrl+Alt+T
+No shortcut
+Go to compose box.
+Ctrl+R
+Alt+Shift+R
+Open history menu.
+Ctrl+H
+No shortcut
+Go to previous section.
+Ctrl+Shift+F6
+Ctrl+Shift+F6
+Go to next section.
+Ctrl+F6
+Ctrl+F6
+Move the selected chat or channel up in the list.
+Ctrl+Alt+Shift+Up arrow key
+Ctrl+Alt+Shift+Up arrow key
+Move the selected chat or channel down in the list.
+Ctrl+Alt+Shift+Down arrow key
+Ctrl+Alt+Shift+Down arrow key
+Go back.
+Alt+Left arrow key
+No shortcut
+Go forward.
+Alt+Right arrow key
+No shortcut
+Move focus to notification.
+Windows logo key+Shift+Y
+No shortcut
+Top of Page
+Messaging
+To do this
+In the Desktop app, press
+In the Web app, press
+Collapse all conversational folders.
+Alt+Q
+Alt+Q
+Mark all as read.
+Shift+Escape
+Shift+Escape
+Jump to last read or newest message.
+Ctrl+J
+Alt+J
+Find in current chat or channel.
+Ctrl+F
+Ctrl+F
+Open 1st tab on chat header.
+Alt+1
+Alt+1
+Open 2nd tab on chat header.
+Alt+2
+Alt+2
+Open 3rd tab on chat header.
+Alt+3
+Alt+3
+Open 4th tab on chat header.
+Alt+4
+Alt+4
+Open 5th tab on chat header.
+Alt+5
+Alt+5
+Open 6th tab on chat header.
+Alt+6
+Alt+6
+Open 7th tab on chat header.
+Alt+7
+Alt+7
+Open 8th tab on chat header.
+Alt+8
+Alt+8
+Open 9th tab on chat header.
+Alt+9
+Alt+9
+Toggle details pane.
+Alt+P
+Alt+P
+Reply to the last message.
+Alt+Shift+R
+Alt+R
+React to the last message.
+Ctrl+Alt+R
+Ctrl+Alt+R
+See all unread chats.
+Ctrl+Alt+U
+Ctrl+Alt+U
+See all chat conversations.
+Ctrl+Alt+C
+Ctrl+Alt+C
+See all channel conversations.
+Ctrl+Alt+A
+Ctrl+Alt+A
+See all meeting chats.
+Ctrl+Alt+B
+Ctrl+Alt+B
+Clear all filters.
+Ctrl+Alt+Z
+Ctrl+Alt+Z
+Top of Page
+Compose
+To do this
+In the Desktop app, press
+In the Web app, press
+Expand compose box.
+Ctrl+Shift+X
+Ctrl+Shift+X
+Send (expanded compose box).
+Ctrl+Enter
+Ctrl+Enter
+Paragraph style.
+Ctrl+Alt+P
+Ctrl+Alt+P
+Insert block quote.
+Ctrl+Alt+4
+Ctrl+Alt+4
+Attach file.
+Alt+Shift+O
+Alt+Shift+O
+Start new line.
+Shift+Enter
+Shift+Enter
+Apply the heading 1 style.
+Ctrl+Alt+1
+Ctrl+Alt+1
+Apply the heading 2 style.
+Ctrl+Alt+2
+Ctrl+Alt+2
+Apply the heading 3 style.
+Ctrl+Alt+3
+Ctrl+Alt+3
+Apply bold style.
+Ctrl+B
+Ctrl+B
+Apply italic style.
+Ctrl+I
+Ctrl+I
+Apply underline style.
+Ctrl+U
+Ctrl+U
+Apply strikethrough style.
+Ctrl+Alt+X
+Ctrl+Alt+X
+Mark message as important.
+Ctrl+Shift+I
+Ctrl+Shift+I
+Rewrite with Copilot.
+Alt+A
+Alt+A
+Open video recorder.
+Alt+Shift+E
+Alt+Shift+E
+Add Loop paragraph.
+Ctrl+Alt+L
+Ctrl+Alt+L
+Insert link.
+Ctrl+K
+Ctrl+K
+Insert inline code.
+Ctrl+Shift+C
+Ctrl+Alt+Shift+C
+Insert code block.
+Ctrl+Shift+B
+Ctrl+Alt+Shift+B
+Insert code.
+Ctrl+Alt+5
+Ctrl+Alt+5
+Meetings, Calls, and Calendar
+Note
+To use the temporarily unmute shortcut, first go to
+Settings
+>
+Privacy
+and make sure
+Keyboard shortcut to unmute
+is switched on.
+Press
+Ctrl+F6
+to move focus forward and
+Ctrl+Shift+F6
+to move focus backward between sections of the Teams window. The behavior may vary depending on the active view and settings.
+Meetings and Calls
+To do this
+In the Desktop app, press
+In the Web app, press
+Accept video call.
+Ctrl+Shift+A
+Alt+Shift+A
+Accept audio call.
+Ctrl+Shift+S
+Alt+Shift+S
+Decline call.
+Ctrl+Shift+D
+Ctrl+Shift+D
+Start audio call.
+Alt+Shift+A
+Alt+Shift+A
+Start video call.
+Alt+Shift+V
+Alt+Shift+V
+Toggle full screen.
+F11
+F11
+Zoom in shared content.
+Alt+Shift+Plus sign (+)
+Alt+Shift+Plus sign (+)
+Zoom out shared content
+Alt+Shift+Minus sign (-)
+Alt+Shift+Minus sign (-)
+Reset zoom for shared content.
+Alt+Shift+0
+Alt+Shift+0
+End audio call.
+Ctrl+Shift+H
+Ctrl+Shift+H
+End video call.
+Ctrl+Shift+H
+Ctrl+Shift+H
+Toggle mute.
+Ctrl+Shift+M
+Ctrl+Shift+M
+Toggle speaker.
+Ctrl+Shift+U
+Ctrl+Shift+U
+Temporarily unmute.
+Ctrl+Spacebar
+Ctrl+Spacebar
+Announce raised hands (screen reader).
+Ctrl+Shift+L
+Ctrl+Shift+L
+Raise or lower your hand.
+Ctrl+Shift+K
+Ctrl+Shift+K
+Toggle video.
+Ctrl+Shift+O
+No shortcut
+Toggle share content tray.
+Ctrl+Shift+E
+Ctrl+Shift+E
+Go to sharing toolbar.
+Ctrl+Shift+Spacebar
+Ctrl+Shift+Spacebar
+Decline screen share.
+Ctrl+Shift+D
+No shortcut
+Accept screen share.
+Ctrl+Shift+A
+No shortcut
+Admit people from lobby notification.
+Ctrl+Shift+Y
+No shortcut
+Schedule a meeting.
+Alt+N
+Alt+N
+Move focus to the toolbar in an edit field.
+Alt+F10
+Alt+F10
+Save or send meeting request.
+Ctrl+S
+Ctrl+S
+Join from meeting details.
+Alt+Shift+J
+Alt+Shift+J
+Go to suggested time.
+Alt+Shift+S
+Alt+Shift+S
+Join from meeting started toast.
+Ctrl+Shift+J
+No shortcut
+Open meeting chat from meeting notification.
+Ctrl+Shift+R
+No shortcut
+Pan shared content up.
+Alt+Shift+Up arrow key
+Alt+Shift+Up arrow key
+Pan shared content down.
+Alt+Shift+Down arrow key
+Alt+Shift+Down arrow key
+Pan shared content left.
+Alt+Shift+Left arrow key
+Alt+Shift+Left arrow key
+Pan shared content right.
+Alt+Shift+Right arrow key
+Alt+Shift+Right arrow key
+Navigate calendar
+Note
+In the Calendar tab, press
+⁠?⁠
+(
+Shift+/
+) to open the keyboard shortcuts dialog, which includes additional calendar shortcuts.
+To do this
+In the Desktop app, press
+In the Web app, press
+Open the calendar view.
+Ctrl+3
+Ctrl+Shift+3
+Open the selected item.
+Enter
+Enter
+Delete the selected item.
+Delete
+Delete
+Open Day view.
+Alt+Shift+1
+Alt+Shift+1
+Open Work week view.
+Alt+Shift+2
+Alt+Shift+2
+Open Week view.
+Alt+Shift+3
+Alt+Shift+3
+Open Month view.
+Alt+Shift+4
+Alt+Shift+4
+Open agenda in Month view.
+Alt+Shift+5
+Alt+Shift+5
+Go previous time period.
+Ctrl+Alt+Left arrow key
+Ctrl+Alt+Left arrow key
+Go next time period.
+Ctrl+Alt+Right arrow key
+Ctrl+Alt+Right arrow key
+Show 1 day in the calendar.
+Alt+1
+Alt+1
+Show 2 days in the calendar.
+Alt+2
+Alt+2
+Show 3 days in the calendar.
+Alt+3
+Alt+3
+Show 4 days in the calendar.
+Alt+4
+Alt+4
+Show 5 days in the calendar.
+Alt+5
+Alt+5
+Show 6 days in the calendar.
+Alt+6
+Alt+6
+Show 7 days in the calendar.
+Alt+7
+Alt+7
+Go to the next week.
+Alt+Down arrow key
+Alt+Down arrow key
+Go to the previous week
+Alt+Up arrow key
+Alt+Up arrow key
+Go to the next month
+Alt+PageDown
+Alt+PageDown
+Go to the previous month
+Alt+PageUp
+Alt+PageUp
+Open or collapse the left pane
+Alt+F1
+Alt+F1
+Move to a different region in the calendar.
+F6 or Ctrl+Shift+Tab
+Ctrl+F6 or Ctrl+Shift+F6
+Move to the next event or area in the current view.
+Tab key
+Tab key
+Move to a previous event or area in the current view.
+Shift+Tab
+Shift+Tab
+Go to the next time period.
+Ctrl+Alt+Right arrow key
+Shift+Right arrow key
+Go to the previous time period.
+Ctrl+Alt+Left arrow key
+Shift+Left arrow key
+Go to today.
+Alt+Shift+Y/Home
+Shift+Alt+Y
+Move to a different region in the calendar.
+No shortcut
+No shortcut
+Switch to Day view.
+Ctrl+Alt+1
+Shift+Alt+1
+Switch to full Week view.
+Ctrl+Alt+2/Alt+"-"
+Shift+Alt+3
+Switch to Month view.
+Ctrl+Alt+4/Alt+"="
+Shift+Alt+4
+Switch to Work week view.
+Ctrl+Alt+2
+Shift+Alt+2
+Switch to three-day view.
+Alt+3
+No shortcut
+List view.
+No shortcut
+No shortcut
+Invite attendees.
+CTRL+N (Create New Event)
+N (Create New Event)
+Calendar actions
+To do this
+In the Desktop app, press
+In the Web app, press
+Open an event.
+Enter
+Enter
+Close an event.
+Esc
+Esc
+Delete an event.
+Delete
+Delete
+Print calendar.
+Ctrl+P
+Ctrl+P
+Search your calendar.
+Alt+Q
+Alt+Q
+Show help.
+?
+?
+Forward an event.
+Ctrl+Alt+F
+Ctrl+Alt+F
+Reply to meeting.
+Alt+R
+Alt+R
+Reply all to meeting.
+Ctrl+Alt+R
+Ctrl+Alt+R
+Join event
+Ctrl+J
+Ctrl+J
+Create events
+To do this
+In the Desktop app, press
+In the Web app, press
+Create a new event.
+Alt+N
+Alt+N
+Save an appointment.
+Ctrl+S
+Ctrl+S
+Send a meeting.
+Ctrl+Enter
+Ctrl+Enter
+Discard draft.
+Esc
+Esc
+Insert a hyperlink.
+Ctrl+K
+Ctrl+K
+Undo action.
+Ctrl+Z
+Ctrl+Z
+Retry action.
+Ctrl+Shift+Y
+Ctrl+Shift+Y
+Create a meeting request.
+Ctrl+Shift+Q
+Ctrl+Shift+Q
+Top of Page
+Activity feed
+To do this
+In the Desktop app, press
+In the Web app, press
+Mark all as read.
+Ctrl+Alt+K
+Ctrl+Alt+K
+See all unread activity.
+Ctrl+Alt+U
+Ctrl+Alt+U
+Filter activity to missed calls.
+Ctrl+Alt+C
+Ctrl+Alt+C
+Filter activity to @ mentions.
+Ctrl+Alt+M
+Ctrl+Alt+M
+Note
+Currently,
+Ctrl
++
+Shift
++
+F
+works in Activity to open the filter view.
+Debug
+To do this
+In the Desktop app, press
+In the Web app, press
+Download diagnostic logs.
+Ctrl+Alt+Shift+1
+Ctrl+Alt+Shift+1
+Top of Page
+Open and customize keyboard shortcuts
+You can now customize keyboard shortcuts in Microsoft Teams, If the default keyboard shortcuts don’t align with your workflow.
+In the Teams desktop app, press
+Ctrl+Period⁠(.)⁠
+to open the Keyboard shortcuts window.
+Navigate to the desired shortcut, then press
+Tab
+to move to the
+Edit shortcut
+button and press
+Enter
+. After editing, press
+Tab
+to the
+Save
+button and press
+Enter
+.
+From here, you can change any current shortcut to a different key combination.
+Note
+Press keys like
+Ctrl
+,
+Alt
+, or
+Shift
+with a letter or character. Some shortcuts (for example,
+Ctrl+C
+and
+Ctrl+V
+) are reserved by Windows.
+Top of Page
+See also
+Use a screen reader to set up and use guest access in Microsoft Teams
+Learning the layout of Microsoft Teams with a screen reader
+Screen reader support for Microsoft Teams
+Basic tasks using a screen reader with Microsoft Teams
+Use a screen reader to explore and navigate Microsoft Teams
+Use Markdown formatting in Microsoft Teams
+Many users find that using an external keyboard with keyboard shortcuts for Microsoft Teams on Mac helps them work more efficiently. For users with mobility or vision disabilities, keyboard shortcuts can be easier than using the touchscreen and are an essential alternative to using a mouse. This article itemizes the keyboard shortcuts for Microsoft Teams on Mac and the web app on Mac.
+Note
+The shortcuts in this topic refer to the US keyboard layout. Keys for other layouts might not correspond exactly to the keys on a US keyboard.
+A plus sign (+) in a shortcut means that you need to press multiple keys at the same time.
+A comma sign (,) in a shortcut means that you need to press multiple keys in order.
+You can open a list of keyboard shortcuts in the Microsoft Teams on Mac app.
+In this topic
+General
+Navigation
+Messaging
+Compose
+Meetings, Calls, and Calendar
+Activity feed
+Debug
+General
+To do this
+Mac
+Web
+Show keyboard shortcuts.
+Command+Period (.)
+Command+Period (.)
+Go to
+Search
+.
+Command+E
+Option+Command+E
+Open filter.
+Command+Shift+F
+Command+Shift+F
+Start a new chat.
+Command+N
+Control+Command+N
+Start a chat in a new window.
+Command+Shift+N
+No shortcut
+Open
+Settings
+.
+Command+Comma (,)
+Command+Shift+Comma (,)
+Open
+Help
+.
+F1
+Command+F1
+Close.
+Esc
+Esc
+Zoom in.
+Command+Equal sign (=)
+No shortcut
+Zoom out.
+Command+Minus sign (-)
+No shortcut
+Reset zoom level.
+Control+0
+No shortcut
+Report a problem.
+Option+Shift+Command+R
+Option+Shift+Command+R
+Go to a specific chat or channel.
+Command+G
+Command+G
+Move focus to pane divider.
+Option+Command+Return
+Option+Command+Return
+Return pane to the default width.
+Shift+Command+Return
+Shift+Command+Return
+Pin a window on top.
+Shift+Command+T
+No shortcut
+Open existing conversation in new window.
+Command+O
+No shortcut
+Show keyboard shortcuts
+You can access the keyboard shortcuts directly from within the app in several ways. The methods below apply to both the Desktop and Web apps.
+Press
+Command
++
+Period
+(.).
+Select the
+Settings and more
+button in the upper-right corner of Microsoft Teams on Mac, and then select
+Keyboard shortcuts
+.
+To navigate to the keyboard shortcuts with a screen reader, press the
+Tab
+key until you hear "Settings and more," then press
+Return
+. Press the
+Down arrow
+key until you hear "Keyboard shortcuts," then press
+Return
+.
+Top of Page
+Navigation
+Note
+If you're using the default app bar configuration in Microsoft Teams on Mac, use the commands in the table below. If you've changed the order of your apps or added additional apps, the command depends on the app's sequential order on the app bar. For example, if you've moved
+Calendar
+to the top of the app bar, press
+Command
++
+1
+to open it, not
+Command
++
+4
+.
+To do this
+Mac
+Web
+Open 1st app on app bar.
+Command+1
+Control+Shift+1
+Open 2nd app on app bar.
+Command+2
+Control+Shift+2
+Open 3rd app on app bar.
+Command+3
+Control+Shift+3
+Open 4th app on app bar.
+Command+4
+Control+Shift+4
+Open 5th app on app bar.
+Command+5
+Control+Shift+5
+Open 6th app on app bar.
+Command+6
+Control+Shift+6
+Open 7th app on app bar.
+Command+7
+Control+Shift+7
+Open 8th app on app bar.
+Command+8
+Control+Shift+8
+Open 9th app on app bar.
+Command+9
+Control+Shift+9
+Add a Loop paragraph.
+Option+Command+L
+Option+Command+L
+Move focus to
+Chat
+and
+Channel
+list.
+Command+L
+Control+Command+L
+Move focus to Chat options.
+Control+L
+Option+Shift+L
+Move focus to message pane.
+Command+P
+Control+Command+P
+Move focus on top toast.
+Shift+Command+T
+Control+Command+T
+Go to compose box.
+Command+R
+Control+Command+R
+Open history menu.
+Command+Y
+No shortcut
+Go to previous section.
+Command+Shift+F6
+Command+Shift+F6
+Go to next section.
+Command+F6
+Control+F6
+Go back.
+Command+Opening bracket sign ([)
+No shortcut
+Go forward.
+Command+Closing bracket sign ([)
+No shortcut
+Move focus to notification.
+No shortcut
+No shortcut
+Top of Page
+Messaging
+To do this
+Mac
+Web
+Collapse all conversational folders.
+Command+Shift+L
+Command+Shift+L
+Mark all as read.
+Shift+Esc
+Shift+Esc
+Jump to last read or newest message.
+Command+J
+Command+J
+Mark all messages as read.
+Option+Command+J
+Option+Command+J
+Search current chat or channel messages.
+Command+F
+Command+F
+Open 1st tab on chat header.
+Control+1
+Control+1
+Open 2nd tab on chat header.
+Control+2
+Control+2
+Open 3rd tab on chat header.
+Control+3
+Control+3
+Open 4th tab on chat header.
+Control+4
+Control+4
+Open 5th tab on chat header.
+Control+5
+Control+5
+Open 6th tab on chat header.
+Control+6
+Control+6
+Open 7th tab on chat header.
+Control+7
+Control+7
+Open 8th tab on chat header.
+Control+8
+Control+8
+Open 9th tab on chat header.
+Control+9
+Control+9
+Toggle details pane.
+Command+D
+Control+Command+E
+Reply to the last message.
+Shift+Command+R
+Control+Command+Z
+Edit last sent/selected message.
+Option+Shift+E
+Option+Shift+E
+React to the last message.
+Option+Command+R
+Option+Command+R
+See all unread items.
+Option+Command+U
+Option+Command+U
+See all items you are mentioned.
+Option+Command+M
+Option+Command+M
+See all chat conversations.
+Option+Command+C
+Option+Command+C
+See all channel conversations.
+Option+Command+A
+Option+Command+A
+See all meeting chats.
+Option+Command+B
+Option+Command+B
+Clear all filters.
+Option+Command+Z
+Option+Command+Z
+Top of Page
+Compose
+To do this
+In the Desktop app, press
+In the Web app, press
+Expand compose box.
+Shift+Command+X
+Shift+Command+X
+Send (expanded compose box).
+Command+Return
+Command+Return
+Paragraph style.
+Command+Option+P
+Command+Option+P
+Attach file.
+Option+Command+O
+Option+Command+O
+Start new line.
+Shift+Return
+Shift+Return
+Apply the heading 1 style.
+Command+Option+1
+Command+Option+1
+Apply the heading 2 style.
+Command+Option+2
+Command+Option+2
+Apply the heading 3 style.
+Command+Option+3
+Command+Option+3
+Apply bold style.
+Command+B
+Command+B
+Apply italic style.
+Command+I
+Command+I
+Apply underline style.
+Command+U
+Command+U
+Apply strikethrough style.
+Ctrl+Command+X
+Ctrl+Command+X
+Mark message as important.
+Shift+Command+I
+Shift+Command+I
+Rewrite with Copilot.
+Ctrl+Command+A
+Ctrl+Command+A
+Open video recorder.
+Option+Command+E
+Alt+Shift+E
+Add Loop paragraph.
+Option+Command+L
+Option+Command+L
+Insert link.
+Command+K
+Command+K
+Insert inline code.
+Shift+Command+C
+Option+Shift+Command+C
+Insert code block.
+Shift+Command+B
+Option+Shift+Command+B
+Insert code.
+Option+Command+4
+Option+Command+4
+Meetings, Calls, and Calendar
+Note
+To use the temporarily unmute shortcut, first go to
+Settings
+>
+Privacy
+and make sure
+Keyboard shortcut to unmute
+is switched on.
+Meetings and Calls
+To do this
+Mac
+Web
+Accept video call.
+Command+Shift+V
+Shift+Command+A
+Accept audio call.
+Command+Shift+A
+Command+Shift+S
+Decline call.
+Command+Shift+D
+Command+Shift+D
+Start audio call.
+Command+Option+S
+Command+Shift+Control+A
+Start video call.
+Command+Shift+S
+Command+Shift+Control+V
+End audio call.
+Command+Shift+H
+Command+Shift+H
+End video call.
+Command+Shift+H
+Command+Shift+H
+Toggle mute.
+Command+Shift+M
+Command+Shift+M
+Temporarily unmute.
+Option+Spacebar
+Option+Spacebar
+Announce raised hands (screen reader).
+Command+Shift+L
+Command+Shift+L
+Raise or lower your hand.
+Command+Shift+K
+Command+Shift+K
+Toggle video.
+Command+Shift+O
+Command+Shift+O
+Toggle live captions.
+Command+Shift+A
+Command+Shift+A
+Toggle share content tray.
+Command+Shift+E
+Command+Shift+E
+Go to sharing toolbar.
+Command+Shift+Spacebar
+Command+Shift+Spacebar
+Decline screen share.
+Command+Shift+D
+No shortcut
+Accept screen share.
+Command+Shift+V
+No shortcut
+Admit people from lobby notification.
+Command+Shift+Y
+Command+Shift+Y
+Schedule a meeting.
+Control+Command+N
+Option+Shift+Command+N
+Save or send meeting request.
+Command+S
+Command+S
+Join from meeting details.
+Control+Command+K
+Control+Command+K
+Go to suggested time.
+Option+Command+S
+Option+Command+S
+Join from meeting started toast.
+No shortcut
+Command+Shift+J
+Open meeting chat from Meeting start notification.
+Command+Control+C
+Control+Command+C
+Zoom into shared content.
+Option+Command+Equal sign (=)
+Option+Command+Equal sign (=)
+Zoom out from shared content.
+Option+Command+Minus sign (-)
+Option+Command+Minus sign (-)
+Reset zoom for shared content.
+Option+Command+0
+Option+Command+0
+Pan shared content up.
+Option+Command+Up arrow key
+Option+Command+Up arrow key
+Pan shared content down.
+Option+Command+Down arrow key
+Option+Command+Down arrow key
+Pan shared content left.
+Option+Command+Left arrow key
+Option+Command+Left arrow key
+Pan shared content right.
+Option+Command+Right arrow key
+Option+Command+Right arrow key
+Calendar
+To do this
+Mac
+Web
+Open the calendar view.
+Command+2
+No shortcut
+Create a new appointment or calendar item.
+Command+N
+No shortcut
+Open the selected item.
+Command+O
+No shortcut
+Delete the selected item.
+Delete
+No shortcut
+Switch the view to include today.
+Command+T
+No shortcut
+In Day view, move to the previous day. In Week and Work Week views, move to the previous week. In Month view, move to the previous month.
+Command+Option+Left arrow key
+No shortcut
+In Day view, move to the next day. In Week and Work Week views, move to the next week. In Month view, move to the next month.
+Command+Option+Right arrow key
+No shortcut
+Navigate to the previous pane in the calendar view.
+Shift+Control+Left bracket ([)
+No shortcut
+Navigate to the next pane in the calendar view.
+Shift+Control+Right bracket (])
+No shortcut
+Move to a different region in the calendar.
+No shortcut
+No shortcut
+Move to the next event or area in the current view.
+Tab key
+Tab key
+Move to a previous event or area in the current view.
+Shift+Tab
+Shift+Tab
+Go to the next time period.
+Command+Option+Right arrow key
+No shortcut
+Go to the previous time period.
+Command+Option+Left arrow key
+No shortcut
+Go to today.
+Command+T
+No shortcut
+Move to a different region in the calendar.
+No shortcut
+No shortcut
+Switch to Day view.
+Control+Command+1
+No shortcut
+Switch to full Week view.
+Control+Command+3
+No shortcut
+Switch to Month view.
+Control+Command+4
+No shortcut
+Switch to Work week view.
+Control+Command+2
+No shortcut
+Switch to three-day view.
+Control+Command+5
+No shortcut
+List View.
+Control+Command+0
+No shortcut
+Invite Attendees.
+Shift+Command+0
+No shortcut
+Top of Page
+Activity feed
+To do this
+Mac
+Web
+Mark all activities as read.
+Option+Command+J
+Option+Command+K
+See all unread activities.
+Option+Command+U
+Option+Command+U
+Filter activities to missed calls.
+Option+Command+H
+Option+Command+H
+Filter activities to
+@mentions
+.
+Option+Command+B
+Option+Command+Y
+Note
+Currently,
+Command
++
+Shift
++
+F
+works in
+Activity
+to open the filter view.
+Debug
+To do this
+Mac
+Web
+Download diagnostic logs.
+Command+Option+Shift+1
+Command+Option+Shift+1
+Top of Page
+See also
+Screen reader support for Microsoft Teams
+Basic tasks using a screen reader with Microsoft Teams
+Use a screen reader to explore and navigate Microsoft Teams
+Use Markdown formatting in Microsoft Teams
+Using an external keyboard with keyboard shortcuts for Microsoft Teams on iPad can help you work more efficiently. This article lists the keyboard shortcuts for Microsoft Teams on iPad.
+Note
+The shortcuts in this topic refer to the US keyboard layout. Keys for other layouts might not correspond exactly to the keys on a US keyboard.
+A plus sign (+) in a shortcut means that you need to press multiple keys at the same time.
+A comma sign (,) in a shortcut means that you need to press multiple keys in order.
+General
+Action
+Shortcut on iPad
+Go to compose box.
+Option+R
+Expand Compose box.
+Command+Shift+X
+Send a message.
+Command+Return
+Start a new chat.
+Command+N
+Start a new paragraph.
+Command+P
+Insert link.
+Command+K
+Insert code.
+Command+5
+Open 1st app on app bar.
+Command+1
+Open 2nd app on app bar.
+Command+2
+Open 3rd app on app bar.
+Command+3
+Open 4th app on app bar.
+Command+4
+Open 5th app on app bar.
+Command+5
+Open 6th app on app bar.
+Command+6
+Open 7th app on app bar.
+Command+7
+Open 8th app on app bar.
+Command+8
+See all unread chats.
+Control+Option+U
+See all unread activity.
+Option+U
+See unread activity mentions.
+Option+M
+Find in current chat or channel.
+Command+F
+Set Status to Available.
+Option+Shift+A
+Set Status to Away.
+Option+Shift+W
+Ability to jump(toggle) to the latest or last-read message.
+Command+J
+Go to the Search bar.
+Command+Option+E
+Technical support for customers with disabilities
+Microsoft wants to provide the best possible experience for all our customers. If you have a disability or questions related to accessibility, please contact the
+Microsoft Disability Answer Desk
+for technical assistance. The Disability Answer Desk support team is trained in using many popular assistive technologies and can offer assistance in English, Spanish, French, and American Sign Language. Please go to the Microsoft Disability Answer Desk site to find out the contact details for your region.
+If you are a government, commercial, or enterprise user, please contact
+the enterprise Disability Answer Desk
+.

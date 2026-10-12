@@ -1,0 +1,201 @@
+URL: https://support.microsoft.com/en-us/topic/9249595c-4b9d-4f27-9f59-bc590a6152da
+Open Immersive Reader for Outlook
+Applies To
+Outlook for Microsoft 365
+Outlook.com
+Immersive Reader
+Outlook Web App
+Get help with Copilot
+How do I use immersive reader in Outlook desktop?
+Can you show me how to close immersive reader?
+Immersive Reader in Outlook for the web and desktop allows you to adjust email text in a way that works best for you. Use Read Aloud to listen to emails being read out loud as each word is highlighted. Modify spacing, color and more for a comfortable, easy-to-process email experience.
+See which Immersive Reader features for Outlook desktop and Outlook for the web are supported in your language
+.
+Desktop 365
+Web
+Older versions
+Use Immersive Reader in Outlook desktop
+Important
+The following steps are for versions 2111 or later.
+Open your Outlook desktop app.
+Select the
+View
+tab, then select
+Immersive Reader
+. Immersive Reader will launch in your email pane.
+Choose the Immersive Reader options that work for you from the ribbon
+Column Width
+changes line length to improve focus and comprehension.
+Page Color
+can make text easy to scan with less eye strain.
+Line Focus
+removes distractions so that you can move through a document line by line. Adjust the focus to put one, three, or five lines in view at a time.
+Text Spacing
+increases the spacing between words, characters, and lines.
+Syllables
+shows breaks between syllables, improving word recognition and pronunciation.
+Read Aloud
+highlights each word as it reads your emails aloud.
+Drag the
+Reading speed
+control to adjust reading speed. Move to the right for text to be read faster and to the left for it to be read slower. Press
+Play
+to hear the different speeds.
+Use the
+Voice Selection
+dropdown menu to choose different voices for the reader. Select a voice and then press
+Play
+to hear it.
+Select
+X
+to close Read Aloud
+Close Immersive Reader
+Select
+View
+>
+Immersive Reader
+>
+Close Immersive Reader
+.
+Open Immersive Reader in Outlook for the web
+Log in to your account at
+Office.com
+and select
+Outlook
+.
+Open an email.
+Select
+View
+>
+Immersive reader
+. The selected email will open in a full screen format.
+Using Immersive Reader
+Once your document opens within
+Immersive Reader
+, you can do one or more of the following, depending on how you want to focus on the content in your document:
+To hear the paragraphs read to you, select
+Play
+.
+To listen from a certain point on your page, select that word.
+Voice Options
+Select
+Voice Settings
+.
+The
+Voice Speed
+slider controls the playback speed of the reader.
+Select
+Voice Speed
+, then drag the control to the right or left. Move to the right to increase speed and to the left to decrease it.
+Select your preference of
+Male
+or
+Female
+voice.
+Press
+Play
+to hear the different speeds and voices.
+Text options
+You can change the appearance of your document by using
+Text options
+. The choices you make in text options can help remove visual distraction and improve text readability.
+The
+Text Options
+menu lets you:
+Change text size
+Reduce crowding between letters
+Change the font
+Change background color
+Parts of Speech
+Parts of Speech
+controls grammar highlighting and helps readers understand complex sentences.
+To use, select
+Parts of Speech
+(looks like three books).
+Choose what to highlight:
+Syl·la·bles
+splits words by showing small dots between syllables.
+Under
+Parts of speech
+, turn on
+Nouns
+,
+Verbs
+, or
+Adjectives
+to highlight every noun, verb, or adjective on the page in a color that corresponds to the color of the label.
+Reading preferences
+Line Focus
+enables readers to narrow the focus of their reading experience by highlighting sets of one, three, or five lines within their chosen material in Immersive Reader.
+Picture Dictionary
+gives you the ability to select any single word and view visual support. You can also hear the word read aloud.
+Translate
+allows you to view a selected word or the entire document in your preferred language.
+Use the toggles to adjust your reading preferences.
+Shortcut keys for Immersive Reader
+Use keyboard shortcuts to navigate.
+Up/Down arrow
+scrolls line by line.
+Page Up/Page Down
+scrolls screen by screen.
+Left/Right arrow
+goes to previous/next page in your OneNote Notebook.
+Esc
+key closes the reader or menu.
+Tab
+advances to the next control in Immersive Reader settings.
+Space
+selects the current tool.
+Close Immersive Reader
+Select the
+back arrow
+or press
+Esc
+on your keyboard to exit Immersive Reader.
+First, enable Read Aloud
+Open your Outlook desktop application.
+Select
+File > Options > Ease of Access
+.
+Select the checkbox next to
+Show Read Aloud
+.
+Next, launch Read Aloud
+From an email you're reading, select
+Read Aloud
+in the
+Message
+tab.
+From a reply message window, select the
+Review
+tab, then
+Read Aloud
+.
+The reader will start reading immediately. To listen from a certain point in an email, select that word. Otherwise, the reader will begin with the first line of text in your message.
+A toolbar will appear after you've selected Read Aloud. Select the
+Pause
+icon to stop listening.
+Voice and speed options
+Use the toolbar to
+Play
+,
+Pause
+, and skip to the next or previous paragraph using the arrows.
+Select the settings icon to adjust the reader's voice and playback speed:
+Drag the
+Reading speed
+control to adjust reading speed. Move to the right to increase speed and to the left to decrease it. Press
+Play
+to hear the different speeds.
+Use the
+Voice Selection
+dropdown menu to choose different voices for the reader. Select a voice and then press
+Play
+to hear it.
+Select
+X
+to close Read Aloud.
+Learn more
+More Learning Tools
+Immersive Reader in Word
+Use Immersive Reader in Microsoft Teams

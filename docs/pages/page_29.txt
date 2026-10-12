@@ -1,0 +1,46 @@
+URL: https://support.microsoft.com/en-us/accessibility/teams/use-pop-out-captions-in-microsoft-teams-meetings
+Use Pop-out captions in Microsoft Teams meetings
+Pop-out captions in Microsoft Teams offer a more flexible way to view captions by allowing you to open them in a separate window. You can resize and move captions anywhere on your screen, follow them while taking notes or using other apps, and keep a clear view even when the main meeting screen is cluttered.
+In this article
+Turn on Pop-out captions during a call
+Translate the Pop-out captions
+Customize Pop-out captions
+Turn on Pop-out captions during a call
+Microsoft Teams offers a more flexible meeting experience by helping you to move and resize the caption window independently of the main meeting content. This feature helps you stay engaged in the conversation without missing any shared content or video feeds.
+To use Pop-out captions in a meeting, go to your meeting controls at the top of the window and select
+More actions
+>
+Language and speech
+>
+Show live captions
+.
+Once live captions are turned on, select Open captions in new window. You can easily resize the new window by dragging its edges.
+Note
+To restore captions to the meeting window, close the pop-out captions window.
+Translate the Pop-out captions
+Live captions are displayed in the language used during meetings or events. Update caption settings to translate them into your preferred language.
+Note
+Live translated captions in meetings are only available as part of Teams Premium, an add-on license that provides additional features to make Teams meetings more personalized, intelligent, and secure. To get access to Teams Premium, contact your IT admin.
+In the Pop-out captions window, select
+Caption settings
+>
+Language settings
+.
+Make sure
+Meeting spoken language
+is set to the correct language.
+Turn on the
+Translate to
+toggle switch.
+In the dropdown menu, select the language you want your captions translated to.
+Customize Pop-out captions
+Personalize your Pop-out captions to enhance readability and accessibility. You can adjust the font color, background, size, height, and position. For more information, go to Customize captions.
+Select
+Caption settings
+>
+Caption styles
+.
+Select the desired font color, background color, font size, height, and position for your real-time text display.
+See also
+Accessibility tools for Microsoft Teams
+Use live captions in Microsoft Teams meetings

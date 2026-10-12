@@ -1,0 +1,1764 @@
+URL: https://support.microsoft.com/en-us/accessibility/outlook/basic-tasks-using-a-screen-reader-with-email-in-outlook
+Basic tasks using a screen reader with email in Outlook
+Applies To
+Outlook.com
+New Outlook for Windows
+Outlook for Android
+Outlook for iOS
+Outlook on the web for Exchange Server 2016
+Outlook Web App
+Get help with Copilot
+What's the best way to open or add attachments in Outlook?
+What if I can't add a storage account?
+Give me basic tasks using a screen reader with email.
+This article is for people who use a screen reader program such as Windows Narrator, JAWS, or NVDA with Windows tools or features and Microsoft 365 products. This article is part of the
+Accessibility help & learning
+content set where you can find more accessibility information on our apps. For general help, visit
+Microsoft Support
+.
+New Outlook
+Classic Outlook
+Outlook for iOS
+Outlook for Android
+Outlook on the web
+Use the new Outlook for Windows with your keyboard and the accessibility tool Screen Reader to perform essential basic tasks. You can create and send new emails, read and reply to received emails, search emails, work with attachments, and more.
+Note
+To learn more about screen readers, go to
+How screen readers work with Microsoft 365
+.
+This topic assume that the
+Reading pane
+is off, go to
+Toggle off the reading pane
+.
+With NVDA, when you are in a text box, you might need to switch to focus mode manually to be able to type text. For more information, go to
+https:⁠//www.nvaccess.org/get-help/
+.
+To download the classic outlook, go to
+Outlook for Windows (classic)
+.
+In the new Outlook for Windows, use the toggle button at the top right to switch back to classic Outlook. For more information, refer to
+You can't open classic Outlook on a new Windows PC
+. For basic information, go to
+Toggle out of the new Outlook for Windows - Microsoft Support
+.
+In this topic
+Modify Outlook settings
+Read and reply to, or forward an email in new Outlook
+Create and send an email
+Recall an email in new Outlook
+Search for an email
+Add attachments
+Print an email
+Modify settings in new Outlook
+Optimize the screen reader experience in new Outlook by modifying the following settings.
+Turn off the Conversation view in new Outlook
+It's easier to navigate the messages if you don't use the Conversation view.
+In new Outlook, press
+Alt
+then
+F
+to access the
+File
+tab, then press the
+Down arrow
+key until you hear "Settings," and then press
+Enter
+.
+Press
+Tab
+to move from the
+Search settings
+field to the group tabs, and press the arrow keys until you hear "Mail tab," and then press
+Enter
+.
+Press
+Tab
+to move to the page list, and press the
+Down arrow
+key until you hear "Reading Pane," and then press
+Enter
+.
+Press
+Tab
+to navigate
+Reading Pane
+settings.
+Press
+Tab
+until you hear "How do you want your Message List organized?" Then confirm the radio button has
+Group message by conversation
+selected. Press
+Tab
+until you hear "How do you want your reading pane organized." Then press the
+Down arrow
+key to select the radio button,
+Show only selected message
+. The radio button will automatically be selected as you navigate to it.
+Press
+Tab
+until you hear "Save button," and press
+Enter
+to save your settings changes.
+Press
+Esc
+to close the Settings pane.
+Turn off the reading pane in new Outlook
+Press
+Alt
+then
+F
+to access the
+File
+tab, then press the
+Down arrow
+key until you hear "Settings," and then press
+Enter
+.
+Press
+Tab
+to move from the
+Search settings
+field to the group tabs, and press the arrow keys until you hear "Mail tab," and then press
+Enter
+.
+Press
+Tab
+to move to the page list, and press the
+Down arrow
+key until you hear "Reading Pane," and then press
+Enter
+.
+Press
+Tab
+to navigate
+Reading Pane
+settings.
+Press
+Tab
+until you hear "How do you want your reading pane to be laid out," and press the
+Right arrow
+key until you move to the
+Popout only
+radio button. The radio button will automatically be selected as you navigate to it.
+Press
+Tab
+until you hear "Save button," and press
+Enter
+to save your settings changes.
+Press
+Esc
+to close the Settings pane.
+Use Dark mode in new Outlook
+If you are using new Outlook in a dark room, using the Dark mode puts less strain on your eyes.
+In the new Outlook main view, press
+Alt
+then
+F
+to access the
+File
+tab, then press the
+Down arrow
+key until you hear "Settings," and then press
+Enter
+.
+Press
+Tab
+to move from the
+Search settings
+field to the group tabs, and press the arrow keys until you hear "General tab," and then press
+Enter
+.
+Press the
+Tab
+key until you hear "Language and time tab selected." Press the
+Down arrow
+key once to move to the
+Appearance
+tab, and press
+Enter
+.
+Press the
+Tab
+key to navigate the
+Appearance
+settings.
+Press the
+Right arrow
+key until you hear "Dark radio button."
+Press
+Tab
+until you hear "Save button," and press
+Enter
+to save your settings changes.
+To close the
+Settings
+pane, press
+Esc
+.
+Read and reply to, or forward an email in new Outlook
+Use your screen reader and keyboard shortcuts to read and respond to emails. You hear a sound when a new email has arrived.
+Tip
+It is easier to navigate the messages if you do not use the Conversation view. For instructions, go to
+Toggle off the conversation view
+.
+Read an email
+Navigate to an email in the message list in new Outlook and hear your screen reader read the email and its details.
+Note
+The reading pane must be off before you follow these instructions. For instructions, go to
+Toggle off the reading pane
+.
+In the new Outlook main view, press
+F6
+or
+Shift
++
+F6
+until you hear "Message list."
+Press the
+Down
+or
+Up arrow
+key to find desired email.
+Press
+Enter
+or
+Shift
++
+Enter
+to open the message in the content pane.
+To read through the whole email with Narrator, press
+Narrator
++
+Ctrl
++
+R
+or
+Narrator
++
+Down arrow
+key. To stop reading, press
+Ctrl
+. To close the email and return to the message list, press
+Esc
+.
+Reply to an email
+Use your screen reader to promptly respond to your emails in new Outlook.
+In an email or when on an email on the message list, press
+Ctrl
++
+R
+. If you want to reply to all, press
+Ctrl
++
+Shift
++
+R
+.
+Type your reply, to send the email, press
+Ctrl
++
+Enter
+.
+Forward an email
+You can easily forward an email using keyboard shortcuts and your screen reader.
+In an email or when on an email on the message list, press
+Ctrl
++
+F
+.
+Type the name or email address of the recipient. When you start writing, new Outlook offers you matching suggestions. To browse the suggestions, press the
+Down arrow
+key. If you find the right persons among the suggestions, press
+Enter
+to add them to the
+To
+field.
+Press the
+Tab
+key until you hear "Message body," and type your message.
+To send the email, press
+Ctrl
++
+Enter
+.
+Create and send an email in new Outlook
+Let your screen reader help you create a new email and get your message out there.
+In the new Outlook main view, press
+Ctrl
++
+N
+, you hear "New Outlook window, To, edit." The focus is on the
+To
+field of the new email.
+Type the name or email address of the recipient. When you start writing, new Outlook offers you matching suggestions. To browse the suggestions, press the
+Down arrow
+key. If you find the right persons among the suggestions, press
+Enter
+to add them to the
+To
+field.
+If you want to send a copy of the email to someone, press the
+Tab
+key until you hear "Cc, edit." Type the email address of the copy recipient.
+Press the
+Tab
+key until you hear "Add a subject," and type a subject for the email.
+Press the
+Tab
+key until you hear "Message body," and type your message.
+To send the email, press
+Ctrl
++
+Enter
+.
+Recall an email in new Outlook
+You can use message recall feature in Outlook to pull back an email after it has been sent. This is useful when you forget to attach a file, send the message to the wrong recipient, or need to correct the content.
+Note
+Message recall is available only if both you and the recipient have a Microsoft 365 work or school email account in the same organization.
+In the New Outlook main view, press
+F6
+or
+Shift
++
+F6
+until you hear “Inbox.” Then press the
+Down arrow
+key to
+Sent Items
+and press
+Enter
+.
+Use the
+Up
+or
+Down arrow
+key to select the email, and then press
+Enter
+.
+Press
+Tab
+key until you hear “Message action toolbar,” then navigate with the
+Right arrow
+key to the
+More actions
+button and press
+Enter
+.
+Use the
+Up
+or
+Down arrow
+key until you hear “Advanced actions menu items,” and then press
+Enter
+.
+Use the
+Up
+or
+Down arrow
+key until you hear “Recall message,” and then press
+Enter.
+Press the
+Tab
+key until you hear "Ok button," and then press
+Enter
+to Recall a message.
+Note
+Shortly after submitting a recall request, you will receive an email titled “message recall report,” which contains a link indicating whether the recall succeeded, is pending, or failed.
+Search for an email in new Outlook
+Waste no time digging through lists or archives for that important email. Use search to quickly find what you're looking for.
+In the new Outlook main view, press
+Ctrl
++
+E
+, you hear "Banner, Search, edit."
+Type your search words. When you start typing, suggestions appear. Press the
+Down arrow
+key to browse suggestions. By default, suggestions span all result types, but you can filter the suggestions by changing the tab at the top of the suggestions list to
+All
+,
+Mail
+,
+Files
+,
+Events
+, or
+People
+.
+Use the
+Down
+and
+Up arrow
+keys to browse the search results list. To clear the search words and return to the new Outlook main view, press
+Ctrl
++
+E
+and either edit your search or press
+Shift
++
+Tab
+until you hear "Exit search, button," and then press
+Enter
+.
+Add attachments in new Outlook
+You can send files like resumes, newsletters, or cute kitty cat pics as copies or as OneDrive files.
+Add a file as a OneDrive link
+When you're composing a new mail, press
+F6
+to go to the ribbon or press
+Alt
+. Press the
+Right arrow
+key or
+Alt
++
+N
+to access the
+Insert
+tab.
+Press the
+Down arrow
+key until you hear "Attach file, button," and then press
+Enter
+.
+Press the
+Down arrow
+key until you hear "OneDrive," and then press
+Enter
+. The focus is on your OneDrive
+Recent
+folder.
+To change to a different folder, press
+Shift
++
+Tab
+until you hear "Select files from," and then use the
+Down
+and
+Up arrow
+keys to browse the folders. Press
+Enter
+to select.
+In the file list, press the
+Up
+or
+Down arrow
+key until you hear the file you want to attach, and then press
+Enter
+.
+The link to the OneDrive file is added to the message.
+Add a local file from your computer
+When you're composing a new mail in new Outlook, press
+F6
+to go to the ribbon or press
+Alt
+. Press the
+Right arrow
+key or
+Alt
++
+N
+to access the
+Insert
+tab.
+Press the
+Down arrow
+key until you hear "Attach file, button," and then press
+Enter
+.
+Press the
+Down arrow
+key until you hear "Browse this computer," and then press
+Enter
+.
+Use the
+Tab
+key and arrow key to navigate to the file you want to attach, and press
+Enter
+.
+Print an email in new Outlook
+You can print your email on paper or to a file.
+In the reading pane, on the email, press the
+Shift
++
+Tab
+key until you hear "Message actions tool bar."
+Press the
+Right arrow
+key until you hear "More actions," and then press
+Enter
+.
+Press the
+Down arrow
+key until you hear "Print menu item," and then press
+Enter
+.
+Select the printing options. To navigate between the options, press the
+Tab
+key. To expand option menus, press
+Spacebar
+. To move between radio buttons, use the
+Down
+and
+Up arrow
+keys. To select an option, press
+Enter
+.
+To print, press the
+Tab
+key until you hear "Print button," and then press
+Enter
+.
+See also
+Use a screen reader to check spelling and grammar in Outlook
+Basic tasks using a screen reader with the calendar in Outlook
+Keyboard shortcuts for Outlook
+Set up your device to work with accessibility in Microsoft 365
+Use a screen reader to explore and navigate Outlook Mail
+You can't open classic Outlook on a new Windows PC
+Toggle out of the new Outlook for Windows - Microsoft Support
+Use the email in classic Outlook with your keyboard and a screen reader to do the essential basic tasks. You can create and send new emails, read and reply to received emails, search, filter, and print emails, work with attachments, and more.
+Note
+To learn more about screen readers, go to
+How screen readers work with Microsoft 365
+.
+In this topic
+Read and reply to, or forward email
+Create and send email
+Recall an email
+Work with Focused inbox
+Use search and filter to find email
+Open or add attachments
+Print an email
+Turn visual or audio notifications on or off
+Read and reply to, or forward email in classic Outlook
+Use your screen reader and keyboard shortcuts to read and respond to emails. You hear a sound when a new email has arrived.
+Open and read an email
+Navigate to an email in the message list in classic Outlook and hear your screen reader read the email and its details.
+In
+Inbox
+, press the
+Tab
+key or
+Shift
++
+Tab
+until you hear the first mail in the message list. Your screen reader indicates if the email is unread, then announces the sender, subject, and received date and time.
+To browse the message list, press the
+Up
+or
+Down arrow
+key.
+To open an email, press
+Enter
+.
+To read the email from top to bottom, press the
+SR
+key+
+Ctrl
++
+R
+.
+To stop reading, press
+Ctrl
+.
+To move to the next email, press
+Alt
++
+5
+.
+To move to the previous email, press
+Alt
++
+4
+.
+When you are finished reading the email, to return to
+Inbox
+, press
+Esc
+.
+Reply to an email
+Use your screen reader to promptly respond to your emails in classic Outlook.
+In an email or on an email in
+Inbox
+, do one of the following:
+To reply to just the original sender, press
+Ctrl
++
+R.
+If the message has multiple recipients and you want to reply to all, press
+Ctrl
++
+Shift
++
+R
+.
+A new email opens with the same subject and set to reply to either just the sender or everyone included in the original email. The focus is on the body of the message and type your message.
+When you are finished composing the message, press
+Alt
++
+S
+to send the email.
+Forward an email
+You can easily forward an email using keyboard shortcuts and your screen reader.
+In an email or on an email in
+Inbox
+, press
+Ctrl
++
+F,
+and type the names of the recipients.
+If you want to include a message, press the
+Tab
+key until you hear "Forward," followed by the message subject, and "Message editing," and then type your message.
+When you are finished composing the message, press
+Alt
++
+S
+to send the email.
+Create and send email in classic Outlook
+Let your screen reader help you create a new email and get your message out there.
+In
+Inbox
+, press
+Ctrl
++
+N,
+and type the names of the recipients.
+To send a copy, press the
+Tab
+key until you hear "Cc, edit." Type the names of contacts who receive a copy.
+To send a hidden copy, press the
+Tab
+key until you hear "Bcc, edit." Type the names of contacts who receive a copy.
+Tip
+If you don't hear "Bcc edit," the
+Bcc
+field is hidden. To unhide it, press
+Alt
++
+P
+,
+B
+.
+To add a subject for the email, press the
+Tab
+key until you hear "Subject edit," and then type.
+To add your message, press the
+Tab
+key until you hear the subject of the email, followed by "Message editing," and then type your message.
+When you are finished composing the message, press
+Alt
++
+S
+to send the email.
+Recall an email
+You can use the message recall feature in Outlook to pull back or replace an email after it has been sent. This is useful when you forget to attach a file, send the message to the wrong recipient, or need to correct the content.
+Note
+Message recall is available only if both you and the recipient have a Microsoft 365 work or school email account in the same organization.
+In the Classic Outlook main view, press
+F6
+or
+Shift
++
+F6
+until you hear “Inbox.” Then press
+Down arrow
+key to
+Sent Items
+and then press
+Enter
+.
+Use the
+Up
+or
+Down arrow
+key to select the email, and then press
+Enter
+.
+Press
+F6
+to go to the ribbon tab, and you hear the currently selected tab.
+Press the
+Tab
+key until you hear “More command,” and then press
+Enter
+. Use the Up or
+Down arrow
+key navigate to the
+Actions
+and press Enter.
+Press
+Up
+or
+Down arrow
+key until you hear “Recall this message,” and then press
+Enter
+.
+Press the
+Tab
+key until you hear “Delete unread copies of this message radio button selected.”
+Press the
+Tab
+key until you hear “Ok button,” and then press
+Enter
+to recall a message.
+To send a replacement message, press the
+Tab
+key until you hear "Delete unread copies of this messageradio button selected."
+Press the
+Down arrow
+key to select
+Delete unread copies and replace with a new message
+radio button.
+Press the
+Tab
+key until you hear “Ok button,” and then press
+Enter
+to select.
+The mail window opens with the same subject. Compose or edit the replacement message, and then press
+Ctrl
++
+Enter
+to send the email.
+Note
+Shortly after submitting a recall request, you will receive an email titled “message recall report,” which contains a link indicating whether the recall succeeded, is pending, or failed.
+Work with Focused inbox in classic Outlook
+Focus on the emails that matter the most to you. By default, Outlook creates a
+Focused
+inbox and an
+Other
+inbox. Your most important emails are sorted into the
+Focused
+inbox while the rest remain easily accessible, but out of the way, in the
+Other
+inbox.
+Switch between the Focused and Other inboxes
+By default, Outlook opens the
+Focused
+inbox.
+In
+Inbox
+, press
+Shift
++
+Tab
+until you hear "Other button," and then press
+Enter
+.
+To move back to the
+Focused
+inbox, press
+Shift
++
+Tab
+until you hear "Focused button." To select, press
+Enter
+.
+Move an email from the Other inbox to the Focused inbox
+In your
+Other
+inbox, navigate to the email you want to move to the
+Focused
+inbox.
+To move the email, press
+Shift
++
+F10
+,
+V
+.
+Hide the Focused inbox
+You can hide the
+Focused
+inbox and work with a single list of messages.
+To check if the
+Focused
+inbox is shown or already hidden, press
+F6
+until you reach the contents of your inbox.
+Press
+Shift
++
+Tab
+until you hear "Sort arrange, or filter messages button," then press
+Shift
++
+Tab
+once. If you hear "Other," the
+Focused
+inbox is already hidden. If not, press
+Alt
++
+V
+,
+W
+to hide it.
+Use search and filter to find email in classic Outlook
+Waste no time excavating through lists or archives for that important email. Use search and filter to quickly find what you're looking for.
+Search for an email
+In
+Inbox
+, press
+Ctrl
++
+E
+. The focus moves to the
+Search
+text field.
+To change the folder which you want to search, press
+Shift
++
+Tab
+until you hear "Current mailbox," and then press
+Spacebar
+.
+Press the
+Down arrow
+key until you hear the option you want, and then press
+Spacebar
+.
+Type your search words. To browse through the suggestions, press the
+Down arrow
+key.
+To select a suggestion, press
+Enter
+. The search results are displayed in the message list.
+Press the
+Tab
+key until you hear the first message. To browse through the list, press the
+Down arrow
+key. To open an email, press
+Enter
+.
+To clear the search results list, press
+Esc
+.
+To return to
+Inbox
+from an open email and clear the search results list, press
+Esc
+twice.
+Use a filter to find an email
+In the Inbox, press
+Alt
++
+H
+,
+L
+. The focus moves to the first item in the filter options list.
+Press the
+Down arrow
+key until you hear the option you want, and then press
+Enter
+. You hear either "No results found," or "Found," followed by the number of emails matching the filter.
+To move to the list of emails matching the filter, press the
+Tab
+key until you hear the first message. To browse through the list, press the
+Down arrow
+key. To open an email, press
+Enter
+.
+To clear the results list and the filter, press
+Esc
+to return to
+Inbox.
+Open or add attachments in classic Outlook
+You can open and add attachments in your emails in Outlook.
+Open attachments
+When you receive an email, your screen reader announces if the email has attachments and the number of attached files.
+Open an email with an attachment. The focus is on the message body.
+Press
+Shift
++
+Tab
+until you hear the attachment details, including the file name and type.
+To open the attachment, press
+Enter
+. The file opens in a compatible application.
+Add attachments
+You can send files like resumes, newsletters, or pictures as copies or as OneDrive files.
+In an email, press
+Alt
++
+N
+,
+A
+,
+F
+.
+Do one of the following:
+To attach a recent file, press the
+Down arrow
+key until you hear the file, and then press
+Enter
+.
+To attach a file from a web location, press
+W
+. You hear the first online location, for example, "OneDrive." To select, press
+Enter
+. The
+Insert File
+dialog opens. Press the
+Tab
+key and the arrow keys until you hear the file you want, and then press
+Alt
++
+S.
+Use the
+Down arrow
+key to navigate to the
+Attach as copy
+and then press
+Enter.
+To attach a file from local storage, for example, your hard drive, press
+B
+. The
+Insert File
+dialog opens. Press the
+Tab
+key and the arrow keys until you hear the file you want, and then press
+Alt
++
+S
+.
+Print an email in classic Outlook
+You can print your email on paper or to a file.
+In an email or on an email in
+Inbox
+, press
+Ctrl
++
+P
+.
+To print using the default settings, press
+Alt
++
+P
+,
+P
+.
+Turn visual or audio notifications on or off in classic Outlook
+Sound or visual effects can notify you when a new email message arrives. If you need to work uninterrupted, you can turn the notifications off.
+In
+Inbox
+, press
+Alt
++
+F
+,
+T
+. Press
+M
+to open the
+Mail
+tab.
+Press the
+Tab
+key, until you hear "play sound check box ,"and then press
+P
+. To select or deselect this option, press
+Spacebar
+.
+To go through the other notification options, press the
+Tab
+key. To select or deselect an option, press
+Spacebar
+. When you hear "Conversation clean up," there are no more notification options to select.
+To confirm your selections and exit the
+Outlook Options
+window, press the
+Tab
+key until you hear "OK button," and then press
+Enter
+.
+See also
+Use a screen reader to format text in your email in Outlook
+Basic tasks using a screen reader with the calendar in Outlook
+Keyboard shortcuts for Outlook
+Set up your device to work with accessibility in Microsoft 365
+Use a screen reader to explore and navigate Outlook Mail
+Use the email in Outlook for iOS with VoiceOver, the built-in iOS screen reader, to do the essential basic tasks. You can create and send new emails, read and reply to received emails, search and filter emails, and work with Focused messages and attachments.
+Note
+This topic assumes that you are using the built-in iOS screen reader, VoiceOver. To learn more about using VoiceOver, visit
+Apple accessibility
+.
+In this topic
+Read and reply to or forward an email
+Work with Focused messages
+Create and send email
+Recall an email
+Use search and filter to find email
+Open or add attachments
+Read and reply to or forward an email
+Read an email
+By default, the Outlook for iOS app lists the newest email first.
+Tip
+When you are in the message list and on an email, flick up or down to hear message-related actions you can take. To take an action, double-tap the screen as soon as you hear the option.
+To hear VoiceOver read the emails in your Outlook for iOS
+Inbox
+, in the message list, flick right or slide your finger down through the list. You hear for example, the following:
+The name of the sender
+The subject of the email
+The sending date
+Attachments (if any)
+The first few lines of the email message
+The number of messages in a conversation
+To open a single email or an email conversation containing several messages, double-tap the screen.
+To read an email or messages in a conversation, flick right or slide your finger from the top of the screen down the list of emails. You hear the subject, sender name, the message, and how many messages there are in a conversation.
+If the conversation is long, you may need to open the full message to hear it. After the first message is read, flick right. If you hear "Open full message button," there is more text to the conversation. To open, double-tap the screen.
+To return to the collapsed message view in Outlook for iOS, flick left until you hear "Close button," and then double-tap the screen.
+To quickly move to the next email, flick left until you hear "Next message button," and then double-tap the screen. To move to the previous email, flick left until you hear "Previous message button," and then double-tap the screen.
+When you are finished reading the message, to return to the
+Inbox
+, flick left until you hear "Back button," and then double-tap the screen.
+Reply to an email
+Use your VoiceOver to promptly respond to your emails in new Outlook.
+In an Outlook for iOS email, flick left or right until you hear "Reply options button," and then double-tap the screen. You hear "Reply." Double-tap the screen.
+You hear "Reply box expanded," and the focus moves to the body of the reply message. To edit the message recipients, flick left until you hear "Reply options," and double-tap the screen, then flick right until you hear "Edit or view recipient," and double-tap the screen. The focus moves to the
+To
+field of the reply message. Edit the list of recipients using the on-screen keyboard, then flick right until you hear "Message body."
+Type your message using the on-screen keyboard.
+When you are finished composing the message, flick left until you hear "Send button," and then double-tap the screen.
+Forward an email
+You can easily forward an email using keyboard shortcuts and your VoiceOver.
+In an Outlook for iOS email, flick right until you hear "Reply options button," and then double-tap the screen. Flick right until you hear "Forward," and double-tap the screen.
+You hear "To, text field, is editing." The focus is in the
+To
+field, and the on-screen keyboard is in the bottom half of the screen. Type the name of each recipient.
+If you want to include a message, flick right until you hear "Multiline text field," and then double-tap. Type your message.
+When you are finished composing the message, flick right until you hear "Send button," and then double-tap the screen.
+Work with Focused messages
+Focus on the emails that matter most to you. By default, Outlook for iOS creates a
+Focused
+inbox and an
+Other
+inbox. Your most important emails are sorted into the
+Focused
+inbox while the rest remain easily accessible, but out of the way, in the
+Other
+inbox.
+By default, Outlook for iOS opens the
+Focused
+inbox. To switch to the
+Other
+inbox:
+Flick left or right until you hear "Other inbox," and then double-tap the screen.
+To move back to the
+Focused
+inbox, flick left or right until you hear "Focused inbox," and double-tap the screen.
+To move an email from the
+Other
+inbox to the
+Focused
+inbox:
+Navigate to the message you want to move, and then double-tap the screen.
+Flick left until you hear "More conversation actions," and then double-tap screen.
+Flick right until you hear "Move to focused inbox, button," and then double-tap the screen.
+You hear an alert. Flick right until you hear the option you want, and then double-tap the screen.
+To disable the
+Focused
+inbox in Outlook for iOS and work with a single list of messages:
+Flick left until you hear "Menu," followed by the name of your email account, then double-tap the screen.
+Flick right until you hear "Settings button" and then double-tap the screen.
+Flick left or right until you hear "Focused inbox On," and then double-tap the screen. Outlook for iOS now presents a single inbox.
+Create and send email
+In the Outlook for iOS message list, flick left or right until you hear "Compose button," and then double-tap the screen.
+The
+New Message
+window opens, the focus is on the
+To
+field, and the on-screen keyboard is at the bottom half of the screen. Type the names of the recipients.
+To send a copy or hidden copy, flick right until you hear "Show Cc and Bcc, button," and then double-tap the screen. The focus moves to the
+Cc
+field. Type the names of contacts who receive a copy.
+Tip
+To send a hidden copy, flick right. You hear "Bcc, text field." Double-tap the screen and then type the contact names.
+To type a subject for the email, flick right until you hear "Subject, text field," double-tap the screen, and then type your message.
+To type your message, flick right until you hear "Multiline text field," and then double-tap the screen.
+When you are finished composing the message, flick right until you hear "Send button," and then double-tap the screen.
+Recall an email
+You can use the message recall feature in Outlook to pull back an email after it has been sent. This is useful when you forget to attach a file, send the message to the wrong recipient, or need to correct the content.
+Note
+Message recall is available only if both you and the recipient have a Microsoft 365 work or school email account in the same organization.
+In the message list, flick right until you hear "Show navigation pane," and then double-tap the screen.
+Flick right to select the
+Sent
+button, and then double-tap the screen.
+Flick right or left until you hear the recipient's name and the subject of the email you want to recall, then double-tap the screen.
+Flick right until you hear the “Message actions button,” and then double-tap the screen.
+Flick right to select the
+Recall
+button and then double-tap the screen.
+Flick right to select the
+OK
+button, and then double-tap the screen. You will hear that a message has been recalled.
+Note
+Shortly after submitting a recall request, you will receive an email titled “message recall report,” which contains a link indicating whether the recall succeeded, is pending, or failed.
+Use search and filter to find an email in Outlook for iOS
+Waste no time excavating through lists or archives for that important email. Use search and filter to quickly find what you're looking for.
+Search for an email
+In the message list, flick left or right until you hear "Search button," and then double-tap the screen.
+The focus moves to the
+Search Mail
+field. Start typing your search words. The search results list updates as you type.
+To browse through the search results, flick right. VoiceOver reads the details and the message as you move through the list.
+When you hear an email you want to open, double-tap the screen.
+To exit
+Search
+, flick left until you hear "Cancel button," and then double-tap the screen.
+Use a filter to find an email for Outlook for iOS
+In the message list, flick left or right until you hear "Filter button," and then double-tap the screen.
+Flick right until you hear the filtering option you want, and then double-tap the screen.
+To browse through the emails matching the filter, flick right. VoiceOver reads the details and the message as you move through the list.
+When you hear an email you want to open, double-tap the screen.
+To remove the filtering option, in the inbox, flick left or right until you hear "Filter button," and then double-tap the screen.
+Open or add attachments
+You can open and add attachments in your emails in Outlook for iOS.
+Open an attachment
+VoiceOver announces if a received email in Outlook for iOS has attachments.
+Open the email with one or more attachments.
+Flick right until you hear the attachment file type, followed by "Attachment," and the file name and size, and then double-tap the screen. The attachment opens in a supported app.
+Add an attachment
+You can send files like resumes, photos, or meeting invitations as attachments in Outlook for iOS.
+Attach a file
+When you're composing a message, flick right until you hear "Attach a file or a photo button," and then double-tap the screen. You hear "Attach file," Double-tap the screen.
+Browse to the file you want, and then double-tap the screen to select.
+Flick right until you hear "Attach file," and then double-tap the screen.
+Attach a photo
+When you're composing a message, flick right until you hear "Attach a file or a photo, button," and then double-tap the screen.
+To take photo with device camera to attach:
+Flick right. You hear "Take photo, button."
+Double-tap the screen. The camera activates.
+Flick right until you hear "Take picture, button," and then double-tap the screen.
+Flick right until you hear "Use photo," and then double-tap the screen.
+To attach the last photo taken, flick right until you hear "Use last photo taken," and then double-tap the screen.
+To attach an image from
+Photos
+:
+Flick right until you hear "Choose photo from library," and then double-tap the screen.
+Browse for the image you want, and then double-tap the screen.
+Attach a meeting invitation
+When you're composing a message, flick right until you hear "Attach meeting, button," and then double-tap the screen.
+You hear "Send availability, button." To send your first available time slot for a meeting, double-tap the screen.
+Alternatively, to create a new invitation, flick right until you hear "Create invitation, button" and then double-tap the screen. A new Outlook
+Calendar
+event window opens. For instructions on how to create meeting invitations, refer to
+Basic tasks using a screen reader with the calendar in Outlook
+.
+When you're done scheduling the meeting, in the
+Calendar
+event window, flick left or right until you hear "Done button," and then double-tap the screen.
+See also
+Use a screen reader to format text in your email in Outlook
+Basic tasks using a screen reader with the calendar in Outlook
+Set up your device to work with accessibility in Microsoft 365
+Use a screen reader to explore and navigate Outlook Mail
+Use the email in Outlook for Android with TalkBack, the built-in Android screen reader, to do the essential basic tasks. You can create and send new emails, read and reply to received emails, search and filter emails, work with Focused messages and attachment, and more.
+Note
+This topic assumes that you are using the built-in Android screen reader, TalkBack. To learn more about using TalkBack, go to
+Android accessibility
+.
+In this topic
+Read and reply to, or forward an email
+Work with Focused messages
+Create and send email
+Recall an email
+Use search and filter to find email
+Open or add attachments
+Read and reply to, or forward an email
+Read an email
+By default, the newest emails are listed first.
+Flick left or right or slide your finger down to listen to TalkBack read the emails. You hear information about each email, including:
+Sender name
+Date or time the message was received
+Subject
+First few lines of the email contents
+To open an email, double-tap the screen. TalkBack automatically starts to read the message from the beginning.
+Alternatively, to listen TalkBack read an email message from top to bottom, flick down-and-right. The
+Global Context Menu
+opens. Flick right until you hear "Read from top," and then double-tap the screen.
+To quickly skim through the message, slide your finger down from the top of the screen.
+To scroll down the message, flick up with two fingers. To scroll up, flick down with two fingers.
+When you've finished reading the message, to return to the inbox, flick left or right until you hear "Close button," and then double-tap the screen.
+Reply to an email
+With the email open, flick right until you hear "Reply options," double-tap the screen and do one of the following:
+To reply to just the original sender, flick left or right until you hear "Message actions button," and then double-tap the screen. Flick right until you hear "Reply."
+If the message has multiple recipients and you want to reply to all, flick left or right until you hear "Reply all button," and then double-tap the screen.
+A new email opens with the same subject and is set to reply to the sender or everyone included in the original email. Filck right to until you hear "Edit box." Double-tap the screen to activate the on-screen keyboard and type your message.
+When you've finished composing the message, flick left until you hear "Send button," and then double-tap the screen. You hear "Sent, Outlook, keyboard hidden."
+Forward an email
+You can easily forward an email using TalkBack.
+With the email message open, flick right until you hear "Reply options," and then double-tap the screen.
+Flick right until you hear "Forward," and double-tap the screen. A new email opens with the same subject.
+Flick right until you hear "Message actions button," and double tap the screen. Flick right until you hear "Forward button," and double tap the screen.
+Type the name of each recipient. The recipients are added automatically as you complete typing the email address or select it from the matching options available. You can add multiple recipients in the
+To
+field.
+To type a message, flick right until you hear "Double-tap to edit," and then double-tap the screen. Type your message.
+When you've finished composing the message, flick left until you hear "Send button," and then double-tap the screen.
+Work with Focused messages
+Focus on the emails that matter most to you. By default, Outlook creates a
+Focused
+inbox and an
+Other
+inbox. Your most important emails are in the
+Focused
+inbox while the rest remain easily accessible, but out of the way, in the
+Other
+inbox.
+By default, Outlook opens the
+Focused
+inbox. To switch to the
+Other
+inbox:
+Flick left or right until you hear "Toggle to other mails switch," and then double-tap the screen.
+To move back to the
+Focused
+inbox, flick left or right until you hear "Toggle to focused inbox switch," and double-tap the screen.
+To move an email from the
+Other
+inbox to the
+Focused
+inbox:
+Navigate to the message you want to move, and then double-tap the screen to open the message.
+Flick left until you hear "More options button," and then double-tap screen.
+Flick right until you hear "Move to focused inbox," and then double-tap the screen.
+Flick right until you hear the option you want, and then double-tap the screen.
+To disable the
+Focused
+inbox and work with a single list of messages:
+Flick right until you hear "Open navigation drawer button," and double-tap the screen.
+Flick right until you hear "Settings button," and then double-tap the screen.
+Flick right until you hear "Mail" and then double-tap the screen.
+Flick left or right until you hear "On toggle the focused inbox setting, switch," and then double-tap the screen. Outlook now presents a single inbox.
+Create and send email
+In the message list, flick right until you hear "New email button," and then double-tap the screen. The
+New message
+window opens.
+Flick right until you hear "Edit box To field," and double-tap the screen.
+Type the names or email addresses of the recipients. The list of matching contacts updates as you type.
+Note
+Depending on the device, you may have to flick right until you hear "Search directory," and then double-tap the screen to look for a contact.
+To select a contact, flick right until you hear the name you want, and then double-tap the screen.
+To send a copy of the message to other recipients, flick right until you hear "Cc field," and then double-tap the screen. Add the recipients as instructed in the previous step.
+To send a hidden copy to other recipients, flick right until you hear "Bcc field," double-tap the screen, and add the recipients.
+To add a subject for the email, flick right until you hear "Subject edit box." Double-tap the screen, and type a subject.
+To type your message, flick right until you hear "Double-tap to edit text." Double-tap the screen, and type your message.
+When you've finished composing the message, flick left until you hear "Send button," and then double-tap the screen.
+Recall an email
+You can use the message recall feature in Outlook to pull back an email after it has been sent. This is useful when you forget to attach a file, send the message to the wrong recipient, or need to correct the content.
+Note
+Message recall is available only if both you and the recipient have a Microsoft 365 work or school email account in the same organization.
+In the message list, flick right until you hear "Open navigation drawer button," and then double-tap the screen.
+Flick right until you hear "Sent,” and then double-tap the screen.
+Flick right or left until you hear the name of an email you want to recall and double-tap the screen.
+Flick right until you hear “Message action button,” and then double-tap the screen.
+Flick right until you hear “Recall,” and then double-tap the screen.
+Flick right until you hear “Ok button,” and then double-tap the screen.
+Note
+Shortly after submitting a recall request, you will receive an email titled “message recall report,” which contains a link indicating whether the recall succeeded, is pending, or failed.
+Use search and filter to find email
+Waste no time excavating through lists or archives for that important email. Use search and filter to quickly find what you're looking for.
+Search for an email
+In the message list, flick right until you hear "Search button," and then double-tap the screen. The
+Search
+window opens.
+Flick left until you hear "Search email, events, people, files," and double-tap the screen. Start typing your search words. The search results list updates as you type.
+To browse through the search results, flick right or left. When you hear an email you want to open, double-tap the screen.
+To leave the list of search results, flick left until you hear "Close button," and then double-tap the screen to return to the
+Search
+window.
+Use a filter to find an email
+In the message list, flick left or right until you hear "Filter button," and then double-tap the screen.
+Flick right until you hear the filtering option you want, and then double-tap the screen.
+To browse through the emails matching the filter, flick right. TalkBack reads the message details as you move through the list.
+When you hear the filter you want to select, double-tap the screen.
+To remove the filtering option, and review all emails in the message list, flick left or right until you hear "Clear messages filter button," and then double-tap the screen.
+Open or add attachments
+You can open and add attachments in your emails in Outlook for Android.
+Open an attachment
+TalkBack announces if a received email has attachments.
+Open the email with one or more attachments.
+Flick left until you hear the file type, name, and size, and then double-tap the screen. If you hear "Open with," flick right until you hear the option you want, and then double-tap the screen to select.
+To open the attachment in the selected app, double-tap the screen.
+Add an attachment
+You can send files like resumes, photos, or meeting invitations as attachments.
+Attach a file
+When you're composing a message, flick right until you hear "Attach files button," and then double-tap the screen. You hear "Choose from files,"and then double-tap the screen.
+To add a file from
+OneDrive
+, flick right until you hear "Files," and then double-tap the screen. To add a file from your device, flick right until you hear "Device," and then double-tap the screen.
+Browse to the file you want, and then double-tap the screen to select and attach it.
+Attach a photo
+When you're composing a message, to take a photo with the device camera to attach:
+Flick right until you hear "Take a photo button."
+Double-tap the screen. The camera activates.
+Flick right until you hear "Capture button," and then double-tap the screen. The photo is captured.
+Flick right until you hear "Review and edit," and double-tap the screen.
+Flick right until you hear "Finish," and double-tap the screen to attach a photo.
+To attach an image from Photos:
+Flick right until you hear "Attach files button," and double-tap the screen.
+Flick right until you hear "Choose from photo library," and then double-tap the screen.
+Browse to the image you want, and then double-tap the screen.
+Depending on the device, you may need to browse to the location where the photo is saved first.
+Attach a meeting invitation
+When you're composing a message, flick right until you hear "Calendar button," and then double-tap the screen.
+To send your first available time slot for a meeting, double-tap the screen.
+To create a new event, flick right until you hear "Convert to event," and then double-tap the screen. The Outlook
+Calendar
+opens. For instructions on how to create meeting invitations, refer to section "Schedule a new appointment or meeting" in
+Use a screen reader to schedule appointments or meetings in Outlook
+.
+When you're done scheduling the meeting, in the
+Calendar
+event window, flick left or right until you hear "Done button," and then double-tap the screen.
+See also
+Use a screen reader to format text in your email in Outlook
+Use a screen reader to insert a picture or image in Outlook
+Use a screen reader to schedule appointments or meetings in Outlook
+Set up your device to work with accessibility in Microsoft 365
+Use a screen reader to explore and navigate Outlook Mail
+Use Outlook on the web with your keyboard and a screen reader to do the essential basic tasks with
+Mail
+. You can create and send new emails, read and reply to received emails, search, filter, and print emails, work with attachments, and more.
+Note
+To learn more about screen readers, go to
+How screen readers work with Microsoft 365
+.
+We're currently updating Outlook.office.com (Outlook on the Web). Some people are already using the new Outlook, and for others the classic version will be the default experience until we complete the update. For more information, go to
+Get help with the new Outlook on the web
+. Since the instructions in this topic apply to the new experience, we recommend that you switch from the classic experience to the new Outlook. To switch to the new Outlook, press Ctrl+F6 until you hear "Command, Try the new Outlook," and then press Enter. If you hear "Command toolbar" instead of "Command, Try the new Outlook," you're already using the new Outlook.
+This topic assumes that the
+Reading pane
+is off.
+When you use Outlook on the web, we recommend that you use Microsoft Edge as your web browser. Because Outlook on the web runs in your web browser, the keyboard shortcuts are different from those in the desktop program. For example, you'll use
+Ctrl
++
+F6
+instead of
+F6
+for jumping in and out of the commands. Also, common shortcuts like
+F1
+(Help) and
+Ctrl
++
+O
+(Open) apply to the web browser – not Outlook on the web.
+In this topic
+Read and reply to or forward an email
+Create and send an email
+Recall an email
+Use search and filter to find an email
+Download or add attachments
+Print an email
+Use Dark mode
+Read and reply to or forward an email
+Use your screen reader and keyboard shortcuts to read and respond to emails. You hear a sound when a new email has arrived.
+Tip
+It's easier to navigate the messages if you don't use the Conversation view. To turn it off, press
+Alt
++
+Q
+, press the
+Tab
+key until you hear "Settings, button," and press
+Enter
+to open the
+Settings
+menu. Press the
+Tab
+key until you hear "Conversation view," followed by the currently selected option. If it's not "Off," press the
+Down arrow
+key until you hear "Selected, off," and press
+Esc
+to close the
+Settings
+menu.
+Read an email
+Navigate to an email in the message list in
+Mail
+,and hear your screen reader read the email and its details.
+Note
+The reading pane must be switched off before you follow these instructions. To confirm this, press
+Alt
++
+Q
+, press the
+Tab
+key until you hear "Settings, button," and press
+Enter
+to open the
+Settings
+menu. Press the
+Tab
+key until you hear "Reading pane," followed by the currently selected option. If you hear "Show on the right" or "Show on the bottom," press the
+Down arrow
+key until you hear "Hide," and press
+Esc
+to close the
+Settings
+menu.
+In the
+Mail
+main view, press
+Ctrl
++
+F6
+or
+Shift
++
+Ctrl
++
+F6
+until you hear "Message list, region landmark," and press the
+Tab
+key until you hear "Message list,"
+Press the
+Down
+or
+Up arrow
+key until you find the email you want, and then press
+Enter
+to open the message in the content pane.
+To read through the whole email, press the
+SR
+key+
+R
+. To stop reading, press
+Ctrl
+. To close the email and return to the message list, press
+Esc
+.
+Reply to an email
+Use your screen reader to promptly respond to your emails in Outlook on the web.
+In an email or when on an email on the message list, press
+Ctrl
++
+R
+. If you want to reply to all, press
+Ctrl
++
+Shift
++
+R
+.
+Type your reply. Press
+Ctrl
++
+Enter
+to send the email.
+Forward an email
+You can easily forward an email using keyboard shortcuts and your screen reader.
+In an email or when on an email on the message list, press
+Ctrl
++
+Shift
++
+F
+.
+Type the name or email address of the recipient. When you start writing, Outlook on the web offers you matching suggestions.
+To browse the suggestions, press the
+Down arrow
+key. If you find the right persons among the suggestions, press
+Enter
+to add them to the
+To
+field.
+Press the
+Tab
+key until you hear "Message body, editing," and then type your message.
+To send the email, press
+Ctrl
++
+Enter
+.
+Create and send an email
+Let your screen reader help you create a new email and get your message out there.
+In the
+Mail
+main view, press
+N
+. Type the name or email address of the recipient. When you start writing, Outlook on the web offers you matching suggestions.
+To browse the suggestions, press the
+Down arrow
+key. If you find the right persons among the suggestion, press
+Enter
+to add them to the
+To
+field.
+If you want to send a copy of the email to someone, press the
+Tab
+key until you hear "Editable combo box." Type the email address of the copy recipient.
+Press the
+Tab
+key until you hear "Add a subject." Type a subject for the email.
+Press the
+Tab
+key until you hear "Message body, editing." then type your message.
+Tip
+To move to the message formatting options, press the
+Tab
+key until you hear "Formatting options." To move on the formatting options menu, press the
+Left
+or
+Right arrow
+key. To select or to expand submenus, press
+Spacebar
+.
+Press
+Ctrl
++
+Enter
+to send an email.
+Recall an email
+You can use the message recall feature in Outlook to pull back an email after it has been sent. This is useful when you forget to attach a file, send the message to the wrong recipient, or need to correct the content.
+Note
+Message recall is available only if both you and the recipient have a Microsoft 365 work or school email account in the same organization.
+In the Web Outlook main view, press
+Tab
+or
+Shift
++
+Tab
+until you hear “Inbox.” Then press
+Down arrow
+key to
+Sent Items
+and press
+Enter
+.
+Use the
+Up
+or
+Down arrow
+key to select the email, then press
+Enter
+.
+Press
+Tab
+key until you hear “Message action toolbar,” then navigate with the
+Right arrow
+key to the
+More actions
+button, and press
+Enter
+.
+Press
+Up
+or
+Down arrow
+key until you hear “Advanced actions menu,” and then press
+Enter
+.
+Use the
+Up
+or
+Down arrow
+key until you hear “Recall message,” and then press
+Enter
+.
+Press the
+Tab
+key until you hear "Ok button," and then press
+Enter
+to recall a message.
+Note
+Shortly after submitting a recall request, you will receive an email titled “message recall report,” which contains a link indicating whether the recall succeeded, is pending, or failed.
+Use search and filter to find an email
+Waste no time digging through lists or archives for that important email. Use search and filter to quickly find what you're looking for.
+Search for an email
+Use search to find specific emails in no time.
+In the
+Mail
+main view, press
+Alt
++
+Q
+.
+Type your search words, and then press
+Enter
+. The focus moves to a list of search results. You hear "Message list," followed by the number of found items.
+Tip
+You can search by email subject, sender, or date.
+To navigate between search results, press the
+Up
+or
+Down arrow
+key. You hear the results as you move in the list.
+To clear the search words and return to the
+Mail
+main view, press
+Shift
++
+Ctrl
++
+F6
+until you hear "Banner, Search landmark," press the
+Tab
+key until you hear "Exit search," and press
+Enter
+.
+Tip
+You can also use the Microsoft Edge search to find specific text in an open email. In any view in
+Mail
+, press
+F3
+. You hear "Find in page," followed by the title of the open page. Type your search words and press
+Enter
+.
+Filter your emails
+To list your emails in a more purposeful way, you can filter or sort them, for example, by date, mentions, or sender.
+In the message list, press
+Shift
++
+Tab
+until you hear "Filter button." Press
+Spacebar
+to open the filter menu.
+To move in the menu, press the
+Up
+or
+Down arrow
+key until you hear the option you want to select. To expand menu options, press
+Spacebar
+. To select an option, press
+Spacebar
+.
+To remove a filter, in the message list, press
+Shift
++
+Tab
+until you hear the current filter. Press
+Spacebar
+to remove the filter.
+Download or add attachments
+You can download and add attachments in your emails in Outlook on the web.
+Download an attachment
+When your screen reader reads an email in the message list and in the reading pane, you hear an announcement if the email contains attachments.
+In the reading pane, on the email, press the
+Tab
+key until you hear the attachment name.
+Press the
+Tab
+key until you hear "Download, button." Press
+Enter
+.
+When your screen reader announces a new notification, press
+Alt
++
+N
+to move the focus there. Then press the
+Tab
+key or
+Shift
++
+Tab
+to browse the options, and press
+Enter
+to make a selection.
+Add an attachment
+You can send files like resumes, newsletters, or cute kitty cat pics as copies or as OneDrive files.
+Add a file from OneDrive
+When you're composing a new mail, press the
+Tab
+key until you hear "Attach, collapsed, menu item," and then press
+Spacebar
+to open the menu.
+Press the
+Down arrow
+key until you hear "OneDrive," and press
+Enter
+. The focus is on your OneDrive folder.
+In the file list, press the
+Up
+or
+Down arrow
+key until you hear the file name you want to attach. The file is automatically selected.
+Press the
+Tab
+key until you hear "Next, button," and then press
+Enter
+.
+To attach the file as a copy or share it as a OneDrive link, press the
+Tab
+key until you hear the option you want to select, and then press
+Enter
+.
+Add a local file from your computer
+When you're composing a new mail, press the
+Tab
+key until you hear "Attach, collapsed, menu item," and then press
+Spacebar
+to open the menu. You hear "Browse this computer." Press
+Spacebar
+.
+Use the
+Tab
+key and
+arrow
+keys to navigate to the file you want to attach, and press
+Enter
+.
+Print an email
+You can print your email on paper or to a file.
+In the message list, on the email you want to print, press
+Shift
++
+F10
+to open the context menu.
+Press the
+Down arrow
+key until you hear "Print, menu item" and then press
+Enter
+.
+In the dialog, select printing options. To navigate between the options, press the
+Tab
+key. To expand option menus, press
+Spacebar
+. To select an option, press
+Enter
+.
+To print, press the
+Tab
+key until you hear "Print button," and then press
+Enter
+.
+Use Dark mode
+If you are viewing Outlook on the web in a dark room, using the Dark mode puts less strain on your eyes.
+In the
+Mail
+main view, press
+Alt
++
+Q.
+Press the
+Tab
+key until you hear "Settings, button," and press
+Enter
+to open the
+Settings
+menu.
+Press the
+Tab
+key until you hear "Off, Dark mode," and press
+Enter
+to turn the mode on or off.
+To close the
+Settings
+menu, press
+Esc
+.
+See also
+Basic tasks using screen reader with email in Outlook for Mac
+Use a screen reader to check spelling and grammar in Outlook
+Basic tasks using a screen reader with the calendar in Outlook
+Keyboard shortcuts for Outlook
+Use a screen reader to explore and navigate Outlook Mail
+Technical support for customers with disabilities
+Microsoft wants to provide the best possible experience for all our customers. If you have a disability or questions related to accessibility, please contact the
+Microsoft Disability Answer Desk
+for technical assistance. The Disability Answer Desk support team is trained in using many popular assistive technologies and can offer assistance in English, Spanish, French, and American Sign Language. Please go to the Microsoft Disability Answer Desk site to find out the contact details for your region.
+If you are a government, commercial, or enterprise user, please contact
+the enterprise Disability Answer Desk
+.

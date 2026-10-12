@@ -1,0 +1,1419 @@
+URL: https://support.microsoft.com/en-us/accessibility/excel/basic-tasks-using-a-screen-reader-with-excel
+Basic tasks using a screen reader with Excel
+Applies To
+Excel for Microsoft 365
+Excel for Microsoft 365 for Mac
+Excel 2024 for Mac
+Excel 2021
+Excel 2021 for Mac
+Excel 2019
+Excel for iPhone
+Excel for Android phones
+Excel Mobile
+This article is for people who use a screen reader program such as Windows Narrator, JAWS, or NVDA with Windows tools or features and Microsoft 365 products. This article is part of the
+Accessibility help & learning
+content set where you can find more accessibility information on our apps. For general help, visit
+Microsoft Support
+.
+Windows
+macOS
+Office for iOS
+Office for Android
+Web
+Use Excel with your keyboard and a screen reader to do basic tasks in Excel. You'll learn how to open the app, create a new workbook to insert your data, create simple formulas, sort or filter your data, and add charts to show what your data means.
+Note
+To learn more about screen readers, go to
+How screen readers work with Microsoft 365
+.
+In this topic
+Open Excel
+Create a new workbook
+Enter your data
+Use AutoSum to add your data
+Create a simple formula
+Apply a number format
+Filter or sort data in a table
+Calculate numbers in a table
+Format or highlight your data as a table
+Show your data in a chart
+Save your work for the first time
+Print your work
+Open Excel
+To open Excel, do one of the following:
+Press the
+Windows
+key, type
+Excel
+, and then press
+Enter
+.
+Excel opens to the
+Home
+page where you can select a template for a new workbook or open an existing one.
+On your device or the file storage you're using, navigate to the Excel workbook you want to open and press
+Enter
+. The workbook opens in Excel.
+Create a new workbook
+Excel files are called workbooks. Each workbook contains sheets, typically called spreadsheets or worksheets.
+Tip
+You can add as many sheets as you want to a workbook, or you can create new workbooks to keep your data separate. To add a new worksheet to a workbook, press
+Shift+F11
+.
+To start creating a new workbook using the blank workbook template, do one of the following:
+Open Excel. You land on the
+Home
+page. Press
+Alt
++
+H
+,
+Y
+, and then
+3
+.
+If you're already editing a worksheet, press
+Ctrl+N
+.
+Enter your data
+As you enter data to the sheet, you work with rows, columns, and cells. Cells are referenced by their location in the row and column on the sheet, so cell A1 is in the first row of column A. On a new sheet, cell A1 is the default selection.
+To select an empty cell where you want to start entering your data, press the arrow keys. As you move to cells in the workbook, you hear the cell reference (row and column) and "Blank" if the cell is empty. If the cell has content, you hear the content and cell reference.
+Tip
+In Narrator, press
+Narrator
+key+
+Alt
++
+N
+to toggle whether the cell reference comes first, or follows "Blank" or data when spoken. The Narrator key is either
+Caps Lock
+or
+Insert
+, depending on keyboard configuration.
+In the cell, type text or a number.
+To enter the contents in the cell and move to the next cell in the column, press
+Enter
+. To move to the next cell in the row, press the
+Tab
+key. You can also use the
+arrow
+keys.
+Use AutoSum to add your data
+You can use the
+AutoSum
+function to quickly add numbers you've entered in your sheet.
+Select the cell where you want to put the total. This is typically to the right of or below the numbers you're adding.
+To enter the
+AutoSum
+function in the cell, press
+Alt
++
+H
+,
+U
+, and then
+S
+.
+Tip
+You can change which cells are selected for the
+AutoSum
+function. To select the range of cells you want to add, hold down the Shift key and press the arrow keys.
+When you've confirmed that the
+AutoSum
+function is creating a formula for the cells you want, press Enter.
+AutoSum
+adds the numbers in the selected cells, and the total goes to the cell you selected.
+To hear the result of the
+AutoSum
+calculation, move back to the cell containing the
+AutoSum
+function. You hear the number, "Has formula," and the cell reference.
+Create a simple formula
+You can enter simple formulas to add, subtract, multiply, or divide the numbers in your sheet. You create a formula by combining cell references (for example, B4 or D6) that contain the numbers you want to calculate with the math operator.
+Note
+The operators are the plus sign (+) for addition, the minus sign (-) for subtraction, the asterisk (*) for multiplication, and the forward slash (/) for division.
+Select the cell where you want to put the result of the formula. This is typically to the right of or below the numbers you're calculating.
+Type an equal sign (=). An Excel formula always starts with the equal sign.
+To create your formula, type a combination of cell references (like B4 or D6) and math operators. For example, =
+B4+B5
+, =
+B4-B5
+, =
+B4*B5
+, or =
+B4/B5
+.
+Tip
+To do quick calculations, you can enter numbers in your formula instead of cell references, for example, =
+20+10
+, =
+20-10
+, =
+20*10
+, or =
+20/10
+.
+When done, press
+Enter
+. The numbers are calculated, and the result goes in to the cell you selected.
+Tip
+If you want the cursor to stay in the active cell, press
+Ctrl+Enter
+.
+Apply a number format
+To distinguish between different types of numbers, add a number format, like currency, percentage, or date.
+Select the cells that contain the numbers you want to format.
+To move the focus to the number format menu, press
+Alt
++
+H
+,
+N
+.
+Press
+Alt
++
+Down arrow
+key to expand the menu.
+Press the
+Down arrow
+key until you hear the number format you want, and then press
+Enter
+to apply a selected format to the selected cells.
+Tip
+If the number format you want is not in the menu, press M while you're browsing available formats in the menu. The
+Number
+tab in the
+Format Cells
+dialog box opens.
+To browse through the list of available number formats, press the
+Tab
+key once and then press the
+Down
+or
+Up arrow
+key until you find the format you want, and then press
+Enter
+.
+Filter or sort data in a table
+When you create a table from your data in a sheet, you can quickly analyze the data in a variety of ways, including quickly filtering or sorting.
+For detailed instructions on how to filter and sort data in tables, refer to
+Use a screen reader to sort or filter a table in Excel
+.
+Filter data in a table
+To select the group of data that you want to analyze as a table, select the first cell. Then, to move to the last cell of data (typically the opposite corner of the group of cells), hold down the
+Shift
+key and press the
+arrow
+keys.
+To open the Quick Analysis tool, press
+Ctrl
++
+Q
+.
+To move to the
+Tables
+tab, press
+T
+.
+To select
+Table
+grid, press the
+Tab
+key once and then press
+Enter
+. Your selected data is formatted as a table. Column headings are added, and the rows are formatted in alternating colors.
+To filter data in the table by the contents of a column, move to the heading of the column that contains the data you want to filter by.
+Press
+Alt
++
+Down arrow
+key to open the filter menu, and then press the
+Tab
+key until you hear "Manual filter." The focus is on the
+Select All
+checkbox, which is checked by default.
+To clear the
+Select All
+checkbox, press
+Spacebar
+.
+To browse through the filter choices, press the
+Down arrow
+key, and to select the checkboxes containing the data you want to filter by, press
+Spacebar
+.
+To apply the filter selection, press
+Enter
+.
+If you want to remove the filter and show all data again, repeat steps 5 and 6, and press Spacebar to select the
+Select All
+checkbox. Press
+Enter
+to apply the change.
+Sort data in a table
+In the table, move the focus to the column header you want to sort the table by, and press
+Alt
++
+Down arrow
+key.
+Do one of the following:
+To sort numbers from the smallest to the largest or text from A to Z, press
+S
+.
+To sort the numbers from the largest to the smallest or text from Z to A, press
+O
+.
+Calculate numbers in a table
+With the Quick Analysis tool, you can quickly calculate your numbers. Whether it's a sum, average, or count, Excel shows the calculation results below or next to your numbers throughout the table.
+To select the group of data you want to calculate as a table, select the first cell. Then, to move to the last cell of data (typically the opposite corner of the group of cells), hold down the
+Shift
+key and press the
+arrow
+keys.
+To open the Quick Analysis tool, press
+Ctrl+Q
+.
+To move to the
+Totals
+tab, press
+O
+, and then press the
+Tab
+key once.
+To browse through the calculation options for either the horizontal data or vertical data in your table, press the
+Right arrow
+key.
+To select a calculation option, press
+Enter
+. The selected group of data is calculated as specified.
+To hear the results, select the cells containing the formulas one by one. You hear the formula result, the cell reference, and that the cell contains a formula.
+Format or highlight your data as a table
+Conditional formatting or sparklines can highlight your most important data or show data trends. You can use the Quick Analysis tool to quickly apply these highlights.
+To select the group of data you want to highlight with conditional formatting or sparklines, select the first cell.
+Then, to move to the last cell of data (typically the opposite corner of the group of cells), hold down the
+Shift
+key and press the
+arrow
+keys.
+To open the Quick Analysis tool, press
+Ctrl+Q
+.
+Do one of the following:
+To move to the
+Formatting
+tab, press
+F
+.
+To move to the
+Sparklines
+menu, press
+S
+.
+To move to the tab options, press the
+Tab
+key once. To browse through the formatting or sparklines options, press the
+Right
+or
+Left arrow
+key.
+To select a formatting or sparklines option, press
+Enter
+. Your selected group of data is formatted as specified.
+Note
+To learn more about how to use sparklines, refer to
+Analyze trends in data using sparklines
+.
+Show your data in a chart
+The Quick Analysis tool recommends a specific chart and quickly creates a visual presentation of your data.
+To select the group of numbers and labels you want to represent as a chart, select the first cell. Then, to move to the last cell of data (typically the opposite corner of the group of cells), hold down the
+Shift
+key and press the
+arrow
+keys.
+To open the Quick Analysis tool, press
+Ctrl+Q
+.
+To move to the
+Charts
+tab, press
+C
+, and then press the
+Tab
+key once.
+To browse through the chart options, press the
+Right
+or
+Left arrow
+key until you hear the option you want, and then press
+Enter
+to select the chart type.
+The chart representing your selected group is added to the worksheet as an embedded object.
+Note
+For more detailed information on how to work with charts, refer to
+Use a screen reader to create a chart and select a chart in Excel
+,
+Use a screen reader to create a PivotTable or PivotChart in Excel
+, or
+Create a chart with recommended charts
+.
+Save your work for the first time
+Press
+Ctrl+S
+to save your workbook. The
+Save This file
+dialog box opens.
+The focus is on the
+File name
+text field.
+Type a name for the workbook.
+To choose the location where to save the workbook, press the
+Tab
+key until you hear "Choose a location," followed by the default location.
+Press
+Alt
++
+Down arrow
+key to open the list of available locations.
+Press the
+Down arrow
+key until you hear the name of the location you want, and then press
+Enter
+.
+To save the file, press the
+Tab
+key until you hear "Save button," and press
+Enter
+.
+Print your work
+You can easily print your work in Excel. For detailed instructions on how to print or change the print settings in Excel, refer to
+Use a screen reader to print an Excel workbook
+.
+To open the
+Print
+menu, press
+Ctrl+P
+.
+The focus is on the
+Print
+button.
+Press the
+Tab
+key or
+Shift+Tab
+to browse the print settings, for example, number of copies, orientation, and page size.
+To change a setting, press the
+Down arrow
+key to expand the list of options, press the
+Up
+or
+Down arrow
+key to navigate the lists, and then press
+Enter
+to select an option.
+When the print settings are the way you want, press the
+Tab
+key or
+Shift+Tab
+until you hear "Print button," and then press
+Enter
+.
+See also
+Use a screen reader to insert a table in an Excel worksheet
+Use a screen reader to create a PivotTable or PivotChart in Excel
+Use a screen reader to create a chart and select a chart in Excel
+Keyboard shortcuts in Excel
+Use a screen reader to explore and navigate Excel
+Use Excel for Mac with your keyboard and VoiceOver, the built-in macOS screen reader, to do basic tasks, such as create a new workbook, enter data in it, create simple formulas, and print your work.
+Note
+This topic assumes that you are using the built-in macOS screen reader, VoiceOver. To learn more about using VoiceOver, go to
+VoiceOver Getting Started Guide
+.
+In this topic
+Open Excel
+Create a new workbook
+Enter your data
+Use AutoSum to add up numbers
+Create a simple formula
+Apply a number format
+Save your work for the first time
+Print your work
+Open Excel
+Use
+Finder
+and VoiceOver to open Excel for Mac.
+To go to the
+Applications
+list in
+Finder
+, press
+Shift
++
+Command
++
+A
+.
+Type
+M
+to go straight to applications that start with an "M," and then press the
+Tab
+key until you hear "MicrosoftExcel application."
+To open Excel for Mac, press
+Command
++
+Down arrow
+key.
+Create a new workbook
+Excel files are called workbooks, and they each have one or more worksheets.
+In Excel, press
+Command
++
+N
+. Excel opens a blank workbook in a separate window, placing focus in the first cell in the sheet.
+Tip
+To add a new worksheet to a workbook, press
+Shift+F11
+.
+Enter your data
+As you enter data in the worksheet, you work with rows, columns, and cells. Cells are referenced by their row and column location on the sheet, so cell A1 is in the first row of column A.
+To move the focus to the worksheet content area, press
+F6
+or
+Shift+F6
+until you hear "Workbook area," followed by the current sheet number.
+To move between cells, use the arrow keys. You hear the cell coordinates as you move. If the cell has text in it, VoiceOver reads that text.
+To enter or replace text in a cell, type the text, number, or formula. To move to the next cell, press
+Return
+or the
+Tab
+key.
+Use AutoSum to add up numbers
+You can use the
+AutoSum
+function to quickly add up numbers you've entered to your sheet.
+Move the focus to the cell that is to the right of the numbers that you want to add up, or just below them.
+To insert the
+AutoSum
+function, press
+Shift+Command+T
+.
+AutoSum
+adds up the numbers and places the result to the cell you selected.
+Create a simple formula
+You can enter simple formulas to add, subtract, multiply, or divide the numbers in your sheet. You create a formula by combining cell references (like B4 or D6) that contain the numbers you want to calculate with the math operator. The operators are the plus sign (+) for addition, the minus sign (-) for subtraction, the asterisk (*) for multiplication, and the forward slash (/) for division.
+Select the cell where you want to put the result of the formula. This is typically to the right of or below the numbers you're calculating.
+Type an equal sign (=). An Excel formula always starts with the equal sign.
+To create your formula, type a combination of cell references (like B4 or D6) and math operators. For example, =
+B4+B5
+, =
+B4-B5
+, =
+B4*B5
+, or =
+B4/B5
+.
+Tip
+To do quick calculations, instead of cell references, you can enter numbers in your formula, for example, =
+20+10
+, =
+20-10
+, =
+20*10
+, or =
+20/10
+.
+Press
+Return
+. The numbers are calculated, and the result goes to the cell you selected.
+Tip
+If you want the cursor to stay in the active cell, press
+Control+Return
+.
+Apply a number format
+You can display different types of numbers in Excel by applying a number format, like currency, percentage, or date.
+Select the cell or cells you want to format. To select a sequence of cells, press and hold Shift and then use the arrow keys until all the cells you want are selected.
+To open the
+Format Cells
+dialog box, press
+Command+1
+.
+To move the focus to the list of format categories, press the
+Tab
+key once.
+To browse the formatting types, press the
+Up
+or
+Down arrow
+key. You hear the category name, such as
+Currency
+or
+Date
+.
+Some categories offer a variety of formats. For example, you can select a specific date format such as 3/14/15 or 14-Mar-15. To move the focus to the list of formatting types for a given category, press the
+Tab
+key once.
+To navigate the format options, press the
+Up
+or
+Down arrow
+key.
+To select a specific format and apply it to the selected cells, press
+Return
+.
+Save your work for the first time
+Tip
+To save your changes to a file that you have saved previously, press
+Command+S
+.
+Press
+Command+S
+. The focus moves to the
+Name:
+text field.
+Type the name you want to use for your workbook, and then do one of the following:
+To save the file on your computer, press the
+Tab
+key until you hear "On my Mac button," and press
+Control+Option+Spacebar
+. To save the file to the
+Documents
+folder on your Mac, press
+Return
+.
+To save the file online, press the Tab key until you hear "Online locations button," and press
+Control+Option+Spacebar
+. Press the
+Tab
+key until you hear the default or current save location, press the
+Down arrow
+key until you hear the location you want, such as OneDrive, and then press
+Control+Option+Spacebar
+.
+To save the file to the selected location, press
+Return
+.
+Print your work
+For detailed instructions on how to print or change the print settings in Excel, refer to
+Use a screen reader to print an Excel workbook
+.
+Press
+Command+P
+. The
+Print
+dialog box opens. The focus is on the
+Printer
+menu.
+To select a printer from the menu, press the
+Down arrow
+key until you hear the name of the printer you want, and then press
+Return
+.
+Press
+Control+Option+Right arrow
+key until you hear "Print button," and then press
+Control+Option+Spacebar
+to print.
+See also
+Use a screen reader to insert a table in an Excel worksheet
+Use a screen reader to create a chart and select a chart in Excel
+Keyboard shortcuts in Excel
+Use a screen reader to explore and navigate Excel
+Use Excel for iOS with VoiceOver, the built-in iOS screen reader, to do basic tasks, such as open the app, create a workbook, or enter your data.
+Note
+This topic assumes that you are using the built-in iOS screen reader, VoiceOver. To learn more about using VoiceOver, visit
+Apple accessibility
+.
+In this topic
+Open Excel
+Sign in to Excel
+Open a workbook
+Create a new workbook
+Add a new worksheet to the workbook
+Enter your data
+Apply a number format
+Save your work
+Print your work
+Open Excel
+On your iPhone's home screen, drag one finger around the screen until you hear "Excel," and then double-tap the screen.
+When you open Excel for iOS for the first time, you might need to sign in to your Microsoft account. For instructions, go to
+Sign in at the first use
+.
+Tip
+If you did not sign out of the Excel for iOS app the last time you used it, the app opens without prompting you to sign in.
+Sign in to Excel
+You can sign in to Excel for iOS the first time you open the app or later on. After you sign in to Excel, your account is also available in other Microsoft 365 apps. You can use Excel without signing in, too.
+Sign in at the first use
+When you open Excel for iOS for the first time, the app starts the initial setup, and then you hear "Use Excel on the go."
+Flick right until you hear "Email or phone number, text field," and then double-tap the screen.
+Use the on-screen keyboard to type your email address or phone number. When you're done, tap near the top of the screen with four fingers, flick left or right until you hear "Next, button," and then double-tap the screen.
+Flick right until you hear "Enter password, password, secure text field, required," and then double-tap the screen.
+Use the on-screen keyboard to type your password.
+When you're done, tap near the top of the screen with four fingers, Flick left or right until you hear "Sign in button," and then double-tap the screen.
+If you hear "Don't miss anything," flick right until you hear the option you want, and then double-tap the screen.
+Sign in after the first use
+When you decide to make the most of your workbooks, you can sign in to Excel for iOS even after you've already used the app without a sign-in.
+Open Excel.
+Tap near the top of the screen with four fingers, flick left or right until you hear "Navigation pane, button," and then double-tap the screen.
+Flick right or left until you hear "Sign in button," and then double-tap the screen.
+Tap near the top of the screen with four fingers, flick right or left until you hear "Email, phone, or Skype, text field, required," and then double-tap the screen.
+Use the on-screen keyboard to type your email address, phone number, or Skype name.
+When you're done, tap near the top of the screen with four fingers, flick left or right until you hear "Next, button," and then double-tap the screen.
+Flick right until you hear "Password, secure text field," and then double-tap the screen.
+Use the on-screen keyboard to type your password.
+When you're done, tap near the top of the screen with four fingers, flick left or right until you hear "Sign in, button," and then double-tap the screen.
+Open a workbook
+Open a recent workbook
+Open Excel. Tap near the bottom of the screen with four fingers, flick left until you hear "Home tab," and then double-tap the screen.
+If you're already editing a file in Excel and want to open another one, tap near the top of the screen with four fingers, flick right until you hear "Close file button," and double-tap the screen. Tap near the bottom of the screen with four fingers, flick left until you hear "Home tab," and then double-tap the screen.
+Flick right until you hear the file you want, and then double-tap the screen.
+Open an older workbook
+Open Excel app in your iOS device. If you're already editing a file in Excel and want to open another one, tap near the top of the screen with four fingers, flick right until you hear "Close file button," and double-tap the screen.
+Tap near the bottom of the screen with four fingers. You hear: "Open tab." Double-tap the screen. A list of files and folders opens.
+If the file you want to open is in a folder, flick right until you hear the file location you want, and then double-tap the screen.
+Navigate to the file and double-tap the screen to open it.
+Create a new workbook
+Excel files are called workbooks. Each workbook contains sheets, typically called spreadsheets or worksheets. You can add as many sheets as you want to a workbook, or you can create new workbooks to keep your data organized.
+Open Excel. If you're already editing a file in Excel and want to create a new one, tap near the top of the screen with four fingers, flick right until you hear "Close file button," and double-tap the screen.
+Tap near the bottom of the screen with four fingers, flick left until you hear "New tab," and then double-tap the screen.
+Flick left or right until you hear the name of the workbook template you want to use, and then double-tap the screen. If you want to start a new workbook using a blank template without predesigned formatting, flick left or right until you hear "Blank workbook," and double-tap the screen.
+Add a new worksheet to the workbook
+In a workbook, tap near the bottom of the screen with four fingers, and double-tap the screen. You hear: "Add sheet, button." Double-tap the screen. The new sheet opens.
+Enter your data
+As you enter data in the sheet, you work with rows, columns, and cells. Cells are referenced by their location in the row and column on the sheet, so cell A1 is in the first row of column A.
+To move the focus to the sheet, drag your finger around the screen until you hear the coordinates of the cell you want, for example, "B3," and then double-tap the screen. You hear "Selected," followed by the cell details. The cell is now selected.
+To open the on-screen keyboard, double-tap the screen. Use the on-screen keyboard to type the numbers or text that you want.
+Once you're done, tap near the bottom of the screen with four fingers, flick left until you hear "Return," and then double-tap the screen.
+Apply a number format
+You can display different types of numbers by applying a number format to a cell such as
+Currency
+,
+Percentage
+, or
+Date
+.
+On the worksheet, drag your finger around the screen to find the cell you want to work on, and then double-tap the screen to select the cell.
+Tap near the top of the screen with four fingers, flick right until you hear "Show ribbon button," and then double-tap the screen. You hear the current tab, for example, "Data tab."
+To go to the
+Home
+tab, double-tap the screen, and then flick left until you hear: "Home tab." Then double-tap the screen.
+Flick right until you hear "Number format button," and double-tap the screen. You hear: "Number format."
+Flick right until you hear the format you want such as
+Currency
+,
+Time
+, or
+Percentage
+.
+Tip
+If a format option has a submenu, you hear, for example, "Currency menu." To open the submenu, double-tap the screen.
+To select a number format, double-tap the screen.
+Save your work
+Excel for iOS automatically saves your work if you're signed in, but you can change the name of the file and select the save location to save a copy of a file to your phone, for example.
+Save a copy of your file with a new name
+In an Excel worksheet, tap near the top of the screen with four fingers, flick right until you hear "File button," and then double-tap the screen.
+Flick right until you hear "Save a copy button," and then double-tap the screen. You hear "Save as, file name, text field." The on-screen keyboard opens.
+Use the on-screen keyboard to type the new file name.
+Once you're done, tap near the bottom of the screen with four fingers, flick left until you hear "Done," and then double-tap the screen to save the file with the new name.
+Tip
+If you are trying to save a file with a name that already exists, you hear "Replace file?" flick right until you hear "Cancel button" or "Replace button," depending on what you want to do. Double-tap the screen to confirm your choice.
+Select where to save your file
+In an Excel worksheet, tap near the top of the screen with four fingers, flick right until you hear "File button," and then double-tap the screen.
+Flick right until you hear "Save a copy button," and then double-tap the screen. You hear: "Save as, file name, text field."
+Flick right until you hear the location where to save your file. If you want to save the copy to your phone, flick right until you hear "On my iPhone, button," and double-tap the screen.
+In the location option you selected, flick left or right until you hear the possible folder or other sublocation you want, and then double-tap the screen.
+Flick right until you hear "Save button," and then double-tap to save the file in the selected location.
+Tip
+If you are trying to save a file with a name that already exists, you hear "Replace file?" Flick right until you hear "Cancel button" or "Replace button," depending on what you want to do. Double-tap the screen to confirm your choice.
+Print your work
+Print your worksheet directly from your iPhone to a printer that supports AirPrint. To learn more about AirPrint and the supported printers, refer to
+Use AirPrint to print from your iPhone, iPad, or iPod touch
+.
+Make sure that your iPhone and printer are connected to the same Wi-Fi network.
+In an Excel file, tap near the top of the screen with four fingers, flick right until you hear "File button," and then double-tap the screen.
+Flick right until you hear "Print, button," and then double-tap the screen.
+Flick right and you hear: "AirPrint, button." Double-tap the screen. The
+Layout Options
+page opens.
+Flick right to browse the list of layout options. To select an option, double-tap the screen.
+When you're done, flick right until you hear: "Next, button." If you're prompted to allow online file conversion, flick right until you hear "Allow," and then double-tap the screen. The
+Print Options
+page opens.
+To select your printer, flick right until you hear "Printer, Select printer, button," and then double-tap the screen. Flick right until you hear the printer you want and then double-tap the screen. The focus returns to the
+Printer Options
+page.
+To set the number of copies to be printed, flick right until you hear "One copy" or the current selection. To change the current number of copies, flick right until you hear "Decrement" or "Increment," and then double-tap the screen.
+To print, flick left until you hear "Print button," and then double-tap the screen.
+For instructions on how to perform more advanced printing tasks, refer to
+Use a screen reader to print an Excel workbook
+.
+See also
+Use a screen reader to find and replace data in Excel
+Use a screen reader to add comments to an Excel worksheet
+Keyboard shortcuts in Excel
+Set up your device to work with accessibility in Microsoft 365
+Use a screen reader to explore and navigate Excel
+Use Excel with TalkBack, the built-in Android screen reader, to do basic tasks, such as create, edit, or print a workbook.
+Note
+This topic assumes that you are using the built-in Android screen reader, TalkBack. To learn more about using TalkBack, go to
+Android accessibility
+.
+In this topic
+Open Excel for Android
+Sign in to Excel
+Open a workbook
+Create a new workbook
+Add a new worksheet to the workbook
+Enter your data
+Apply a number format
+Create a simple formula
+Save your work
+Print your work
+Open Excel for Android
+On your Android device's home screen, drag one finger around the screen until you hear "Apps," and then double-tap the screen.
+Flick right until you hear "Excel," and then double-tap the screen.
+When you open Excel for the first time, you might need to sign in to your Microsoft account. For instructions, go to
+Sign in at the first use
+.
+Tip
+If you have turned on
+Ok Google
+voice detection in the
+Google
+app, you can say: "Ok Google, open Excel."
+If you did not sign out of the Excel app the last time you used it, the app opens without prompting you to sign in.
+Sign in to Excel
+You can sign in to Excel the first time you open the app or later on. After you sign in to Excel, your account is also available in other Microsoft 365 apps. You can use Excel without signing in, too.
+Sign in at the first use
+When you open Excel for the first time, the app starts the initial setup, and then you hear: "Sign in to Microsoft account."
+Flick right until you hear "Editing, edit box, email, phone, or Skype," and then double-tap the screen.
+Use the on-screen keyboard to type your email address, phone number, or Skype name. When you're done, flick down-then-left to close the on-screen keyboard.
+Flick right or left until you hear "Next, button," and double-tap the screen.
+Flick right until you hear "Editing password, edit box," and then double-tap the screen.
+Use the on-screen keyboard to type your password. When you're done, flick down-then-left to close the on-screen keyboard.
+Flick right or left until you hear "Sign in, button," and then double-tap the screen.
+Sign in after the first use
+When you decide to make the most of your workbooks, you can sign in to Excel even after you've already used the app without a sign-in.
+Open Excel.
+Flick right until you hear "Sign in," and then double-tap the screen. You hear: "Sign in, Back button."
+Flick right until you hear "Sign in button," and then double-tap the screen. The
+Sign in
+window opens.
+Flick right until you hear "Editing, edit box, Email, phone, or Skype," and then double-tap the screen.
+Use the on-screen keyboard to type your email address, phone number, or Skype name. When you're done, flick down-then-left to close the on-screen keyboard.
+Flick left or right until you hear "Next, button," and then double-tap the screen.
+Flick right until you hear "Editing password, edit box," and then double-tap the screen.
+Use the on-screen keyboard to type your password. When you're done, flick down-then-left to close the on-screen keyboard.
+Flick right or left until you hear "Sign in, button," and then double-tap the screen.
+Open a workbook
+When you open Excel, you land on the
+Recent
+page. It lists your most recent workbooks. You can quickly open one of your most recent workbooks to continue where you left off. You can also navigate to and open an older workbook.
+Open a recent workbook
+Open Excel. If you're already working on a workbook and want to open another one, flick down-then-left.
+You land on the
+Recent
+page. Drag one finger on the screen until you hear the file you want, and then double-tap the screen.
+Open an older workbook
+Open Excel. If you're already working on a workbook and want to open another one, flick down-then-left.
+Flick left or right until you hear "Open tab," and then double-tap the screen.
+Flick right until you hear the location of the file and double-tap the screen.
+Flick right until you hear the name of the file you want and double-tap the screen to open it.
+Create a new workbook
+Excel files are called workbooks. Each workbook contains sheets, typically called spreadsheets or worksheets. You can add as many sheets as you want to a workbook, or you can create new workbooks to keep your data organized.
+Open Excel. If you're already working on a workbook and want to create a new one, flick down-then-left.
+Flick left or right until you hear "New button," and then double-tap the screen. You hear: "New, Back button."
+Flick right until you hear the name of the workbook template you want to use, and then double-tap the screen.
+If you want to start a new workbook using a blank template without predesigned formatting, flick left or right until you hear "Blank workbook," and double-tap the screen.
+Add a new worksheet to the workbook
+In a workbook, drag your finger around the lower-right corner of the screen until you hear "Add sheet button," and then double-tap the screen.
+Note
+If you don't hear "Add sheet button," the sheets bar is hidden. To display the sheets bar, drag your finger around the lower-left corner of the screen until you hear "Sheets button," and double-tap the screen.
+Enter your data
+As you enter data in the sheet, you work with rows, columns, and cells. Cells are referenced by their location in the row and column on the sheet, so cell A1 is in the first row of column A. On a new sheet, cell A1 is the default selection.
+On the worksheet, drag your finger around the screen until you find the cell you want to work on.
+To open the context menu, double-tap the screen. You hear: "Cut button."
+Flick right until you hear "Edit button," and then double-tap the screen. The on-screen keyboard is displayed on the bottom half of the screen.
+Use the on-screen keyboard to type the numbers or text that you want. When you're done, flick down-then-left to close the on-screen keyboard.
+Drag your finger around the upper-right corner of the screen until you hear "Enter button," and then double-tap the screen.
+Apply a number format
+You can display different types of numbers by applying a number format to a cell such as
+Currency
+,
+Percentage
+, or
+Date
+.
+On the worksheet, drag your finger around the screen to find the cell you want to work on, and then double-tap the screen to select the cell.
+To close the context menu, flick down-then left.
+Flick left or right until you hear "More options button," and then double-tap the screen. You hear the name of the currently selected tab.
+Double-tap the screen, flick left until you hear "Home, tab menu," and then double-tap the screen.
+Flick right until you hear "Number format menu," and double-tap the screen. The
+Number Format
+menu opens.
+Flick right until you hear the format you want such as
+Currency
+,
+Time
+, or
+Percentage
+, and double-tap the screen to select.
+Tip
+If a format option has a submenu, you hear, for example, "Number menu." To open the submenu, double-tap the screen.
+Create a simple formula
+You can create simple formulas to add, subtract, multiply, or divide your numbers.
+On the worksheet, drag your finger around the screen to find the cell where you want to display the result of the formula.
+To open the context menu, double-tap the screen. You hear: "Cut button."
+Flick right until you hear "Edit button," and then double-tap the screen to open the on-screen keyboard.
+To start creating your formula, first type an equal sign ( = ). An Excel formula always starts with the equal sign.
+When you have typed the equal sign, type a combination of cell references (like B4 or D6) and math operators. Type the plus sign (+) for addition, the minus sign (-) for subtraction, the asterisk (*) for multiplication, or the forward slash (/) for division. For example, type =
+B4+B5
+, =
+B4-B5
+, =
+B4*B5
+, or =
+B4/B5
+.
+Tip
+To do quick calculations, instead of cell references, you can enter numbers in your formula, for example, =
+20+10
+, =
+20-10
+, =
+20*10
+, or =
+20/10
+.
+Once you're done, drag your finger around the upper-right corner of the screen until you hear "Enter button," and then double-tap the screen. Excel runs the calculation and inserts the result to the selected cell.
+Save your work
+Excel automatically saves your work if you're signed in, but you can change the name of the file and select the save location, for example, to save a copy to your phone.
+Rename your file
+In an Excel file, flick right until you hear "More options menu," and then double-tap the screen.
+Flick right until you hear "Save as button," and then double-tap the screen. The
+Save as
+page opens. The focus is on the file name text field.
+Double-tap the screen. To clear the current file name, flick right until you hear "Clear button," and then double-tap the screen.
+Use the on-screen keyboard to type the new file name. When you're done, flick down-then-left to close the on-screen keyboard.
+Flick right until you hear "Save button," and then double-tap to save the file with the new name.
+Tip
+If you are trying to save a file with a name that already exists, you hear: "Replace file?" Flick right until you hear "Cancel button" or "Replace button," depending on what you want to do. Double-tap the screen to confirm your choice.
+Select where to save your file
+In an Excel file, flick right until you hear "More options menu," and then double-tap the screen.
+Flick right until you hear "Save as button," and then double-tap the screen. The
+Save as
+page opens. The focus is on the file name text field.
+Flick left until you hear the location where to save your file. If you want to save the file to your phone, flick left until you hear "This device," and double-tap the screen.
+In the location you selected, flick left or right until you hear the possible folder or other sublocation you want, and then double-tap the screen.
+Flick right until you hear "Save button," and then double-tap to save the file in the selected location.
+Tip
+If you are trying to save a file with a name that already exists, you hear: "Replace file?" Flick right until you hear "Cancel button" or "Replace button," depending on what you want to do. Double-tap the screen to confirm your choice.
+Print your work
+To print your worksheets, make sure you have a printer connected to your device.
+In an Excel file, flick right until you hear "More options menu," and then double-tap the screen.
+Flick right until you hear "Print," and then double-tap the screen. The
+Print Options
+page opens.
+To use the default print options, flick right until you hear "Print, button," and then double-tap the screen. If you hear "Allow Excel to use an online service from Microsoft to prepare files for printing," flick right until you hear "Allow button," and double-tap the screen.
+To select a printer, flick right until you hear "Drop-down list, Select a printer," and then double-tap the screen. Flick right until you hear the name of the printer you want, and double-tap the screen to select.
+To print, flick right until you hear "Print button," and then double-tap the screen.
+For instructions on how to perform more advanced printing tasks, go to
+Use a screen reader to print an Excel workbook
+.
+See also
+Use a screen reader to insert a table in an Excel worksheet
+Use a screen reader to print an Excel workbook
+Keyboard shortcuts in Excel
+Set up your device to work with accessibility in Microsoft 365
+Use a screen reader to explore and navigate Excel
+Use Excel for the web with your keyboard and a screen reader to do basic tasks, such as create a new workbook, edit a workbook, and print your work.
+Note
+To learn more about screen readers, go to
+How screen readers work with Microsoft 365
+.
+When you use Excel for the web, we recommend that you use Microsoft Edge as your web browser. Because Excel for the web runs in your web browser, the keyboard shortcuts are different from those in the desktop program. For example, you'll use
+Ctrl+F6
+instead of
+F6
+for jumping in and out of the commands. Also, common shortcuts like
+F1
+(Help) and
+Ctrl+O
+(Open) apply to the web browser – not Excel for the web.
+In this topic
+Open Excel for the web
+Open a workbook
+Switch to Editing mode
+Create a new workbook
+Edit your workbook
+Enter your data
+Use AutoSum to sum your numbers
+Create a simple formula
+Apply a number format
+Create a table from your data
+Sort or filter the data in a table
+Show calculations of your numbers
+Save your work
+Print your work
+Open Excel for the web
+Go to
+https:⁠//www.office.com
+and sign in with your Microsoft account. To open Excel directly, go to
+Excel for the web
+.
+Press the
+Tab
+key until you hear "Home button," press the
+Down arrow
+key until you hear "Go to Excel, button, off," and then press
+Enter
+.
+Excel for the web opens with the focus on the template for a new blank workbook.
+Note
+If you only see or hear "Message Copilot" or "What can I help you with?", press
+Tab
+until you hear "Apps" from the left navigation pane and press
+Tab
+until you hear "Link, Excel."
+Open a workbook
+You can quickly open a file that you've been working on recently or browse all of your workbooks to find the one you want. You can also open your workbook in the full desktop version of Excel to access additional options.
+Open Excel for the web. The app opens and the focus is on a new blank workbook option.
+Do one of the following:
+To open a recent file, press the
+Tab
+key until you hear "Recent tab item," and press Enter.
+Press the Tab key until you hear "Link Excel," followed by the name of the workbook in focus and your username. To browse the list of recent workbooks, press the
+Tab
+key. When you find the desired file, press
+Enter
+. The file opens in
+Viewing
+mode.
+To browse all of your workbooks to find the one you want to open, press the
+Tab
+key or B until you hear "All, button," and press
+Enter
+. Press the
+Tab
+key until you hear "Link Excel," followed by the name of the workbook in focus and your username.
+To navigate the list of workbooks, press the
+Tab
+key. When you find the desired file, press
+Enter
+. The file opens in
+Viewing
+mode.
+Open a workbook when editing a file in Excel for the web
+Note
+To open another workbook when already working in Excel for the web, you must be in
+Editing
+mode. For instructions on how to switch to
+Editing
+mode, refer to
+Switch to Editing mode
+.
+Press
+Alt
++
+Windows
+key. The focus moves to the ribbon.
+To open the
+File
+menu, press
+F
+.
+To open the
+Open
+menu, press
+O
+.
+Do one of the following:
+To open a recent workbook, press the
+Tab
+key once, press the
+Up
+or
+Down arrow
+key until you hear the document you want, and then press
+Enter
+. The file opens in
+Viewing
+mode.
+To open a document from an online repository, press the
+Tab
+key until you hear "Link, View more files," and press
+Enter
+. OneDrive opens. Navigate to the file you want, and then press
+Enter
+. The file opens in the
+Editing
+mode.
+Open a workbook in the full version of Excel
+If you have the full desktop version of Excel, it gives you many more options when working with your files. It's easy to open the full version from Excel for the web.
+In Excel for the web, press
+Alt
++
+Windows
+key,
+Z
+,
+M
+, and then
+O
+. You hear: "This site is trying to open Excel."
+Press the
+Tab
+key until you hear "Open button," and then press
+Enter
+.
+The workbook opens in the desktop version of Excel.
+Switch to Editing mode
+If you've opened a workbook in
+Viewing
+mode, and want to edit the file, you need to switch to
+Editing
+mode.
+In
+Viewing
+mode, press
+Alt
++
+Windows
+key,
+Z
+,
+M
+, and then
+E
+. The mode changes to
+Editing
+.
+Create a new workbook
+You can create a new workbook from a preformatted or blank template.
+Tip
+To add a new worksheet to the current workbook, press
+Shift+F11
+.
+To quickly create a new worksheet in Excel for the web, open your browser, type
+Excel.new
+in the address bar, and then press
+Enter
+.
+Open Excel for the web. The app opens and the focus is on a new blank workbook option. This workbook option doesn't contain any predefined formatting.
+Do one of the following:
+To open a new blank workbook and start working on it, press
+Enter
+.
+To browse the list of templates on the Excel for the web start page, press the
+Tab
+key until you hear the template you want, and then press
+Enter
+. To browse for additional templates, press the
+Tab
+key until you hear "Link, Access more templates," and press
+Enter
+. Press the
+Tab
+key until you find the right template, and then press
+Enter
+.
+The new workbook opens, and the focus is on the first cell in the sheet.
+Create a workbook when editing a file in Excel for the web
+Note
+To create a new workbook when already working in Excel for the web, you must be in
+Editing
+mode. For instructions on how to switch to
+Editing
+mode, refer to
+Switch to Editing mode
+.
+Press
+Alt
++
+Windows
+key. The focus moves to the ribbon.
+To open the
+File
+menu, press
+F
+.
+To open the
+New
+menu, press
+N
+.
+Press the
+Tab
+key until you hear "Enter table, Blank, New," and then do one of the following:
+To create a new workbook from a blank template without predesigned formatting, press
+Enter
+.
+To browse for a template, use the
+arrow
+keys to locate the template you want, and then press
+Enter
+.
+Edit your workbook
+To edit your workbook, you need to be in
+Editing
+mode. For instructions on how to get to
+Editing
+mode, go to
+Switch to Editing mode
+.
+Enter your data
+To move between cells, press the
+arrow
+keys. The screen reader announces the cells as you move by their row and column location on the worksheet. The cell A1 is in the first row of the column A. If the cell has text in it, the screen reader reads the text.
+To enter or replace text in a cell, type the text, number, or formula.
+To move to the next cell, press
+Enter
+or the
+Tab
+key.
+Use AutoSum to sum your numbers
+To quickly add up the numbers in your sheet, you can use the
+AutoSum
+function.
+Move to the cell to the right of or just below the numbers that you want to sum.
+Press
+Alt+Windows
+key,
+H
+,
+U
+,
+S
+. To perform the calculation, press
+Enter
+.
+Excel for the web adds up the numbers and places the result to the cell you selected.
+Create a simple formula
+You can create simple formulas to add, subtract, multiply, or divide your numbers.
+Move to the cell to the right of or just below the numbers that you want to calculate.
+Type an equal sign ( = ). You hear: "Editing, equal sign."
+To create the formula, type a combination of numbers and calculation operators, like the plus sign (+) for addition, the minus sign (-) for subtraction, the asterisk (*) for multiplication, or the forward slash (/) for division. For example, type one of the following:
+To add numbers, type
+=2+4
+.
+To subtract numbers, type
+=4-2
+.
+To multiply numbers, type
+=2*4
+.
+To divide numbers, type
+=4/2
+.
+To perform the calculation, press
+Enter
+.
+Excel for the web runs the calculation and shows the result in the cell you selected.
+Apply a number format
+You can display different types of numbers in Excel for the web by applying a number format, like
+Currency
+,
+Percentage
+, or
+Date
+.
+Select the cell or cells you want to format. To select several adjacent cells, press and hold Shift and then use the
+arrow
+keys until you've selected the cells you want.
+To open the context menu, press
+Shift+F10
+or the
+Windows
+Menu key.
+Press the
+Down arrow
+key or I until you hear "Number format," and then press
+Enter
+.
+Press the
+Down arrow
+key until you hear the format you want such as
+Currency
+or
+Date
+, and then press
+Enter
+to select and apply it to your worksheet.
+Create a table from your data
+You can create a table from your data so that you can, for example, quickly filter or sort the data.
+Select the cells that you want to include in the table. To select several adjacent cells, press and hold
+Shift
+and then use the
+arrow
+keys until you've selected the cells you want.
+To open the
+Format as Table
+menu, press
+Alt+Windows
+key,
+H
+,
+T
+.
+Use the
+arrow
+keys to browse the available table styles. When you hear the style you want, press
+Enter
+.
+The
+Format as Table
+dialog box opens.
+Press the
+Tab
+key until you hear "My table has headers, checkbox, unchecked." To add headers to the table, press
+Spacebar
+.
+Tip
+Use table headers to make your table more accessible for screen reader users. Screen readers use the header information to understand how to locate table cells.
+To create the table, press
+Enter
+.
+Sort or filter the data in a table
+In the table you want to sort or filter, move to a cell that has a
+Sort & Filter
+drop-down menu. You hear the cell details, followed by "Has a sort and filter drop-down menu."
+To open the drop-down menu, press
+Alt+Down arrow
+key.
+Do one of the following:
+To sort the data, press the
+Down arrow
+key until you hear "Sort smallest to largest," "Sort largest to smallest," "Sort A to Z," or "Sort Z to A" depending on the type of data in the cells, and then press
+Enter
+.
+To apply a simple filter, press the
+Down arrow
+key or until you hear "Select all, menu item," and then press
+Spacebar
+. Press the
+Down arrow
+key to browse the filter options. When you hear an option you want, press
+Spacebar
+to select or unselect it. To apply the filter, press the Tab key until you hear "Apply," and then press
+Enter
+.
+To apply a complex filter, press the
+Down arrow
+key or until you hear "Text filters, menu item," and then press
+Enter
+or the
+Right arrow
+key once. The filter menu opens.
+Press the
+Down arrow
+key until you hear the option you want and then press Enter. The
+Custom Filter
+dialog box opens. Type the values you want and press
+Enter
+.
+To clear a filter, press the
+Down arrow
+key until you hear "Clear filter from," followed by the coordinates of the filtered cell, and then press
+Enter
+.
+For more detailed instructions on how to sort or filter data in a table, refer to
+Use a screen reader to sort or filter a table in Excel
+.
+Show calculations of your numbers
+In the cell where you want the total to appear, type an equal sign ( = ).
+Type the name of the formula or function you want to use such as
+sum
+or
+average
+. A list of functions opens and is updated as you type. You hear the first function in the list.
+Press the
+Down arrow
+key until you hear the function you want, and then press the
+Tab
+key once to select it.
+Type the cell range or other numbers you want to apply the function on, followed by a closing parenthesis ()), and then press
+Enter
+.
+Save your work
+Excel for the web automatically saves your work, but you can change the location or file name and you can download a copy of the file.
+Save a copy online
+While editing a workbook, press
+Alt+Windows
+key,
+F
+,
+S,A
+. The
+Save As
+dialog box opens. The focus is on the
+File Name
+text field.
+Type a new name for your file.
+Press the
+Tab
+key once. You hear "Location," followed by the name of the current location.
+Press
+Alt+Down arrow
+key to expand the menu, and then press the
+Up
+or
+Down arrow
+key until you hear the location you want, and then press
+Enter
+.
+Rename a workbook
+While editing a workbook, press
+Alt+Windows
+key,
+F
+,
+S
+,
+R
+. The focus moves to the
+File Name
+text field.
+Type a new name for your file, and then press
+Enter
+.
+Save a copy to your computer
+While editing a workbook, press
+Alt+Windows
+key,
+F
+,
+S
+,
+C
+. The file is downloaded to the
+Downloads
+folder on your computer.
+Print your work
+While editing a workbook, press
+Alt+Windows
+key,
+F
+,
+P
+,
+P
+. The print preview of the workbook opens.
+To print using the default settings, press the
+Tab
+key until you hear "Print button," and then press
+Enter
+.
+For instructions on how to perform more advanced printing tasks, refer to
+Use a screen reader to print an Excel workbook
+.
+See also
+Use a screen reader to insert a table in an Excel worksheet
+Use a screen reader to find and replace data in Excel
+Use a screen reader to add comments to an Excel worksheet
+Keyboard shortcuts in Excel
+Use a screen reader to explore and navigate Excel
+Technical support for customers with disabilities
+Microsoft wants to provide the best possible experience for all our customers. If you have a disability or questions related to accessibility, please contact the
+Microsoft Disability Answer Desk
+for technical assistance. The Disability Answer Desk support team is trained in using many popular assistive technologies and can offer assistance in English, Spanish, French, and American Sign Language. Please go to the Microsoft Disability Answer Desk site to find out the contact details for your region.
+If you are a government, commercial, or enterprise user, please contact
+the enterprise Disability Answer Desk
+.

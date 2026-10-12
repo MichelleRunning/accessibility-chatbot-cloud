@@ -1,0 +1,440 @@
+URL: https://support.microsoft.com/en-us/accessibility/windows/narrator/chapter-3-using-scan-mode
+Chapter 3: Using scan mode
+Applies To
+Windows 10
+Windows 11
+Windows 10
+This chapter describes a navigation and reading mode called scan mode. Scan mode lets you navigate apps, email, and webpages using the arrow keys. You'll also be able to use common keyboard shortcuts to read text and jump directly to headings, links, tables, and landmarks.
+Scan mode basics
+To turn scan mode on and off, press
+Narrator+Spacebar
+.
+Tip
+The
+Narrator
+key is a modifier key in the Narrator commands. Both the
+Caps lock
+key and the
+Insert
+key serve as your Narrator key by default. For more info on the
+Narrator
+key, go to
+Chapter 2: Narrator basics
+or
+Appendix B: Narrator keyboard commands and touch gestures
+.
+When scan mode is turned on, use the
+Up
+and
+Down arrowkeys
+to navigate apps and webpages. Press
+Enter
+or
+Spacebar
+to activate an item that you want to use, such as a button in an app, a link in a webpage, or a text box.
+Scan mode turns on automatically when you use Mail, Outlook, Microsoft Edge, Google Chrome, and Firefox. It also turns on automatically when you open any Windows app where you turned it on before.
+If you turn scan mode off for an app, it will remain off for that app until you turn it on again. Scan mode automatically turns off in edit fields so you can enter text. Press the
+Up
+or
+Down arrow
+key again to leave the edit field and resume scan mode.
+Scan mode commands
+When scan mode is turned on, use the following keys to navigate apps and webpages.
+Note
+If you are hearing silent stops in scan mode, this may be because Narrator is stopping at a punctuation mark. To have Narrator tell you about that punctuation, increase your punctuation verbosity by pressing
+Narrator+Alt+Left bracket ([)
+or
+Narrator+Alt+Right bracket (])
+.
+Press these keys
+To do this
+Narrator+ Spacebar
+Toggle scan mode on or off
+Enter
+Spacebar
+Primary action
+Shift+Enter
+Shift+Spacebar
+Secondary action
+Home
+Move to and read the first character of a line
+End
+Move to and read the last character of a line
+Ctrl+Down arrow
+Read next line
+Ctrl+Up arrow
+Read previous line
+Ctrl+Right arrow
+Read next word
+Ctrl+Left arrow
+Read previous word
+Right arrow
+Read next character
+Left arrow
+Read previous character
+Ctrl+Home
+Move to and read the first line of text
+Ctrl+End
+Move to and read the last line of text
+Down arrow
+Jump to next text or item
+Up arrow
+Jump to previous text or item
+1
+Jump to next heading at level 1
+Shift+1
+Jump to previous heading at level 1
+2
+Jump to next heading at level 2
+Shift+2
+Jump to previous heading at level 2
+3
+Jump to next heading at level 3
+Shift+3
+Jump to previous heading at level 3
+4
+Jump to next heading at level 4
+Shift+4
+Jump to previous heading at level 4
+5
+Jump to next heading at level 5
+Shift+5
+Jump to previous heading at level 5
+6
+Jump to next heading at level 6
+Shift+6
+Jump to previous heading at level 6
+7
+Jump to next heading at level 7
+Shift+7
+Jump to previous heading at level 7
+8
+Jump to next heading at level 8
+Shift+8
+Jump to previous heading at level 8
+9
+Jump to next heading at level 9
+Shift+9
+Jump to previous heading at level 9
+B
+Jump to next button
+Shift+B
+Jump to previous button
+C
+Jump to next combo box
+Shift+C
+Jump to previous combo box
+D
+Jump to next landmark
+Shift+D
+Jump to previous landmark
+E
+Jump to next edit box
+Shift+E
+Jump to previous edit box
+F
+Jump to next form field
+Shift+F
+Jump to previous form field
+G
+Jump to next graphic or image
+Shift+G
+Jump to previous graphic or image
+H
+Jump to next heading
+Shift+H
+Jump to previous heading
+I
+Jump to next list item
+Shift+I
+Jump to previous list item
+J
+Jump to next item
+Shift+J
+Jump to previous item
+K
+Jump to next link
+Shift+K
+Jump to previous link
+L
+Jump to next list
+Shift+L
+Jump to previous list
+N
+Jump to text past a link or a bunch of links
+Shift+N
+Jump to text before a link or a bunch of links
+P
+Read next paragraph
+Shift+P
+Read previous paragraph
+R
+Jump to next radio button
+Shift+R
+Jump to previous radio button
+T
+Jump to next table
+Shift+T
+Jump to previous table
+Ctrl+Alt+,
+Jump to the Beginning of Row in a Table
+Ctrl+Alt+.
+Jump to the End of Row in a Table
+Ctrl+Alt+Shift+,
+Jump to the Beginning of Column in a Table
+Ctrl+Alt+Shift+.
+Jump to the End of Column in a Table
+X
+Jump to next checkbox
+Shift+X
+Jump to previous checkbox
+,
+Jump to beginning of elements such as tables, lists, landmarks
+.
+Jump to end of elements such as tables, lists, landmarks
+Selecting text in scan mode
+Use these commands when you're copying text from content areas like websites or email.
+Press these keys
+To do this
+Shift+Right arrow
+Select current character
+Shift+Left arrow
+Select previous character
+Ctrl+Shift+Right arrow
+Select current word
+Ctrl+Shift+Left arrow
+Select previous word
+Shift+Down arrow
+Select current line
+Shift+Up arrow
+Select previous line
+Ctrl+Shift+Down arrow
+Select current paragraph
+Ctrl+Shift+Up arrow
+Select previous paragraph
+Shift+Home
+Select to beginning of line
+Shift+End
+Select to end of line
+Ctrl+Shift+Home
+Select to beginning of document
+Ctrl+Shift+End
+Select to end of document
+Shift+Page down
+Select current page
+Shift+Page up
+Select previous page
+F9
+Mark the beginning or end of a block of text
+F10
+Select all text between a mark and the current point
+Ctrl+C
+Copy selection
+Ctrl+X
+Cut selection
+Ctrl+V
+Paste selection
+Ctrl+A
+Select all
+Narrator+Shift+Down arrow
+Read selection
+Narrator+Shift+Down arrow twice quickly
+Spell selection
+Next:
+Chapter 4: Reading text
+Go back to the
+Table of Contents
+This chapter describes a navigation and reading mode called scan mode. Scan mode lets you navigate apps, email, and webpages using the arrow keys. You'll also be able to use common keyboard shortcuts to read text and jump directly to headings, links, tables, and landmarks.
+Scan mode basics
+To turn scan mode on and off, press
+Narrator
++
+Spacebar
+.
+Tip
+The Narrator key is a modifier key in the Narrator commands. Both the Caps lock key and the Insert key serve as your Narrator key by default. For more info on the Narrator key, go to
+Chapter 2: Narrator basics
+or
+Appendix B: Narrator keyboard commands and touch gestures
+.
+When scan mode is turned on, use the Up and Down arrow keys to navigate apps and webpages. Press Enter or Spacebar to activate an item that you want to use, such as a button in an app, a link in a webpage, or a text box.
+Scan mode turns on automatically when you use Mail, Outlook, Microsoft Edge, Google Chrome, and Firefox. It also turns on automatically when you open any Windows app where you turned it on before.
+If you turn scan mode off for an app, it will remain off for that app until you turn it on again. Scan mode automatically turns off in edit fields so you can enter text. Press the Up or Down arrow key again to leave the edit field and resume scan mode.
+Scan mode commands
+When scan mode is turned on, use the following keys to navigate apps and webpages.
+Note
+: If you are hearing silent stops in scan mode, this may be because Narrator is stopping at a punctuation mark. To have Narrator tell you about that punctuation, increase your punctuation verbosity by pressing
+Narrator + Alt + Plus sign (+)
+or
+Minus sign (-)
+.
+Press these keys
+To do this
+Narrator + Spacebar
+Toggle scan mode on or off
+Enter
+Spacebar
+Primary action
+Shift + Enter
+Shift + Spacebar
+Secondary action
+Home
+Move to and read the first character of a line
+End
+Move to and read the last character of a line
+P
+Read next paragraph
+Shift + P
+Read previous paragraph
+Ctrl + Down arrow
+Read next line
+Ctrl + Up arrow
+Read previous line
+Ctrl + Right arrow
+Read next word
+Ctrl + Left arrow
+Read previous word
+Right arrow
+Read next character
+Left arrow
+Read previous character
+Ctrl + Home
+Move to and read the first line of text
+Ctrl + End
+Move to and read the last line of text
+Down arrow
+Jump to next text or item
+Up arrow
+Jump to previous text or item
+1
+Jump to next heading at level 1
+Shift + 1
+Jump to previous heading at level 1
+2
+Jump to next heading at level 2
+Shift + 2
+Jump to previous heading at level 2
+3
+Jump to next heading at level 3
+Shift + 3
+Jump to previous heading at level 3
+4
+Jump to next heading at level 4
+Shift + 4
+Jump to previous heading at level 4
+5
+Jump to next heading at level 5
+Shift + 5
+Jump to previous heading at level 5
+6
+Jump to next heading at level 6
+Shift + 6
+Jump to previous heading at level 6
+7
+Jump to next heading at level 7
+Shift + 7
+Jump to previous heading at level 7
+8
+Jump to next heading at level 8
+Shift + 8
+Jump to previous heading at level 8
+9
+Jump to next heading at level 9
+Shift + 9
+Jump to previous heading at level 9
+B
+Jump to next button
+Shift + B
+Jump to previous button
+C
+Jump to next combo box
+Shift + C
+Jump to previous combo box
+D
+Jump to next landmark
+Shift + D
+Jump to previous landmark
+E
+Jump to next edit box
+Shift + E
+Jump to previous edit box
+F
+Jump to next form field
+Shift + F
+Jump to previous form field
+H
+Jump to next heading
+Shift + H
+Jump to previous heading
+I
+Jump to next item
+Shift + I
+Jump to previous item
+K
+Jump to next link
+Shift + K
+Jump to previous link
+R
+Jump to next radio button
+Shift + R
+Jump to previous radio button
+T
+Jump to next table
+Shift + T
+Jump to previous table
+X
+Jump to next checkbox
+Shift + X
+Jump to previous checkbox
+Selecting text in scan mode
+Use these commands when you're copying text from content areas like websites or email.
+Press these keys
+To do this
+Shift + Right arrow
+Select current character
+Shift + Left arrow
+Select previous character
+Ctrl + Shift + Right arrow
+Select current word
+Ctrl + Shift + Left arrow
+Select previous word
+Shift + Down arrow
+Select current line
+Shift + Up arrow
+Select previous line
+Ctrl + Shift + Down arrow
+Select current paragraph
+Ctrl + Shift + Up arrow
+Select previous paragraph
+Shift + Home
+Select to beginning of line
+Shift + End
+Select to end of line
+Ctrl + Shift + Home
+Select to beginning of document
+Ctrl + Shift + End
+Select to end of document
+Shift + Page down
+Select current page
+Shift + Page up
+Select previous page
+F9
+Mark the beginning or end of a block of text
+F10
+Select all text between a mark and the current point
+Ctrl + C
+Copy selection
+Ctrl + X
+Cut selection
+Ctrl + V
+Paste selection
+Ctrl + A
+Select all
+Narrator + Shift + Down arrow
+Read selection
+Narrator + Shift + Down arrow twice quickly
+Spell selection
+Next:
+Chapter 4: Reading text
+Go back to the
+Table of Contents

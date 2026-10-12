@@ -1,0 +1,483 @@
+URL: https://support.microsoft.com/en-us/accessibility/teams/use-a-screen-reader-to-join-a-meeting-in-microsoft-teams
+Use a screen reader to join a meeting in Microsoft Teams
+Applies To
+Microsoft Teams
+This article is for people who use a screen reader program such as Windows Narrator, JAWS, or NVDA with Windows tools or features and Microsoft 365 products. This article is part of the
+Accessibility help & learning
+content set where you can find more accessibility information on our apps. For general help, visit
+Microsoft Support
+.
+Windows
+macOS
+iOS
+Android
+Web
+Use your keyboard and a screen reader to accept or decline meeting invitations, and to join meetings in Microsoft Teams for Windows. We have tested it with JAWS and NVDA, but it might work with other screen readers as long as they follow common accessibility standards and techniques. You'll also learn how to mute and unmute your audio, turn the camera on or off, check who has joined, and send messages during a meeting.
+Note
+New Microsoft 365 features are released gradually to Microsoft 365 subscribers, so your app might not have these features yet. To learn how you can get new features faster,
+join the Office Insider program
+.
+To learn more about screen readers, go to
+How screen readers work with Microsoft 365
+.
+Recent versions of JAWS no longer have the virtual PC cursor mode set as default for Microsoft Teams. For instructions on how to switch the virtual PC cursor mode on, go to
+Enable the JAWS virtual cursor
+.
+To quickly access the keyboard shortcuts list from within Microsoft Teams, press Ctrl+E, type the forward slash character followed by the word
+keys
+, and then press Enter.
+In this topic
+Accept or decline a meeting invitation
+Join a meeting
+Mute or unmute your audio
+Turn the camera on or off
+Check who has joined the meeting
+Send and read messages during a meeting
+Leave a meeting
+Accept or decline a meeting invitation
+Screen reader navigation
+Focus navigation
+In Microsoft Teams, press Ctrl+4 to go to the
+Calendar
+view. The calendar grid view opens.
+Press the Tab key repeatedly until you find the meeting you want.
+Once on the right meeting, press Shift+F10. The context menu opens.
+Press the Down arrow key until you hear the option you want, and press Enter to select.
+The meeting is accepted or declined and an email reply is sent to the meeting organizer.
+Virtual navigation
+Note
+In NVDA this is called the browse mode. In JAWS it is called the virtual cursor mode.
+In Microsoft Teams, press Ctrl+4 to go to the
+Calendar
+view. The calendar grid view opens.
+Press the Down arrow key repeatedly until you find the meeting you want, and press Enter. The meeting details view opens.
+The focus is on the
+RSVP
+button. Press Enter.
+Press B repeatedly until you reach the
+Accept
+or
+Decline
+button, and press Enter.
+The meeting is accepted or declined and an email reply is sent to the meeting organizer.
+Join a meeting
+Screen reader navigation
+Focus navigation
+In Microsoft Teams, press Ctrl+4 to go to the
+Calendar
+view.
+Press the Tab key repeatedly until you find the meeting you want, and press Enter. The meeting details view opens.
+Press the Tab key until you hear "Join meeting," and press Enter.
+Do one of the following:
+To join the meeting with the default video and audio options, press Enter.
+To change the video and audio options, press the Tab key until you hear "Enable video" or "Enable microphone," and press Spacebar to toggle the option on or off. To join the meeting, press Shift+Tab until you hear "Join the meeting," and press Spacebar.
+Virtual navigation
+Note
+In NVDA this is called the browse mode. In JAWS it is called the virtual cursor mode.
+In Microsoft Teams, press Ctrl+4 to go to the
+Calendar
+view.
+Press the Down arrow key repeatedly until you find the meeting you want, and press Enter. The meeting details view opens.
+Press Shift+B repeatedly until you reach the
+Join
+button, and press Enter.
+Do one of the following:
+To join the meeting with the default video and audio options, press Enter.
+To change the video and audio options, press B until you hear "Enable video" or "Enable microphone," and press Spacebar to toggle the option on or off. To join the meeting, press Shift+B until you hear "Join the meeting," and press Spacebar.
+Mute or unmute your audio
+While in a meeting in Microsoft Teams, press Ctrl+Shift+M to mute or unmute your microphone.
+Turn the camera on or off
+While in a meeting in Microsoft Teams, press Ctrl+Shift+O to turn the camera on or off.
+Check who has joined the meeting
+You can check who is participating in the meeting and what is their current status.
+Screen reader navigation
+Focus navigation
+While in a meeting, press the Tab key until you hear "Show participants," and press Enter. The
+People
+pane opens.
+Press the Tab key until you hear: “Attendees, Tree view, In this meeting." Then press the Down arrow key to browse the list. You hear the name and status of each participant who has joined the meeting.
+To close the
+People
+pane, press the Tab key or Shift+Tab until you hear "Close right pane," and press Spacebar.
+Virtual navigation
+Note
+In NVDA this is called the browse mode. In JAWS it is called the virtual cursor mode.
+While in a meeting, press B until you hear "Show participants," and press Enter. The
+People
+pane opens.
+Press the Tab key until you hear: “Attendees, Tree view, In this meeting." Then press the Down arrow key to browse the list. Then press the Down arrow key to browse the list. You hear the name and status of each participant who has joined the meeting.
+To close the
+People
+pane, press Shift+B until you hear "Close right pane," and press Spacebar.
+Send and read messages during a meeting
+You can send messages to other participants, and read the messages others have sent.
+Screen reader navigation
+Focus navigation
+While in a meeting, press the Tab key until you hear "Show conversation," and press Enter. The meeting chat pane opens.
+The focus is in the text field for a new message. Type your message, and press Enter to send it.
+When others post messages, your screen reader announces them. To browse and read the sent messages, press Shift+Tab once to move the focus to the messages list, and then press the Up or Down arrow key.
+To close the chat pane, press the Tab key or Shift+Tab until you hear "Close right pane," and press Enter.
+Virtual navigation
+Note
+In NVDA this is called the browse mode. In JAWS it is called the virtual cursor mode.
+While in a meeting, press B until you hear "Show conversation," and press Enter. The meeting chat pane opens.
+The focus is in the text field for a new message. Type your message, and press Enter to send it.
+When others post messages, your screen reader announces them. To browse and read the sent messages, press Shift+Tab to move the focus to the messages list, and then press the Up or Down arrow key.
+To close the chat pane, press Shift+B until you hear "Close right pane," and press Enter.
+Leave a meeting
+Screen reader navigation
+Focus navigation
+While in a meeting in Microsoft Teams, press the Tab key until you reach the
+Hang up
+button. Press Enter.
+Virtual navigation
+Note
+In NVDA this is called the browse mode. In JAWS it is called the virtual cursor mode.
+While in a meeting in Microsoft Teams, press B or Shift+B until you reach the
+Hang up
+button. Press Enter.
+See also
+Use a screen reader to share your screen in Microsoft Teams
+Use a screen reader to schedule a meeting in Microsoft Teams
+Keyboard shortcuts for Microsoft Teams
+Basic tasks using a screen reader with Microsoft Teams
+Set up your device to work with accessibility in Microsoft 365
+Use a screen reader to explore and navigate Microsoft Teams
+Learning the layout of Microsoft Teams with a screen reader
+Use your keyboard and VoiceOver, the built-in Mac OS screen reader, to accept or decline meeting invitations, and to join meetings in Microsoft Teams on Mac. Learn how to mute and unmute your audio during a meeting.
+Note
+New Microsoft 365 features are released gradually to Microsoft 365 subscribers, so your app might not have these features yet. To learn how you can get new features faster,
+join the Office Insider program
+.
+This topic assumes that you are using the built-in macOS screen reader, VoiceOver. To learn more about using VoiceOver, go to
+VoiceOver Getting Started Guide
+.
+In this topic
+Accept or decline a meeting invitation
+Join a meeting
+Mute or unmute your audio
+Turn the camera on or off
+Check who has joined the meeting
+Send and read messages during a meeting
+Leave a meeting
+Accept or decline a meeting invitation
+In Microsoft Teams, press Command+4 to go to the
+Calendar
+view. The calendar grid view opens.
+Press the Tab key repeatedly until you find the meeting you want.
+Once on the right meeting, press Shift+F10. The context menu opens.
+Press the Right arrow key until you hear the option you want, and press Return to select.
+The meeting is accepted or declined and an email reply is sent to the meeting organizer.
+Join a meeting
+In Microsoft Teams, press Command+4 to go to the
+Calendar
+view.
+Press the Tab key repeatedly until you find the meeting you want, and press Return. The meeting details view opens.
+To join the meeting with the default settings, press Spacebar again.
+To leave the meeting, press the Tab key repeatedly until you hear "Hang up," and press the Spacebar.
+Mute or unmute your audio
+While in a meeting in Microsoft Teams, press Command+Shift+M to mute or unmute your microphone.
+Turn the camera on or off
+While in a meeting in Microsoft Teams, press Ctrl+Shift+O to turn the camera on or off.
+Check who has joined the meeting
+While in a meeting, press the Tab key until you hear "Show participants," and press Return. The
+Participants
+pane opens.
+Press the Tab key until you hear: "In this meeting." Then press Control+Shift+Down arrow key to browse the list. You hear the name and status of each participant who has joined the meeting.
+To close the
+People
+pane, press Shift+Tab until you hear "Close right pane," and press Spacebar.
+Send and read messages during a meeting
+While in a meeting, press the Tab key until you hear "Call controls region."
+Press the Right arrow key until you hear "Show conversation," and press Return. The meeting chat pane opens.
+The focus is in the text field for a new message. Type your message, and press Return to send it.
+When others post messages, your screen reader announces them. To browse and read the sent messages, press Shift+Tab once to move the focus to the messages list, and then press the Right or Left arrow key.
+To close the chat pane, press Shift+Tab until you hear "Close right pane," and press Return.
+Leave a meeting
+While in a meeting in Microsoft Teams, press the Tab key until you hear "Call controls region."
+Press the Right arrow key until you hear "Leave," and press Return.
+See also
+Use a screen reader to share your screen in Microsoft Teams
+Use a screen reader to schedule a meeting in Microsoft Teams
+Keyboard shortcuts for Microsoft Teams
+Basic tasks using a screen reader with Microsoft Teams
+Set up your device to work with accessibility in Microsoft 365
+Use a screen reader to explore and navigate Microsoft Teams
+Learning the layout of Microsoft Teams with a screen reader
+Use Microsoft Teams with VoiceOver, the built-in iOS screen reader, to join meetings in Microsoft Teams. You'll also learn how to mute and unmute your audio, turn the camera on or off, check who has joined, and send messages during a meeting.
+Note
+New Microsoft 365 features are released gradually to Microsoft 365 subscribers, so your app might not have these features yet. To learn how you can get new features faster,
+join the Office Insider program
+.
+This topic assumes that you are using the built-in iOS screen reader, VoiceOver. To learn more about using VoiceOver, visit
+Apple accessibility
+.
+In this topic
+Join a meeting
+Mute and unmute your meeting audio
+Turn the camera on or off
+Check who has joined the meeting
+Send and read messages during a meeting
+Leave a meeting
+Join a meeting
+In Microsoft Teams, to go to the app bar at the bottom of the screen, tap the lower part of the screen with four fingers. You hear: "More." Swipe left to move to the
+Calendar
+tab and double-tap the screen. The
+Calendar
+view opens.
+To move the focus to the top of the screen, tap the upper part of the screen with four fingers. You hear: “More menu.”
+Swipe right until you hear the meeting you want to join, then swipe right again to move to the
+Join meeting
+button, and double-tap the screen.
+If Microsoft Teams requests access to your camera, swipe right until you reach the
+OK
+button and double-tap the screen.
+You can select to join the meeting with your video on or off. To find out the current setting, swipe right until you hear “Video is off” or “Video is on.” To switch the video on or off, double-tap the screen.
+You can also select to join the meeting with your audio on or off. To find out the current setting, swipe right until you hear “Mic is off” or “Mic is on.” To switch the audio on or off, double-tap the screen.
+Swipe right until you reach the
+Join now
+button, and double-tap the screen.
+Mute and unmute your meeting audio
+In a Microsoft Teams meeting, swipe right or left until you reach the
+Mute microphone
+or
+Unmute microphone
+button, and double-tap the screen to mute or unmute.
+Turn the camera on or off
+In a Microsoft Teams meeting, swipe right or left until you hear "Turn off video" or "Turn on video," and double-tap the screen.
+Check who has joined the meeting
+You can check who is participating in the meeting and what is their current status.
+While in a meeting, swipe left or right until you hear your user name and double-tap the screen.
+Swipe right until you hear "Participants," and double-tap the screen. The
+Meeting participants
+view opens.
+To browse the list of participants, swipe right or left. You hear each participant's name and status.
+To close the
+Meeting participants
+view and return to the meeting view, swipe left until you hear "Back button," and double-tap the screen.
+Send and read messages during a meeting
+You can send messages to other participants, and read messages others have sent.
+While in a meeting, swipe left or right until you hear your user name and double-tap the screen.
+Swipe right until you hear "Chat," and double-tap the screen. The
+Chat
+view opens.
+To type a message, swipe right until you hear "Type a message," and double-tap the screen. Use the on-screen keyboard to type. Once you're done, swipe left until you hear "Send," and double-tap the screen to send the message.
+To browse and read messages others have sent, swipe right or left. You hear the message content and when it was sent.
+To close the
+Chat
+view and return to the meeting view, swipe left until you hear "Back button," and double-tap the screen.
+Leave a meeting
+In a Microsoft Teams meeting, swipe right until you reach the
+Hang up call
+button, and double-tap the screen.
+See also
+Use a screen reader to share your screen in Microsoft Teams
+Use a screen reader to work with files in Microsoft Teams
+Basic tasks using a screen reader with Microsoft Teams
+Set up your device to work with accessibility in Microsoft 365
+Use a screen reader to explore and navigate Microsoft Teams
+Learning the layout of Microsoft Teams with a screen reader
+Use Microsoft Teams with TalkBack, the built-in Android screen reader, to join meetings in Microsoft Teams. You'll learn how to mute and unmute your audio during a meeting, and how to leave a meeting. You'll also learn how to turn the camera on or off, check who has joined, and send messages during a meeting.
+Note
+New Microsoft 365 features are released gradually to Microsoft 365 subscribers, so your app might not have these features yet. To learn how you can get new features faster,
+join the Office Insider program
+.
+This topic assumes that you are using the built-in Android screen reader, TalkBack. To learn more about using TalkBack, go to
+Android accessibility
+.
+In this topic
+Join a meeting
+Mute and unmute your meeting audio
+Turn the camera on or off
+Check who has joined the meeting
+Send and read messages during a meeting
+Leave a meeting
+Join a meeting
+In Microsoft Teams, to go to the app bar at the bottom of the screen, swipe down-then-up. You hear: "More tab." Swipe left until you hear "Calendar tab," and double-tap the screen. The
+Calendar
+view opens.
+To move the focus to the top of the screen, swipe up-then-down. You hear: “Schedule meeting button.” Swipe right. You hear: “Navigation button.”
+Swipe right until you hear the meeting you want to join, then swipe right again to move to the
+Join
+button, and double-tap the screen.
+You can select to join the meeting with your video on or off. To find out the current setting, swipe right until you hear “Video button off” or “Video button on.” To switch the video on or off, double-tap the screen.
+You can also select to join the meeting with your audio on or off. To find out the current setting, swipe right until you hear “Mic button muted” or “Mic button unmuted.” To unmute or mute the audio, double-tap the screen.
+Swipe right until you reach the
+Join
+now button, and double-tap the screen.
+Mute and unmute your meeting audio
+In a Microsoft Teams meeting, swipe right or left until you reach the
+Mic
+button, and double-tap the screen to mute or unmute.
+Turn the camera on or off
+In a Microsoft Teams meeting, swipe right or left until you hear "Video is off" or "Video is on," and double-tap the screen.
+Check who has joined the meeting
+You can check who is participating in the meeting and what is their current status.
+While in a meeting, swipe left or right until you hear your user name and double-tap the screen.
+Swipe right until you hear "Add participants," and double-tap the screen. The
+Meeting participants
+view opens.
+To browse the list of participants and their statuses, swipe right.
+To close the
+Meeting participants
+view and return to the meeting view, swipe down-then-left.
+Send and read messages during a meeting
+You can send messages to other participants, and read messages others have sent.
+While in a meeting, swipe left or right until you hear your user name and double-tap the screen.
+Swipe right until you hear "Chat," and double-tap the screen. The
+Chat
+view opens.
+To type a message, swipe right until you hear "Type a message," and double-tap the screen. Use the on-screen keyboard to type. Once you're done, swipe left or right until you hear "Send message," and double-tap the screen to send the message.
+To browse and read messages others have sent, swipe right or left. You hear the message content and when it was sent.
+To close the
+Chat
+view and return to the meeting view, swipe up-then-down. You hear: "Tap to return to meeting." Double-tap the screen to select.
+Leave a meeting
+In a Microsoft Teams meeting, swipe right until you reach the
+Hang up
+button, and double-tap the screen.
+See also
+Use a screen reader to share your screen in Microsoft Teams
+Use a screen reader to work with files in Microsoft Teams
+Basic tasks using a screen reader with Microsoft Teams
+Set up your device to work with accessibility in Microsoft 365
+Use a screen reader to explore and navigate Microsoft Teams
+Learning the layout of Microsoft Teams with a screen reader
+Use your keyboard and a screen reader to accept or decline meeting invitations, and to join meetings in Microsoft Teams on the web. We have tested it with Narrator, JAWS, and NVDA, but it might work with other screen readers as long as they follow common accessibility standards and techniques. You'll also learn how to mute and unmute your audio, turn the camera on or off, check who has joined, and send messages during a meeting.
+Note
+New Microsoft 365 features are released gradually to Microsoft 365 subscribers, so your app might not have these features yet. To learn how you can get new features faster,
+join the Office Insider program
+.
+To learn more about screen readers, go to
+How screen readers work with Microsoft 365
+.
+Recent versions of JAWS no longer have the virtual PC cursor mode set as default for Microsoft Teams. For instructions on how to switch the virtual PC cursor mode on, go to
+Enable the JAWS virtual cursor
+.
+To quickly access the keyboard shortcuts list from within Microsoft Teams, press Ctrl+E, type the forward slash character followed by the word
+keys
+, and then press Enter.
+In this topic
+Accept or decline a meeting invitation
+Join a meeting
+Mute or unmute your audio
+Turn the camera on or off
+Check who has joined the meeting
+Send and read messages during a meeting
+Leave a meeting
+Accept or decline a meeting invitation
+Screen reader navigation
+Focus navigation
+In Microsoft Teams, press Ctrl+Shift+4 to go to the
+Calendar
+view. The calendar grid view opens.
+Press the Tab key repeatedly until you find the meeting you want.
+Once on the right meeting, press Shift+F10. The context menu opens.
+Press the Down arrow key until you hear the option you want, and press Enter to select.
+The meeting is accepted or declined and an email reply is sent to the meeting organizer.
+Virtual navigation
+Note
+In NVDA this is called the browse mode. In JAWS it is called the virtual cursor mode.
+In Microsoft Teams, press Ctrl+Shift+4 to go to the
+Calendar
+view. The calendar grid view opens.
+Press the Down arrow key repeatedly until you find the meeting you want, and press Enter. The meeting details view opens.
+The focus is on the
+RSVP
+button. Press Enter.
+Press B repeatedly until you reach the
+Accept
+or
+Decline
+button, and press Enter.
+The meeting is accepted or declined and an email reply is sent to the meeting organizer.
+Join a meeting
+Screen reader navigation
+Focus navigation
+In Microsoft Teams, press Ctrl+Shift+4 to go to the
+Calendar
+view.
+Press the Tab key repeatedly until you find the meeting you want, and press Enter. The meeting details view opens.
+Press the Tab key until you hear "Join meeting," and press Enter.
+Do one of the following:
+To join the meeting with the default video and audio options, press Enter.
+To change the video and audio options, press the Tab key until you hear "Enable video" or "Enable microphone," and press Spacebar to toggle the option on or off. To join the meeting, press Shift+Tab until you hear "Join the meeting," and press Spacebar.
+Virtual navigation
+Note
+In NVDA this is called the browse mode. In JAWS it is called the virtual cursor mode.
+In Microsoft Teams, press Ctrl+Shift+4 to go to the
+Calendar
+view.
+Press the Down arrow key repeatedly until you find the meeting you want, and press Enter. The meeting details view opens.
+Press Shift+B repeatedly until you reach the
+Join
+button, and press Enter.
+Do one of the following:
+To join the meeting with the default video and audio options, press Enter.
+To change the video and audio options, press B until you hear "Enable video" or "Enable microphone," and press Spacebar to toggle the option on or off. To join the meeting, press Shift+B until you hear "Join the meeting," and press Spacebar.
+Mute or unmute your audio
+While in a meeting in Microsoft Teams, press Ctrl+Shift+M to mute or unmute your microphone.
+Turn the camera on or off
+While in a meeting in Microsoft Teams, press the Tab key or Shift+Tab until you hear "Turn camera off" or "Turn camera on," and press Spacebar to turn the camera off or on.
+Check who has joined the meeting
+You can check who is participating in the meeting and what is their current status.
+Screen reader navigation
+Focus navigation
+While in a meeting, press the Tab key until you hear "Show participants," and press Enter. The
+People
+pane opens.
+Press the Tab key until you hear the first name in the participants list. Then press the Down arrow key to browse the list. You hear the name and status of each participant who has joined the meeting.
+To close the
+People
+pane, press the Tab key or Shift+Tab until you hear "Close right pane," and press Spacebar.
+Virtual navigation
+Note
+In NVDA this is called the browse mode. In JAWS it is called the virtual cursor mode.
+While in a meeting, press B until you hear "Show participants," and press Enter. The
+People
+pane opens.
+Press the Tab key until you hear the first name in the participants list. Then press the Down arrow key to browse the list. You hear the name and status of each participant who has joined the meeting.
+To close the
+People
+pane, press Shift+B until you hear "Close right pane," and press Spacebar.
+Send and read messages during a meeting
+You can send messages to other participants, and read the messages others have sent.
+Screen reader navigation
+Focus navigation
+While in a meeting, press the Tab key until you hear "Show conversation," and press Enter. The meeting chat pane opens.
+The focus is in the text field for a new message. Type your message, and press Enter to send it.
+When others post messages, your screen reader announces them. To browse the sent messages, press Shift+Tab to move the focus to the messages list, and then press the Up or Down arrow key to read the messages.
+To close the chat pane, press the Tab key or Shift+Tab until you hear "Close right pane," and press Enter.
+Virtual navigation
+Note
+In NVDA this is called the browse mode. In JAWS it is called the virtual cursor mode.
+While in a meeting, press B until you hear "Show conversation," and press Enter. The meeting chat pane opens.
+The focus is in the text field for a new message. Type your message, and press Enter to send it.
+When others post messages, your screen reader announces them. To browse the sent messages, press Shift+Tab to move the focus to the messages list, and then press the Up or Down arrow key to read the messages.
+To close the chat pane, press Shift+B until you hear "Close right pane," and press Enter.
+Leave a meeting
+Screen reader navigation
+Focus navigation
+While in a meeting in Microsoft Teams, press the Tab key until you reach the
+Hang up
+button. Press Enter. You hear: "You have left the meeting."
+Virtual navigation
+Note
+In NVDA this is called the browse mode, in JAWS it is called the virtual cursor mode, and in Narrator it is called the scan mode.
+While in a meeting in Microsoft Teams, press B or Shift+B until you reach the
+Hang up
+button. Press Enter. You hear: "You have left the meeting."
+See also
+Use a screen reader to share your screen in Microsoft Teams
+Use a screen reader to schedule a meeting in Microsoft Teams
+Keyboard shortcuts for Microsoft Teams
+Basic tasks using a screen reader with Microsoft Teams
+Use a screen reader to explore and navigate Microsoft Teams
+Learning the layout of Microsoft Teams with a screen reader
+Technical support for customers with disabilities
+Microsoft wants to provide the best possible experience for all our customers. If you have a disability or questions related to accessibility, please contact the
+Microsoft Disability Answer Desk
+for technical assistance. The Disability Answer Desk support team is trained in using many popular assistive technologies and can offer assistance in English, Spanish, French, and American Sign Language. Please go to the Microsoft Disability Answer Desk site to find out the contact details for your region.
+If you are a government, commercial, or enterprise user, please contact
+the enterprise Disability Answer Desk
+.

@@ -1,0 +1,55 @@
+URL: https://support.microsoft.com/en-us/accessibility/windows/use-color-filters-in-windows
+Use color filters in Windows
+Applies To
+Windows 11
+Windows 10
+Get help with Copilot
+How can I use color filters in Windows?
+Explain how to show accent color on title bars and window
+How should I show accent color on start and taskbar?
+If it's hard to see what's on the screen, apply a color filter. Color filters change the color palette on the screen and can help you distinguish between things that differ only by color.
+Windows 11
+Windows 10
+To use a color filter:
+To go to the
+Accessibility
+settings on your computer, press the Windows logo key+U or select
+Start
+>
+Settings
+>
+Accessibility
+.
+Select
+Color filters
+.
+Turn the
+Color filters
+switch on.
+Select a color filter from the list. Try each filter to see which one suits you best.
+Go to Color filters
+To use a color filter:
+Select
+Start
+>
+Settings
+>
+Ease of Access
+>
+Color filters
+.
+Switch on the toggle under
+Turn on color filters
+.
+Then, select a color filter from the menu. Try each filter to see which one suits you best.
+Note:
+To get to color filter settings in previous versions of Windows 10, select
+Start
+>
+Settings
+>
+Ease of Access
+>
+Color & high contrast
+.
+Go to Color filters

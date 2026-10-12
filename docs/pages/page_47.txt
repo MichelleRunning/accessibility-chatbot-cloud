@@ -1,0 +1,203 @@
+URL: https://support.microsoft.com/en-us/accessibility/windows/windows-keyboard-shortcuts-for-accessibility
+Windows keyboard shortcuts for accessibility
+Applies To
+Windows 11
+Windows 10
+Windows 11
+Windows 10
+Accessibility shortcuts can help you use your PC with a keyboard or assistive device.
+The following is a list of keyboard shortcuts for assistive technologies in Windows 11, including Magnifier, high contrast, and others.
+Note
+To see a list of keyboard shortcuts and touch gestures for Narrator in Windows 11, see
+Narrator keyboard commands and touch gestures
+.
+Magnifier keyboard shortcuts
+Press this key
+To do this
+Windows
+key+Plus sign (+)
+Turn Magnifier on
+Windows
+key+Esc
+Turn Magnifier off
+Windows
+key+Plus sign (+) or Minus sign (-)
+When Magnifier is on, zoom in or out
+Ctrl+Alt+mouse scroll wheel
+Zoom in and out using the mouse scroll wheel
+Windows
+key+Ctrl+M
+Open Magnifier settings
+Ctrl+Alt+arrow keys
+Pan in the direction of the arrow keys
+Ctrl+Alt +I
+Invert colors
+Ctrl+Alt+F
+Switch to full screen view
+Ctrl+Alt+L
+Switch to lens view
+Ctrl+Alt+D
+Switch to docked view
+Ctrl+Alt+M
+Cycle through views
+Ctrl+Alt+R
+Resize the lens with the mouse
+Shift+Alt+arrow keys
+Resize the lens with the keyboard
+Ctrl+Alt+Spacebar
+Quickly see the entire desktop when using full screen view
+Ctrl+Alt+Minus sign (-)
+Toggle between the set magnification level and 1x magnification
+Magnifier reading commands
+Press this key
+To do this
+Windows
+key+Plus sign (+)
+Turn Magnifier on
+Start, pause, and resume reading
+Modifier key+Enter
+Stop reading
+Any key
+Read from mouse pointer
+Modifier key+Left Mouse click
+Read previous sentence
+Modifier key+H
+Read next sentence
+Modifier key+K
+For more info about Magnifier reading, see
+How to use Magnifier reading.
+Additional accessibility keyboard shortcuts
+Press this key
+To do this
+Right Shift for eight seconds
+Turn Filter Keys on and off
+Left Alt+left Shift+Print screen
+Turn High Contrast on or off
+Left Alt+left Shift+Num lock
+Turn Mouse Keys on or off
+Shift five times
+Turn Sticky Keys on or off
+Num lock for five seconds
+Turn Toggle Keys on or off
+Ctrl+E
+Open Search (in most apps)
+Windows
+key+A
+Opens Quick Settings
+Windows
+key+Ctrl+C
+Turn color filters on or off
+Windows
+key+H
+Opens voice typing
+Windows
+key+Alt+H
+Move keyboard focus to the voice typing dialogue
+Windows
+key+Ctrl+N
+Open Narrator settings
+Windows
+key+Ctrl+S
+Turn on Windows Speech Recognition
+Windows
+key+Ctrl+O
+Turn on the On-Screen Keyboard
+Windows
+key+U
+Opens Accessibility Settings
+Windows
+key+W
+Opens Widgets
+Additional keyboard shortcuts
+Keyboard shortcuts in Windows
+Accessibility shortcuts can help you use your PC with a keyboard or assistive device.
+The following is a list of keyboard shortcuts for assistive technologies in Windows 10, including Magnifier, high contrast, and others.
+Note
+To see a list of keyboard shortcuts and touch gestures for Narrator in Windows 11, see
+Narrator keyboard commands and touch gestures
+.
+Magnifier keyboard shortcuts
+Press this key
+To do this
+Windows
+key+Plus sign (+)
+Turn Magnifier on
+Windows
+key+Esc
+Turn Magnifier off
+Windows
+key+Plus sign (+) or Minus sign (-)
+When Magnifier is on, zoom in or out
+Ctrl+Alt+mouse scroll wheel
+Zoom in and out using the mouse scroll wheel
+Windows
+key+Ctrl+M
+Open Magnifier settings
+Ctrl+Alt+arrow keys
+Pan in the direction of the arrow keys
+Ctrl+Alt+I
+Invert colors
+Ctrl+Alt+F
+Switch to full screen view
+Ctrl+Alt+L
+Switch to lens view
+Ctrl+Alt+D
+Switch to docked view
+Ctrl+Alt+M
+Cycle through views
+Ctrl+Alt+R
+Resize the lens with the mouse
+Shift+Alt+arrow keys
+Resize the lens with the keyboard
+Ctrl+Alt+Spacebar
+Quickly see the entire desktop when using full screen view
+Ctrl+Alt+Minus sign (-)
+Toggle between the set magnification level and 1x magnification
+Magnifier reading commands
+Press this key
+To do this
+Windows
+key+Plus sign (+)
+Turn Magnifier on
+Start, pause, and resume reading
+Modifier key+Enter
+Stop reading
+Any key
+Read from mouse pointer
+Modifier key+Left Mouse click
+Read previous sentence
+Modifier key+H
+Read next sentence
+Modifier key+K
+For more info about Magnifier reading, see
+How to use Magnifier reading
+Additional accessibility keyboard shortcuts
+Press this key
+To do this
+Right Shift for eight seconds
+Turn Filter Keys on and off
+Left Alt+left Shift+Print screen
+Turn High Contrast on or off
+Left Alt+left Shift+Num lock
+Turn Mouse Keys on or off
+Shift five times
+Turn Sticky Keys on or off
+Num lock for five seconds
+Turn Toggle Keys on or off
+Windows
+key+U
+Opens accessibility settings
+Windows
+key+Ctrl+C
+Turn color filters on or off
+Windows
+key+Ctrl+N
+Open Narrator settings
+Windows
+key+Ctrl+S
+Turn on Windows Speech Recognition
+Windows
+key+Ctrl+O
+Turn on the On-Screen Keyboard
+Additional keyboard shortcuts
+Keyboard shortcuts in Windows

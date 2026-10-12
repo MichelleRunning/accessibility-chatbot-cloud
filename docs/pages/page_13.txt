@@ -1,0 +1,1225 @@
+URL: https://support.microsoft.com/en-us/accessibility/teams/use-a-screen-reader-to-explore-and-navigate-microsoft-teams
+Use a screen reader to explore and navigate Microsoft Teams
+Applies To
+Microsoft Teams
+Get help with Copilot
+How do I use a screen reader to explore and navigate?
+What if I can't navigate the main view?
+How can I customize the app bar?
+This article is for people with visual or cognitive impairments who use a screen reader program such as Microsoft's Narrator, JAWS, or NVDA with the Microsoft 365 products. This article is part of the
+Microsoft 365 screen reader support
+content set where you can find more accessibility information on our apps. For general help, visit
+Microsoft Support home
+or
+Fixes or workarounds for recent office issues
+.
+Windows
+macOS
+iOS
+Android
+Web
+Microsoft Teams is a chat-based hub for colleagues to work together. Use Microsoft Teams with your keyboard and a screen reader to explore and navigate the main views and elements, and to move between views and functions of the Teams app.
+Need instructions on how to get started with Microsoft Teams, but not using a screen reader? See
+Sign in and get started with Teams
+.
+Note
+To learn more about screen readers, go to
+How screen readers work with Microsoft 365
+.
+In this topic
+Cycle through the main screen elements
+Navigate to a view
+Navigate inside a view
+Enable the JAWS virtual cursor
+Customize the app bar
+Add an app to the app bar
+Unpin a default view from the app bar
+Cycle through the main screen elements
+Focus navigation
+To cycle through the Microsoft Teams screen elements, press
+Ctrl
++
+F6
+to move between the different screen regions. The screen contains the following main elements:
+The main content area in the center of the screen. The main content area consists of a list pane and a content pane. For instructions on how navigate inside this element, go to
+Navigate inside a view
+.
+The vertical toolbar on the far left on the screen. The screen reader announces "App bar." To navigate inside the toolbar, press the
+Up
+or
+Down arrow
+key. The screen reader announces the buttons as you move. From the toolbar, you can switch to another view or to an installed app.
+The horizontal menu bar at the top of the screen, which contains the
+Back
+and
+Forward
+buttons, and the search field.
+To cycle through the horizontal menu bar, the vertical toolbar, the list pane of the main content area, and finally the content pane of the main content area, press
+Ctrl
++
+F6
+.
+Virtual navigation
+Note
+In NVDA this is called the browse mode. In JAWS it is called the virtual cursor mode.
+To cycle through the Microsoft Teams screen elements with JAWS, press
+R
+to move between the different screen regions. With NVDA, press
+D
+. The screen contains the following main elements:
+The main content area in the center of the screen. The main content area consists of a list pane and a content pane. For instructions on how navigate inside this element, go to
+Navigate inside a view
+.
+The vertical toolbar on the far left on the screen. The screen reader announces "App bar." To navigate inside the toolbar, press the
+Up
+or
+Down arrow
+key. The screen reader announces the buttons as you move. From the toolbar, you can switch to another view or to an installed app.
+The horizontal menu bar at the top of the screen, which contains the
+Back
+and
+Forward
+buttons, and the search field.
+To cycle through the horizontal menu bar, the vertical toolbar, the list pane of the main content area, and finally the content pane of the main content area with JAWS, press
+R
+. With NVDA, press
+D
+.
+Navigate to a view
+Activity view
+The
+Activity
+view contains activity feeds that contain a summary of everything that's happened in the team channels you follow or a summary of your recent activity.
+Press
+Ctrl
++
+1
+to open the
+Activity
+view. The focus is on the listing option menu in the list pane.
+Note
+The number ‘1’ signifies the sequential position of the
+Activity
+app within the app bar. This position may vary depending on the individual setup.
+Chat view
+The
+Chat
+view lists your recent messages. You can browse the messages list, and open a message to write a reply, read a whole conversation, start a call, or share a file in a chat. You can also check a contact's details and start a private chat. Press
+Ctrl
++
+2
+to open the
+Chat
+view.
+Note
+The number ‘2’ signifies the sequential position of the
+Chat
+app within the app bar. This position may vary depending on the individual setup.
+The
+Teams and Channels
+view. When you select this view, the list pane shows a hierarchical list of all teams you are a member of, and the channels created under each team. The most recently viewed channel is opened in the content pane. In this view you can join, create, or manage teams, add members to teams, or create and follow channels. For instructions on how to create and modify teams, go to
+Use a screen reader to create and modify teams in Microsoft Teams
+. For instructions on how to use channels, go to
+Use a screen reader to create or follow a channel in Microsoft Teams
+.
+Note
+By default, Teams will show chats and channels in the combined list view. To know more, go to
+Basic tasks using a screen reader in the new chats and channels experience
+.
+Calendar view
+The
+Calendar
+view lists your upcoming meetings. You can browse upcoming meetings, join an online meeting, or schedule a meeting.
+Press
+Ctrl
++
+3
+to open the
+Calendar
+view. You hear "Calendar grid." The focus is on the
+Today
+section in the list pane.
+Note
+The number ‘3’ signifies the sequential position of the
+Calendar
+app within the app bar. This position may vary depending on the individual setup.
+Calls view
+In the
+Calls
+view, you can call your contacts directly from Microsoft Teams. You can also browse your call history and check your voice mail.
+Press
+Ctrl
++
+4
+to open the
+Calls
+view.
+Note
+The number ‘4’ signifies the sequential position of the Chat app within the app bar. This position may vary depending on the individual setup.
+The
+Calls
+feature is available in certain regions only.
+Navigate inside a view
+Each view contains a main content area in the center of the screen. This area has been divided into a list pane and a content pane. The contents of each pane depend on the selected view.
+When you select a view, the focus moves to either the list pane or content pane as described in
+Navigate to a view
+. To navigate between the list and content panes, press the
+Tab
+key,
+Shift
++
+Tab
+, or
+Ctrl
++
+F6
+.
+List pane
+The list pane is on the left side of the main content area. You can browse and select items and display them in detail in the content pane on the right. For example, in the
+Chat
+view, select a chat in the list pane, and the entire chat is displayed in the content pane. Depending on the selected view, you can also schedule a meeting or join a team.
+To enter a list, press the
+Tab
+key or the
+Down arrow
+key until you hear the first item in the list.
+To browse the items in a list pane, press the
+Up
+or
+Down arrow
+key. The screen reader announces the item details or buttons as you move.
+To select an item in a list and display its details in the content pane, press
+Enter
+.
+Content pane
+The content pane is on the right side of the main content area. You can access the content of the item selected in the list pane. Depending on the selected view, you can also add channels and tabs, start a call, and type a message. The content pane also contains a tabs row on the top of the pane to organize the team assets, for example, to posts, shared files, or organizational info.
+To navigate in the content pane:
+Focus navigation
+Go to the Microsoft Teams channel window in which you want to navigate the page. To navigate to the tabs row, press the
+Tab
+key or
+Shift
++
+Tab
+until you hear the currently selected tab, for example, "Posts." To move to another tab, press the
+Right
+or
+Left arrow
+key until you hear the tab you want to select, and then press
+Enter
+.
+To enter the content pane main area, press the
+Tab
+key until you hear the latest item in the area, such as the latest message in a conversation.
+To navigate inside a content pane, press the
+Tab
+key, or the
+Up
+or
+Down arrow
+key. The most recent content is in the bottom of the pane.
+To navigate inside a calendar in the content pane, press
+Ctrl
++
+4
+and then press the
+Tab
+key or
+Shift
++
+Tab
+to move between the top tool bar, calendar options tool bar, and the calendar body. Use the
+Up
+and
+Down arrow
+keys to navigate inside a day in a calendar and the
+Left
+and
+Right arrow
+keys to move between days.
+Virtual navigation
+Note
+In NVDA this is called the browse mode. In JAWS it is called the virtual cursor mode.
+Go to the Microsoft Teams channel window in which you want to navigate the page. To navigate to the tabs row with JAWS, press
+R
+or
+Shift
++
+R
+until you hear the name of the team. Press the
+Up arrow
+key until you hear currently selected tab, for example, "Posts." With NVDA, press
+D
+or
+Shift
++D instead. To move to another tab, press the
+Right
+or
+Left arrow
+key until you hear the
+tab
+you want to select, and then press
+Enter
+.
+To enter the content pane main area with JAWS, press
+R
+until you hear the latest item in the area, such as the latest message in a conversation. With NVDA, press
+D
+instead.
+To navigate between headings inside a content pane, press
+H
+or
+Shift
++
+H
+. The most recent content is in the bottom of the pane.
+A conversation is organized into the following heading levels:
+Heading level 2: The name of the channel
+Heading level 3: Date separators within the conversation
+Heading level 4: The individual messages in this conversation
+Heading level 5: Replies to a message, or the reply field
+To navigate inside a calendar in the content pane, press
+Ctrl
++
+4
+and then press the
+Tab
+key or
+Shift
++
+Tab
+to move between the top tool bar, calendar options tool bar, and the calendar body. Use the
+Up
+and
+Down arrow
+keys to navigate inside a day in a calendar and the
+Left
+and
+Right arrow
+keys to move between days.
+Enable the JAWS virtual cursor
+Recent versions of JAWS no longer have the virtual PC cursor mode set as default for Microsoft Teams. For more information on the JAWS virtual cursor, go to
+Use Microsoft Teams with the JAWS virtual cursor
+.
+With JAWS running, open Microsoft Teams.
+Press the
+SR key
++
+6
+to open the
+JAWS Settings Center
+window. The focus changes to the
+Search
+box in that window.
+In the
+Search
+box, type
+use virtual PC
+.
+Press the
+Tab
+key once to move the focus to the list of search results. You hear "Use virtual PC cursor," followed by the current setting of the virtual PC cursor option. If the current setting is "Unchecked," press
+Spacebar
+to select the
+Use virtual PC cursor
+check box.
+Press the
+Tab
+key until you hear "Ok button," and press
+Enter
+.
+Customize the app bar
+You can add your favorite apps to the app bar and use them inside Microsoft Teams. This way you can quickly work with, for example, OneNote without leaving Microsoft Teams and your conversations there. You can also unpin any of the default Microsoft Teams views from the app bar.
+Add an app to the app bar
+Press
+Ctrl
++
+F6
+until you hear "App bar," press the
+Up
+or
+Down arrow
+key until you hear "More added apps," and press
+Enter
+to open the menu. The focus moves to the search field.
+Start typing the name of the app you want to add, for example,
+OneNote
+. When you stop typing, you hear "Apps list updated," followed by the number of search results and the name of the currently selected app.
+Press the
+Up
+or
+Down arrow
+key to browse the search results. When you find the right app, press
+Enter
+to finish adding it to the app bar. You can now open the app within Microsoft Teams using the app bar.
+Tip
+If you later want to remove the app from the app bar, navigate to the app in the app bar and press
+Shift
++
+F10
+. Then press the Up or
+Down arrow
+key until you hear "Uninstall," and press
+Enter
+. When the confirmation dialog box opens, press
+Enter
+again.
+Unpin a default view from the app bar
+If you find you seldom use some of the Microsoft Teams default views, such as
+Calls
+, you can unpin them from the app bar. The views are not deleted permanently, and you can pin them back whenever you want.
+Press
+Ctrl
++
+F6
+until you hear "App bar," and press the
+Up
+or
+Down arrow
+key until you find the view you want to unpin.
+Press
+Shift
++
+F10
+to open the menu. Use the
+Down arrow
+key until you hear "Unpin menu item." Press
+Enter
+.
+Tip
+If you later want to return the view to the app bar, first add the view as instructed in
+Add an app to the app bar
+. Then navigate to the app in the app bar, and press
+Shift
++
+F10
+. You hear "Pin." Press
+Enter
+.
+See also
+Use a screen reader to chat in Microsoft Teams
+Use a screen reader to search for a conversation, person, or file in Microsoft Teams
+Keyboard shortcuts for Microsoft Teams
+Basic tasks using a screen reader with Microsoft Teams
+Set up your device to work with accessibility in Microsoft 365
+What's new in Microsoft 365:
+Release notes for Current Channel
+Microsoft Teams is a chat-based hub for colleagues to work together. Use Microsoft Teams on Mac with your keyboard and VoiceOver, the built-in Mac OS screen reader, to explore and navigate the app main views and elements, and to move between views and functions.
+Need instructions on how to get started with Microsoft Teams, but not using a screen reader? See
+Sign in and get started with Teams
+.
+Note
+This topic assumes that you are using the built-in macOS screen reader, VoiceOver. To learn more about using VoiceOver, go to
+VoiceOver Getting Started Guide
+.
+In this topic
+Cycle through the main elements
+Navigate to a view
+Navigate in a view
+Customize the app bar
+Add an app to the app bar
+Unpin a default view from the app bar
+Cycle through the main elements
+To cycle through the sections in Microsoft Teams, press
+Command
++
+F6
+(to go forward) or
+Shift
++
+Command
++
+F6
+(to go backward). The focus jumps between the sections on the screen. For example, when you open Microsoft Teams in the
+Teams
+view, pressing
+Command
++
+F6
+jumps between the sections in the following order:
+The Search field at the top of the screen. VoiceOver announces "Search and new chat." To navigate the other items on the same menu bar, press the
+Tab
+key or
+Shift
++
+Tab
+. VoiceOver announces the buttons and fields as you move. From the menu bar, you can, for example, start a new chat or search, or access your profile and the app settings.
+Join or create a team
+button in the list pane.
+The main content area at the center of the screen showing the most recent posts. For instructions on how navigate inside this element, go to
+Navigate in a view
+.
+The message compose box at the bottom of the main content area. VoiceOver announces "Start a new conversation."
+Navigate to a view
+Microsoft Teams contains the following main views:
+Activity
+,
+Chat
+,
+Calendar
+,
+Calls
+, and
+OneDrive
+.
+Tip
+To quickly go to a channel or a team, press
+Command
++
+G
+. Start typing the name of the channel or team. The list of search results is updated as you type. Press the
+Down arrow
+key to browse the list until you hear the result you want, and press
+Return
+to go to that channel or team.
+For instructions on how to navigate the list and content panes inside a view, go to
+Navigate in a view
+.
+Activity view
+The
+Activity
+view lists your and your teams' recent activity. You can, for example, select and read a conversation, check if you have missed calls, or if you've been added to a team.
+To go to the
+Activity
+view, press
+Command
++
+1
+. VoiceOver announces "Activity and notifications list," followed by the current list option and the number of items. The focus is on the list option menu in the list pane.
+Note
+The number ‘1’ signifies the sequential position of the
+Activity
+app within the app bar. This position may vary depending on the individual setup.
+Chat view
+The
+Chat
+view lists your recent messages. You can browse the message list, and open a message to write a reply, read a whole conversation, start a call, or share a file in a chat. You can also check a contact's details and start a private chat, and you can browse your teams, select a team's channel, add new channels, and join or leave a team. You can also access, modify, and contribute to the content in a team channel, such as write a message or upload a file to share with your team.
+To go to the
+Chat
+view, press
+Command
++
+2
+. VoiceOver announces "Chats." The focus is in the message compose box in the main content pane.
+Note
+The number ‘2’ signifies the sequential position of the
+Chat
+app within the app bar. This position may vary depending on the individual setup.
+Calendar view
+In the
+Calendar
+view, you can browse your upcoming meetings, join an online meeting, or schedule a meeting.
+To go to the
+Calendar
+view, press
+Command
++
+3
+. VoiceOver announces "Today." The focus is on the
+Previous day
+button in the list pane.
+Note
+The number ‘3’ signifies the sequential position of the
+Calendar
+app within the app bar. This position may vary depending on the individual setup.
+To navigate and access individual meetings in the list pane, change to the
+Agenda view
+first. Press the
+Tab
+key until you hear "Agenda view," and press
+Return
+.
+Calls view
+In the
+Calls
+view, you can call your contacts directly from Microsoft Teams (if this feature is available to you). You can also browse your call history and check your voicemail.
+To go to the
+Calls
+view, press
+Command
++
+4
+. You hear "Contacts," and the number of items on the list. The focus is on the
+Contacts
+tab in the list pane.
+Note
+The number ‘4’ signifies the sequential position of the
+Calls
+app within the app bar. This position may vary depending on the individual setup.
+OneDrive view
+In the
+OneDrive
+view, you can browse and open your personal files from OneDrive, your team's shared files in the respective app, or edit them in Microsoft Teams. You can also download a file to your device.
+To go to the
+Files
+view, do one of the following:
+If you have the Calls feature, press
+Command
++
+5
+.
+If you don't have the Calls feature, press
+Command
++
+6
+.
+VoiceOver announces the files shown. The focus is on the first file in the content pane.
+Note
+The number ‘5’ signifies the sequential position of the
+OneDrive
+app within the app bar. This position may vary depending on the individual setup.
+Navigate in a view
+Each view contains a main content area in the center of the screen. This area has been divided into a list pane and a content pane. The contents of each pane depend on the selected view.
+When you select a view, the focus moves to either the list pane or content pane as described in
+Navigate to a view
+. To navigate between the list and content panes, press
+Command
++
+F6
+or
+Shift
++
+Command
++
+F6
+.
+List pane
+The list pane is on the left side of the main content area. You can browse and select items in the list pane and they will be displayed in detail in the content pane on the right. For example, in the
+Chat
+view, select a chat in the list pane, and the entire chat is displayed in the content pane. Depending on the selected view, you can also, for example, schedule a meeting or join a team.
+To go to a list, press the
+Tab
+key or the
+Down arrow
+key until you hear the first item in the list.
+To browse the items in a list pane, press
+Control
++
+Option
++
+Right
+or
+Left arrow
+key. VoiceOver announces the item details or buttons as you move.
+To select an item in a list and display its details in the content pane, press
+Return
+.
+Content pane
+The content pane is located to the right of the list pane. Depending on the selected view, you can, for example, add channels and tabs, start a call, or type a message. The content pane contains a row of tabs at the top of the pane for organizing the team assets, for example, into posts, shared files, or organizational info.
+To move within the banner at the top of the content pane, press the
+Tab
+key or
+Shift
++
+Tab
+. VoiceOver announces the buttons and fields as you move.
+To navigate to the tabs at the top, press the
+Tab
+key until you hear the name of the currently selected tab. To move to another tab, press
+Control
++
+Option
++
+Right
+or
+Left arrow
+key until you hear the tab you want, and press
+Return
+.
+To go to the content pane main area, press the
+Tab
+key until you hear the latest item in the area, such as the latest message in a conversation.
+To navigate inside a content pane, press the
+Tab
+key or
+Up
+or
+Down arrow
+key.
+Tip
+In posts, you can navigate quickly using headings. To navigate, press
+Control
++
+Option
++
+Command
++
+H
+. The heading levels are:
+Heading level 2: The name of the channel
+Heading level 3: Date separators within the conversation
+Heading level 4: The individual messages in this conversation
+Heading level 5: Replies to a message, or the reply field
+To access the toolbar of a single message, in the content pane main area, press the
+Up arrow
+key until you hear the message you want. Press
+Return
+to select. You hear "More options." To browse the toolbar, press the
+Left
+or
+Right arrow
+key. To select, press
+Return
+. From a message toolbar, you can, for example, save or like a message and access further options.
+Customize the app bar
+You can add your favorite apps to the app bar and use them inside Microsoft Teams. This way you can quickly work with, for example, OneNote without leaving Microsoft Teams and your conversations there. You can also unpin any of the default Microsoft Teams views from the app bar.
+Add an app to the app bar
+Press
+Command
++
+F6
+until you hear "More added apps, Toolbar" and press
+Return
+to open the menu. The focus moves to the search field.
+Start typing the name of the app you want to add, for example,
+OneNote
+. When you stop typing, you hear "Apps list updated," followed by the number of search results.
+Press the
+Up
+or
+Down arrow
+key to browse the search results. When you find the right app, press
+Return
+to finish adding it to the app bar. You can now open the app within Microsoft Teams using the app bar.
+Tip
+If you later want to remove the app from the app bar, navigate to the app in the app bar and press
+Shift
++
+F10
+. Then press the
+Down arrow
+key until you hear "Uninstall," and press Return. When the confirmation dialog box opens, press Return again.
+Unpin a default view from the app bar
+If you find you seldom use some of the Microsoft Teams default views, such as
+Files
+, you can unpin them from the app bar. The views are not deleted permanently, and you can pin them back whenever you want.
+Press
+Command
++
+F6
+until you hear "More added apps, Toolbar" and press the
+Up
+or
+Down arrow
+key until you find the view you want to unpin.
+Press
+Shift
++
+F10
+to open the menu. You hear "Unpin." Press
+Return
+.
+Tip
+If you later want to return the view to the app bar, first add the view as instructed in
+Add an app to the app bar
+. Then navigate to the app in the app bar, and press
+Shift
++
+F10
+. You hear "Pin." Press Return.
+See also
+Use a screen reader to chat in Microsoft Teams
+Use a screen reader to search for a conversation, person, or file in Microsoft Teams
+Keyboard shortcuts for Microsoft Teams
+Basic tasks using a screen reader with Microsoft Teams
+Set up your device to work with accessibility in Microsoft 365
+What's new in Microsoft 365:
+Release notes for Current Channel
+Microsoft Teams for iOS is a chat-based hub for colleagues to work together. Use Microsoft Teams for iOS with Voiceover, the built-in iOS screen reader, to explore and navigate the app main views and elements, and to move between views and functions.
+Need instructions on how to get started with Microsoft Teams, but not using a screen reader? See
+Sign in and get started with Teams
+.
+Note
+This topic assumes that you are using the built-in iOS screen reader, VoiceOver. To learn more about using VoiceOver, visit
+Apple accessibility
+.
+This topic assumes that you are using an iPhone. Some navigation and gestures might be different for an iPad.
+In this topic
+Cycle through the main screen elements
+Navigate to a view
+Navigate inside a view
+Cycle through the main screen elements
+To cycle through the Microsoft Teams screen elements, flick right (forward) or left (backward). The focus moves through the elements in the following order:
+The toolbar at the top of the screen. This toolbar contains the
+More menu
+button,
+Search
+button, the current tab heading, and any buttons specific to the current tab.
+The main content area at the middle of the screen.
+The tab bar at the bottom of the screen, containing the
+Activity
+,
+Chat
+,
+Calendar
+, and
+Calls
+tabs.
+Navigate to a view
+Microsoft Teams contains the following main views:
+Activity
+,
+Chat
+,
+Calendar
+, and
+Calls
+. You can switch from any view to another.
+Activity view
+When you first sign in to Microsoft Teams, you land in the
+Activity
+view, which lists your and your teams' recent activity, such as mentions, likes, or missed calls.
+To go to the
+Activity
+view, flick right until you hear "Activity tab," and double-tap the screen.
+Chat view
+The
+Chat
+view lists your recent messages. You can browse the messages list, open a message to write a reply, and read a whole conversation.
+To go to the
+Chat
+view, flick right until you hear "Chat tab," and double-tap the screen.
+The
+Teams and Channels
+view. When you select this view, the main content area lists all teams you are a member of, and the channels created under each team. You can browse your teams, select a team's channel, add new channels, and join or leave a team. You can also access, modify, and contribute to the content of a team channel. For instructions on how to add new members to a team, go to
+Use a screen reader to add members to a team in Microsoft Teams
+.
+Note
+By default, Teams will show chats and channels in the combined list view. To know more, go to
+Basic tasks using a screen reader in the new chats and channels experience
+.
+Calendar view
+The
+Calendar
+view lists your upcoming meetings. You can browse upcoming meetings, join an online meeting, or schedule a meeting.
+To go to the
+Calendar
+view, flick right until you hear "Calendar tab," and double-tap the screen.
+Calls view
+The
+Calls
+view lists your call history. You can browse the list of past calls and make new calls.
+To go to the
+Calls
+view, flick right until you hear "Calls tab," and double-tap the screen.
+Navigate inside a view
+Each view contains a main content area in the center of the screen. The
+Activity
+,
+Chat
+,
+Calls, and Calendar
+views also add view-specific buttons to the toolbar. To navigate inside views, flick right or left to move between elements. Narrator reads the name of each element as they are highlighted. When you hear the one you want, double-tap the screen to select it.
+Navigate the More menu
+The
+More
+menu contains your profile information, your presence status, Microsoft Teams settings, and the
+Saved
+and
+Files
+views.
+To open the
+More
+menu, flick right or left until you hear "More menu," and double-tap the screen.
+flick right until you hear the menu item you want, and double-tap the screen.
+To leave the
+More
+menu, flick left until you hear "Close the More menu button," and double-tap the screen.
+See also
+Use a screen reader to chat in Microsoft Teams
+Use a screen reader to search for a conversation, person, or file in Microsoft Teams
+Basic tasks using a screen reader with Microsoft Teams
+Set up your device to work with accessibility in Microsoft 365
+What's new in Microsoft 365:
+Release notes for Current Channel
+Microsoft Teams for Android is a chat-based hub for colleagues to work together. Use Microsoft Teams for Android with TalkBack, the built-in Android screen reader, to explore and navigate the app main views and elements, and to move between views and functions.
+Need instructions on how to get started with Microsoft Teams, but not using a screen reader? See
+Sign in and get started with Teams
+.
+Note
+This topic assumes that you are using the built-in Android screen reader, TalkBack. To learn more about using TalkBack, go to
+Android accessibility
+.
+This topic assumes you are using this app with an Android phone. Some navigation and gestures might be different for an Android tablet.
+In this topic
+Cycle through main screen elements
+Navigate to a view
+Navigate inside a view
+Cycle through main screen elements
+To cycle through the Microsoft Teams screen elements, flick right (forward) or left (backward). The focus moves through the elements in the following order:
+The toolbar at the top of the screen. This toolbar contains the
+More Option
+button, the current tab heading, buttons specific to the current tab, and the
+Search
+button.
+The main content area at the middle of the screen.
+The tab bar at the bottom of the screen, containing the
+Activity
+,
+Chat
+,
+Calendar
+,
+Calls,
+and
+Files
+tabs.
+Navigate to a view
+Microsoft Teams contains the following main views:
+Activity
+,
+Chat
+,
+Calendar
+,
+Calls, and Files
+you can switch from any view to another.
+Activity view
+When you first sign in to the Microsoft Teams app, you land in the
+Activity
+view, which lists your and your teams' recent activity, such as mentions, likes, or missed calls.
+To go to the
+Activity
+view, flick right until you hear "Activity tab," and double-tap the screen.
+Chat view
+The
+Chat
+view. When you select this view, the list pane shows a list of recent conversations and
+Teams and Channels
+. The most recent conversation is opened in the content pane. You can browse the list of conversations and select one to display it in the content pane. For instructions on how to chat in Microsoft Teams, go to
+Use a screen reader to chat in Microsoft Teams
+.
+The
+Channels
+view. When you select this view, the list pane shows a hierarchical list of all teams you are a member of, and the channels created under each team. The most recently viewed channel is opened in the content pane. In this view you can join, create, or manage teams, add members to teams, or create and follow channels. For instructions on how to create and modify teams, go to
+Use a screen reader to create and modify teams in Microsoft Teams
+. For instructions on how to use channels, go to
+Use a screen reader to create or follow a channel in Microsoft Teams
+.
+Calendar view
+The
+Calendar
+view lists your upcoming meetings. You can browse upcoming meetings, join an online meeting, or schedule a meeting.
+To go to the
+Calendar
+view, flick right until you hear "Calendar view," and double-tap the screen.
+Calls view
+The
+Calls
+view lists your call history. You can browse the list of past calls and make new calls.
+To go to the
+Calls
+view, flick right until you hear "Calls tab," and double-tap the screen.
+Files view
+In the
+Files
+view, you can browse and open your personal files from
+OneDrive
+or your team's shared files in the native app or edit them in Microsoft Teams on the web. You can also download a file to your local device.
+Navigate the More menu
+The
+More
+menu contains your profile information, your presence status, Microsoft Teams settings, and the
+Saved
+and
+Files
+views.
+To open the
+More
+menu, flick right or left until you hear "Open hamburger menu," and double-tap the screen.
+Flick right until you hear the menu item you want, and double-tap the screen.
+To leave the
+More
+menu, tap the right side of the screen with two fingers
+Navigate inside a view
+Each view contains a main content area in the center of the screen. The
+Activity
+,
+Chat
+,
+Calendar, Calls, Files,
+and
+More
+also add view-specific buttons to the toolbar. To navigate inside views, flick right or left to move between elements. TalkBack reads the name of each element as they are highlighted. When you hear the one you want, double-tap the screen to select it.
+See also
+Use a screen reader to chat in Microsoft Teams
+Use a screen reader to search for a conversation, person, or file in Microsoft Teams
+Basic tasks using a screen reader with Microsoft Teams
+Set up your device to work with accessibility in Microsoft 365
+What's new in Microsoft 365:
+Release notes for Current Channel
+Use Microsoft Teams on the web in your browser with your keyboard and a screen reader to explore and navigate the app main views and elements, and move between views and functions. Microsoft Teams on the web is the digital hub for team work.
+Need instructions on how to get started with Microsoft Teams on the web, but not using a screen reader? See
+Sign in and get started with Teams
+.
+Note
+To learn more about screen readers, go to
+How screen readers work with Microsoft 365
+.
+Recent versions of JAWS no longer have the virtual PC cursor mode set as default for Microsoft Teams. For instructions on how to switch the virtual PC cursor mode on, go to
+Enable the JAWS virtual cursor
+.
+With Narrator, you need to turn the scan mode off before you browse the lists and menus. To do so, press the
+SR key
++
+Spacebar
+until you hear "Scan off."
+In this topic
+Cycle through main screen elements
+Move between the main views
+Navigate inside a view
+Cycle through main screen elements
+To cycle through the Microsoft Teams on the web screen elements, press the
+Tab
+key. The screen contains the following main elements:
+The main content area is in the center of the screen. The main content area consists of a list pane and a content pane. For instructions on how navigate inside this element, go to
+Navigate inside a view
+.
+The vertical toolbar is on the far left on the screen. When the focus moves to the toolbar, the screen reader announces "App bar," followed by a view name. To navigate inside the toolbar, press the
+Up
+or
+Down arrow
+key. The screen reader announces the buttons as you move. From the toolbar, you can switch to another view or to an installed app.
+The horizontal menu bar is at the top of the screen. To navigate within the menu bar, press the
+Tab
+key or
+Shift
++
+Tab
+. The screen reader announces the buttons and fields as you move. From the menu bar, you can start a new search, or access your profile and the app settings.
+With Narrator or NVDA, to cycle through the horizontal menu bar, the vertical toolbar, the list pane of the main content area, and finally the content pane of the main content area, press
+Ctrl
++
+F6
+. With JAWS, press
+R
+to cycle through the screen regions.
+Move between the main views
+Microsoft Teams on the web contains the following main views:
+Activity
+,
+Chat
+,
+Calendar
+,
+Calls
+, and
+Onedrive
+. Use the following keyboard shortcuts to quickly navigate between the main views:
+Press
+Ctrl
++
+Shift
++
+1
+for
+Activity
+.
+Press
+Ctrl
++
+Shift
++
+2
+for
+Chat
+.
+Press
+Ctrl
++
+Shift
++
+3
+for
+Calendar.
+Press
+Ctrl
++
+Shift
++
+4
+for
+Calls
+.
+Press
+Ctrl
++
+Shift
++
+5
+for
+OneDrive.
+Note
+The numbers (1, 2, 3, 4, 5) signifies the sequential position of the apps within the app bar. This position may vary depending on the individual setup.
+Activity view
+The
+Activity
+view contains activity feeds that contain a summary of everything that's happened in the team channels you follow or a summary of your recent activity.
+When you move to the
+Activity
+view, the focus is on the most recent activity in the content pane.
+Chat view
+The
+Chat
+view. When you select this view, the list pane shows a list of recent conversations and Teams and channels. The most recent conversation is opened in the content pane. You can browse the list of conversations and select one to display it in the content pane. For instructions on how to chat in Microsoft Teams, go to
+Use a screen reader to chat in Microsoft Teams
+.
+The
+Teams and Channels
+view. When you select this view, the list pane shows a hierarchical list of all teams you are a member of, and the channels created under each team. The most recently viewed channel is opened in the content pane. In this view you can join, create, or manage teams, add members to teams, or create and follow channels. For instructions on how to create and modify teams, go to
+Use a screen reader to create and modify teams in Microsoft Teams
+. For instructions on how to use channels, go to
+Use a screen reader to create or follow a channel in Microsoft Teams
+.
+Note
+By default, Teams will show chats and channels in the combined list view. To know more, go to
+Basic tasks using a screen reader in the new chats and channels experience
+.
+Calendar view
+In the
+Calendar
+view, you can browse your upcoming meetings, join an online meeting, or schedule a meeting.
+When you move to the
+Calendar
+view, you hear "Calendar grid." The focus is on the current day in the calendar grid.
+Calls view
+In the
+Calls
+view, you can call your contacts directly from Microsoft Teams on the web. You can also browse your call history and check your voice mail.
+Note
+The
+Calls
+feature is available in certain regions only.
+When you move to the
+Calls
+view, you hear "Speed dial." The focus is on the
+Speed dial
+contact list in the content pane.
+OneDrive view
+In the
+OneDrive
+view, you can browse and open your personal files from
+OneDrive
+or your team's shared files in the native app or edit them in Microsoft Teams. You can also download a file to your local device.
+Note
+If the
+OneDrive
+button is not visible in the vertical toolbar, select the
+More apps
+button, which opens a list of applications from which you can select the
+OneDrive
+view.
+Navigate inside a view
+Each view contains a main content area in the center of the screen. This area has been divided into a list pane and a content pane. The contents of each pane depend on the selected view.
+When you select a view, the focus moves to either the list pane or content pane as described in
+Move between the main views
+. To navigate between the list and content panes, press
+Ctrl
++
+F6
+.
+List pane
+The list pane is on the left side of the main content area. You can browse and select items and display them in detail on the content pane on the right. For example, in the
+Chat
+view, select a chat in the list pane, and the entire chat is displayed in the content pane. Depending on the selected view, you can also schedule a meeting or join a team.
+Note
+The
+Calendar
+view does not have a list pane. The calendar grid fills the entire view.
+To move the focus to a list, press the
+Tab
+key until you hear the first item in the list.
+To browse the items in a list pane, press the
+Down  arrow
+key. The screen reader announces the item details or buttons as you move.
+To select an item in a list and display its details in the content pane, press
+Enter
+.
+Content pane
+The content pane is on the right side of the main content area. You can access the content of the item selected in the list pane. Depending on the selected view, you can also add channels and tabs, start a call and type a message. The content pane also contains a tabs row at the top of the pane to organize the team assets, for example, to posts, shared files, or organizational info.
+Note
+In the
+Calendar
+view, the calendar grid fills the entire view.
+To move inside the banner at the top of the content pane, press the
+Tab
+key. The screen reader announces the buttons and fields as you move.
+To navigate to the tabs row, press the
+Tab
+key until you hear the currently selected tab, for example, "Posts tab." To move to another tab, press the
+Right
+or
+Left arrow
+key until you hear the tab you want, and then press
+Enter
+.
+To enter the content pane main area, press the
+Tab
+key until you hear the latest item in the area, such as the latest message in posts.
+To navigate inside a content pane:
+Focus navigation
+You can navigate quickly inside the content pane by pressing the Tab key or
+Shift
++
+Tab
+, or the
+arrow
+keys.
+Note
+With Narrator, focus navigation is the recommended option.
+Virtual navigation
+Note
+In NVDA this is called the browse mode, in JAWS it is called the virtual cursor mode, and in Narrator it is called the scan mode.
+You can navigate quickly inside the content pane using headings. To move between the headings, press
+H
+or
+Shift
++
+H
+. The heading levels are:
+Heading level 2: The name of the channel
+Heading level 3: Date separators within the conversation
+Heading level 4: The individual messages in this conversation
+Heading level 5: Replies to a message, or the reply field
+A message toolbar allows you to save or like a message, and access further options. To access and browse the toolbar:
+Focus navigation
+To access and browse the toolbar of a single message, in the content pane main area, press the
+Up arrow
+key in the message list until you reach the message you want. Press
+Enter
+and then the
+Left
+or
+Right
+arrow key to navigate between the options. To select, press
+Enter
+.
+Note
+With Narrator, focus navigation is the recommended option.
+Virtual navigation
+Note
+In NVDA this is called the browse mode, in JAWS it is called the virtual cursor mode, and in Narrator it is called the scan mode.
+To access and browse the toolbar of a single message, in the content pane main area, press
+H
+or
+Shift
++
+H
+to move between the headings in the message list until you reach the message you want. Move the cursor to the message area, and press the
+Down arrow
+key until you hear "Toolbar" and the toolbar item you want. To select, press
+Enter
+.
+See also
+Use a screen reader to chat in Microsoft Teams
+Use a screen reader to check recent activity in Microsoft Teams
+Basic tasks using a screen reader with Microsoft Teams
+What's new in Microsoft 365:
+Release notes for Current Channel
+Technical support for customers with disabilities
+Microsoft wants to provide the best possible experience for all our customers. If you have a disability or questions related to accessibility, please contact the
+Microsoft Disability Answer Desk
+for technical assistance. The Disability Answer Desk support team is trained in using many popular assistive technologies and can offer assistance in English, Spanish, French, and American Sign Language. Please go to the Microsoft Disability Answer Desk site to find out the contact details for your region.
+If you are a government, commercial, or enterprise user, please contact
+the enterprise Disability Answer Desk
+.

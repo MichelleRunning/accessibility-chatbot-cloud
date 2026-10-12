@@ -1,0 +1,224 @@
+URL: https://support.microsoft.com/en-us/accessibility/teams/screen-reader-support-for-microsoft-teams
+Screen reader support for Microsoft Teams
+Applies To
+Teams
+Microsoft Teams
+Get help with Copilot
+Tell me about screen reader support for Microsoft Teams.
+Explain how to use Teams for personal and small business
+How do I join a meeting?
+This article is for people who use a screen reader program such as Windows Narrator, JAWS, or NVDA with Windows tools or features and Microsoft 365 products. This article is part of the
+Accessibility help & learning
+content set where you can find more accessibility information on our apps. For general help, visit
+Microsoft Support
+.
+Windows
+Mac
+iOS
+Android
+Web
+On this page, you can find links to accessibility help articles that are written for people who use screen readers with Microsoft Teams on Windows.
+To find links to articles that can help you make Microsoft Teams more accessible and easier to use, go to
+Accessibility tools for Microsoft Teams
+or reach out to the
+Disability Answer Desk.
+Note
+If you're looking for information on how to use the free app that comes installed with Windows 11, go to
+Screen reader support for Teams for your personal life
+.
+Get started using accessible features in Microsoft Teams
+Quick Start Guide: Using Microsoft Teams with a screen reader
+Moving from Skype for Business to Microsoft Teams for people that use screen readers
+Using Microsoft Teams with a Screen Reader: Frequently Asked Questions
+Use a screen reader to explore and navigate Microsoft Teams
+Keyboard shortcuts for Microsoft Teams
+Basic tasks using a screen reader with Microsoft Teams
+Learning the layout of Microsoft Teams with a screen reader
+Use Microsoft Teams with the JAWS virtual cursor
+Create and modify teams in Microsoft Teams
+Use a screen reader to create and modify teams in Microsoft Teams
+Use a screen reader to add members to a team in Microsoft Teams
+Use a screen reader to set up and use guest access in Microsoft Teams
+Work with your team in Microsoft Teams
+Use a screen reader to chat in Microsoft Teams
+Use a screen reader with Loop components in a chat in Microsoft Teams
+Use a screen reader to make and answer calls in Microsoft Teams
+Use a screen reader to check your voicemail in Microsoft Teams
+Use a screen reader to like and save messages in Microsoft Teams
+Use a screen reader to manage your contacts in Microsoft Teams
+Use a screen reader to create a poll in Microsoft Teams
+Work with channels in Microsoft Teams
+Use a screen reader to create or follow a channel in Microsoft Teams
+Use a screen reader to add and use a Stream tab in a Microsoft Teams channel
+Check recent activity in Microsoft Teams
+Use a screen reader to check recent activity in Microsoft Teams
+Work with meetings and live events in Microsoft Teams
+Use a screen reader to schedule a meeting in Microsoft Teams
+Use a screen reader to join a meeting in Microsoft Teams
+Use a screen reader to share your screen in Microsoft Teams
+Use a screen reader with backgrounds in Microsoft Teams meetings
+Use a screen reader to plan and schedule a live event in Microsoft Teams
+Use a screen reader to manage Microsoft Teams meetings
+Use a screen reader to moderate a Q&A in a Microsoft Teams live event
+Use a screen reader with your phone for audio in a meeting or live event in Microsoft Teams
+Work with PowerPoint Live in Microsoft Teams
+Use a screen reader to attend a PowerPoint Live session in Microsoft Teams
+Use a screen reader to share and co-present with PowerPoint Live in Microsoft Teams
+Video: Present inclusively with PowerPoint
+Work with files and Wikis in Microsoft Teams
+Use a screen reader to work with files in Microsoft Teams
+Use a screen reader to add and use a Wiki in Microsoft Teams
+Find conversations, people, or files in Microsoft Teams
+Use a screen reader to search for a conversation, person, or file in Microsoft Teams
+On this page, you can find links to accessibility help articles that are written for people who use screen readers with Microsoft Teams on Mac.
+To find links to articles that can help you make Microsoft Teams more accessible and easier to use, go to
+Accessibility tools for Microsoft Teams
+or reach out to the
+Disability Answer Desk.
+Switch to Microsoft Teams
+Quick Start Guide: Using Microsoft Teams with a screen reader
+Using Microsoft Teams with a Screen Reader: Frequently Asked Questions
+Get started using accessible features in Microsoft Teams
+Use a screen reader to explore and navigate Microsoft Teams
+Keyboard shortcuts for Microsoft Teams
+Basic tasks using a screen reader with Microsoft Teams
+Learning the layout of Microsoft Teams with a screen reader
+Create and modify teams in Microsoft Teams
+Use a screen reader to create and modify teams in Microsoft Teams
+Use a screen reader to add members to a team in Microsoft Teams
+Use a screen reader to set up and use guest access in Microsoft Teams
+Work with your team in Microsoft Teams
+Use a screen reader to chat in Microsoft Teams
+Use a screen reader with Loop components in a chat in Microsoft Teams
+Use a screen reader to make and answer calls in Microsoft Teams
+Use a screen reader to check your voicemail in Microsoft Teams
+Use a screen reader to like and save messages in Microsoft Teams
+Use a screen reader to manage your contacts in Microsoft Teams
+Use a screen reader to create a poll in Microsoft Teams
+Work with channels in Microsoft Teams
+Use a screen reader to create or follow a channel in Microsoft Teams
+Use a screen reader to add and use a Stream tab in a Microsoft Teams channel
+Check recent activity in Microsoft Teams
+Use a screen reader to check recent activity in Microsoft Teams
+Work with meetings and live events in Microsoft Teams
+Use a screen reader to schedule a meeting in Microsoft Teams
+Use a screen reader to join a meeting in Microsoft Teams
+Use a screen reader to share your screen in Microsoft Teams
+Use a screen reader with backgrounds in Microsoft Teams meetings
+Use a screen reader to plan and schedule a live event in Microsoft Teams
+Use a screen reader to manage Microsoft Teams meetings
+Use a screen reader to moderate a Q&A in a Microsoft Teams live event
+Use a screen reader with your phone for audio in a meeting or live event in Microsoft Teams
+Work with PowerPoint Live in Microsoft Teams
+Use a screen reader to attend a PowerPoint Live session in Microsoft Teams
+Use a screen reader to share and co-present with PowerPoint Live in Microsoft Teams
+Work with files and Wikis in Microsoft Teams
+Use a screen reader to work with files in Microsoft Teams
+Use a screen reader to add and use a Wiki in Microsoft Teams
+Find conversations, people, or files in Microsoft Teams
+Use a screen reader to search for a conversation, person, or file in Microsoft Teams
+On this page, you can find links to accessibility help articles that are written for people who use screen readers with Microsoft Teams for iOS.
+To find links to articles that can help you make Microsoft Teams more accessible and easier to use, go to
+Accessibility tools for Microsoft Teams
+or reach out to the
+Disability Answer Desk.
+Note
+If you're looking for information on how to use the free app that comes installed with iOS, go to
+Screen reader support for Teams for your personal life
+.
+Switch to Microsoft Teams
+Quick Start Guide: Using Microsoft Teams with a screen reader
+Using Microsoft Teams with a Screen Reader: Frequently Asked Questions
+Get started using accessible features in Microsoft Teams
+Use a screen reader to explore and navigate Microsoft Teams
+Basic tasks using a screen reader with Microsoft Teams
+Learning the layout of Microsoft Teams with a screen reader
+Work with your team in Microsoft Teams
+Use a screen reader to add members to a team in Microsoft Teams
+Use a screen reader to set up and use guest access in Microsoft Teams
+Use a screen reader to chat in Microsoft Teams
+Use a screen reader with Loop components in a chat in Microsoft Teams
+Use a screen reader to like and save messages in Microsoft Teams
+Use a screen reader to work with files in Microsoft Teams
+Work with meetings and live events in Microsoft Teams
+Use a screen reader to join a meeting in Microsoft Teams
+Use a screen reader with backgrounds in Microsoft Teams meetings
+Share content in a meeting in Microsoft Teams
+Use a screen reader to share your screen in Microsoft Teams
+Find conversations, people, or files in Microsoft Teams
+Use a screen reader to search for a conversation, person, or file in Microsoft Teams
+On this page, you can find links to accessibility help articles that are written for people who use screen readers with Microsoft Teams for Android.
+To find links to articles that can help you make Microsoft Teams more accessible and easier to use, go to
+Accessibility tools for Microsoft Teams
+or reach out to the
+Disability Answer Desk.
+Note
+If you're looking for information on how to use the free app that comes installed with Android, go to
+Screen reader support for Teams for your personal life
+.
+Switch to Microsoft Teams
+Quick Start Guide: Using Microsoft Teams with a screen reader
+Using Microsoft Teams with a Screen Reader: Frequently Asked Questions
+Get started using accessible features in Microsoft Teams
+Use a screen reader to explore and navigate Microsoft Teams
+Basic tasks using a screen reader with Microsoft Teams
+Learning the layout of Microsoft Teams with a screen reader
+Work with your team in Microsoft Teams
+Use a screen reader to add members to a team in Microsoft Teams
+Use a screen reader to set up and use guest access in Microsoft Teams
+Use a screen reader to chat in Microsoft Teams
+Use a screen reader with Loop components in a chat in Microsoft Teams
+Use a screen reader to like and save messages in Microsoft Teams
+Use a screen reader to work with files in Microsoft Teams
+Join a meeting in Microsoft Teams
+Use a screen reader to join a meeting in Microsoft Teams
+Share content in a meeting in Microsoft Teams
+Use a screen reader to share your screen in Microsoft Teams
+Find conversations, people, or files in Microsoft Teams
+Use a screen reader to search for a conversation, person, or file in Microsoft Teams
+On this page, you can find links to accessibility help articles that are written for people who use screen readers with Microsoft Teams on the web.
+To find links to articles that can help you make Microsoft Teams more accessible and easier to use, go to
+Accessibility tools for Microsoft Teams
+or reach out to the
+Disability Answer Desk.
+Switch to Microsoft Teams
+Quick Start Guide: Using Microsoft Teams with a screen reader
+Using Microsoft Teams with a Screen Reader: Frequently Asked Questions
+Get started using accessible features in Microsoft Teams
+Use a screen reader to explore and navigate Microsoft Teams
+Keyboard shortcuts for Microsoft Teams
+Basic tasks using a screen reader with Microsoft Teams
+Learning the layout of Microsoft Teams with a screen reader
+Use Microsoft Teams with the JAWS virtual cursor
+Create and modify teams in Microsoft Teams
+Use a screen reader to create and modify teams in Microsoft Teams
+Use a screen reader to add members to a team in Microsoft Teams
+Use a screen reader to set up and use guest access in Microsoft Teams
+Work with your team in Microsoft Teams
+Use a screen reader to chat in Microsoft Teams
+Use a screen reader to make and answer calls in Microsoft Teams
+Use a screen reader to check your voicemail in Microsoft Teams
+Use a screen reader to like and save messages in Microsoft Teams
+Use a screen reader to manage your contacts in Microsoft Teams
+Use a screen reader to create a poll in Microsoft Teams
+Work with channels in Microsoft Teams
+Use a screen reader to create or follow a channel in Microsoft Teams
+Use a screen reader to add and use a Stream tab in a Microsoft Teams channel
+Check recent activity in Microsoft Teams
+Use a screen reader to check recent activity in Microsoft Teams
+Work with meetings and live events in Microsoft Teams
+Use a screen reader to schedule a meeting in Microsoft Teams
+Use a screen reader to join a meeting in Microsoft Teams
+Use a screen reader to share your screen in Microsoft Teams
+Use a screen reader with backgrounds in Microsoft Teams meetings
+Use a screen reader to plan and schedule a live event in Microsoft Teams
+Use a screen reader with your phone for audio in a meeting or live event in Microsoft Teams
+Work with PowerPoint Live in Microsoft Teams
+Use a screen reader to attend a PowerPoint Live session in Microsoft Teams
+Use a screen reader to share and co-present with PowerPoint Live in Microsoft Teams
+Video: Present inclusively with PowerPoint
+Work with files and Wikis in Microsoft Teams
+Use a screen reader to work with files in Microsoft Teams
+Use a screen reader to add and use a Wiki in Microsoft Teams
+Find conversations, people, or files in Microsoft Teams
+Use a screen reader to search for a conversation, person, or file in Microsoft Teams

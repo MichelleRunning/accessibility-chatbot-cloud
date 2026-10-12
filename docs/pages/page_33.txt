@@ -1,0 +1,403 @@
+URL: https://support.microsoft.com/en-us/accessibility/windows/use-live-captions-to-better-understand-audio
+Use live captions to better understand audio
+Get help with Copilot
+How do I add other languages for captions?
+Show me how to use live captions.
+How do I turn on live captions?
+Live captions helps everyone, including people who are deaf or hard of hearing, better understand audio by providing automatic transcription.
+To make more content accessible to more people, live captions now has the ability to provide translations and will turn any audio that passes through your PC into a single caption experience. When using a
+Copilot+ PC
+, live captions instantly translate any live or pre-recorded video in any app or video platform from over 40 languages into English and 27 languages into Chinese (Simplified).
+Live captions works across Windows 11, making it seamless to read captions while working in other apps. Captions can be provided for audio even when disconnected from the internet. You can personalize how captions are displayed, and you can include microphone audio to make in-person conversations easier.
+Important
+All processing of audio and generation of captions from detected voice data occurs on-device. Audio, voice data, and captions never leave your device and are not shared to the cloud or with Microsoft. Generated captions are not stored anywhere on the device or the cloud. For more information, review the
+Microsoft privacy statement
+.
+Notes:
+Live captions is available in Windows 11, version 22H2 and later. The ability to translate is available on
+Copilot+ PCs
+running Windows 11, version 24H2 and later. For more information on the new features in Windows 11, see
+What's new in recent Windows updates
+.
+Not sure which version of Windows you have? See:
+Find Windows version
+.
+In this article
+Turn on live captions
+Personalize how your captions are displayed
+Make captions easier to read
+Use your microphone to caption your speech
+Add and use other languages
+Get the most out of live captions
+Microsoft’s commitment to responsible AI
+Frequently asked questions
+Turn on live captions
+To turn on live captions, do one of the following:
+Turn on
+Live captions
+in the quick settings (to open quick settings, select the battery, network, or volume icon on the taskbar).
+Turn on the
+Live captions
+toggle in the quick settings
+Accessibility
+flyout.
+Press
+Windows
+key+
+Ctrl
++
+L
+.
+Select
+Start
+>
+All apps
+>
+Accessibility
+>
+Live captions
+.
+Go to
+Settings
+>
+Accessibility
+>
+Captions
+and turn on the
+Live captions
+toggle.
+When turned on the first time, live captions will ask for your consent to process voice data on your device and prompt you to download language files to be used by on-device speech recognition. If your language is not available, you can use another language during setup.
+When using a
+Copilot+ PC
+, in addition to live captions, you also automatically see translation when using English (United States) or Chinese (Simplified) as the output language. Live captions support
+translating over 40 languages
+into English and
+27 languages
+into Chinese (Simplified).
+Personalize how your captions are displayed
+To choose where captions are displayed on your desktop:
+Select the
+Settings
+button in the live captions window.
+Select
+Position
+.
+Choose either
+Above screen
+,
+Below screen
+, or
+Overlaid on screen
+.
+When you choose
+Above screen
+or
+Below screen
+, the captions window will appear as docked to the top or bottom screen edges in reserved space on your desktop, and other apps will not be blocked by the captions window. When docked to the top, you might find that live captions works well while sharing video in a virtual meeting or conversation, whereas in other cases, such as viewing videos, docking to bottom might work best.
+When you choose
+Floating on screen
+, live captions will appear in an overlay window which you can reposition as needed to avoid obscuring other apps in use.
+To show more lines of text in the captions window, increase the window size by using the mouse, touch, or keyboard.
+Make captions easier to read
+Select the
+Settings
+button in the live captions window.
+Select
+Preferences
+.
+Select
+Caption style
+. The
+Accessibility
+settings for
+Captions
+opens.
+Under
+Caption style
+, do one of the following:
+Select a built-in style from the dropdown menu. Use the
+Default
+built-in style to have captions displayed with colors appropriate to your device’s dark or light mode setting in
+Settings
+>
+Personalization
+>
+Colors
+>
+Choose your mode
+.
+Select the
+Edit
+button to create a custom style that works best for you.
+Use your microphone to caption your speech
+You have the option to use the microphone on your PC to caption your own speech. When this feature is on, any audio captured by your microphone will be captioned, provided that no other audio on your device is being captioned. For example, if you use live captions during an online meeting with another person, if you speak over each other, you will only see the captions for the other person.
+Note
+All processing of audio and generation of captions from detected voice data occurs on-device. Audio, voice data, and captions never leave your device and are not shared to the cloud or with Microsoft. Generated captions are not stored anywhere on the device or the cloud. For more information, review the
+Microsoft privacy statement
+.
+To caption your own speech:
+Select the
+Settings
+button in the live captions window.
+Select
+Preferences
+and turn on the
+Include microphone audio
+option. When you turn on live captions, this functionality is off by default.
+To check your device’s microphone configuration, see
+Settings
+>
+System
+>
+Sound
+and review the
+Input
+options.
+To adjust your privacy settings for live captions’ use of your microphone, navigate to
+Settings
+>
+Privacy & security
+>
+Microphone
+>
+Let apps access your microphone
+>
+Let desktop apps access your microphone
+. For more information about microphone privacy, review
+Microphone privacy
+.
+Add and use other languages
+Windows 11
+Windows 11, version 23H2 and earlier
+To add other languages:
+Select the
+Settings
+button in the live captions window.
+Select
+Change language
+, select the desired language from the dropdown, then select
+Continue
+.
+If the language is not already downloaded, you will be asked to download it. Select
+Download
+to confirm.
+After the download completes, live captions will display that it’s ready to caption in the new language.
+Tip
+Languages already installed on your device are highlighted in
+bold
+in the language selection dropdown.
+To add other languages:
+Select the
+Settings
+button in the live captions window.
+Select
+Caption language
+.
+Select
+Add a language
+. The
+Language & region
+settings window opens.
+In
+Language & region
+settings, go to
+Preferred languages
+, and then select
+Add a language
+.
+In
+Choose a language to install
+, browse or search for a language with support for
+Speech recognition, and then select
+Next
+.
+In
+Install language features
+, select the features you want to use, while ensuring
+Enhanced speech recognition
+is selected, and then select
+Install
+.
+When the installation of the enhanced speech recognition feature has completed for the language you selected, the language appears in live captions'
+Caption language
+menu.
+To use other languages:
+Select the
+Settings
+button in the live captions window.
+Select
+Caption language
+.
+Select the language you want to use.
+When the new language is selected, live captions will display that it’s ready to caption in the new language.
+Get the most out of live captions
+To help you understand controls you have, here are additional ways you can get the most optimal experience:
+To mask profanity, go to the
+Settings
+menu, select
+Preferences
+, and turn on the
+Filter profanity
+option.
+To improve captioning accuracy when using the microphone, make sure to minimize background noise in your environment and speak directly into the microphone.
+To ensure minimal delay in captions or if you notice that captions are not appearing, try closing unused apps to maximize performance.
+Resource-intensive apps (for example, apps that share video) might impact the real-time behavior of live captions, leading to delays in captions, or even dropped captions. If this happens, consider limiting some app functionality while depending on live captions (for example, turn off any background effects or other special effects applied to shared video).
+Microsoft’s commitment to responsible AI
+Live captions is built responsibly keeping your privacy in mind. It keeps the language files and data on the device, keeps the microphone off by default, and provides an optional profanity filter to mask profane speech elements. In addition to this, live captions with translation extends the capabilities of live captions to break language and accent barriers.
+Live captions uses Azure AI Speech models, a compact version of the captions language files that are evaluated on the same fairness datasets as the cloud-based Speech to Text API. These models are embedded on the device to provide streamlined local captioning and translation with reasonable and acceptable accuracy in real-time. To get more information about responsible use of Azure AI Speech, see
+Speech-to-text fairness information
+and
+Transparency Note and use cases for speech to text
+.
+For more about our responsible AI efforts, the principles that guide us, and the tooling and capabilities we've created to assure that we develop AI technology responsibly, see
+Responsible AI
+.
+We want to hear from you!
+If there's something you like, and especially if there's something you don't like, about live captions you can submit feedback via
+Feedback Hub
+(press
+Windows
+key+F while live captions is active) and select
+Accessibility
+>
+Live captions
+category.
+Frequently asked questions
+What languages does live captions support?
+Live captions supports speech recognition in:
+Chinese (Simplified, China)
+Chinese (Traditional, Hong Kong SAR)
+Chinese (Traditional, Taiwan)
+Danish
+English (Australia)
+English (Canada)
+English (India)
+English (Ireland)
+English (New Zealand)
+English (United Kingdom)
+English (United States)
+French (Canada)
+French (France)
+German (Germany)
+Italian (Italy)
+Japanese
+Korean
+Portuguese (Brazil)
+Portuguese (Portugal)
+Spanish (Mexico)
+Spanish (Spain)
+What languages does live captions translate into English?
+On a
+Copilot+ PC
+, live captions has the ability to translate to English from these languages:
+Arabic
+Basque
+Bosnian
+Bulgarian
+Chinese (Cantonese)
+Chinese (Mandarin)
+Chinese (Simplified, China)
+Czech
+Danish
+Dutch
+English
+Estonian
+Finnish
+French
+Galician
+German
+Greek
+Hindi
+Hungarian
+Indonesian
+Irish
+Italian
+Japanese
+Korean
+Latvian
+Lithuanian
+Macedonian
+Maltese
+Norwegian
+Pashto
+Polish
+Portuguese
+Romanian
+Russian
+Slovak
+Serbian
+Slovenian
+Somali
+Spanish
+Swedish
+Thai
+Turkish
+Ukrainian
+Vietnamese
+Welsh
+What languages does live captions translate into Chinese?
+Arabic
+Bulgarian
+Czech
+Danish
+German
+Greek
+English
+Estonian
+Finnish
+French
+Hindi
+Hungarian
+Italian
+Japanese
+Korean
+Lithuanian
+Norwegian
+Dutch
+Polish
+Portuguese
+Romanian
+Russian
+Slovak
+Slovene
+Spanish
+Swedish
+Turkish
+What kind of audio can be captioned?
+Only speech detected in audio will be captioned. Audible events such as applause or music will not be detected. Lyrics sung in music will not be reliably detected.
+How does live captions process and use my data?
+All processing of audio and generation of captions from detected voice data occurs on-device. Audio, voice data, and captions never leave your device and are not shared to the cloud or with Microsoft. Generated captions are not stored anywhere on the device or the cloud. For more information, review the
+Microsoft privacy statement
+.
+I use a headset in meetings but live captions isn’t captioning the audio, why is that?
+Live captions pays attention to the default sound output device configured in
+Settings
+>
+System
+>
+Sound
+. You might need to change your default device for audio to be picked up by live captions.
+Why doesn’t live captions remember my microphone setting preference?
+The microphone is always turned off by default when live captions starts up, so that only the audio you intend will be captioned.
+What happens when microphone audio is being captured at the same time as sound audio? Captions for which audio will be shown?
+Sound audio will be prioritized over microphone audio. For example, if you are in a virtual meeting where a remote meeting participant is speaking and you speak over each other, the captions for the remote meeting participant will be shown instead of your own.
+I’m getting a download error when I first run live captions, how do I resolve this?
+Refer to
+Troubleshooting live captions or voice access setup issues
+.
+I‘m no longer using live captions, how do I remove the language files that were downloaded and reclaim storage space?
+Navigate to
+Settings
+>
+Apps
+>
+Installed apps
+, and then search for
+Speech Pack
+. You get a list of all installed language files. Select
+Uninstall
+from the
+More
+menu for the language file you want to uninstall.
+Related topics
+Troubleshooting live captions or voice access setup issues

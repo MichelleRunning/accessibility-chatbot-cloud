@@ -1,0 +1,186 @@
+URL: https://support.microsoft.com/en-us/accessibility/windows/use-the-on-screen-keyboard-osk-to-type
+Use the On-Screen Keyboard (OSK) to type
+Applies To
+Windows 11
+Windows 10
+Get help with Copilot
+Can I change the layout of the on-screen keyboard?
+What if I can't change keyboard mode on Microsoft swiftkey?
+How would I open the on-screen keyboard?
+Windows 11
+Windows 10
+There are several different kinds of keyboards for PCs. The most common type is a physical, external keyboard that plugs into your PC. But Windows has a built-in Accessibility tool called the On-Screen Keyboard (OSK) that can be used instead of a physical keyboard.
+You don't need a touchscreen to use the OSK. It displays a visual keyboard with all the standard keys, so you can use your mouse or another pointing device to select keys, or use a physical single key or group of keys to cycle through the keys on the screen.
+Note
+A PC with a touchscreen also has a touch keyboard. The touch keyboard will appear when you tap inside a text box when your PC is in
+tablet mode
+.
+Open the On-Screen Keyboard
+Go to
+Start
+, then select
+Settings
+>
+Accessibility
+>
+Keyboard
+, and turn on the
+On-Screen Keyboard
+toggle. A keyboard that can be used to move around the screen and enter text will appear on the screen. The keyboard will remain on the screen until you close it.
+Note
+To open the OSK from the sign-in screen, select the
+Accessibility
+button in the lower-right corner of the sign-in screen, and then select
+On-Screen Keyboard
+.
+Change the layout of the On-Screen Keyboard
+The OSK has two different layout options, Nav and General.
+The
+Nav
+layout is a simplified keyboard that includes only navigational keys, such as
+Tab
+,
+Enter
+,
+Space
+, and the
+arrow
+keys.
+The
+General
+layout is the full keyboard, including all standard keys.
+To switch from the
+General
+layout to the
+Nav
+layout, select the
+Nav
+key on the OSK. To switch From
+Nav
+to
+General
+layout, select the
+General
+key on the OSK.
+Important
+The OSK retains the last used layout when opened. If you switch to the
+Nav
+layout while signing in, the OSK will open in that layout after logging in. Closing and reopening the OSK will not reset the layout. Toggling the
+General
+or
+Nav
+key is the only way to switch between the OSK layouts.
+Change how info is entered into the On-Screen Keyboard
+With the OSK open, select the
+Options
+key, and choose the options you want:
+Use click sound
+: Use this option if you want to hear a sound when you press a key.
+Show keys to make it easier to move around the screen
+: Use this option if you want the OSK to have keys for repositioning it on your screen.
+Turn on numeric keypad
+: Use this option to expand the OSK to show a numeric keypad.
+Click on keys
+: Use this mode if you prefer to click or tap the on-screen keys to enter text.
+Hover over keys
+: Use this mode if you use a mouse or joystick to point at OSK keys. The characters you point at are entered automatically when you point at them for a specified time. Use the
+Hover duration
+slider to adjust the delay.
+Scan through keys
+: Use this mode if you want the OSK to continually scan the keyboard. Scan mode highlights areas where you can type keyboard characters by pressing a keyboard shortcut, using a switch input device, or using a device that simulates a mouse click. Use the
+Scanning speed
+slider to set a speed that suits your preferences. You can also choose any combination of the following options for selecting a key:
+A joystick, game pad, or other gaming device
+A keyboard key that you can choose from a list
+A mouse click
+Use Text Prediction
+: Use this option if you want the OSK to suggest words for you as you type so you don't need to type each complete word. You can also select if you want to insert a space after each predicted word.
+Note
+Text Prediction is available in English, French, Italian, German, and Spanish. If you want to use one of these languages and it isn't installed, install the language files for that language.
+If you're using either hovering mode or scanning mode and accidently minimize the OSK, you can restore it by pointing to it in the taskbar (for hovering mode) or by pressing the scan key (for scanning mode).
+If you minimize the OSK and switch to tablet mode, use the
+Task view
+button to get back to the OSK.
+Insert space after predicted words
+: Adds a space after you choose a suggested word, allowing you to add multiple predicted words without pressing Space after each word.
+There are several different kinds of keyboards for PCs. The most common type is a physical, external keyboard that plugs into your PC. But Windows has a built-in Ease of Access tool called the On-Screen Keyboard (OSK) that can be used instead of a physical keyboard.
+You don't need a touchscreen to use the OSK. It displays a visual keyboard with all the standard keys, so you can use your mouse or another pointing device to select keys, or use a physical single key or group of keys to cycle through the keys on the screen.
+Note
+A PC with a touchscreen also has a touch keyboard. The touch keyboard will appear when you tap inside a text box when your PC is in
+tablet mode
+.
+Open the On-Screen Keyboard
+Go to
+Start
+, then select
+Settings
+>
+Ease of Access
+>
+Keyboard
+, and turn on the toggle under
+Use the On-Screen Keyboard
+. A keyboard that can be used to move around the screen and enter text will appear on the screen. The keyboard will remain on the screen until you close it.
+Note
+To open the OSK from the sign-in screen, select the
+Ease of Access
+button in the lower-right corner of the sign-in screen, and then select
+On-Screen Keyboard
+.
+Change the layout of the On-Screen Keyboard
+The OSK has two different layout options, Nav and General.
+The
+Nav
+layout is a simplified keyboard that includes only navigational keys, such as
+Tab
+,
+Enter
+,
+Space
+, and the
+arrow
+keys.
+The
+General
+layout is the full keyboard, including all standard keys.
+To switch from the
+Nav
+layout to the
+General
+layout, select the
+General
+key on the OSK.
+Important
+The OSK retains the last used layout when opened. If you switch to the
+Nav
+layout while signing in, the OSK will open in that layout after logging in. Closing and reopening the OSK will not reset the layout. Toggling the
+General
+or
+Nav
+key is the only way to switch between the OSK layouts.
+Change how info is entered into the On-Screen Keyboard
+With the OSK open, select the
+Options
+key, and choose the options you want:
+Use click sound
+. Use this option if you want to hear a sound when you press a key.
+Show keys to make it easier to move around the screen
+. Use this option if you want the keys to light up as you type.
+Turn on numeric keypad
+. Use this option to expand the OSK to show a numeric keypad.
+Click on keys
+. Use this mode if you prefer to click or tap the on-screen keys to enter text.
+Hover over keys
+. Use this mode if you use a mouse or joystick to point to a key. The characters you point to are entered automatically when you point to them for a specified time.
+Scan through keys
+. Use this mode if you want the OSK to continually scan the keyboard. Scan mode highlights areas where you can type keyboard characters by pressing a keyboard shortcut, using a switch input device, or using a device that simulates a mouse click.
+Use Text Prediction
+. Use this option if you want the OSK to suggest words for you as you type so you don't need to type each complete word.
+Note
+Text Prediction is available in English, French, Italian, German, and Spanish. If you want to use one of these languages and it isn't installed, install the language files for that language.
+If you're using either hovering mode or scanning mode and accidently minimize the OSK, you can restore it by pointing to it in the taskbar (for hovering mode) or by pressing the
+Scan
+key (for scanning mode).
+If you minimize the OSK and switch to tablet mode, use the
+Task view
+button to get back to the OSK.

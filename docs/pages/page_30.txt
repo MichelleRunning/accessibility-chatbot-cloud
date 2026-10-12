@@ -1,0 +1,246 @@
+URL: https://support.microsoft.com/en-us/teams/meetings/start-stop-and-download-live-transcripts-in-microsoft-teams-meetings
+Start, stop, and download live transcripts in Microsoft Teams meetings
+Applies To
+Teams
+Microsoft Teams
+During a Teams meeting, you can start live transcription to capture everything being said. The transcription appears in real time and includes each speaker's name and time stamp.
+Desktop
+Mobile
+In this article
+Start live transcription
+Download a transcript
+Change transcription language
+Share a transcript with mobile participants
+Live translated transcription
+Delete a transcript
+Hide or show live transcription
+Who can start, stop, view, and download a transcript?
+Stop live transcription
+Start a live transcription
+When you
+record a meeting
+, transcription starts automatically.
+To start a live transcription only:
+Select
+More actions
+in your
+meeting controls
+.
+Select
+Record and transcribe
+>
+Start transcription
+.
+Confirm the language everyone is speaking in the meeting.
+Select
+Confirm
+.
+All participants see a notification that the meeting is being transcribed. Participants can choose to
+hide their identities in meeting captions and transcripts
+.
+Obscenities are obscured by asterisks.
+Change transcription language
+To ensure transcription accuracy, make sure the meeting spoken language reflects the language everyone is speaking.
+If people are speaking a different language than the meeting’s set spoken language, Teams will detect the language mismatch. Then, the meeting organizer, co-organizer, transcript initiator, or initiator of the feature that turned on transcription, will be prompted to update the spoken language:
+Select
+Settings
+to update the meeting spoken language manually.
+Select
+Yes, change it
+to immediately update to the detected meeting spoken language.
+The meeting organizer, co-organizer(s), transcript initiator, or initiator of any feature that turned on transcription, can access the meeting spoken language at any time.
+To change the transcription language:
+Select
+More actions
+in your
+meeting controls
+.
+Hover over
+Record and transcribe
+.
+Select
+Show transcript
+.
+In the transcript pane, select
+Language settings
+.
+In the
+Spoken language in this meeting
+dropdown menu, select the language people are speaking.
+Select
+Update
+. The transcript will now display in this language.
+Important
+For other participants to access the meeting spoken language, transcription must be turned off. If there’s an ongoing transcription, they must first turn it off or turn off the feature that started the transcription. Then, they must manually turn transcription on again.
+Supported languages:
+English (US), English (Canada), English (India), English (UK), English (Australia), English (New Zealand), Arabic (Saudi Arabia), Arabic (United Arab Emirates), Albanian (Albania), Bulgarian (Bulgaria), Catalan (Catalan), Chinese (Simplified, China), Chinese (Traditional, Hong Kong SAR), Chinese (Traditional, Taiwan), Croatian (Croatia), Czech (Czechia), Danish (Denmark), Dutch (Belgium), Dutch (Netherlands), Estonian (Estonia), Filipino (Philippines), Finnish (Finland), French (Canada), French (France), German (Germany), German (Switzerland), Greek (Greece), Hebrew (Israel), Hindi (India), Hungarian (Hungary), Icelandic (Iceland), Indonesian (Indonesia), Italian (Italy), Japanese (Japan), Kazakh (Kazakhstan), Korean (Korea), Latvian (Latvia), Lithuanian (Lithuania), Malay (Malaysia), Maltese (Malta), Norwegian (Norway), Polish (Poland), Portuguese (Brazil), Portuguese (Portugal), Romanian (Romania), Russian (Russia), Serbian (Cyrillic, Serbia), Slovak (Slovakia), Slovenian (Slovenia), Spanish (Mexico), Spanish (Spain), Swedish (Sweden), Thai (Thailand), Turkish (Turkey), Ukrainian (Ukraine), Vietnamese (Vietnam), Welsh (United Kingdom).
+Important
+When you change the spoken language setting, the transcript and caption language will change for everyone.
+Live translated transcription
+Understand each other better during a meeting by translating the meeting transcript into the language you’re most comfortable with.
+Live translated transcription is available as part of
+Teams Premium
+. For access to Teams Premium, contact your IT admin.
+To start a live translated transcription:
+Join a meeting in Teams.
+Start live transcription
+.
+Hover over
+Record and transcribe
+.
+Select
+Show transcript
+.
+In the transcript pane, select
+Language settings
+.
+Turn the
+Translate to
+toggle on.
+In the dropdown menu, select the language you want your captions translated to.
+Note
+Past translated transcripts aren’t stored. Only the original transcript is stored. If participants join a meeting late, they’ll only be able to view the translated transcript from the point they joined the meeting.
+Hide or show a live transcription
+Select
+More actions
+in your
+meeting controls
+.
+Hover over
+Record and transcribe
+.
+Select
+Hide transcript
+or
+Show transcript
+.
+Stop live transcription
+The meeting organizer, co-organizers, and presenters can stop and restart transcription during the meeting.
+Select
+More actions
+in your
+meeting controls
+.
+Hover over
+Record and transcribe
+.
+Select
+Stop transcription
+or
+Stop recording
+. Both options will stop the transcription.
+The transcription stops automatically when all participants leave the meeting.
+Download a transcript
+When the meeting is over, the transcript is immediately available in the meeting event on the calendar. By default, meeting organizers and co-organizers can download it as a .docx or .vtt file.
+You may also be able to give others
+permission to download a transcript
+, depending on policies set by your IT admin.
+To download a transcript:
+Select
+Chat
+in Teams.
+Open the past meeting chat.
+Select
+Recap
+.
+Select
+Transcript
+.
+Select the dropdown arrow next to
+Download
+and choose the type of file you want the download to be.
+Share a transcript with mobile participants
+Upload a transcript to chat to make it available to meeting participants who joined from a mobile device.
+To upload a transcript to chat:
+Download the transcript to your computer.
+In the meeting chat, select
+Attach
+beneath the compose box.
+Upload the transcript.
+Delete a transcript
+The meeting organizer and co-organizers can delete the transcript.
+To delete a transcript:
+Select
+Chat
+in Teams.
+Open the past meeting chat.
+Select
+Recap
+.
+Select
+Delete
+above the transcript.
+To learn more, see
+Edit or delete a meeting transcript in Microsoft Teams.
+Who can start, stop, view, and download a transcript?
+With Teams Premium and Copilot, meeting organizers can manage recording and transcribing permissions when they schedule Teams meetings.
+There are three options for who can record and transcribe a meeting:
+Organizers and co-organizers
+Organizers, co-organizers and presenters
+No one
+For info about organizer and presenter roles, see
+Roles in a Teams meeting
+.
+Type of meeting participant
+Start and stop transcription
+View real-time transcription
+View transcript after meeting
+Download transcript after meeting
+Organizer
+Yes
+Yes
+Yes
+Yes
+Person from same organization
+Yes
+Yes
+Yes
+No, but organizers can configure who can download on Stream.
+Person from another tenant
+No
+Yes
+No
+No
+Anonymous
+No
+No
+No
+No
+People who call into a meeting can't view the transcript.
+Note
+Teams live transcripts for meetings with recording and/or transcription are stored in the meeting organizer's OneDrive for Business. The transcript can be accessed through the meeting chat and
+Recap
+tab in Teams until a meeting organizer deletes the transcript.
+If you are using Cloud Video Interop (CVI) to join Teams meetings, please contact your CVI provider to ensure that your CVI participants get the transcription notification when transcription starts.
+Important
+Microsoft reserves the right to restrict transcription and translation services, with reasonable notice, in order to limit excessive use and/or fraud, and to maintain service performance. These services include live captions, subtitles, and transcription functionality available across Office 365 products like Microsoft Teams, PowerPoint, Stream, and others.
+During a Teams meeting, you can start a live transcription that captures everything being said. The text appears alongside the meeting video or audio in real time, including the speaker's name and time stamp.
+Start/stop transcription
+To start the transcription, tap
+More options
+>
+Transcription
+>
+Confirm
+in your meeting controls.
+To stop the transcription, tap
+More options
+>
+Transcription
+>
+Stop transcription
+.
+Access the transcript
+After your meeting ends, you can view its transcript in your meeting's chat history.
+To access the transcript:
+Tap
+Chat
+in Teams.
+Tap a past meeting chat.
+Find the
+Meeting ended
+message and tap
+Transcript
+below.
+Note
+The Teams mobile app currently supports viewing a transcript after a meeting ends. Live transcription is only available on Teams for desktop.

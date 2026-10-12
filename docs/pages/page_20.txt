@@ -1,0 +1,656 @@
+URL: https://support.microsoft.com/en-us/accessibility/windows/magnifier/use-magnifier-to-make-things-on-the-screen-easier-to-see
+Use Magnifier to make things on the screen easier to see
+Applies To
+Windows 11
+Windows 10
+Get help with Copilot
+What's the best way to customize magnifier zoom level?
+How do I use a screen reader to submit feedback?
+How can I change magnifier view?
+Windows 11
+Windows 10
+Using Magnifier on Windows 11
+Magnifier makes part or all of your screen bigger so you can see words and images better.
+Expand any or all of the following sections to learn more about Magnifier.
+Turn on Magnifier
+To quickly turn on Magnifier, press the
+Windows
+logo
+key
++Plus sign
+(+). To turn off Magnifier, press the
+Windows
+logo
+key
++Esc
+.
+If you prefer using a mouse:
+Go to
+Start
+,
+select
+Settings
+and choose
+Accessibility
+Select
+Magnifier
+,
+and then turn on the
+Magnifier
+switch.
+Customize Magnifier zoom level
+If you are using a mouse:
+Go to
+Start
+,
+select
+Settings
+and choose
+Accessibility
+.
+Select
+Magnifier
+and use the
+Zoom level
+buttons to choose how much Magnifier enlarges the screen when you turn it on.
+If you are using Narrator and a keyboard:
+Press the
+Windows
+logo
+key+
+Ctrl
++
+M
+to open the Magnifier settings view.
+Press the
+Tab
+key until you hear “Zoom out, button” or “Zoom in,button,” and press
+Spacebar
+to adjust the zoom level accordingly. Narrator announces the new value.
+Press
+Shift
++
+Tab
+or the
+Tab
+key to move between the buttons and adjust the value to your liking.
+Customize Magnifier zoom increments
+If you are using a mouse:
+Go to
+Start
+,
+select
+Settings
+and choose
+Accessibility
+.
+Select
+Magnifier
+, open the
+Zoom increments
+dropdown menu, and choose how much the screen enlargement level changes when you zoom in and out with Magnifier.
+If you are using Narrator and a keyboard:
+Press the
+Windows
+logo
+key+
+Ctrl
++
+M
+to open the Magnifier settings view.
+Press the
+Tab
+key until you hear “Zoom increments,” followed by the current value.
+Press
+Alt+Down arrow
+key to open the menu, use the
+Up
+and
+Down arrow
+keys to find the zoom increment value you want to use, and press
+Enter
+to select it and close the menu.
+Start Magnifier before or after Windows sign in
+If you know a computer is often used by people with low vision, it may be helpful to have Magnifier turn on automatically.
+If you are using a mouse:
+Select
+Start
+, select
+Settings
+and choose
+Accessibility
+.
+n Select
+Magnifier
+.
+Choose
+Magnifier
+again and then select or clear
+Start Magnifier after sign in
+and
+Start Magnifier before sign in
+according to your preferences.
+If you are using Narrator and a keyboard:
+Press the
+Windows
+logo
+key+
+Ctrl
++
+M
+to open the Magnifier settings view.
+Press the
+Tab
+key until you hear: "Magnifier, toggle switch." Press the
+Tab
+key once. You hear: "Show more settings collapsed." Press
+Enter
+, and then press the
+Tab
+key until you hear “Start Magnifier after sign in” or “Start Magnifier before sign in,” followed by “unchecked” or “checked.”
+Press
+Spacebar
+to turn the selected option on or off.
+Smooth edges of images and text
+Edge smoothing is something you should experiment with to see if smoothing works better for you than no smoothing.
+If you are using a mouse:
+Go to
+Start
+, select
+Settings
+and choose
+Accessibility
+.
+Select
+Magnifier
+and turn the
+Smooth edges of images and text
+switch on or off according to your preferences.
+If you are using Narrator and a keyboard:
+Press the
+Windows
+logo
+key+
+Ctrl
++
+M
+to open the Magnifier settings view.
+Press the
+Tab
+key until you hear “Smooth edges of images and text,” followed by “Toggle switch, on” or “Toggle switch, off.”
+Press
+Spacebar
+to turn the option on or off.
+Invert colors
+Inverted colors may reduce eye strain or make text more readable for some people.
+To invert screen colors while Magnifier is turned on, press
+Ctrl
++
+Alt
++
+I
+. Black color becomes white and vice versa, and other colors change to suit that.
+To return the colors to normal, press
+Ctrl
++
+Alt
++
+I
+again.
+Change Magnifier view
+Use the following shortcuts to change between Magnifier views:
+To use the full screen view, press
+Ctrl
++
+Alt
++
+F
+.
+To use the docked view, press
+Ctrl
++
+Alt
++
+D
+.
+To use the lens view, press
+Ctrl
++
+Alt
++
+L
+.
+To switch between the set magnification level and 1x magnification, press
+Ctrl
++
+Alt
++
+Minus sign
+(-).
+To cycle between the views, press
+Ctrl
++
+Alt
++
+M
+. You can use this to quickly compare the views and see which one works best for you in each situation.
+To temporarily show the entire screen when you are zoomed in using the full screen view, press
+Ctrl
++
+Alt
++
+Spacebar
+.
+Change what Magnifier view follows
+Depending on how you navigate Windows, you may want to change the default Magnifier behavior so that it only follows the Narrator cursor, for example. These settings are something you should experiment with to see what works best for you.
+If you are using a mouse:
+Go to
+Start
+, select
+Settings
+and choose
+Accessibility
+.
+Select
+Magnifier
+. Select
+View
+, and then under
+Have my Magnifier follow
+, select or clear the
+Mouse pointer
+,
+Keyboard focus
+,
+Text cursor
+, and
+Narrator cursor
+checkboxes according to your preferences. These settings can be selected in any combination.
+If you are using Narrator and a keyboard:
+Press the
+Windows
+logo
+key+
+Ctrl
++
+M
+to open the Magnifier settings view.
+Press the
+Tab
+key until you hear "View," followed by the current view setting. Press the
+Tab
+key once. You hear: "More." Press
+Enter
+, and then press the
+Tab
+key until you hear “Mouse pointer,” “Keyboard focus,” “Text cursor,” or “Narrator cursor,” followed by “unchecked” or “checked.”
+Press
+Spacebar
+to turn the selected option on or off.
+Change how mouse pointer and text cursor work with Magnifier
+If you are using a mouse:
+Go to
+Start
+, select
+Settings
+and choose
+Accessibility
+>.
+Select
+Magnifier
+, choose
+View
+, and then open the
+Keep the mouse pointer
+or
+Keep the text cursor
+dropdown menu.
+Select how Magnifier behaves when the mouse pointer or text cursor move around the screen. This is something to experiment with to see which combination works best for you.
+If you are using Narrator and a keyboard:
+Press the
+Windows
+logo
+key+
+Ctrl
++
+M
+to open the Magnifier settings view.
+Press the
+Tab
+key until you hear "View," followed by the current view setting. Press the
+Tab
+key once. You hear: "More." Press
+Enter
+, and then press the
+Tab
+key until you hear “Keep the mouse pointer” or “Keep the text cursor,” followed by the current value.
+Press
+Alt
++
+Down arrow
+key to open the menu, use the
+Up
+and
+Down arrow
+keys to find the pointer or cursor option you want to use, and press
+Enter
+to select it and close the menu.
+Magnifier reading
+Note
+The instructions apply in Windows 11 too, even though the video only shows Windows 10.
+Use Magnifier with a touchscreen
+Here are some tips on how to use Magnifier with a touchscreen:
+To zoom in and out, tap on the
+plus
+(+) and
+minus
+(-) symbols on the corners of the screen.
+To move around the screen, drag along the borders of the screen in full screen view.
+To instantly zoom out and see where you are on the screen, tap with one finger on opposite borders of the screen simultaneously.
+To close Magnifier, tap the
+minus
+(-) symbol to zoom out, then tap the
+Close
+button.
+Open Magnifier settings
+See also
+For a full list of Magnifier keyboard shortcuts, see
+Windows keyboard shortcuts for accessibility
+. The full list of keyboard shortcuts is also available in Magnifier settings.
+Using Magnifier on Windows 10
+Magnifier makes part or all of your screen bigger so you can see words and images better.
+Expand any or all of the following sections to learn more about Magnifier.
+Turn on Magnifier
+To quickly turn on Magnifier, press the
+Windows
+logo
+key
++Plus sign
+(+). To turn off Magnifier, press the
+Windows
+logo
+key
++Esc
+.
+If you prefer using a mouse, select
+Start
+>
+Settings
+>
+Ease of Access
+>
+Magnifier
+>
+Turn on Magnifier
+.
+Customize Magnifier zoom level
+If you are using a mouse, select
+Start
+>
+Settings
+>
+Ease of Access
+>
+Magnifier
+and use the
+Change zoom level
+buttons to select how much Magnifier enlarges the screen when you turn it on.
+If you are using Narrator and a keyboard:
+Press the
+Windows
+logo
+key+
+Ctrl
++
+M
+to open the Magnifier settings view.
+Press the
+Tab
+key until you hear “Zoom out, button” or “Zoom in, button,” and press
+Spacebar
+to adjust the zoom level accordingly. Narrator announces the new value.
+Press
+Shift
++
+Tab
+or the
+Tab
+key to move between the buttons and adjust the value to your liking.
+Customize Magnifier zoom increments
+If you are using a mouse, select
+Start
+>
+Settings
+>
+Ease of Access
+>
+Magnifier
+and open the
+Change zoom increments
+dropdown menu, and select how much the screen enlargement level changes when you zoom in and out with Magnifier.
+If you are using Narrator and a keyboard:
+Press the
+Windows
+logo
+key+
+Ctrl
++
+M
+to open the Magnifier settings view.
+Press the
+Tab
+key until you hear “Change zoom increments,” followed by the current value.
+Press
+Alt
++
+Down arrow
+key to open the menu, use the
+Up
+and
+Down arrow
+keys to find the zoom increment value you want to use, and press
+Enter
+to select it and close the menu.
+Start Magnifier before or after Windows sign in
+If you know a computer will often be used by people with low vision, it may be helpful to have Magnifier turn on automatically.
+If you are using a mouse, select
+Start
+>
+Settings
+>
+Ease of Access
+>
+Magnifier
+, and select or unselect the
+Start Magnifier after sign in
+and
+Start Magnifier before sign in for everyone
+checkboxes according to your preferences.
+If you are using Narrator and a keyboard:
+Press the
+Windows
+logo
+key+
+Ctrl
++
+M
+to open the Magnifier settings view.
+Press the
+Tab
+key until you hear “Start Magnifier after sign in” or “Start Magnifier before sign in for everyone,” followed by “unchecked” or “checked.”
+Press
+Spacebar
+to turn the selected option on or off.
+Smooth edges of images and text
+Edge smoothing is something you should experiment with to see if smoothing works better for you than no smoothing.
+If you are using a mouse, select
+Start
+>
+Settings
+>
+Ease of Access
+>
+Magnifier
+and select or unselect the
+Smooth edges of images and text
+checkbox according to your preferences.
+If you are using Narrator and a keyboard:
+Press the
+Windows
+logo
+key+
+Ctrl
++
+M
+to open the Magnifier settings view.
+Press the
+Tab
+key until you hear “Smooth edges of images and text,” followed by “unchecked” or “checked.”
+Press
+Spacebar
+to turn the option on or off.
+Invert colors
+Inverted colors may reduce eye strain or make text more readable for some people.
+To invert screen colors while Magnifier is turned on, press
+Ctrl
++
+Alt
++
+I
+. Black color becomes white and vice versa, and other colors change to suit that.
+To return the colors to normal, press
+Ctrl
++
+Alt
++
+I
+again.
+Change Magnifier view
+Use the following shortcuts to change between Magnifier views:
+To use the full screen view, press
+Ctrl
++
+Alt
++
+F
+.
+To use the docked view, press
+Ctrl
++
+Alt
++
+D
+.
+To use the lens view, press
+Ctrl
++
+Alt
++
+L
+.
+To switch between the set magnification level and 1x magnification, press
+Ctrl
++
+Alt
++
+Minus sign
+(-).
+To cycle between the views, press
+Ctrl
++
+Alt
++
+M
+. You can use this to quickly compare the views and see which one works best for you in each situation.
+To temporarily show the entire screen when you are zoomed in, press
+Ctrl
++
+Alt
++
+Spacebar
+.
+Change what Magnifier view follows
+Depending on how you navigate Windows, you may want to change the default Magnifier behavior so that it only follows the Narrator cursor, for example. These settings are something you should experiment with to see what works best for you.
+If you are using a mouse, select
+Start
+>
+Settings
+>
+Ease of Access
+>
+Magnifier
+, and select or unselect the Mouse pointer, Keyboard focus, Text cursor, and Narrator cursor checkboxes according to your preferences. These settings can be selected in any combination you like.
+If you are using Narrator and a keyboard:
+Press the
+Windows
+logo
+key+
+Ctrl
++
+M
+to open the Magnifier settings view.
+Press the
+Tab
+key until you hear “Mouse pointer,” “Keyboard focus,” “Text cursor” or “Narrator cursor,” followed by “unchecked” or “checked.”
+Press
+Spacebar
+to turn the selected option on or off.
+Change how mouse pointer and text cursor work with Magnifier
+If you are using a mouse, select
+Start
+>
+Settings
+>
+Ease of Access
+>
+Magnifier
+, open the
+Keep the mouse pointer
+or
+Keep the text cursor
+dropdown menu, and select how Magnifier behaves when the mouse pointer or text cursor move around the screen. This is something you should experiment with to see which combination works best for you.
+If you are using Narrator and a keyboard:
+Press the
+Windows
+logo
+key+
+Ctrl
++
+M
+to open the Magnifier settings view.
+Press the
+Tab
+key until you hear “Keep the mouse pointer” or “Keep the text cursor,” followed by the current value.
+Press
+Alt
++
+Down arrow
+key to open the menu, use the
+Up
+and
+Down arrow
+keys to find the pointer or cursor option you want to use, and press
+Enter
+to select it and close the menu.
+Magnifier reading
+To learn how Magnifier can read text from your screen aloud, refer to
+How to use Magnifier reading
+.
+Use Magnifier with a touchscreen
+Here are some tips on how to use Magnifier with a touchscreen:
+To zoom in and out, tap on the
+plus
+(+) and
+minus
+(-) symbols on the corners of the screen.
+To move around the screen, drag along the borders of the screen in full screen view.
+To instantly zoom out and see where you are on the screen, tap with one finger on opposite borders of the screen simultaneously.
+To close Magnifier, tap the
+Close
+button.
+Open Magnifier settings
+See also
+How to use Magnifier reading
+For a full list of Magnifier keyboard shortcuts, see
+Windows keyboard shortcuts for accessibility
+. The full list of keyboard shortcuts is also available in Magnifier settings.

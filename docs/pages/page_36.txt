@@ -1,0 +1,346 @@
+URL: https://support.microsoft.com/en-us/accessibility/windows/make-your-mouse-keyboard-and-other-input-devices-easier-to-use
+Make your mouse, keyboard, and other input devices easier to use
+Applies To
+Windows 10
+Windows 11
+Get help with Copilot
+How do I make mouse, keyboard?
+Show me how set the primary mouse button.
+How should I find a mouse pointer?
+There are lots of ways to make the devices that you use to interact with your PC—like a mouse or keyboard—easier to use.
+Windows 11
+Windows 10
+Make the mouse easier to use
+Control your mouse with a numeric keypad
+To go to the
+Accessibility
+settings on your computer, press the
+Windows
+logo
+key+
+U
+or select
+Start
+>
+Settings
+>
+Accessibility
+.
+Under
+Interaction
+, select
+Mouse
+.
+Press the
+Spacebar
+to turn the
+Mouse keys
+switch on or off.
+Change the primary mouse button, set scrolling options, or display pointer trails
+To open
+Settings
+on your computer, press the
+Windows
+logo
+key+
+I
+or select
+Start
+>
+Settings
+.
+Select
+Bluetooth & devices
+>
+Mouse
+.
+To change the primary mouse button, expand the
+Primary mouse button
+menu and select the option you want.
+To set scrolling options, select suitable options under
+Scrolling
+.
+If you want your pointer to display a trail across the screen when you move it, select
+Additional mouse settings
+, select the
+Pointer Options
+tab, and select the
+Display pointer trails
+checkbox.
+Mouse settings
+Make your mouse pointer easier to see
+Make your mouse pointer
+easier to see by making it bigger or changing the color.
+To go to the
+Accessibility
+settings on your computer, press the
+Windows
+logo
+key+
+U
+or select
+Start
+>
+Settings
+>
+Accessibility
+.
+Select
+Mouse pointer and touch
+.
+Under
+Mouse pointer
+, adjust the
+Size
+slider until your mouse pointer is the size you'd like.
+Under
+Mouse pointer style
+, select an option to change the color of your mouse pointer to white, black, inverted, or any of the bright recommended colors. To customize the pointer color, select
+Choose another color
+.
+Make your text cursor easier to see
+Windows 11 lets you change the thickness of the text cursor
+and add a colorful indicator to make it more visible.
+Change the text cursor thickness
+To go to the
+Accessibility
+settings on your computer, press the
+Windows
+logo
+key+
+U
+or select
+Start
+>
+Settings
+>
+Accessibility
+.
+Select
+Text cursor
+.
+Under
+Text cursor thickness
+, adjust the
+Text cursor thickness
+slider until the thickness in the preview looks like you want.
+Use the text cursor indicator
+To go to the
+Accessibility
+settings on your computer, press the
+Windows
+logo
+key+
+U
+or select
+Start
+>
+Settings
+>
+Accessibility
+.
+Select
+Text cursor
+.
+Turn on the
+Text cursor indicator
+switch.
+Adjust the
+Size
+slider until the size looks like you want in the preview.
+To change the indicator color, select one in the
+Recommended colors
+menu, or select
+Choose another color
+to choose a custom color.
+Text cursor settings
+Make the keyboard easier to use
+To go to the
+Accessibility
+settings on your computer, press the
+Windows
+logo
+key+
+U
+or select
+Start
+>
+Settings
+>
+Accessibility
+.
+Select
+Keyboard
+and try some of the following options:
+Turn on the
+On-screen keyboard
+switch to select keys by using the mouse or another pointing device (like a joystick) or to use a single switch to cycle through the keys on the screen.
+Alternatively, press the
+Windows
+logo
+key+
+Ctrl
++
+O
+to turn on the on-screen keyboard.
+Turn on the
+Sticky keys
+switch if you have trouble pressing two keys at the same time. Sticky keys let you press commands that use multiple keys (such as
+Ctrl
++
+S
+) one key at a time.
+Turn on the
+Toggle keys
+switch to play a sound whenever you press the Caps lock, Num lock, or Scroll lock keys.
+Turn on the
+Filter keys
+switch to set the sensitivity of the keyboard so it can ignore brief or repeated keystrokes.
+Turn on the
+Underline access keys
+switch to underline access keys when they're available.
+Turn on the
+Use the Print screen key to open screen capture
+switch to use the
+Prt Scr
+button to open screen snipping.
+Tip
+You can also control your PC with just your voice by using Windows Speech Recognition. To learn more, see
+Use voice recognition in Windows
+.
+Keyboard settings
+Make the mouse easier to use
+To access mouse settings, select the
+Start
+button, then select
+Settings
+>
+Ease of Access
+>
+Mouse
+.
+Turn on the toggle under
+Control your mouse with a keypad
+if you want to control your mouse using a numeric keypad.
+Select
+Change other mouse options
+to change your primary mouse button, set scrolling options, and more.
+If you want your pointer to display a trail across the screen when you move it, select
+Additional mouse options
+, and check the box next to
+Display pointer trails
+on the
+Pointer Options
+tab.
+Mouse settings
+Make your mouse pointer easier to see
+Make your mouse pointer
+easier to see by making it bigger or changing the color.
+Select
+Start
+>
+Settings
+>
+Ease of Access
+>
+Mouse pointer
+.
+Adjust the slider under
+Change pointer size
+until your mouse pointer is the size you'd like.
+Change the color of your mouse pointer to white, black, inverted, or any of the bright suggested colors. To choose any color from a color wheel, select
+Pick a customer pointer color
+.
+Make your text cursor easier to see
+Windows 10 lets you change the thickness of the text cursor
+and add a colorful indicator to make it more visible.
+Change the text cursor thickness
+Select
+Start
+>
+Settings
+>
+Ease of Access
+>
+Text cursor
+.
+Adjust the
+Change text cursor thickness
+slider until it looks like you want in the preview.
+Use the text cursor indicator
+Select
+Start
+>
+Settings
+>
+Ease of Access
+>
+Text cursor
+.
+Select
+Turn on text cursor indicator
+.
+Adjust the
+Change text cursor indicator size
+slider until it looks like you want in the preview.
+Select one of the
+Suggested text cursor indicator colors
+, or select
+Pick a custom color
+to choose your own.
+Text cursor settings
+Make the keyboard easier to use
+If you want to make your keyboard easier to use, select
+Keyboard settings
+below, or select the
+Start
+button, then select
+Settings
+>
+Ease of Access
+>
+Keyboard
+, and try some of these options:
+Turn on the toggle under
+Use the On-Screen Keyboard
+to select keys by using the mouse or another pointing device (like a joystick) or to use a single switch to cycle through the keys on the screen.
+Alternatively press the
+Windows
+logo
+key+
+Ctrl
++
+O
+to turn on the on-screen keyboard.
+Turn on the toggle under
+Sticky Keys
+if you have trouble pressing two keys at the same time. Sticky Keys let you press commands that use multiple keys (such as
+Ctrl
++
+S
+) one key at a time.
+Turn on the toggle under
+Toggle Keys
+to play a sound whenever you press the
+Caps lock
+,
+Num lock
+, or
+Scroll lock
+keys.
+Turn on the toggle under
+Filter Keys
+to set the sensitivity of the keyboard so it can ignore brief or repeated keystrokes.
+Turn on the toggle under
+Change how keyboard shortcuts work
+to underline access keys when they're available.
+Turn on the toggle under
+Print Screen shortcut
+to use the
+Prt Scr
+button to open screen snipping.
+Tip
+You can also control your PC with just your voice by using Windows Speech Recognition. To learn more, see
+Use voice recognition in Windows
+.
+Keyboard settings

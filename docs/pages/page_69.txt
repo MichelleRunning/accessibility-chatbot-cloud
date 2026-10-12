@@ -1,0 +1,76 @@
+URL: https://support.microsoft.com/en-us/accessibility/teams/accessibility-tools-for-microsoft-teams
+Accessibility tools for Microsoft Teams
+Applies To
+Microsoft Teams
+Get help with Copilot
+How can I make Teams meetings, chats, and events?
+Tell me about tips and suggestions for Meetings and calls.
+Give me accessibility tools for Microsoft Teams.
+Microsoft Teams is a messaging and collaboration app that lets everyone in your organization join the conversation and work together. This page contains an overview of the many accessibility features that make sure all users have the best possible experience.
+Vision
+Use Immersive Reader in Microsoft Teams
+to customize the reading and viewing experience for different visual and cognitive needs.
+Turn on high contrast mode in Change settings in Teams
+Customize the Appearance in Microsoft Teams Free
+Zoom in and out of Teams
+Hearing
+Use Sign language mode in Microsoft Teams meetings
+Pop out a chat in Teams
+Use Pop-out captions in Microsoft Teams meetings
+Use live captions in a Teams meeting
+Use Real-time text (RTT) in Microsoft Teams
+Use CART captions in a Microsoft Teams meeting (human generated captions)
+View live transcription in a Teams meeting
+Use Teams Intelligent Speakers to identify in-room participants in meeting transcription
+Hide your identity in meeting captions and transcripts
+Edit the transcript of a meeting recording in Teams
+Turn on Text Telephone (TTY) in
+Manage your call settings in Teams
+Interaction
+Keyboard shortcuts for Microsoft Teams
+Keyboard shortcuts for Microsoft Teams for personal and small business use
+Use voice typing to talk instead of type on your PC
+Use meeting controls in Microsoft Teams
+Place Teams calls with Apple CarPlay
+Raise your hand in a Teams meeting
+Muting and unmuting your mic in Teams
+Express yourself in Teams meetings with live reactions
+Spotlight someone's video in a Teams meeting
+Screen reader
+Screen reader support for Microsoft Teams
+Quick Start Guide: Using Microsoft Teams with a screen reader
+Use a screen reader to explore and navigate Microsoft Teams
+Use a screen reader to navigate and explore the new chats and channels experience in Microsoft Teams
+Basic tasks using a screen reader in the new chats and channels experience
+Learning the layout of Microsoft Teams with a screen reader
+Use a screen reader to schedule a meeting in Microsoft Teams
+Screen reader support for Teams for personal and small business use
+Basic tasks using a screen reader with Microsoft Teams
+Using Microsoft Teams with a Screen Reader: Frequently Asked Questions
+Focus
+Reduce background noise in Teams meetings
+Voice isolation in Microsoft Teams calls and meetings
+Manage notifications in Teams
+Customize channel notifications in Teams
+Change your status in Teams to Do Not Disturb mode
+Hide, unhide, mute, or add a chat to Favorites in Teams
+Mute notifications during a meeting in Teams
+Show, hide, or favorite a team or channel in Teams
+Search for messages and more in Teams
+Customize
+Customize your meeting view
+Choose how you Join a meeting in Teams
+Change your background for a Teams meeting
+Make Teams meetings, chats, and events accessible
+Accessibility tips for inclusive Microsoft Teams meetings and live events
+Make your Microsoft Teams meetings, calls, and messages accessible to people with disabilities
+5 tips for using Teams when you're deaf or hard of hearing
+Best practices for setting up and running a Teams meeting or Live event for the deaf and hard of hearing
+Take advantage of the accessibility features in Microsoft Teams for a better meeting or live event experience
+Make your content accessible to everyone with the Accessibility Checker
+Share slides in a Teams meeting with PowerPoint Live
+Add alt text to visuals in chat messages in Make your Microsoft Teams meetings, calls, and messages accessible to people with disabilities
+Add someone to a call in Teams
+Record a meeting in Teams
+See also
+What's new in Microsoft Teams

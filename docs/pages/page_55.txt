@@ -1,0 +1,28 @@
+URL: https://support.microsoft.com/en-us/word/listen-to-your-word-documents-with-read-aloud
+Listen to your Word documents with Read Aloud
+Read Aloud
+highlights each word as it reads your document to you. Use Read Aloud to hear your document narrated to you or to support your understanding when reading any Word document.
+Open a document.
+Click or tap where you would like Read Aloud to begin playing.
+Place your cursor at the beginning of the document to read the whole document aloud.
+Select
+Review
+>
+Read Aloud.
+Select
+X
+to close
+Read Aloud
+.
+Note
+Select
+Playback speed
+to increase or decrease the reading speed.
+Select
+More
+(
+⁠...)⁠
+> Voice selection to choose a different voice to read your document.
+See Also
+Use Immersive Reader in Word
+Office Accessibility Center

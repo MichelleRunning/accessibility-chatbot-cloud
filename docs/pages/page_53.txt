@@ -1,0 +1,84 @@
+URL: https://support.microsoft.com/en-us/education/onenote/use-immersive-reader-for-onenote
+Use Immersive Reader for OneNote
+Applies To
+OneNote for Microsoft 365
+OneNote 2024
+OneNote 2021
+OneNote 2016
+OneNote
+Immersive Reader
+Immersive Reader in OneNote provides a full screen reading experience to increase readability of content in OneNote documents. It's designed to support students with dyslexia and dysgraphia in the classroom but can support anyone who wants to make reading on their device easier.
+How to use this with students:
+help any student learn to open
+Immersive Reader
+on a page they're reading. They can have it read aloud, change line spacing, or translate the text — useful for newcomer English learners, students with reading differences, or anyone previewing material before a discussion. No special setup or permission is needed.
+To use Immersive Reader in OneNote, open OneNote and select
+View > Immersive Reader
+.
+To hear the paragraphs read out loud, select
+Play
+.
+To start listening from a specific point on your page, click on the word where you want to begin.
+Immersive Reader offers several options to make reading easier.
+Text options
+The
+Text options
+menu lets you:
+Change text size
+Reduce crowding between letters
+Change the font
+Change background color
+Parts of speech
+Parts of Speech
+controls grammar highlighting and helps readers understand complex sentences. Learn more:
+Highlight parts of speech
+.
+Reading preferences
+Use Line Focus, Picture Dictionary, Translate, and Reading Coach for better focus and reading comprehension!
+Line Focus
+enables readers to narrow the focus of their reading experience by highlighting sets of one, three, or five lines within their chosen material in Immersive Reader. Learn more:
+Turn on Line Focus
+This feature is currently available in OneNote for Windows 10, OneNote for the web, Word for the web, and Outlook Online.
+Picture Dictionary
+lets you select any word, hear it read out loud, and see an image depicting the word.
+Translate
+lets you change the text you're reading from one language to another.
+Reading Coach
+allows you to practice reading out loud, provides a report on your reading speed and accuracy, then identifies the five words you struggled with most and provides a supported opportunity to practice the words again.
+Voice options
+Control Read Aloud settings by modifying the speed and voice of the speaker in
+Voice Options
+. Learn more:
+Change the voice in Immersive Reader
+Select Voice settings
+to adjust.
+Shortcut keys for Immersive Reader
+Use keyboard shortcuts to navigate.
+Up/down arrow
+scrolls line by line
+Page up/page down
+scrolls screen by screen
+Left/right arrow
+goes to previous/next page in your OneNote Notebook
+Esc
+key closes the reader or menu
+Tab
+advances to the next control in Immersive Reader settings
+Space
+selects the current tool
+Note
+OneNote for Windows 10 and Office 2016/2019 reached end of support in October 2025. Learn more about
+what's happening to OneNote for Windows 10
+or
+how to upgrade from older Office versions
+.
+Learn more
+Transform speech to text in OneNote
+Change text size
+Basic tasks in OneNote for Mac
+Troubleshooting: Nothing happens when I press play in Immersive Reader
+Additional resources for educators
+Get started with OneNote
+Ask the community
+Get support
+Get help or report a problem

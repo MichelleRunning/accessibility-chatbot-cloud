@@ -1,0 +1,152 @@
+URL: https://support.microsoft.com/en-us/excel/zoom-in-or-out-of-a-document-presentation-or-worksheet
+Zoom in or out of a document, presentation, or worksheet
+Applies To
+Excel for Microsoft 365
+Word for Microsoft 365
+Outlook for Microsoft 365
+PowerPoint for Microsoft 365
+Excel 2024
+Word 2024
+Outlook 2024
+PowerPoint 2024
+Excel 2021
+Word 2021
+Outlook 2021
+PowerPoint 2021
+Excel 2019
+Word 2019
+Outlook 2019
+PowerPoint 2019
+Excel 2016
+Word 2016
+Outlook 2016
+PowerPoint 2016
+Get help with Copilot
+How can I save a zoom setting in PowerPoint or Excel?
+Tell me about tips and suggestions for Office is unable
+Zoom in or out of a document, presentation, or worksheet
+You can zoom in to get a close-up view of your file or zoom out to see more of the page at a reduced size. You can also save a particular zoom setting.
+Quickly zoom in or out
+On the status bar of your Office app, click the zoom slider.
+Slide to the percentage zoom setting that you want. Click
+–
+or
+⁠+⁠
+to zoom in gradual increments.
+Note
+In Outlook, the zoom slider only affects the content in the Reading Pane—not the message list or the folder pane.
+In Word
+To zoom in and out, you can use keyboard shortcuts.
+To zoom in, press Ctrl and the Plus sign (+).
+To zoom out, press Ctrl and the Minus sign (-).
+Click the headings below for more information.
+Choose a particular zoom setting
+Note
+This procedure isn't available in Excel for the web. As a workaround, consider opening the file in Excel Desktop to change the setting.
+You can choose how much of a document, presentation, or worksheet you view on the screen.
+In Word
+Do one of the following:
+On the
+View
+tab, in the
+Zoom
+group, click
+Zoom 100%
+. This returns the view to 100% zoom. If you prefer to use the keyboard, you can press
+Ctrl+0
+.
+On the
+View
+tab, in the
+Zoom
+group, click
+One Page
+,
+Multiple Pages
+, or
+Page Width
+.
+On the
+View
+tab, in the
+Zoom
+group, click
+Zoom
+, and then enter a percentage or choose any other settings that you want.
+In PowerPoint
+Do one of the following:
+On the
+View
+tab, in the
+Zoom
+group, click
+Fit to Window
+, which changes the current slide to the size of your PowerPoint window.
+Note
+There also is a
+Fit to Window
+button near the zoom slider on the status bar.
+On the
+View
+tab, in the
+Zoom
+group, click
+Zoom
+, and then enter a percentage or choose any other settings that you want.
+In Excel
+Do one of the following:
+On the
+View
+tab, in the
+Zoom
+group, click
+Zoom 100%
+.
+On the
+View
+tab, in the
+Zoom
+group, click
+Zoom to Selection
+, which maximizes the view of cells that you've selected.
+On the
+View
+tab, in the
+Zoom
+group, click
+Zoom
+, and then enter a percentage or choose any other settings that you want.
+In Outlook
+In the main Outlook window, the zoom slider is the only way to zoom in or out. When you are reading or editing a message, zoom from the ribbon:
+In an open message, on the
+Message
+tab, in the
+Zoom
+group, click
+Zoom
+.
+In the
+Zoom
+dialog box, enter a percentage or choose any other settings that you want.
+Save a zoom setting in PowerPoint or Excel
+Note
+Word doesn't save zoom settings in documents. Instead, it opens a document at the last zoom level you used.
+Excel for the web doesn't support saving the zoom level, because the
+View
+tab doesn't have a
+Zoom
+group, so you must use the status bar to change the zoom level. As a workaround, consider opening the file in Excel Desktop to save the zoom level using the following procedure.
+Open the presentation or worksheet that you want to save with a particular zoom setting.
+On the
+View
+tab, in the
+Zoom
+group, click
+Zoom
+.
+Choose the setting that you want.
+Click
+Save
+.
+Keyboard shortcut:
+Ctrl+S

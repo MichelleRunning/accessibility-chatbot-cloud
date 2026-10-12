@@ -1,0 +1,190 @@
+URL: https://support.microsoft.com/en-us/accessibility/outlook/screen-reader-support-for-outlook
+Screen reader support for Outlook
+Applies To
+Outlook for Microsoft 365
+Outlook 2024
+Outlook 2021
+Outlook 2019
+Outlook 2016
+Outlook for iOS
+Outlook Mail for Windows 10
+Outlook Web App
+This article is for people who use a screen reader program such as Windows Narrator, JAWS, or NVDA with Windows tools or features and Microsoft 365 products. This article is part of the
+Accessibility help & learning
+content set where you can find more accessibility information on our apps. For general help, visit
+Microsoft Support
+.
+For instructions for the Mail and Calendar apps for Windows 10, refer to
+Screen reader support for Mail and Calendar for Windows 10
+.
+Note
+Outlook for Mac information on this topic is available
+here
+.
+New Outlook
+Classic Outlook
+Outlook for iOS
+Outlook for Android
+Outlook on the web
+On this page you can find links to accessibility help articles that are written for people who use screen readers with new Outlook. New Outlook presents intelligent features that help you be more productive, do things faster, and stay in control of your inbox. To find out which Outlook version you're using, classic or new, or how to get the new version, refer to
+What version of Outlook do I have?
+To find information on how to create Outlook emails that are accessible to people with disabilities, refer to
+Make your Outlook email accessible to people with disabilities
+.
+Get started using accessibility features in new Outlook
+Use a screen reader to explore and navigate Outlook Mail
+Use a screen reader to explore and navigate Outlook Calendar
+Keyboard shortcuts for Outlook
+Basic tasks using a screen reader with email in Outlook
+Basic tasks using a screen reader with the calendar in Outlook
+Use a screen reader to migrate your settings to new Outlook
+Work with emails in new Outlook
+Use a screen reader to organize your inbox in new Outlook
+Use a screen reader to align text and paragraphs in Outlook
+Use a screen reader to check spelling and grammar in Outlook
+Use a screen reader to insert a hyperlink in Outlook
+Use a screen reader to zoom in or out in Outlook
+Use a screen reader to save an image or attachment from an email in Outlook
+Work with calendar in new Outlook
+Use a screen reader to organize things with the calendar board view in new Outlook
+Use a screen reader with My Day in new Outlook
+Use Copilot in the new Outlook
+Use Copilot in Outlook with a screen reader
+See also
+Make your Outlook email accessible to people with disabilities
+Outlook training
+Improve accessibility with the Accessibility Checker
+Video: Improve email accessibility
+On this page you can find links to accessibility help articles that are written for people who use screen readers with classic Outlook. To find information on how to create Outlook emails that are accessible to people with disabilities, refer to
+Make your Outlook email accessible to people with disabilities
+.
+Get started using accessibility features in classic Outlook
+Use a screen reader to explore and navigate Outlook Mail
+Use a screen reader to explore and navigate Outlook Calendar
+Keyboard shortcuts for Outlook
+Basic tasks using a screen reader with email in Outlook
+Basic tasks using a screen reader with the calendar in Outlook
+Work with emails in classic Outlook
+Use a screen reader to set up your email account in Outlook
+Use a screen reader to work with folders in Outlook
+Use a screen reader to request read and delivery receipts in Outlook
+Work with text, lists, and layout in emails
+Use a screen reader to format text in your email in Outlook
+Use a screen reader to align text and paragraphs in Outlook
+Use a screen reader to change the indentation and spacing options in Outlook
+Use a screen reader to create bulleted or numbered lists in Outlook
+Use a screen reader to check spelling and grammar in Outlook
+Add links, tables, images, signatures, or polls to emails
+Use a screen reader to insert a hyperlink in Outlook
+Use a screen reader to insert a table in Outlook
+Use a screen reader to insert a picture or image in Outlook
+Use a screen reader to add a signature in Outlook
+Use a screen reader to create a poll in Outlook
+Work with received emails
+Use a screen reader to zoom in or out in Outlook
+Use a screen reader to save an image or attachment from an email in Outlook
+Work with calendar in classic Outlook
+Use a screen reader to schedule appointments or meetings in Outlook
+Use a screen reader to read and reply to a meeting request in Outlook
+Use Copilot in the classic Outlook
+Use Copilot in Outlook with a screen reader
+See also
+Make your Outlook email accessible to people with disabilities
+Outlook training
+Improve accessibility with the Accessibility Checker
+Video: Improve email accessibility
+On this page you can find links to accessibility help articles that are written for people who use screen readers with Microsoft Outlook for iOS. To find information on how to create Outlook emails that are accessible to people with disabilities, refer to
+Make your Outlook email accessible to people with disabilities
+.
+Get started using accessibility features in Outlook
+Use a screen reader to explore and navigate Outlook Mail
+Use a screen reader to explore and navigate Outlook Calendar
+Keyboard shortcuts for Outlook
+Basic tasks using a screen reader with email in Outlook
+Basic tasks using a screen reader with the calendar in Outlook
+Accessibility features in Play My Emails
+Work with emails in Outlook
+Use a screen reader to set up your email account in Outlook
+Use a screen reader to work with folders in Outlook
+Work with text in emails
+Use a screen reader to format text in your email in Outlook
+Use a screen reader to check spelling and grammar in Outlook
+Add images to emails
+Use a screen reader to insert a picture or image in Outlook
+Work with received emails
+Use a screen reader to zoom in or out in Outlook
+Use a screen reader to save an image or attachment from an email in Outlook
+Work with Outlook Calendar
+Use a screen reader to schedule appointments or meetings in Outlook
+Use a screen reader to read and reply to a meeting request in Outlook
+Use Copilot in the Outlook
+Use Copilot in Outlook for Android and iOS with a screen reader
+See also
+Make your Outlook email accessible to people with disabilities
+On this page you can find links to accessibility help articles that are written for people who use screen readers with Microsoft Outlook for Android. To find information on how to create Outlook emails that are accessible to people with disabilities, refer to
+Make your Outlook email accessible to people with disabilities
+.
+Get started using accessibility features in Outlook
+Use a screen reader to explore and navigate Outlook Mail
+Use a screen reader to explore and navigate Outlook Calendar
+Basic tasks using a screen reader with email in Outlook
+Basic tasks using a screen reader with the calendar in Outlook
+Accessibility features in Play My Emails
+Use Copilot in Outlook for Android and iOS with a screen reader
+Work with emails in Outlook
+Use a screen reader to set up your email account in Outlook
+Use a screen reader to work with folders in Outlook
+Work with text in emails
+Use a screen reader to format text in your email in Outlook
+Add images to emails
+Use a screen reader to insert a picture or image in Outlook
+Work with received emails
+Use a screen reader to zoom in or out in Outlook
+Use a screen reader to save an image or attachment from an email in Outlook
+Work with Outlook Calendar
+Use a screen reader to schedule appointments or meetings in Outlook
+Use a screen reader to read and reply to a meeting request in Outlook
+Use Copilot in the Outlook
+Use Copilot in Outlook for Android and iOS with a screen reader
+See also
+Make your Outlook email accessible to people with disabilities
+On this page you can find links to accessibility help articles that are written for people who use screen readers with Outlook on the web. To find information on how to create emails that are accessible to people with disabilities, refer to
+Make your Outlook email accessible to people with disabilities
+.
+Get started using accessibility features in Outlook
+Use a screen reader to explore and navigate Outlook Mail
+Use a screen reader to explore and navigate Outlook Calendar
+Keyboard shortcuts for Outlook
+Basic tasks using a screen reader with email in Outlook
+Basic tasks using a screen reader with the calendar in Outlook
+Work with emails in Outlook
+Use a screen reader to set up your account in Outlook
+Use a screen reader to work with folders in Outlook
+Use a screen reader to request read and delivery receipts in Outlook
+Work with text, lists, and layout in emails
+Use a screen reader to format text in your email in Outlook
+Use a screen reader to align text and paragraphs in Outlook
+Use a screen reader to change the indentation and spacing options in Outlook
+Use a screen reader to create bulleted or numbered lists in Outlook
+Use a screen reader to check spelling and grammar in Outlook
+Add images, tables, links, signatures, or polls to emails
+Use a screen reader to insert a picture or image in Outlook
+Use a screen reader to insert a table in Outlook
+Use a screen reader to insert a hyperlink in Outlook
+Use a screen reader to add a signature in Outlook
+Use a screen reader to create a poll in Outlook
+Work with received emails
+Use a screen reader to save an image or attachment from an email in Outlook
+Use a screen reader to zoom in or out in Outlook
+Work with Outlook Calendar
+Use a screen reader to schedule appointments or meetings in Outlook
+Use a screen reader to read and reply to a meeting request in Outlook
+Use the calendar board view
+Learning the layout of the calendar board view in Outlook with a screen reader
+Use a screen reader to create a calendar board in Outlook
+Use a screen reader to add items to a calendar board in Outlook
+Use Copilot in the Outlook
+Use Copilot in Outlook with a screen reader
+See also
+Make your Outlook email accessible to people with disabilities
+Improve accessibility with the Accessibility Checker

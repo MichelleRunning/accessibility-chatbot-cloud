@@ -1,0 +1,1527 @@
+URL: https://support.microsoft.com/en-us/accessibility/powerpoint/make-your-powerpoint-presentations-accessible-to-people-with-disabilities
+Make your PowerPoint presentations accessible to people with disabilities
+Applies To
+PowerPoint for Microsoft 365
+PowerPoint for Microsoft 365 for Mac
+PowerPoint 2024
+PowerPoint 2024 for Mac
+PowerPoint 2021
+PowerPoint 2021 for Mac
+PowerPoint 2019
+PowerPoint 2016
+PowerPoint for iPad
+PowerPoint for iPhone
+PowerPoint for Android tablets
+PowerPoint for Android phones
+Get help with Copilot
+How do I add alt text to visuals?
+How do I create accessible hyperlinks?
+Get a checklist for accessible PowerPoint presentations.
+This topic gives you step-by-step instructions and best practices for making your PowerPoint presentations accessible and unlock your content to everyone, including people with disabilities.
+PowerPoint has many features built-in that help people with different abilities to read and author presentations. In this topic, you learn, for example, how to work with the Accessibility Checker to tackle accessibility issues while you're creating your presentation. You'll also learn how to add alt texts to images so that people using screen readers are able to listen to what the image is all about. You can also read about how to use slide design, fonts, colors, and styles to maximize the inclusiveness of your slides before you share or present them to your audience.
+Windows
+macOS
+Office for iOS
+Office for Android
+Web
+In this topic
+Best practices for making PowerPoint presentations accessible
+Check accessibility while you work
+Create accessible slides
+Avoid using tables
+Add alt text to visuals
+Create accessible hyperlink text and add ScreenTips
+Use accessible font format and color
+Use captions, subtitles, and alternative audio tracks in videos
+Save your presentation in a different format
+Test accessibility with a screen reader
+Best practices for making PowerPoint presentations accessible
+The following table includes key best practices for creating PowerPoint presentations that are accessible to people with disabilities.
+What to fix
+How to find it
+Why fix it
+How to fix it
+Include alternative text with all visuals.
+To find missing alternative text, use the
+Accessibility Checker
+.
+Alternative text helps people who can't see the screen to understand what's important in images and other visuals.
+Add alt text to visuals
+Make sure slide contents can be read in the order that you intend.
+Use the
+Accessibility Checker
+to find slides that have possible problems with reading order.
+Try navigating your slides with a screen reader.
+A screen reader reads the elements of a slide in the order they were added to the slide, which might be very different from the order in which things appear.
+Set the reading order of slide contents
+Use built-in slide designs for inclusive reading order, colors, and more
+Add meaningful and accurate hyperlink text and ScreenTips.
+To determine whether hyperlink text makes sense as standalone information, visually scan the slides in your presentation.
+People who use screen readers sometimes scan a list of links.
+Tip:
+You can also add ScreenTips that appear when your cursor hovers over text or images that include a hyperlink.
+Create accessible hyperlink text and add ScreenTips
+Ensure that color is not the only means of conveying information.
+Select
+Start
+>
+Settings > Accessibility > Color filters
+.Turn on the
+Color filter
+switch, and then select
+Grayscale
+. Visually scan each slide in your presentation for instances of color-coding.
+People who are blind, have low vision, or are colorblind might miss out on the meaning conveyed by particular colors.
+Use an accessible presentation template
+Use built-in slide designs for inclusive reading order, colors, and more
+Use sufficient contrast for text and background colors.
+To find insufficient color contrast, use the
+Accessibility Checker
+.
+You can also look for text in your presentation that's hard to read or to distinguish from the background.
+Strong contrast between text and background makes it easier for people with low vision or colorblindness to see and use the content.
+Use accessible font color
+Use built-in slide designs for inclusive reading order, colors, and more
+Give every slide a unique title.
+To find slides that do not have titles, use the
+Accessibility Checker
+.
+People who are blind, have low vision, or have a reading disability rely on slide titles to navigate. For example, by skimming or using a screen reader, they can quickly scan through a list of slide titles and go right to the slide they want.
+Give every slide a title
+Hide a slide title
+If you must use tables, create a simple table structure for data only, and specify column header information.
+To ensure that tables don't contain split cells, merged cells, or nested tables, use the
+Accessibility Checker
+.
+Screen readers keep track of their location in a table by counting table cells.
+Screen readers also use header information to identify rows and columns.
+Avoid using tables
+Use table headers
+Use a larger font size (18pt or larger), sans serif fonts, and sufficient white space.
+To find potential issues related to fonts or white space, review your slides for areas that look crowded or illegible.
+People who have dyslexia describe seeing text merge or distort.
+Use an accessible presentation template
+Use accessible font format and color
+Make videos accessible to people who have a vision or hearing disability.
+Subtitles
+typically contain a transcription (or translation) of the dialogue.
+Closed captions
+typically also describe audio cues such as music or sound effects that occur off-screen.
+Video description
+means audio-narrated descriptions of a video's key visual elements. These descriptions are inserted into natural pauses in the program's dialogue. Video description makes videos more accessible to people who are blind or have low vision.
+Use captions, subtitles, and alternative audio tracks in videos
+Create accessible PDFs or other file formats of your presentation.
+Include accessibility tags to PDF files you create from your presentation. The tags make it possible for screen readers and other assistive technologies to read and navigate a document.
+You can also save the presentation in a format that can be ported to a Braille reader.
+Save your presentation in a different format
+Top of Page
+Check accessibility while you work
+The Accessibility Checker is a tool that reviews your content and flags accessibility issues it comes across. It explains why each issue might be a potential problem for someone with a disability. The Accessibility Checker also suggests how you can resolve the issues that appear.
+In PowerPoint, the Accessibility Checker runs automatically in the background when you're creating a presentation. If the Accessibility Checker detects accessibility issues, you will get a reminder in the status bar.
+To manually launch the Accessibility Checker, select
+Review
+>
+Check Accessibility
+. The
+Accessibility
+pane opens, and you can now review and fix accessibility issues. For more info, go to
+Improve accessibility with the Accessibility Checker
+.
+Top of Page
+Create accessible slides
+The following procedures describe how to make the slides in your PowerPoint presentations accessible. For more info, go to
+Video: Create slides with an accessible reading order
+and
+Video: Design slides for people with dyslexia
+.
+Use an accessible presentation template
+Use one of the accessible PowerPoint templates to make sure that your slide design, colors, contrast, and fonts are accessible for all audiences. They are also designed so that screen readers can more easily read the slide content.
+To find an accessible template, select
+File
+>
+New
+.
+In the
+Search for Online templates and themes
+text field, type
+accessible templates
+and press Enter.
+In the search results, select a suitable template.
+In the template preview, select
+Create
+.
+Top of Page
+Give every slide a title
+One simple step towards inclusivity is having a unique, descriptive title on each slide, even if it isn't visible. A person with a visual disability that uses a screen reader relies on the slide titles to know which slide is which.
+Use the
+Accessibility
+ribbon to make sure every slide has a title. For instructions, go to
+Title a slide
+and expand the "Use the Accessibility ribbon to title a slide" section.
+Top of Page
+Hide a slide title
+You can position a title off the slide. That way, the slide has a title for accessibility, but you save space on the slide for other content. For instructions, go to
+Title a slide
+and expand the "Put a title on a slide, but make the title invisible" section.
+If you want all or many of your slide titles to be hidden, you can modify the slide master. For instructions, go to
+Title a slide
+and expand the "Systematically hide slide titles" section.
+Top of Page
+Restore a slide design
+If you've moved or edited a placeholder on a slide, you can reset the slide to its original design. All formatting (for example, fonts, colors, effects) go back to what has been assigned in the template. Restoring the design might also help you find title placeholders which need a unique title.
+To restore all placeholders for the selected slide, on the
+Home
+tab, in the
+Slides
+group, select
+Reset
+.
+Top of Page
+Set the reading order of slide contents
+Some people with visual disabilities use a screen reader to read the information on the slide. When you create slides, putting the objects in a logical reading order is crucial for screen reader users to understand the slide.
+Use the Accessibility Checker and the
+Reading Order
+pane to set the order in which the screen readers read the slide contents. When the screen reader reads the slide, it reads the objects in the order they are listed in the
+Reading Order
+pane.
+For the step-by-step instructions how to set the reading order, go to
+Make slides easier to read by using the Reading Order pane
+.
+Top of Page
+Use built-in slide designs for inclusive reading order, colors, and more
+PowerPoint has built-in, predesigned slide designs that contain placeholders for text, videos, pictures, and more. They also contain all the formatting, such as theme colors, fonts, and effects. To make sure that your slides are accessible, the built-in layouts are designed so that the reading order is the same for people who use assistive technologies such as screen readers and people who see. For more info, go to
+Video: Use accessible colors and styles in slides
+.
+On the
+View
+tab, select
+Normal
+.
+On the
+Design
+tab, do one or both of the following:
+Expand the
+Themes
+gallery and select the slide layout that you want. PowerPoint automatically applies this layout to the presentation.
+Select
+Design Ideas
+and select one of the predesigned designs.
+Top of Page
+Avoid using tables
+In general, avoid tables if possible and present the data another way, like paragraphs with headings. Tables with fixed width might prove difficult to read for people who use Magnifier, because such tables force the content to a specific size. This makes the font very small, which forces Magnifier users to scroll horizontally, especially on mobile devices.
+If you have to use tables, use the following guidelines to make sure your table is as accessible as possible:
+Avoid fixed width tables.
+Make sure the tables render properly on all devices, including phones and tablets.
+If you have hyperlinks in your table, edit the link texts, so they make sense and don't break mid-sentence.
+Make sure the slide content is easily read with Magnifier. View it on a mobile device to make sure people won't need to horizontally scroll the slide on a phone, for example.
+Use table headers.
+Test accessibility with Immersive Reader.
+Top of Page
+Use table headers
+Screen readers keep track of their location in a table by counting table cells. If a table is nested within another table or if a cell is merged or split, the screen reader loses count and can't provide helpful information about the table after that point. Blank cells in a table could also mislead someone using a screen reader into thinking that there is nothing more in the table. Use a simple table structure for data only and specify column header information. Screen readers also use header information to identify rows and columns.
+To ensure that tables don't contain split cells, merged cells, or nested tables, use the
+Accessibility Checker
+.
+Place the cursor anywhere in a table.
+On the
+Table Design
+tab, in the
+Table Styles Options
+group, select the
+Header Row
+checkbox.
+Type your column headings.
+Top of Page
+Add alt text to visuals
+Alt text helps people who use screen readers to understand what's important in the visuals in your slides. Visual content includes pictures, SmartArt graphics, shapes, groups, charts, embedded objects, ink, and videos.
+In alt text, briefly describe the image, its intent, and what is important about the image. Screen readers read the description to users who can't see the content.
+Tip
+To write a good alt text, make sure to convey the content and the purpose of the image in a concise and unambiguous manner. The alt text shouldn't be longer than a short sentence or two—most of the time a few thoughtfully selected words will do. Do not repeat the surrounding textual content as alt text or use phrases referring to images, such as, "a graphic of" or "an image of." For more info on how to write alt text, go to
+Everything you need to know to write effective alt text
+.
+Avoid using text in images as the sole method of conveying important information. If you use images with text in them, repeat the text in the slide. In alt text of such images, mention the existence of the text and its intent.
+PowerPoint for PC in Microsoft 365 automatically generates alt texts for photos, stock images, and the PowerPoint icons by using intelligent services in the cloud. Always check the autogenerated alt texts to make sure they convey the right message. If necessary, edit the text. For charts, SmartArt, screenshots, or shapes, you need to add the alt texts manually.
+For the step-by-step instructions on how to add or edit alt text, go to
+Add alternative text to a shape, picture, chart, SmartArt graphic, or other object
+and
+Video: Improve image accessibility in PowerPoint
+.
+Tip
+In the
+Alt Text
+pane, spelling errors are marked with a red squiggly line under the word. To correct the spelling, right-click the word and select from the suggested alternatives.
+In the
+Alt Text
+pane, you can also select
+Generate a description for me
+to have Microsoft cloud-powered intelligent services create a description for you. You see the result in the alt text field. Remember to delete any comments PowerPoint added there, for example, "Description automatically generated."
+To find missing alternative text, use the Accessibility Checker.
+Note
+For audio and video content, in addition to alt text, include closed captioning for people who are deaf or have limited hearing.
+Top of Page
+Create accessible hyperlink text and add ScreenTips
+People who use screen readers sometimes scan a list of links. Links should convey clear and accurate information about the destination. For example, avoid using link texts such as "Click here," "See this page," "Go here," or "Learn more." Instead include the full title of the destination page. You can also add ScreenTips that appear when your cursor hovers over text or images that include a hyperlink.
+Tip
+If the title on the hyperlink's destination page gives an accurate summary of what's on the page, use it for the hyperlink text. For example, this hyperlink text matches the title on the destination page:
+Everything you need to know to write effective alt text
+.
+For the step-by-step instructions on how to create hyperlinks and ScreenTips, go to
+Add a hyperlink to a slide
+.
+Top of Page
+Use accessible font format and color
+An accessible font doesn't exclude or slow down the reading speed of anyone reading a slide, including people with low vision or reading disability or people who are blind. The right font improves the legibility and readability of the text in the presentation.
+For the step-by-step instructions on how to change fonts in PowerPoint go to
+Change the fonts in a presentation
+or
+Change the default font in PowerPoint
+.
+Top of Page
+Use accessible font format
+To reduce the reading load, select familiar sans serif fonts such as Arial or Calibri. Avoid using all capital letters and excessive italics or underlines.
+A person with a vision disability might miss out on the meaning conveyed by particular colors. For example, add an underline to color-coded hyperlink text so that people who are colorblind know that the text is linked even if they can't see the color. For headings, consider adding bold or using a larger font.
+Top of Page
+Use accessible font color
+Here are some ideas to consider:
+The text in your presentation should be readable in a high contrast mode. For example, use bright colors or high-contrast color schemes on opposite ends of the color spectrum. White and black schemes make it easier for people who are colorblind to distinguish text and shapes.
+Use the predesigned
+Office Themes
+to make sure that your slide design is accessible. For instructions, go to
+Use an accessible presentation template
+or
+Use built-in slide designs for inclusive reading order, colors, and more
+.
+Use the
+Accessibility Checker
+to analyze the presentation and find insufficient color contrast. It finds insufficient color contrast in text with or without highlights or hyperlinks in shapes, tables, or SmartArt with solid opaque colors. It does not find insufficient color contrast in other cases such as text in a transparent text box or placeholder on top of the slide background, or color contrast issues in non-textual content.
+Top of Page
+Use captions, subtitles, and alternative audio tracks in videos
+PowerPoint supports the playback of video with multiple audio tracks. It also supports closed captions and subtitles that are embedded in video files.
+Currently, only PowerPoint for Windows supports insertion and playback of closed captions or subtitles that are stored in files separate from the video. For all other editions of PowerPoint (such as PowerPoint for macOS or the mobile editions), closed captions or subtitles must be encoded into the video before they are inserted into PowerPoint.
+Supported video formats for captions and subtitles vary depending on the operating system that you're using. Each operating system has settings to adjust how the closed captions or subtitles are displayed. For more information, go to
+Closed Caption file types supported by PowerPoint
+.
+Closed captions, subtitles, and alternative audio tracks are not preserved when you use the
+Compress Media
+or
+Optimize Media Compatibility
+features. Also, when
+turning your presentation into a video
+, closed captions, subtitles, or alternative audio tracks in the embedded videos are not included in the video that is saved.
+When you use the
+Save Media as
+command on a selected video, closed captions, subtitles, and multiple audio tracks embedded in the video are preserved in the video file that is saved.
+To make your PowerPoint presentations with videos accessible, ensure the following:
+Videos include an audio track with video descriptions, if needed, for users who are blind or have low vision.
+Videos that include dialogue also include closed captions, in-band closed captions, open captions, or subtitles in a supported format for users that are deaf or hard-of-hearing.
+For more information, refer to
+Add closed captions or subtitles to media in PowerPoint
+.
+Top of Page
+Save your presentation in a different format
+You can save your presentation in a format that can be easily read by a screen reader or be ported to a Braille reader. For instructions, go to
+Video: Save a presentation in a different format
+or
+Create accessible PDFs
+. Before converting a presentation into another format, make sure you run the Accessibility Checker and fix all reported issues.
+Top of Page
+Test accessibility with a screen reader
+When your presentation is ready and you've run the Accessibility Checker to make sure it is inclusive, you can try navigating the slides using a screen reader, for example, Narrator. Narrator comes with Windows, so there's no need to install anything. This is one additional way to spot issues in the navigation order, for example.
+Start the screen reader. For example, to start Narrator, press Ctrl+Windows logo key+Enter.
+Press F6 until the focus, the blue rectangle, is on the slide content area.
+Press the Tab key to navigate the elements within the slide and fix the navigation order if needed. To move the focus away from the slide content, press Esc or F6.
+Exit the screen reader. For example, to exit Narrator, press Ctrl+Windows logo key+Enter.
+Top of Page
+See also
+Rules for the Accessibility Checker
+Everything you need to know to write effective alt text
+Use a screen reader to attend a PowerPoint Live session in Microsoft Teams
+Make your Word documents accessible to people with disabilities
+Make your Excel documents accessible to people with disabilities
+Make your Outlook email accessible to people with disabilities
+Closed Caption file types supported by PowerPoint
+In this topic
+Best practices for making PowerPoint presentations accessible
+Check accessibility while you work
+Use built-in slide designs for inclusive reading order, colors, and more
+Avoid using tables
+Add alt text to visuals
+Use accessible hyperlink texts and ScreenTips
+Use accessible font format and color
+Use accessible text alignment and spacing
+Create accessible lists
+Use captions, subtitles, and alternative audio tracks in videos
+Test the accessibility of your slides with a screen reader
+Best practices for making PowerPoint presentations accessible
+The following table includes key best practices for creating PowerPoint presentations that are accessible to people with disabilities.
+What to fix
+How to find it
+Why fix it
+How to fix it
+Avoid common accessibility issues such as missing alternative text (alt text) and low contrast colors.
+Use the
+Accessibility Checker
+.
+Make it easy for everyone to read your slides.
+Check accessibility while you work
+When creating a new slide, use the built-in slide designs.
+The built-in layouts automatically make sure that the reading order works for everyone.
+Use built-in slide designs for inclusive reading order, colors, and more
+Make sure slide contents can be read in the order that you intend.
+Use the
+Accessibility Checker
+to find slides that have possible problems with reading order.
+To make sure everyone reads the contents in the order you intend, it's important to check the reading order.
+Set the reading order of slide contents
+Ensure that color is not the only means of conveying information.
+Visually scan the slides in your presentation.
+People who are blind, have low vision, or are colorblind might miss out on the meaning conveyed by particular colors.
+Use an accessible presentation template
+Use sufficient contrast for text and background colors.
+To find insufficient color contrast, use the
+Accessibility Checker
+.
+You can also look for text on your slides that's hard to read or to distinguish from the background.
+Use strong contrast between text and background, so people with low vision can see and use the content.
+Use an accessible presentation template
+Give every slide a unique title.
+To find slides that do not have titles, use the
+Accessibility Checker
+.
+People who are blind, have low vision, or have a reading disability rely on slide titles to navigate. For example, by skimming or using a screen reader, they can quickly scan through a list of slide titles and go right to the slide they want.
+Give every slide a title
+Hide a slide title
+If you must use tables, use a simple table structure for data only, and specify column header information.
+To ensure that tables don't contain split cells, merged cells, or nested tables, use the
+Accessibility Checker
+.
+Screen readers keep track of their location in a table by counting table cells.
+Screen readers also use header information to identify rows and columns.
+Avoid using tables
+Use table headers
+Include alternative text with all visuals.
+To find missing alternative text, use the
+Accessibility Checker
+.
+Alternative text helps people who can't see the screen to understand what's important in images and other visuals.
+Add alt text to visuals
+Add meaningful hyperlink text and ScreenTips.
+To determine whether hyperlink text makes sense as standalone information and whether it gives readers accurate information about the destination target, visually scan the slides in your presentation.
+People who use screen readers sometimes scan a list of links. You can also add ScreenTips that appear when your cursor hovers over text or images that include a hyperlink.
+Use accessible hyperlink texts and ScreenTips
+Use a larger font size (18pt or larger), sans serif fonts, and sufficient white space.
+To find potential issues related to fonts or white space, review your slides for areas that look crowded or illegible.
+People who have dyslexia describe seeing text "swim together" on a page (the compressing of one line of text into the line below). They often see text merge or distort.
+Use an accessible presentation template
+Use accessible font format and color
+Use accessible text alignment and spacing
+Make videos accessible to people who have a vision or hearing disability.
+Subtitles
+typically contain a transcription (or translation) of the dialogue.
+Closed captions
+typically also describe audio cues such as music or sound effects that occur off-screen.
+Video description
+means audio-narrated descriptions of a video's key visual elements. These descriptions are inserted into natural pauses in the program's dialogue. Video description makes videos more accessible to people who are blind or have low vision.
+Use captions, subtitles, and alternative audio tracks in videos
+Top of Page
+Check accessibility while you work
+The Accessibility Checker is a tool that reviews your content and flags accessibility issues it comes across. It explains why each issue might be a potential problem for someone with a disability. The Accessibility Checker also suggests how you can resolve the issues that appear.
+To manually launch the Accessibility Checker, select
+Review
+>
+Check Accessibility
+. The
+Accessibility
+pane opens, and you can now review and fix accessibility issues. For more info, go to
+Improve accessibility with the Accessibility Checker
+.
+Top of Page
+Use built-in slide designs for inclusive reading order, colors, and more
+PowerPoint has built-in slide designs that contain placeholders for text, videos, pictures, and more. They also contain all the formatting, such as theme colors, fonts, and effects. To make sure that your slides are accessible, the built-in layouts are designed so that the reading order is the same for people who see and people who use technology such as screen readers.
+Tip
+For more info on what to consider when you're creating slides for people with dyslexia, go to
+Design slides for people with dyslexia
+.
+On the
+Design
+tab, expand the themes gallery and then select the slide layout you want. PowerPoint automatically applies the layout to all slides in the presentation.
+Top of Page
+Use an accessible presentation template
+Use one of the accessible PowerPoint templates to make sure that your slide design, colors, contrast, and fonts are accessible for all audiences. They are also designed so that screen readers can more easily read the slide content.
+To find an accessible template, select
+File
+>
+New from Template
+.
+In the
+Search
+text field, type
+accessible templates
+, and then press Return.
+In the search results, select a suitable template.
+Tip
+Off-white backgrounds are better for people with perceptual disabilities, like dyslexia.
+Select templates and themes with sans serif fonts that are 18 points or larger.
+Look for solid backgrounds with contrasting text color.
+Top of Page
+Give every slide a title
+One simple step towards inclusivity is having a unique, descriptive title on each slide, even if it isn't visible. A person with a visual disability that uses a screen reader relies on the slide titles to know which slide is which.
+Use the
+Accessibility
+ribbon to make sure every slide has a title. For the step-by-step instructions, go to
+Title a slide
+and expand the "Use the Accessibility ribbon to title a slide" section.
+Tip
+If you've moved or edited a placeholder on a slide, you can reset the slide to its original design. All formatting (for example, fonts, colors, effects) go back to what has been assigned in the template. Restoring the original design might also help you find title placeholders which need a unique title. To restore all placeholders for the selected slide, on the
+Home
+tab, select
+Reset
+.
+Top of Page
+Hide a slide title
+You can position a title off the slide. That way, the slide has a title for accessibility, but you save space on the slide for other content. For the step-by-step instructions, go to
+Title a slide
+and expand the "Put a title on a slide, but make the title invisible" section.
+If you want all or many of your slide titles to be hidden, you can modify the slide master. For the step-by-step instructions, go to
+Title a slide
+and expand the "Systematically hide slide titles" section.
+Top of Page
+Set the reading order of slide contents
+When someone who can see reads a slide, they usually read things, such as text or a picture, in the order the elements appear on the slide. In contrast, a screen reader reads the elements on a slide in the order they were added to the slide, which might be very different from the order in which things appear.
+Use the
+Selection Pane
+to set the order in which screen readers read the slide contents. Screen readers read the objects in the reverse of the order they are listed in the
+Selection Pane
+.
+To find slides with a problematic reading order, use the
+Accessibility Checker
+.
+On the
+Home
+tab, select
+Arrange
+.
+In the
+Arrange
+menu, select
+Selection Pane
+.
+In the
+Selection Pane
+, to change the reading order, drag and drop items to the new location.
+Top of Page
+Avoid using tables
+In general, avoid tables if possible and present the data another way, like paragraphs with headings. Tables with fixed width might prove difficult to read for people who use magnifying features or apps, because such tables force the content to a specific size. This makes the font very small, which forces magnifier users to scroll horizontally, especially on mobile devices.
+If you have to use tables, use the following guidelines to make sure your table is as accessible as possible:
+Avoid fixed width tables.
+Make sure the tables render properly on all devices, including phones and tablets.
+If you have hyperlinks in your table, edit the link texts, so they make sense and don't break mid-sentence.
+Make sure the slide content is easily read with magnifying features, such as
+Zoom
+. View it on a mobile device to make sure people won't need to horizontally scroll the slide on a phone, for example.
+Use table headers
+.
+Test the accessibility of your slides with a screen reader
+.
+Top of Page
+Use table headers
+If you do need to use tables, add headers to your table to help screen readers keep track of the columns and rows. If a table is nested within another table or if a cell is merged or split, the screen reader loses count and can't provide helpful information about the table after that point. Blank cells in a table could also mislead someone using a screen reader into thinking that there is nothing more in the table. Screen readers also use header information to identify rows and columns.
+Place the cursor anywhere in a table.
+On the
+Table Design
+tab, select the
+Header Row
+checkbox.
+Type the column headers.
+Top of Page
+Add alt text to visuals
+Alt text helps people who use screen readers to understand what's important in the visuals in your slides. Visual content includes pictures, SmartArt graphics, shapes, groups, charts, embedded objects, ink, and videos.
+In alt text, briefly describe the image, its intent, and what is important about the image. Screen readers read the description to users who can't see the content.
+Tip
+To write a good alt text, make sure to convey the content and the purpose of the image in a concise and unambiguous manner. The alt text shouldn't be longer than a short sentence or two—most of the time a few thoughtfully selected words will do. Do not repeat the surrounding textual content as alt text or use phrases referring to images, such as, "a graphic of" or "an image of." For more info on how to write alt text, go to
+Everything you need to know to write effective alt text
+.
+Avoid using text in images as the sole method of conveying important information. If you use images with text in them, repeat the text in the slide. In alt text of such images, mention the existence of the text and its intent.
+For the step-by-step instructions on how to add or edit alt text, go to
+Add alternative text to a shape, picture, chart, SmartArt graphic, or other object
+.
+Tip
+For audio and video content, in addition to alt text, include closed captioning for people who are deaf or have limited hearing.
+In the
+Alt Text
+pane, spelling errors are marked with a red squiggly line under the word. To correct the spelling, select and right-click the word, and then select an option from the suggested alternatives.
+In the
+Alt Text
+pane, you can also select
+Generate a description for me
+to have Microsoft cloud-powered intelligent services create a description for you. You'll see the result in the alt text field. Remember to delete any comments PowerPoint added there, for example, "Description automatically generated."
+To find missing alternative text, use the
+Accessibility Checker
+.
+Top of Page
+Use accessible hyperlink texts and ScreenTips
+People who use screen readers sometimes scan a list of links. Links should convey clear and accurate information about the destination. For example, avoid using link texts such as "Click here," "See this page," "Go here," or "Learn more." Instead include the full title of the destination page. You can also add ScreenTips that appear when your cursor hovers over text or images that include a hyperlink.
+Tip
+If the title on the hyperlink's destination page gives an accurate summary of what's on the page, use it for the hyperlink text. For example, this hyperlink text matches the title on the destination page:
+Everything you need to know to write effective alt text
+.
+For the step-by-step instructions on how to create hyperlinks, go to
+Add a hyperlink to a slide
+.
+Top of Page
+Use accessible font format and color
+An accessible font doesn't exclude or slow down the reading speed of anyone reading a slide, including people with low vision or reading disability or people who are blind. The right font improves the legibility and readability of the text in the presentation.
+For the step-by-step instructions on how to change fonts in PowerPoint, go to
+Change the fonts in a presentation
+.
+Use accessible font format
+To reduce the reading load, select familiar sans serif fonts such as Arial or Calibri. Avoid using all capital letters and excessive italics or underlines.
+A person with a vision disability might miss out on the meaning conveyed by particular colors. For example, add an underline to color-coded hyperlink text so that people who are colorblind know that the text is linked even if they can't see the color. For headings, consider adding bold or using a larger font.
+Top of Page
+Use accessible font color
+Here are some ideas to consider:
+The text in your presentation should be readable in a high contrast mode. For example, use bright colors or high-contrast color schemes on opposite ends of the color spectrum. White and black schemes make it easier for people who are colorblind to distinguish text and shapes.
+Use the predesigned themes to make sure that your slide design is accessible. For instructions, go to
+Use an accessible presentation template
+or
+Use built-in slide designs for inclusive reading order, colors, and more
+.
+Use the Accessibility Checker to analyze the presentation and find insufficient color contrast. It finds insufficient color contrast in text with or without highlights or hyperlinks in shapes, tables, or SmartArt with solid opaque colors. It does not find insufficient color contrast in other cases such as text in a transparent text box or placeholder on top of the slide background, or color contrast issues in non-textual content.
+Top of Page
+Use accessible text alignment and spacing
+People with dyslexia perceive text in a way that can make it difficult to distinguish letters and words. For example, they might perceive a line of text compressing into the line below, or adjacent letters seeming to merge. Also, having multiple blank lines or consecutive spaces can make keyboard navigation slow and screen reader usage more cumbersome.
+Align your paragraph to the left to avoid uneven gaps between words, and increase or decrease the white space between lines to improve readability. Include sufficient white space between lines and paragraphs but avoid more than two spaces between words and two blank lines between paragraphs.
+Select the piece of text you want to modify.
+On the
+Home
+tab, select
+(Align Left).
+Top of Page
+Create accessible lists
+To make it easier for screen readers to read your slides, organize the information into small chunks such as bulleted or numbered lists.
+Design lists so that you do not need to add a plain paragraph without a bullet or number to the middle of a list. If your list is broken up by a plain paragraph, some screen readers might announce the number of list items wrong. Also, the user might hear in the middle of the list that they are leaving the list.
+Place the cursor where you want to create a list.
+On the
+Home
+tab, select
+(Bullets) or
+(Numbering).
+Type the text you want for each bullet or numbered item in the list.
+Top of Page
+Use captions, subtitles, and alternative audio tracks in videos
+PowerPoint supports the playback of video with multiple audio tracks. It also supports closed captions and subtitles that are embedded in video files.
+Closed captions or subtitles must be encoded into the video before it is inserted into PowerPoint. PowerPoint does not support closed captions or subtitles that are stored in a separate file from the video file.
+Supported video formats for captions and subtitles vary depending on the operating system that you're using. Each operating system has settings to adjust how the closed captions or subtitles are displayed. For more information, go to
+Closed Caption file types supported by PowerPoint.
+Closed captions, subtitles, and alternative audio tracks are not preserved when you use the
+Compress Media
+or Optimize Media Compatibility features. To learn more about optimizing media for compatibility, go to the section "Optimize media in your presentation for compatibility" in
+Are you having video or audio playback issues?
+Also, when
+turning your presentation into a video
+, closed captions, subtitles, or alternative audio tracks in the embedded videos are not included in the video that is saved.
+When you use the
+Save Media as
+command on a selected video, closed captions, subtitles, and multiple audio tracks embedded in the video are preserved in the video file that is saved. For more info, go to
+Save embedded media from a presentation (audio or video)
+.
+To make your PowerPoint presentations with videos accessible, ensure the following:
+Videos include an audio track with video descriptions, if needed, for users that are blind or have low vision.
+Videos that include dialogue also include closed captions, in-band closed captions, open captions, or subtitles in a supported format for users that are deaf or hard-of-hearing.
+Top of Page
+Test the accessibility of your slides with a screen reader
+When your presentation is ready and you've run the Accessibility Checker to make sure it is inclusive, you can try navigating the slides using a screen reader, for example, VoiceOver. VoiceOver comes with macOS, so there's no need to install anything. This is one additional way to spot issues in the navigation order, for example.
+Start the screen reader. For example, to start VoiceOver, press Command+F5.
+Press F6 until the focus, the black rectangle, is on the slide content area.
+Press the Tab key to navigate the elements within the slide and fix the navigation order if needed. To move the focus away from the slide content, press Esc or F6.
+Exit the screen reader. For example, to exit VoiceOver, press Command+F5.
+Top of Page
+See also
+Rules for the Accessibility Checker
+Everything you need to know to write effective alt text
+Use a screen reader to attend a PowerPoint Live session in Microsoft Teams
+Make your Word documents accessible to people with disabilities
+Make your Excel documents accessible to people with disabilities
+Make your Outlook email accessible to people with disabilities
+In this topic
+Best practices for making PowerPoint presentations accessible
+Use built-in slide designs for inclusive reading order, colors, and more
+Avoid using tables
+Add alt text to visuals
+Use accessible hyperlink texts
+Use accessible text format and color
+Use accessible text alignment and spacing
+Create accessible lists
+Use captions, subtitles, and alternative audio tracks in videos
+Test the accessibility of your slides
+Best practices for making PowerPoint presentations accessible
+The following table includes key best practices for creating PowerPoint presentations that are accessible to people with disabilities.
+What to fix
+Why fix it
+How to fix it
+Make sure slide contents can be read in the order that you intend.
+A screen reader reads the elements of a slide in the order they were added to the slide, which might be very different from the order in which things appear.
+Use built-in slide designs for inclusive reading order, colors, and more
+Give every slide a unique title.
+People who are blind, have low vision, or have a reading disability rely on slide titles to navigate.
+Give every slide a title
+Hide a slide title
+If you must use tables, use a simple table structure for data only, and specify column header information.
+Screen readers keep track of their location in a table by counting table cells.
+Screen readers also use header information to identify rows and columns.
+Avoid using tables
+Use table headers
+Include alternative text with all visuals and tables.
+Alternative text helps people who can't see the screen to understand what's important in images and other visuals.
+Add alt text to visuals
+Add meaningful and accurate hyperlink text.
+People who use screen readers sometimes scan a list of links.
+Use accessible hyperlink texts
+Ensure that color is not the only means of conveying information.
+People who are blind, have low vision, or are colorblind might miss out on the meaning conveyed by particular colors.
+Use built-in slide designs for inclusive reading order, colors, and more
+Use accessible text format and color
+Use sufficient contrast for text and background colors.
+The text in your presentations should be readable in a high contrast mode so that everyone, including people with visual disabilities, can see it well.
+Use built-in slide designs for inclusive reading order, colors, and more
+Use accessible text format and color
+Use a larger font size (18pt or larger), sans serif fonts, and sufficient white space.
+People who have dyslexia describe seeing text "swim together" on a slide (the compressing of one line of text into the line below). They often see text merge or distort.
+Use built-in slide designs for inclusive reading order, colors, and more
+Use accessible text format and color
+Use accessible text alignment and spacing
+Use built-in lists.
+Organize and structure the information in your slides into small units which are easy to read, navigate, and skim through.
+Create accessible lists
+Make videos accessible to people who have a vision or hearing disability.
+Subtitles
+typically contain a transcription (or translation) of the dialogue.
+Closed captions
+typically also describe audio cues such as music or sound effects that occur off-screen.
+Video description
+means audio-narrated descriptions of a video's key visual elements. These descriptions are inserted into natural pauses in the program's dialogue. Video description makes videos more accessible to people who are blind or have low vision.
+Use captions, subtitles, and alternative audio tracks in videos
+Top of Page
+Use built-in slide designs for inclusive reading order, colors, and more
+PowerPoint has built-in, predesigned slide designs that contain placeholders for text, videos, pictures, and more. They also contain all the formatting, such as theme colors, fonts, and effects. To make sure that your slides are accessible, the built-in layouts are designed so that the reading order is the same for people who use assistive technologies such as screen readers and people who see.
+Select
+Show ribbon
+.
+Select
+Home
+>
+Design
+.
+Select
+Themes
+, and then select the theme you want.
+Top of Page
+Give every slide a title
+One simple step towards inclusivity is having a unique, descriptive title on each slide, even if it isn't visible. A person with a visual disability that uses a screen reader relies on the slide titles to know which slide is which. With descriptive titles on each slide, everyone can quickly scan through a list of slide titles and go right to the slide they want.
+On a slide, select the title placeholder, and then type the title.
+Go through each slide in your presentation to make sure they all have titles.
+Top of Page
+Hide a slide title
+You can position a title off the slide. That way, the slide has a title for accessibility, but you save space on the slide for other content.
+On a slide, tap and hold the title element.
+Drag the title element outside the slide boundary and then lift your finger off the screen to drop the element off the slide.
+Top of Page
+Avoid using tables
+In general, avoid tables if possible and present the data another way, like paragraphs with headings. Tables with fixed width might prove difficult to read for people who use Magnifier, because such tables force the content to a specific size. This makes the font very small, which forces Magnifier users to scroll horizontally, especially on mobile devices.
+If you have to use tables, use the following guidelines to make sure your table is as accessible as possible:
+Avoid fixed width tables.
+Make sure the tables render properly on all devices, including phones and tablets.
+If you have hyperlinks in your table, edit the link texts, so they make sense and don't break mid-sentence.
+Make sure the slide content is easily read with Magnifier. View it on a mobile device to make sure people won't need to horizontally scroll the slide on a phone, for example.
+Use table headers
+.
+Test the accessibility of your slides
+.
+Top of Page
+Use table headers
+Screen readers keep track of their location in a table by counting table cells. If a table is nested within another table or if a cell is merged or split, the screen reader loses count and can't provide helpful information about the table after that point. Blank cells in a table could also mislead someone using a screen reader into thinking that there is nothing more in the table. Use a simple table structure for data only and specify column header information. Screen readers also use header information to identify rows and columns.
+Place the cursor anywhere in a table.
+To open the
+Table
+tab, select
+Show ribbon
+.
+Select
+Style Options
+and then select
+Header Row
+.
+In your table, type the column headings.
+Top of Page
+Add alt text to visuals
+Alt text helps people who use screen readers to understand what's important in the visuals in your slides. Visual content includes pictures, SmartArt graphics, shapes, groups, charts, embedded objects, ink, and videos.
+In alt text, briefly describe the image, its intent, and what is important about the image. Screen readers read the description to users who can't see the content.
+Tip
+To write a good alt text, make sure to convey the content and the purpose of the image in a concise and unambiguous manner. The alt text shouldn't be longer than a short sentence or two—most of the time a few thoughtfully selected words will do. Do not repeat the surrounding textual content as alt text or use phrases referring to images, such as, "a graphic of" or "an image of." For more info on how to write alt text, go to
+Everything you need to know to write effective alt text
+.
+Avoid using text in images as the sole method of conveying important information. If you use images with text in them, repeat the text in the slide. In alt text of such images, mention the existence of the text and its intent.
+Select the visual, for example, an image.
+To open the formatting menu for the visual, select
+Show ribbon
+.
+Select
+Alt Text
+, and then type a description for the visual.
+Top of Page
+Mark visuals as decorative
+If your visuals are purely decorative and add visual interest but aren't informative, you can mark them as such without needing to write any alt text. Examples of objects that should be marked as decorative are stylistic borders. People using screen readers will hear that these objects are decorative, so they know they aren't missing any important information.
+Select the visual, for example, a picture or chart.
+To open the formatting menu for the visual, select
+Show ribbon
+.
+Select
+Alt Text
+.
+Turn on the
+Mark as decorative
+switch, and then select
+Done
+.
+Top of Page
+Use accessible hyperlink texts
+People who use screen readers sometimes scan a list of links. Links should convey clear and accurate information about the destination. For example, avoid using link texts such as "Click here," "See this page," "Go here," or "Learn more." Instead include the full title of the destination page.
+Tip
+If the title on the hyperlink's destination page gives an accurate summary of what's on the page, use it for the hyperlink text. For example, this hyperlink text matches the title on the destination page:
+Everything you need to know to write effective alt text
+.
+Select the piece of text you want to turn into a hyperlink. The context menu opens.
+In the context menu, select
+Link
+. The
+Insert Hyperlink
+dialog box opens.
+Type or paste the hyperlink URL to the
+ADDRESS
+text field.
+If you want to change the hyperlink text, modify the text in the
+DISPLAY
+text field.
+Top of Page
+Use accessible text format and color
+An accessible font doesn't exclude or slow down the reading speed of anyone reading a slide, including people with low vision or reading disability or people who are blind. The right font improves the legibility and readability of the text in the presentation.
+Use accessible text format
+To reduce the reading load, select familiar sans serif fonts such as Arial or Calibri. Avoid using all capital letters and excessive italics or underlines.
+A person with a vision disability might miss out on the meaning conveyed by particular colors. For example, add an underline to color-coded hyperlink text so that people who are colorblind know that the text is linked even if they can't see the color. For headings, consider adding bold or using a larger font.
+Select the piece of text you want to format.
+Select
+Show ribbon
+.
+On the
+Home
+tab, select the current font type to open the font menu, and then select the font type you want or adjust the font size to your liking.
+Top of Page
+Use accessible text color
+The text in your presentation should be readable in a high contrast mode. For example, use bright colors or high-contrast color schemes on opposite ends of the color spectrum. White and black schemes make it easier for people who are colorblind to distinguish text and shapes.
+Use the predesigned
+Themes
+to make sure that your slide design is accessible. For instructions, go to
+Use built-in slide designs for inclusive reading order, colors, and more
+.
+Select the piece of text you want to format.
+Select
+Show ribbon
+.
+On the
+Home
+tab, select
+Font Color
+, and then pick the font color you want.
+Top of Page
+Use accessible text alignment and spacing
+People with dyslexia perceive text in a way that can make it difficult to distinguish letters and words. For example, they might perceive a line of text compressing into the line below, or adjacent letters seeming to merge. Also, having multiple blank lines or consecutive spaces can make keyboard navigation slow and screen reader usage more cumbersome.
+Align your paragraph to the left to avoid uneven gaps between words, and increase or decrease the white space between lines to improve readability. Include sufficient white space between lines and paragraphs but avoid more than two spaces between words and two blank lines between paragraphs.
+Select the text you want to modify.
+Select
+Show ribbon
+.
+On the
+Home
+tab, select
+(Align left).
+Top of Page
+Create accessible lists
+To make it easier for screen readers to read your slides, organize the information into small chunks such as bulleted or numbered lists.
+Design lists so that you do not need to add a plain paragraph without a bullet or number to the middle of a list. If your list is broken up by a plain paragraph, some screen readers might announce the number of list items wrong. Also, the user might hear in the middle of the list that they are leaving the list.
+On a slide, place the cursor where you want to create a list.
+Select
+Show ribbon
+.
+On the
+Home
+tab, select
+Bullets
+or
+Numbering
+, and then select the bullet or numbering style you want.
+Type the first bulleted or numbered item in the list, and then select
+return
+on the on-screen keyboard. A new list item is added. Repeat this step for each list item you want to add.
+Top of Page
+Use captions, subtitles, and alternative audio tracks in videos
+PowerPoint supports the playback of video with multiple audio tracks. It also supports closed captions and subtitles that are embedded in video files.
+Closed captions or subtitles must be encoded into the video before it is inserted into PowerPoint. PowerPoint does not support closed captions or subtitles that are stored in a separate file from the video file.
+Supported video formats for captions and subtitles vary depending on the operating system that you're using. Each operating system has settings to adjust how the closed captions or subtitles are displayed. For more information, go to
+Closed Caption file types supported by PowerPoint.
+Closed captions, subtitles, and alternative audio tracks are not preserved when you use the
+Compress Media
+or Optimize Media Compatibility features. To learn more about optimizing media for compatibility, go to the section "Optimize media in your presentation for compatibility" in
+Are you having video or audio playback issues?
+Also, when
+turning your presentation into a video
+, closed captions, subtitles, or alternative audio tracks in the embedded videos are not included in the video that is saved.
+When you use the
+Save Media as
+command on a selected video, closed captions, subtitles, and multiple audio tracks embedded in the video are preserved in the video file that is saved. For more info, go to
+Save embedded media from a presentation (audio or video)
+.
+To make your PowerPoint presentations with videos accessible, ensure the following:
+Videos include an audio track with video descriptions, if needed, for users that are blind or have low vision.
+Videos that include dialogue also include closed captions, in-band closed captions, open captions, or subtitles in a supported format for users that are deaf or hard-of-hearing.
+Top of Page
+Test the accessibility of your slides
+When your slides are ready, you can try a few things to make sure they are accessible:
+Switch to the full desktop or web version of PowerPoint, and then run the Accessibility Checker. The Accessibility Checker is a tool that reviews your content and flags accessibility issues it comes across. It explains why each issue might be a potential problem for someone with a disability. The Accessibility Checker also suggests how you can resolve the issues that appear. For instructions, go to
+Improve accessibility with the Accessibility Checker
+.
+In the PowerPoint for iOS app, you can try navigating the slides using the built-in screen reader, VoiceOver. VoiceOver comes with iOS, so there's no need to install anything. This is one additional way to spot issues in the navigation order, for example.
+To turn on VoiceOver, do one of the following:
+In your device settings, select
+Accessibility
+>
+VoiceOver
+, and then turn on the
+VoiceOver
+switch.
+Press the power button of your device three times.
+To navigate the content in the slide, swipe left or right. Modify the reading order of the elements on the slides if necessary.
+Tip
+To select an item in focus when VoiceOver is on, double-tap the screen.
+To turn off VoiceOver, do one of the following:
+In your device settings, select
+Accessibility
+>
+VoiceOver
+, and then turn off the
+VoiceOver
+switch.
+Press the power button of your device three times.
+Top of Page
+See also
+Everything you need to know to write effective alt text
+Make your Word documents accessible to people with disabilities
+Make your Excel documents accessible to people with disabilities
+Make your Outlook email accessible to people with disabilities
+Make your OneNote notebooks accessible to people with disabilities
+In this topic
+Best practices for making PowerPoint presentations accessible
+Use built-in slide designs for inclusive reading order, colors, and more
+Avoid using tables
+Add alt text to visuals
+Use accessible hyperlink texts
+Use accessible text format and color
+Use accessible text alignment and spacing
+Create accessible lists
+Use captions, subtitles, and alternative audio tracks in videos
+Test the accessibility of your slides
+Best practices for making PowerPoint presentations accessible
+The following table includes key best practices for creating PowerPoint presentations that are accessible to people with disabilities.
+What to fix
+Why fix it
+How to fix it
+Make sure slide contents can be read in the order that you intend.
+A screen reader reads the elements of a slide in the order they were added to the slide, which might be very different from the order in which things appear.
+Use built-in slide designs for inclusive reading order, colors, and more
+Give every slide a unique title.
+People who are blind, have low vision, or have a reading disability rely on slide titles to navigate.
+Give every slide a title
+Hide a slide title
+If you must use tables, use a simple table structure for data only, and specify column header information.
+Screen readers keep track of their location in a table by counting table cells.
+Screen readers also use header information to identify rows and columns.
+Avoid using tables
+Use table headers
+Include alternative text (alt text) with all visuals.
+Alt text helps people who can't see the screen to understand what's important in visuals, such as images and shapes.
+Add alt text to visuals
+Add meaningful and accurate hyperlink text.
+People who use screen readers sometimes scan a list of links.
+Use accessible hyperlink texts
+Ensure that color is not the only means of conveying information.
+People who are blind, have low vision, or are colorblind might miss out on the meaning conveyed by particular colors.
+Use built-in slide designs for inclusive reading order, colors, and more
+Use accessible text format and color
+Use sufficient contrast for text and background colors.
+The text in your presentations should be readable in a high contrast mode so that everyone, including people with visual disabilities, can see it well.
+Use built-in slide designs for inclusive reading order, colors, and more
+Use accessible text format and color
+Use a larger font size (18pt or larger), sans serif fonts, and sufficient white space.
+People who have dyslexia describe seeing text "swim together" on a slide (the compressing of one line of text into the line below). They often see text merge or distort.
+Use built-in slide designs for inclusive reading order, colors, and more
+Use accessible text format and color
+Use accessible text alignment and spacing
+Use built-in lists.
+Organize and structure the information in your slides into small units which are easy to read, navigate, and skim through.
+Create accessible lists
+Make videos accessible to people who have a vision or hearing disability.
+Subtitles
+typically contain a transcription (or translation) of the dialogue.
+Closed captions
+typically also describe audio cues such as music or sound effects that occur off-screen.
+Video description
+means audio-narrated descriptions of a video's key visual elements. These descriptions are inserted into natural pauses in the program's dialogue. Video description makes videos more accessible to people who are blind or have low vision.
+Use captions, subtitles, and alternative audio tracks in videos
+Top of Page
+Use built-in slide designs for inclusive reading order, colors, and more
+PowerPoint has built-in, predesigned slide designs that contain placeholders for text, videos, pictures, and more. They also contain all the formatting, such as theme colors, fonts, and effects. To make sure that your slides are accessible, the built-in layouts are designed so that the reading order is the same for people who use assistive technologies such as screen readers and people who see.
+Select
+(More options).
+Select
+Home
+>
+Design
+.
+Select
+Themes
+, and then select the theme you want.
+Top of Page
+Give every slide a title
+One simple step towards inclusivity is having a unique, descriptive title on each slide, even if it isn't visible. A person with a visual disability that uses a screen reader relies on the slide titles to know which slide is which. With descriptive titles on each slide, everyone can quickly scan through a list of slide titles and go right to the slide they want.
+On a slide, select the title placeholder, and then type the title.
+Go through each slide in your presentation to make sure they all have titles.
+Top of Page
+Hide a slide title
+You can position a title off the slide. That way, the slide has a title for accessibility, but you save space on the slide for other content.
+On a slide, tap and hold the title element.
+Drag the title element outside the slide boundary and then lift your finger off the screen to drop the element off the slide.
+Top of Page
+Avoid using tables
+In general, avoid tables if possible and present the data another way, like paragraphs with headings. Tables with fixed width might prove difficult to read for people who use Magnifier, because such tables force the content to a specific size. This makes the font very small, which forces Magnifier users to scroll horizontally, especially on mobile devices.
+If you have to use tables, use the following guidelines to make sure your table is as accessible as possible:
+Avoid fixed width tables.
+Make sure the tables render properly on all devices, including phones and tablets.
+If you have hyperlinks in your table, edit the link texts, so they make sense and don't break mid-sentence.
+Make sure the slide content is easily read with Magnifier. View it on a mobile device to make sure people won't need to horizontally scroll the slide on a phone, for example.
+Use table headers
+.
+Test the accessibility of your slides
+.
+Top of Page
+Use table headers
+Screen readers keep track of their location in a table by counting table cells. If a table is nested within another table or if a cell is merged or split, the screen reader loses count and can't provide helpful information about the table after that point. Blank cells in a table could also mislead someone using a screen reader into thinking that there is nothing more in the table. Use a simple table structure for data only and specify column header information. Screen readers also use header information to identify rows and columns.
+Place the cursor anywhere in a table.
+To open the
+Table
+tab, select
+(More options).
+Select
+Style Options
+, and then select
+Header Row
+.
+In the table, type the column headings.
+Top of Page
+Add alt text to visuals
+Alt text helps people who use screen readers to understand what's important in the visuals in your slides. Visual content includes pictures, SmartArt graphics, shapes, groups, charts, embedded objects, ink, and videos.
+In alt text, briefly describe the image, its intent, and what is important about the image. Screen readers read the description to users who can't see the content.
+Tip
+To write a good alt text, make sure to convey the content and the purpose of the image in a concise and unambiguous manner. The alt text shouldn't be longer than a short sentence or two—most of the time a few thoughtfully selected words will do. Do not repeat the surrounding textual content as alt text or use phrases referring to images, such as, "a graphic of" or "an image of." For more info on how to write alt text, go to
+Everything you need to know to write effective alt text
+.
+Avoid using text in images as the sole method of conveying important information. If you use images with text in them, repeat the text in the slide. In alt text of such images, mention the existence of the text and its intent.
+On a slide, select a visual.
+To open the relevant tab such as
+Picture
+or
+Shape
+, select
+(More options).
+Select
+Alt Text
+, and then type a description for the visual.
+Top of Page
+Mark visuals as decorative
+If your visuals are purely decorative and add visual interest but aren't informative, you can mark them as such without needing to write any alt text. Examples of objects that should be marked as decorative are stylistic borders. People using screen readers will hear that these objects are decorative, so they know they aren't missing any important information.
+Select the visual.
+To open the formatting menu for the visual, select
+(More options).
+Select
+Alt Text
+.
+Select the
+Mark as decorative
+checkbox.
+Top of Page
+Use accessible hyperlink texts
+People who use screen readers sometimes scan a list of links. Links should convey clear and accurate information about the destination. For example, avoid using link texts such as "Click here," "See this page," "Go here," or "Learn more." Instead include the full title of the destination page.
+Tip
+If the title on the hyperlink's destination page gives an accurate summary of what's on the page, use it for the hyperlink text. For example, this hyperlink text matches the title on the destination page:
+Everything you need to know to write effective alt text
+.
+Select the piece of text you want to turn into a hyperlink.
+To open the
+Home
+tab, select
+(More options).
+Select
+Home
+>
+Insert
+>
+Link
+.
+Do one of the following:
+To insert a hyperlink to a web page, select
+Insert Link
+. Type or paste the hyperlink URL to the
+Address
+text field. If you want to change the hyperlink text, modify the text in the
+Text to display
+text field.
+To insert a link to a recent document, browse the
+Recent Items
+list until you find the one you want, and then select it.
+Top of Page
+Use accessible text format and color
+An accessible font doesn't exclude or slow down the reading speed of anyone reading a slide, including people with low vision or reading disability or people who are blind. The right font improves the legibility and readability of the text in the presentation.
+Use accessible text format
+To reduce the reading load, select familiar sans serif fonts such as Arial or Calibri. Avoid using all capital letters and excessive italics or underlines.
+A person with a vision disability might miss out on the meaning conveyed by particular colors. For example, add an underline to color-coded hyperlink text so that people who are colorblind know that the text is linked even if they can't see the color. For headings, consider adding bold or using a larger font.
+Select the piece of text you want to modify.
+Select
+(More options).
+On the
+Home
+tab, you can do, for example, the following:
+To change the font type, select the current font type to open the
+Font
+menu, and then select the font type you want.
+To adjust the font size, select the current font size, and then select the new font size.
+Top of Page
+Use accessible text color
+The text in your presentation should be readable in a high contrast mode. For example, use bright colors or high-contrast color schemes on opposite ends of the color spectrum. White and black schemes make it easier for people who are colorblind to distinguish text and shapes.
+Use the predesigned
+Themes
+to make sure that your slide design is accessible. For the step-by-step instructions, go to
+Use built-in slide designs for inclusive reading order, colors, and more
+.
+Select the piece of text you want to modify.
+Select
+(More options).
+On the
+Home
+tab, expand the
+Font Color
+menu, and then pick the color you want.
+Top of Page
+Use accessible text alignment and spacing
+People with dyslexia perceive text in a way that can make it difficult to distinguish letters and words. For example, they might perceive a line of text compressing into the line below, or adjacent letters seeming to merge. Also, having multiple blank lines or consecutive spaces can make keyboard navigation slow and screen reader usage more cumbersome.
+Align your paragraph to the left to avoid uneven gaps between words, and increase or decrease the white space between lines to improve readability. Include sufficient white space between lines and paragraphs but avoid more than two spaces between words and two blank lines between paragraphs.
+Select the piece of text you want to modify.
+Select
+(More options).
+On the
+Home
+tab, select
+(Align left).
+Top of Page
+Create accessible lists
+To make it easier for screen readers to read your slides, organize the information into small chunks such as bulleted or numbered lists.
+Design lists so that you do not need to add a plain paragraph without a bullet or number to the middle of a list. If your list is broken up by a plain paragraph, some screen readers might announce the number of list items wrong. Also, the user might hear in the middle of the list that they are leaving the list.
+Select the piece of text you want to modify.
+Select
+(More options).
+On the
+Home
+tab, select
+Bullets
+or
+Numbering
+, and then select the bullet or numbering style you want.
+Type the first bulleted or numbered item in the list, and then select
+(Enter) on the on-screen keyboard. A new list item is added. Repeat this step for each list item you want to add.
+Top of Page
+Use captions, subtitles, and alternative audio tracks in videos
+PowerPoint supports the playback of video with multiple audio tracks. It also supports closed captions and subtitles that are embedded in video files.
+Closed captions or subtitles must be encoded into the video before it is inserted into PowerPoint. PowerPoint does not support closed captions or subtitles that are stored in a separate file from the video file.
+Supported video formats for captions and subtitles vary depending on the operating system that you're using. Each operating system has settings to adjust how the closed captions or subtitles are displayed. For more information, go to
+Closed Caption file types supported by PowerPoint.
+Closed captions, subtitles, and alternative audio tracks are not preserved when you use the
+Compress Media
+or Optimize Media Compatibility features. To learn more about optimizing media for compatibility, go to the section "Optimize media in your presentation for compatibility" in
+Are you having video or audio playback issues?
+Also, when
+turning your presentation into a video
+, closed captions, subtitles, or alternative audio tracks in the embedded videos are not included in the video that is saved.
+When you use the
+Save Media as
+command on a selected video, closed captions, subtitles, and multiple audio tracks embedded in the video are preserved in the video file that is saved. For more info, go to
+Save embedded media from a presentation (audio or video)
+.
+To make your PowerPoint presentations with videos accessible, ensure the following:
+Videos include an audio track with video descriptions, if needed, for users that are blind or have low vision.
+Videos that include dialogue also include closed captions, in-band closed captions, open captions, or subtitles in a supported format for users that are deaf or hard-of-hearing.
+Top of Page
+Test the accessibility of your slides
+When your slides are ready, you can try a few things to make sure they are accessible:
+Switch to the full desktop or web version of PowerPoint, and then run the Accessibility Checker. The Accessibility Checker is a tool that reviews your content and flags accessibility issues it comes across. It explains why each issue might be a potential problem for someone with a disability. The Accessibility Checker also suggests how you can resolve the issues that appear. For instructions, go to
+Improve accessibility with the Accessibility Checker
+.
+In the PowerPoint for Android app, you can try navigating the slides using the built-in screen reader, TalkBack. TalkBack comes with Android, so there's no need to install anything. This is one additional way to spot issues in the navigation order, for example.
+To turn on TalkBack, do one of the following:
+In your device settings, select
+Accessibility
+>
+TalkBack
+, and then turn on the
+Use service
+switch.
+Press and hold the volume keys of your device until the device vibrates.
+To navigate the content in the slide, swipe left or right. Modify the reading order of the elements on the slides if necessary.
+Tip
+To select an item in focus when TalkBack is on, double-tap the screen.
+To turn off TalkBack, do one of the following:
+In your device settings, select
+Accessibility
+>
+TalkBack
+, and then turn off the
+Use service
+switch.
+Press and hold the volume keys of your device until the device vibrates.
+Top of Page
+See also
+Everything you need to know to write effective alt text
+Make your Word documents accessible to people with disabilities
+Make your Excel documents accessible to people with disabilities
+Make your Outlook email accessible to people with disabilities
+Make your OneNote notebooks accessible to people with disabilities
+In this topic
+Best practices for making PowerPoint for the web presentations accessible
+Check accessibility while you work
+Use built-in slide designs for inclusive reading order, colors, and more
+Avoid using tables
+Add alt text to visuals and tables
+Use accessible hyperlink texts
+Use accessible font format and color
+Use accessible text alignment and spacing
+Create accessible lists
+Use captions, subtitles, and alternative audio tracks in videos
+Test the accessibility of your slides with a screen reader
+Best practices for making PowerPoint for the web presentations accessible
+The following table includes key best practices for creating PowerPoint for the web presentations that are accessible to people with disabilities.
+What to fix
+How to find it
+Why fix it
+How to fix it
+Avoid common accessibility issues such as missing alternative text (alt text) and low contrast colors.
+Use the
+Accessibility Checker
+.
+Make it easy for everyone to read your slides.
+Check accessibility while you work
+Use the built-in slide designs.
+The built-in layouts automatically make sure that the reading order works for everyone.
+Use built-in slide designs for inclusive reading order, colors, and more
+Give every slide a unique title.
+To find slides that do not have titles, use the
+Accessibility Checker
+.
+People who are blind, have low vision, or have a reading disability rely on slide titles to navigate. For example, by skimming or using a screen reader, they can quickly scan through a list of slide titles and go right to the slide they want.
+Give every slide a title
+Hide a slide title
+Make sure slide contents can be read in the order that you intend.
+Use the
+Accessibility Checker
+to find slides that have possible problems with reading order.
+To make sure everyone reads the contents in the order you intend, it's important to check the reading order.
+Use an accessible reading order for the slide contents
+Ensure that color is not the only means of conveying information.
+Visually scan the slides in your presentation.
+People who are blind, have low vision, or are colorblind might miss out on the meaning conveyed by particular colors.
+Use a presentation template
+Use accessible font format and color
+Use sufficient contrast for text and background colors.
+To find insufficient color contrast, use the
+Accessibility Checker
+.
+You can also look for text on your slides that's hard to read or to distinguish from the background.
+Use strong contrast between text and background, so people with low vision can see and use the content.
+Use a presentation template
+If you must use tables, use a simple table structure for data only, and specify column header information.
+To ensure that tables don't contain split cells, merged cells, or nested tables, use the
+Accessibility Checker
+.
+Screen readers keep track of their location in a table by counting table cells.
+Screen readers also use header information to identify rows and columns.
+Avoid using tables
+Use table headers
+Include alternative text with all visuals and tables.
+To find missing alt text, use the
+Accessibility Checker
+.
+Alt text helps people who can't see the screen to understand what's important in images and other visuals.
+Add alt text to visuals and tables
+Add meaningful hyperlink text.
+To determine whether hyperlink text makes sense as standalone information and whether it gives readers accurate information about the destination target, visually scan the slides in your presentation.
+People who use screen readers sometimes scan a list of links.
+Use accessible hyperlink texts
+Use a larger font size (18pt or larger), sans serif fonts, and sufficient white space.
+To find potential issues related to fonts or white space, review your slides for areas that look crowded or illegible.
+People who have dyslexia describe seeing text "swim together" on a page (the compressing of one line of text into the line below). They often see text merge or distort.
+Use a presentation template
+Use accessible font format and color
+Use accessible text alignment and spacing
+Use built-in lists.
+Organize and structure the information in your slides into small units which are easy to read, navigate, and skim through.
+Create accessible lists
+Make videos accessible to people who have a vision or hearing disability.
+Subtitles
+typically contain a transcription (or translation) of the dialogue.
+Closed captions
+typically also describe audio cues such as music or sound effects that occur off-screen.
+Video description
+means audio-narrated descriptions of a video's key visual elements. These descriptions are inserted into natural pauses in the program's dialogue. Video description makes videos more accessible to people who are blind or have low vision.
+Use captions, subtitles, and alternative audio tracks in videos
+Top of Page
+Check accessibility while you work
+The Accessibility Checker is a tool that reviews your content and flags accessibility issues it comes across. It explains why each issue might be a potential problem for someone with a disability. The Accessibility Checker also suggests how you can resolve the issues that appear.
+To manually launch the Accessibility Checker, select
+Review
+>
+Check Accessibility
+. The
+Accessibility
+pane opens, and you can now review and fix accessibility issues. For more info, go to
+Improve accessibility with the Accessibility Checker
+.
+Top of Page
+Use built-in slide designs for inclusive reading order, colors, and more
+PowerPoint for the web has built-in slide designs that contain placeholders for text, videos, pictures, and more. They also contain all the formatting, such as theme colors, fonts, and effects. To make sure that your slides are accessible, the built-in layouts are designed so that the reading order is the same for people who see and people who use technology such as screen readers.
+Tip
+For more info on what to consider when you're creating slides for people with dyslexia, go to
+Design slides for people with dyslexia
+.
+On the
+Design
+tab, expand the
+Themes
+menu, and then select the design you want.
+Top of Page
+Use a presentation template
+Use one of the PowerPoint templates to make sure that your slide design, colors, contrast, and fonts are accessible for all audiences. They are also designed so that screen readers can more easily read the slide content. Use the accessibility checker to keep the presentation fully accessible.
+In your browser, go to
+https:⁠//create.microsoft.com/templates
+.
+Select
+PowerPoint
+, scroll down to
+Start with a template.
+Browse for and select a template.
+On the
+Review
+tab, select
+Check Accessibility
+. This way you can see and correct any accessibility issues.
+Start customizing your presentation.
+If you don't find a suitable template, use
+Describe the presentation you want to create
+, and Copilot can help you get there. With Copilot, more details are aways better. If someting's not right, describe what's wrong and what you want. Working with Copilot can be an ongoing discussion. Think of Copilot as your trusted assistant.
+Top of Page
+Give every slide a title
+One simple step towards inclusivity is having a unique, descriptive title on each slide, even if it isn't visible. A person with a visual disability that uses a screen reader relies on the slide titles to know which slide is which.
+Use the
+Accessibility
+ribbon to make sure every slide has a title. For the step-by-step instructions, go to the section "Use the Accessibility ribbon to title a slide" in
+Title a slide
+.
+Top of Page
+Hide a slide title
+You can position a title off the slide. That way, the slide has a title for accessibility, but you save space on the slide for other content. For the step-by-step instructions, go to the section "Put a title on a slide, but make the title invisible" in
+Title a slide
+.
+Top of Page
+Use an accessible reading order for the slide contents
+When someone who can see reads a slide, they usually read things, such as text or a picture, in the order the elements appear on the slide. In contrast, a screen reader reads the elements on a slide in the order they were added to the slide, which might be very different from the order in which things appear.
+Use the
+Selection Pane
+to set the order in which screen readers read the slide contents. Screen readers read the objects in the reverse of the order they are listed in the
+Selection Pane
+.
+To find slides with a problematic reading order, use the
+Accessibility Checker
+.
+On the
+Home
+tab, select
+Arrange > Selection Pane
+.
+In the
+Selection Pane
+, to change the reading order, drag and drop items to the new location.
+Top of Page
+Avoid using tables
+In general, avoid tables if possible and present the data another way, like paragraphs with headings. Tables with fixed width might prove difficult to read for people who use Magnifier, because such tables force the content to a specific size. This makes the font very small, which forces Magnifier users to scroll horizontally, especially on mobile devices.
+If you have to use tables, use the following guidelines to make sure your table is as accessible as possible:
+Avoid fixed width tables.
+Make sure the tables render properly on all devices, including phones and tablets.
+If you have hyperlinks in your table, edit the link texts, so they make sense and don't break mid-sentence.
+Make sure the slide content is easily read with Magnifier. View it on a mobile device to make sure people won't need to horizontally scroll the slide on a phone, for example.
+Use table headers
+.
+Test the accessibility of your slides with a screen reader
+.
+Top of Page
+Use table headers
+If you do need to use tables, add headers to your table to help screen readers keep track of the columns and rows. If a table is nested within another table or if a cell is merged or split, the screen reader loses count and can't provide helpful information about the table after that point. Blank cells in a table could also mislead someone using a screen reader into thinking that there is nothing more in the table. Screen readers also use header information to identify rows and columns.
+Place the cursor anywhere in a table.
+Select
+Table Design
+.
+Select
+Header Row
+, and then type the column headings in the table.
+Top of Page
+Add alt text to visuals and tables
+Alt text helps people who use screen readers to understand what's important in the visuals in your slides. Visual content includes pictures, SmartArt graphics, shapes, groups, charts, embedded objects, ink, and videos.
+In alt text, briefly describe the image, its intent, and what is important about the image. Screen readers read the description to users who can't see the content.
+Tip
+To write a good alt text, make sure to convey the content and the purpose of the image in a concise and unambiguous manner. The alt text shouldn't be longer than a short sentence or two—most of the time a few thoughtfully selected words will do. Do not repeat the surrounding textual content as alt text or use phrases referring to images, such as, "a graphic of" or "an image of." For more info on how to write alt text, go to
+Everything you need to know to write effective alt text
+.
+Avoid using text in images as the sole method of conveying important information. If you use images with text in them, repeat the text in the slide. In alt text of such images, mention the existence of the text and its intent.
+Tip
+For audio and video content, in addition to alt text, include closed captioning for people who are deaf or have limited hearing.
+In the alt text description field, spelling errors are marked with a red squiggly line under the word.
+In the visual's
+Alt Text
+pane, you can also select
+Generate a description for me
+to have Microsoft cloud-powered intelligent services create a description for you. You'll see the result in the alt text field. Remember to delete any comments PowerPoint added there, for example, "Description automatically generated."
+To add alt text to visuals and tables, do one of the following:
+To add alt text to an image, do one of the following:
+Right-click an image. Select
+Alt Text...
+.
+Select an image. Select
+Picture
+>
+Alt Text
+.
+To add alt text to a SmartArt graphic, select a SmartArt graphic, and then select
+SmartArt
+>
+Alt Text
+.
+To add alt text to a shape or embedded video, select a shape or video, and then select
+Shape
+>
+Alt Text
+.
+To add alt text to a table, place the cursor in any cell, and then select
+Table Layout
+>
+Alt Text
+.
+For images, type a description. For SmartArt graphics, shapes, videos, and tables, type a title and description.
+Top of Page
+Use accessible hyperlink texts
+People who use screen readers sometimes scan a list of links. Links should convey clear and accurate information about the destination. For example, avoid using link texts such as "Click here," "See this page," "Go here," or "Learn more." Instead include the full title of the destination page.
+Tip
+If the title on the hyperlink's destination page gives an accurate summary of what's on the page, use it for the hyperlink text. For example, this hyperlink text matches the title on the destination page:
+Everything you need to know to write effective alt text
+.
+For the step-by-step instructions on how to create hyperlinks, go to
+Add a hyperlink to a slide
+.
+Top of Page
+Use accessible font format and color
+An accessible font doesn't exclude or slow down the reading speed of anyone reading a slide, including people with low vision or reading disability or people who are blind. The right font improves the legibility and readability of the text in the presentation.
+To change the font format or color, select the piece of text you want to modify
+Select the
+Home
+tab.
+In the
+Font
+group, select your formatting options, for example, a different font type or color.
+Top of Page
+Use accessible font format
+To reduce the reading load, select familiar sans serif fonts such as Arial or Calibri. Avoid using all capital letters and excessive italics or underlines.
+A person with a vision disability might miss out on the meaning conveyed by particular colors. For example, add an underline to color-coded hyperlink text so that people who are colorblind know that the text is linked even if they can't see the color. For headings, consider adding bold or using a larger font.
+Top of Page
+Use accessible font color
+Here are some ideas to consider:
+The text in your presentation should be readable in a high contrast mode. For example, use bright colors or high-contrast color schemes on opposite ends of the color spectrum. White and black schemes make it easier for people who are colorblind to distinguish text and shapes.
+Use the predesigned themes to make sure that your slide design is accessible. For instructions, go to
+Use an accessible presentation template
+or
+Use built-in slide designs for inclusive reading order, colors, and more
+.
+Use the Accessibility Checker to analyze the presentation and find insufficient color contrast. It finds insufficient color contrast in text with or without highlights or hyperlinks in shapes, tables, or SmartArt with solid opaque colors. It does not find insufficient color contrast in other cases such as text in a transparent text box or placeholder on top of the slide background, or color contrast issues in non-textual content.
+Top of Page
+Use accessible text alignment and spacing
+People with dyslexia perceive text in a way that can make it difficult to distinguish letters and words. For example, they might perceive a line of text compressing into the line below, or adjacent letters seeming to merge. Also, having multiple blank lines or consecutive spaces can make keyboard navigation slow and screen reader usage more cumbersome.
+Align your paragraph to the left to avoid uneven gaps between words, and increase or decrease the white space between lines to improve readability. Include sufficient white space between lines and paragraphs but avoid more than two spaces between words and two blank lines between paragraphs.
+Select the piece of text you want to modify.
+On the
+Home
+tab, select
+(Align Left).
+Top of Page
+Create accessible lists
+To make it easier for screen readers to read your slides, organize the information into small chunks such as bulleted or numbered lists.
+Design lists so that you do not need to add a plain paragraph without a bullet or number to the middle of a list. If your list is broken up by a plain paragraph, some screen readers might announce the number of list items wrong. Also, the user might hear in the middle of the list that they are leaving the list.
+Place the cursor where you want to create a list.
+On the
+Home
+tab, select
+(Bulleted Library) or
+(Numbering Library).
+Type the text you want for each bulleted or numbered item in the list.
+Top of Page
+Use captions, subtitles, and alternative audio tracks in videos
+PowerPoint supports the playback of video with multiple audio tracks. It also supports closed captions and subtitles that are embedded in video files.
+Closed captions or subtitles must be encoded into the video before it is inserted into PowerPoint. PowerPoint does not support closed captions or subtitles that are stored in a separate file from the video file.
+Supported video formats for captions and subtitles vary depending on the operating system that you're using. Each operating system has settings to adjust how the closed captions or subtitles are displayed. For more information, go to
+Closed Caption file types supported by PowerPoint.
+Closed captions, subtitles, and alternative audio tracks are not preserved when you use the
+Compress Media
+or Optimize Media Compatibility features. To learn more about optimizing media for compatibility, go to the section "Optimize media in your presentation for compatibility" in
+Are you having video or audio playback issues?
+Also, when turning your presentation into a video, closed captions, subtitles, or alternative audio tracks in the embedded videos are not included in the video that is saved.
+When you use the
+Save Media as
+command on a selected video, closed captions, subtitles, and multiple audio tracks embedded in the video are preserved in the video file that is saved. For more info, go to
+Save embedded media from a presentation (audio or video)
+.
+To make your PowerPoint presentations with videos accessible, ensure the following:
+Videos include an audio track with video descriptions, if needed, for users that are blind or have low vision.
+Videos that include dialogue also include closed captions, in-band closed captions, open captions, or subtitles in a supported format for users that are deaf or hard-of-hearing.
+Top of Page
+Test the accessibility of your slides with a screen reader
+When your presentation is ready and you've run the Accessibility Checker to make sure it is inclusive, you can try navigating the slides using a screen reader, for example, Narrator. Narrator comes with Windows, so there's no need to install anything. This is one additional way to spot issues in the navigation order, for example.
+Start the screen reader. For example, to start Narrator, press Ctrl+Windows logo key+Enter.
+Press F6 until the focus, the blue rectangle, is on the slide content area.
+Press the Tab key to navigate the elements within the slide and fix the navigation order if needed. To move the focus away from the slide content, press Esc or F6.
+Exit the screen reader. For example, to exit Narrator, press Ctrl+Windows logo key+Enter.
+Top of Page
+See also
+Improve accessibility with the Accessibility Checker
+Rules for the Accessibility Checker
+Everything you need to know to write effective alt text
+Use a screen reader to attend a PowerPoint Live session in Microsoft Teams
+Make your Word documents accessible to people with disabilities
+Make your Excel documents accessible to people with disabilities
+Make your Outlook email accessible to people with disabilities
+Technical support for customers with disabilities
+Microsoft wants to provide the best possible experience for all our customers. If you have a disability or questions related to accessibility, please contact the
+Microsoft Disability Answer Desk
+for technical assistance. The Disability Answer Desk support team is trained in using many popular assistive technologies and can offer assistance in English, Spanish, French, and American Sign Language. Please go to the Microsoft Disability Answer Desk site to find out the contact details for your region.
+If you are a government, commercial, or enterprise user, please contact
+the enterprise Disability Answer Desk
+.

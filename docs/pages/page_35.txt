@@ -1,0 +1,45 @@
+URL: https://support.microsoft.com/en-us/accessibility/windows/use-text-or-visual-alternative-to-sounds
+Use text or visual alternative to sounds
+Applies To
+Windows 11
+Windows 10
+Get help with Copilot
+How do I use text or visual alternative to sounds?
+What if I can't fix audio issues when no sound plays?
+What if I can't display audio alerts visually?
+You can get visual cues instead of sound alerts in Windows by changing your settings. Here's how.
+Windows 11
+Windows 10
+Select
+Start
+, choose
+Settings
+, and pick Accessibility, or press
++U.
+Select
+Audio
+. under
+Hearing
+.
+Expand the
+Flash my screen during audio notifications
+dropdown menu and select the option you want.
+Go to audio settings
+Go to
+Start
+>
+Settings
+>
+Ease of Access
+>
+Audio
+.
+Choose an option from the drop-down menu under
+Show audio alerts visually
+.
+If you want to turn on text captions, enter
+Replace sounds with visual cues
+in the search box on your taskbar, and choose it from the search results. Then, check the box next to
+Turn on text captions for spoken dialog
+.
+Go to audio settings

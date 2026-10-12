@@ -1,0 +1,660 @@
+URL: https://support.microsoft.com/en-us/accessibility/windows/narrator/complete-guide-to-narrator
+Complete guide to Narrator
+Applies To
+Windows 11
+Windows 10
+Get help with Copilot
+Can you show me how to get a quick summary of a webpage?
+Explain how to choose keyboard settings.
+How can I use sc an mode to read emails?
+Windows 11
+Windows 10
+Narrator is a screen-reading application that's built into Windows 11, so there's nothing you need to download or install. This guide describes how to use the Narrator with Windows so that you can start using apps, browsing the web, and more.
+Below the table of contents, there's a section about what's new in Narrator.
+Note
+This guide is available as a Word document and a PDF (in English only). To download the documents, go to
+Windows 11 Complete Guide to Narrator
+. To obtain additional languages or formats, contact the
+Disability Answer Desk
+.
+You want to learn how to use Narrator to do things in Office apps, like Outlook and Word? Check out the articles on this page:
+Use a screen reader with Office apps
+.
+Follow these links to learn how to use a screen reader to do things in Windows 11:
+Use a screen reader to explore and navigate the Start menu in Windows
+Use a screen reader to explore and navigate Settings in Windows
+Use a screen reader to explore and navigate File Explorer in Windows
+Keyboarding in Microsoft Teams 2.0 for Windows 11
+Use a screen reader to set up Teams for personal and small business use
+Table of contents
+Chapter
+What's in it
+Chapter 1: Introducing Narrator
+An overview of Narrator including how to start and stop it.
+Chapter 2: Narrator basics
+How to get around the screen, find and open apps, change what Narrator reads, and adjust speech rate and volume.
+Chapter 3: Using Scan Mode
+How to use scan mode to navigate apps, email, and the web.
+Chapter 4: Reading text
+How to read and get info about text, such as font, text color, and punctuation.
+Chapter 5: Navigation
+How to get more info on the app or page you're exploring using Narrator views.
+Chapter 6: Using Narrator with Touch
+How to use Narrator with touch, including basic gestures.
+Chapter 7: Customizing Narrator
+How to change how the Narrator starts, determine how much feedback you hear when typing, change Narrator commands, and use third-party text-to-speech (TTS) software.
+Chapter 8: Using Narrator with braille
+How to use Narrator with a refreshable braille display.
+Appendix A: Supported languages and voices
+A list of supported languages for legacy and natural voices in Narrator.
+Appendix B: Narrator keyboard commands and touch gestures
+A list of Narrator keyboard commands and touch gestures.
+Appendix C: Supported braille displays
+A list of braille displays supported by the Narrator.
+Appendix D: Narrator sounds
+A list of the sounds the Narrator uses and what those sounds mean.
+Appendix E: Narrator with Outlook
+How to use Narrator with Outlook extension.
+Appendix F: Narrator with Excel
+How to use Narrator with Excel extension.
+Appendix G: Troubleshooting Narrator Natural Voices setup issues
+How to Troubleshoot the Narrator Natural Voices setup issues.
+Appendix H: List of Issues and Bugs fixed
+A list of issues and bugs fixed in this release.
+Appendix I: Legacy keyboard layout commands
+A list of legacy keyboard layout commands.
+Appendix J: History of Narrator Updates
+A list of narrator update history.
+What's new in Narrator
+Version release in April 2026
+Speech off in Narrator
+Narrator now lets you temporarily turn off all speech output while keeping Narrator fully active. This is useful in situations where Narrator's speech might overlap with what you're hearing, such as during meetings, while listening to audio or video, or when using self-voicing apps. If you prefer reading with braille alone, you can turn off speech and rely entirely on your display.
+Press Narrator key + Shift + S to toggle speech off. All spoken output from Narrator is suppressed. Press the same shortcut again to turn speech back on.
+Braille output continues to work normally while speech is off. Your refreshable braille display updates as you navigate, so you can continue reading and interacting without interruption.
+Version release in March 2026
+Read status bar
+Narrator users can now use a new command
+Narrator
+key+
+\
+to read contents of status bar in apps such as Microsoft Word, Excel, PowerPoint, etc. For example, in Microsoft Word, users can use this to read count of pages or words in a document. In Microsoft Excel, users can select a few data cells and hear the sum or average of the data in the selected cells without having to change your focus.
+Bringing Copilot-powered image descriptions to Narrator
+Last year, we introduced rich image descriptions in Narrator on Copilot+ PCs, making it possible for blind and low-vision users to hear detailed, AI-generated descriptions of images, charts, and graphs.
+Narrator can now work with Copilot on all Windows 11 devices to further understand images and visual elements on your screen.
+You can press
+Narrator
+key+
+Ctrl
++
+D
+to describe the focused image or press
+Narrator
+key+
+Ctrl
++
+S
+to describe the full screen. Copilot opens with the image ready, allowing you to enter your own prompt and generate a description tailored to what you want to know. Importantly, the image is only shared after you choose to describe it. You remain in control at every step.
+Version release in January 2026
+Personalize what Narrator announces
+Narrator now gives you more control over how information is spoken when you navigate UI elements in an app. Every app is made up of different control types—such as buttons, checkboxes, links, sliders, and text fields. Each control includes properties (like its name, role, or state) and values (for example, a slider set to “75%”). Narrator usually announces these in a fixed order, but you can now choose which properties are spoken and rearrange their order to match your preferences.
+For example, when you land on a
+Submit
+button, Narrator may announce “Submit button.” With personalization, you can choose to hear the label first, the role first, or omit something you don’t need. On a checkbox, you might decide whether the state (“checked” or “not checked”) should come before or after the label—or whether you prefer not to hear the state at all.
+To customize these announcements, press
+Narrator
+key+
+Alt
++
+P
+. From there, you can select, unselect, & reorder the properties Narrator speaks for each control type.
+You can make changes faster using a natural language input box exclusively on Copilot+ PCs. Simply type what you want—for example: “Don’t announce the selection info or position info,”
+These changes apply to that control type throughout the app you’re currently using.
+You can also preview how your personalized announcement will sound before saving your changes. If you ever want to go back, simply choose Reset to defaults to restore Narrator’s original announcement pattern.
+Shape Narrator’s detail level the way you prefer—clearer, more predictable, and aligned with how you want to navigate.
+Version release in November 2025
+HD Voices in Narrator
+Narrator now support high-definition voices for English (United States), powered by Azure’s latest on-device text-to-speech models. These voices use generative AI to adjust tone and pacing for more natural, expressive speech.
+When reading with Narrator or listening to text in Magnifier, HD voices provide clearer audio and smoother flow. This helps reduce listening fatigue during long sessions and makes it easier to stay focused on the content. While natural voices are available in multiple languages, HD voices are currently offered in English (United States). Narrator allows you to personalize your experience by adjusting voice speed and switching between voices anytime.
+To enable in Narrator:
+Open
+Settings
+>
+Accessibility
+>
+Narrator
+.
+Navigate to the
+Add a natural voice
+button.
+Download your preferred HD voice.
+Switch voices or adjust speed anytime in Narrator settings.
+Currently, HD voices are available in English (United States), with one male (Andrew) and one female (Ava) option to choose from. There are also HD voices in French and Chinese.
+Improved keyboard and Narrator support for comments in Word
+When navigating a document and the insertion point is within text that contains a comment, you can press
+Alt+F12
+to move into the contextual comment card. Once focused on the card, we’ve introduced a few enhancements to make collaboration easier:
+Smarter use of Home/End:
+The
+Home
+and
+End
+keys now behave contextually. Depending on where your focus is – on a comment card, comment thread, or section of text – using the
+Home
+or
+End
+key now moves you to the beginning or end of that section respectively, making navigation much more seamless.
+More intuitive Esc behavior:
+Pressing
+Esc
+now reliably moves focus back through your workflow, from thread to card, and from card to canvas – rather than sending you directly back to the canvas – helping you stay oriented.
+Refined Tab order in expanded comment cards:
+Tab stops are now logically grouped, and there are fewer tab stops to limit interruptions: They’ll first navigate to the comment in the thread (for example, “Comment 2 of 5”), then thread actions (such as Like or Edit comment), then the
+@mention
+or reply field.
+Cross-page navigation in contextual view:
+You can now navigate seamlessly across comments in contextual view, even when they span across pages, using the down arrow key. Previously, pressing the down arrow key would stop at the end of a page.
+New Narrator shortcut:
+For users reading documents with Narrator, we’ve introduced a powerful new shortcut:
+Alt
++
+Shift
++
+’
+. This simple shortcut lets users hear the full context of a comment, such as the comment author’s name, any assigned task, and the number of replies (if applicable) – all without having to leave the canvas or shift focus. If the focus is already on a comment card, pressing the same shortcut reads out the commented text range, so users always know what part of the document the comment refers to. If there’s no comment on the selected text, Narrator will announce that clearly, removing any guesswork.
+Version release in October 2025
+Improved usability for using Word
+We have implemented multiple enhancements to ensure that Narrator provides a more seamless and dependable experience when interacting with documents in Word. These updates are designed to improve the intuitiveness and efficiency of reading, writing, and editing tasks.
+Enhanced voice feedback:
+Narrator now maintains a consistent pitch when announcing headings and grammar or spelling errors, providing a smoother and less distracting experience for users of Natural Voices.
+Enhanced footnote navigation:
+Users can now efficiently navigate documents using footnotes and will distinctly hear the associated footnote numbers, ensuring greater clarity and orientation when reading or editing referenced materials.
+Consistent continuous reading:
+The Narrator feature now maintains uninterrupted performance throughout lengthy text passages. Continuous reading proceeds seamlessly from beginning to end.
+Page Numbers and Section Announcements:
+The Narrator now provides page number and section notifications during navigation in Word, assisting users in maintaining orientation within lengthy or complex documents.
+Heading Status:
+The Narrator now announces whether a heading is collapsed or expanded, enabling efficient navigation of document structure and facilitating quick movement between sections.
+Coherent and consistent announcements for Lists:
+Narrator now delivers list announcements more clearly and consistently, no matter how you navigate. It announces list details like style and level according to your chosen verbosity settings, so users always know the formatting and their place within the list.
+Complete list reading:
+The Narrator now fully announces list items, including content that extends onto subsequent lines, ensuring all information is communicated accurately.
+List Item Navigation:
+You can now move between list items by pressing
+Ctrl
++
+Up arrow
+or
+Ctrl
++
+Down arrow
+keys.
+Enhanced Table Navigation Commands:
+Narrator now offers improved functionality by enabling efficient navigation to the first or last cell in any row or column. This enhancement assists users in traversing tables with greater ease. The following commands are available for navigation:
+Move to the first cell in a Row –
+Ctrl+Alt+Comma (,)
+Move to the last cell in a Row –
+Ctrl+Alt+Period (.)
+Move to the first cell in a Column –
+Ctrl+Alt+Shift+Comma (,)
+Move to the last cell in a Column –
+Ctrl+Alt+Shift+Period (.)
+Clearer guidance at table boundaries:
+When navigating with the Tab key inside an editable table, Narrator now provides an announcement when reaching the last cell. This prevents confusion and accidental row additions
+The entry announcements for tables have been improved:
+Narrator will now announce “entering table” only once when moving across cells, rather than repeating the message. This enhancement provides clearer feedback and makes it easier to determine whether you remain within the same table.
+Better feedback during selections in Tables:
+Narrator now provides clear feedback when you select cells in tables, announcing your selections as you highlight cells across rows, columns, or both. It also clearly indicates when your text selection spans multiple cells, so you always know the exact amount of content you've selected.
+Awareness of non-uniform tables:
+The Narrator now notifies users when a table is non-uniform, such as when some rows or columns have missing cells, to provide useful context about the table's structure.
+Version release in September 2025
+Get on-screen braille and text output with braille viewer
+A new feature, braille viewer, has been introduced to provide both on-screen textual and braille representations of output displayed on a refreshable braille device. This tool is designed to support sighted educators, assistive technology trainers, developers, and testers who do not read braille or have limited access to a braille display.
+Teachers of Students with Visual Impairments (TVIs) can use braille viewer to help improve student’s braille skills or follow along in classroom as the teachers can visually see the textual and braille representation on the screen while the student reads it on their connected braille display.
+To open braille viewer, start Narrator using
+Win+Ctrl+Enter
+and press
+Narrator
+key
++Alt+B
+. A new floating window opens – contents of this window are updated as you continue to use Narrator.
+The number of braille cells shown on the viewer depends on the size of your refreshable braille display. If an 80-cell display is connected, the viewer shows 80 cells. If no display is connected, the viewer shows 40 cells by default. You could also change the display size and position of the viewer using settings menu on the viewer.
+Note
+For braille viewer to work, make sure Narrator is set up to give braille output. To download and install braille package, navigate to Settings > Accessibility > Narrator > Use a braille display with Narrator.
+Version release in August 2025
+Screen curtain in Narrator
+The screen curtain feature in Narrator is designed to enhance privacy and focus for users who rely on screen reading. When activated, screen curtain completely blacks out the display, ensuring that only the user hears what’s on the screen through Narrator, while the visual content remains hidden from view. This is especially useful in public spaces or shared environments, allowing users to read and work with sensitive information without revealing it to others nearby.
+Note that, screen curtain doesn’t take effect when you record a video, share your screen in video conferencing tools such as Microsoft Teams or taking a screenshot using “print screen” key on the keyboard. Features such as image descriptions continue to work even if screen curtain is on.
+How to enable or disable screen curtain:
+Turn On Narrator using
+Ctrl+Windows
+logo key
++Enter
+.
+Press
+Narrator
+key
++Ctrl+C
+to enable screen curtain.
+Try using Narrator, while your screen curtain is turned on.
+Press
+Narrator
+key
++Ctrl+C
+to disable screen curtain.
+Changes and Improvements
+We’re introducing a smoother way to discover and learn about Narrator capabilities right from experience. Whether you’re a new user or exploring deeper functionality, Narrator will now guide you through its new features by launching a series of modal windows which contain the details of all the new features and changes in Narrator.
+Rich Image Description for AMD and Intel®-Powered Copilot+ PCs.
+Earlier this year, we introduced rich image descriptions in Narrator, enhancing accessibility by providing detailed contextual information for visual content such as images, graphs, and charts. This functionality enables Narrator to deliver comprehensive image descriptions on Copilot+ PCs, including details about people, objects, colors, text, and numeric data. Users can access this feature by pressing
+Narrator
+key
++Ctrl+D
+.
+Previously available exclusively for Snapdragon-powered Copilot+ PCs, this capability is now extended to devices equipped with AMD and Intel® processors.
+Version released in May 2025
+Making visual content more accessible with image descriptions in Narrator
+We are improving digital accessibility by adding the ability for Narrator to provide rich, detailed descriptions of images, charts, and graphs using AI on Copilot+ PCs. In today's digital environment, images are prevalent on websites, apps, and documents. However, for blind and low-vision users, many visuals remain inaccessible due to missing or inadequate alt text.
+With this new feature, Narrator will now generate richer image descriptions on your Copilot+ PC. Simply press
+Narrator
+key+
+Ctrl
++
+D
+and Narrator will provide a contextual description of the image, detailing people, objects, colours, text, and numbers from the image. On non-Copilot+ PCs, this experience will continue to offer basic image descriptions.
+For example, for an image about stock performance, you will get the following detailed description: The image is a graph showing the stock prices of Microsoft Corporation, with the S&P 500 and NASDAQ Computer indexes. The graph shows a steady increase in Microsoft's stock price over the period from June 18th to June 23rd.
+The window also includes regenerate, like, dislike, and copy button at the bottom.
+This feature is currently available on Snapdragon-powered Copilot+ PCs, with AMD and Intel support coming soon. When you first try the image descriptions feature using
+Narrator
+Key+
+Ctrl
++
+D
+, we download the necessary models. Check download status via
+Settings> Windows update
+. This takes time, so continue your tasks while setup finishes. Then retry generating the description with
+Narrator
+Key+
+Ctrl
++
+D
+.
+Tip
+The
+G
+or
+Shift
++
+G
+commands in scan mode can be used to focus Narrator on various image or graph elements on the screen.
+Note
+To learn more about scan mode, refer to
+Chapter 3: Using scan mode
+. For any questions regarding privacy and data about this feature, refer to Frequently asked questions about rich image descriptions in Narrator
+Frequently asked questions about rich image descriptions in Narrator
+.
+Version released in Mar 2025
+This release introduces speech recap in Narrator, making it easier to reference spoken content. Quickly access spoken text history, follow along with live transcription and copy the last spoken phrase with simple shortcuts.
+Speech recap
+Press
+Narrator
+key+
+Alt
++
+X
+to open speech recap and view the last 500 spoken strings. Note that we refresh the text in this window every time Narrator starts. You can use standard reading commands and arrow keys to read the contents in speech recap window and copy text required for reference.
+Need to save or share something Narrator just said last? You can copy it instantly without opening the speech recap window! Use
+Narrator
+key+
+Ctrl
++
+X
+to copy the last phrase Narrator said to clipboard.
+Few scenarios where you can use speech recap and related shortcuts include referring to a hint you heard when opening a new window, copying an error code that was spoken or adding Narrator speech to training materials.
+Live Transcription
+Live transcription of Narrator speech is useful for Assistive Technology (AT) trainers, Teacher of Students with Visual Impairments (TSVI) who support students in class or for professionals who are hard of hearing and want to use Narrator. To see live transcription of Narrator audio, use the same command
+Narrator
+key+
+Alt
++
+X
+to open the speech recap window and snap it to the portion of the screen you want to view it. As you do tasks, you can see real-time transcriptions of Narrator’s speech.
+These keyboard shortcuts follow a simple pattern making it easy to learn.
+To do this
+Press
+Re-hear what Narrator said last
+Narrator key+X
+Copy what Narrator said last
+Narrator key+control+X
+Open speech recap window for history and live transcriptions
+Narrator key+Alt+X
+Version released in Feb 2025
+This release introduces new keyboard shortcuts in scan mode allowing you to quickly navigate to different contents in a document or web page along with few bug fixes when using Narrator across Windows.
+In scan mode (
+Narrator
+key+
+Spacebar
+), navigate to next list item with “
+I
+” key and to previous list item with “
+Shift
++
+I
+” key. When reading long tables or lists, navigate to the beginning and end of the element using the “, (comma)” and “. (period)” keys.
+Version released in Nov 2024
+This release is for improving the overall performance of Narrator, adding three new Narrator shortcuts, and a few bug fixes across Narrator. We have addressed issues with the narrator's performance after extended use. This improvement would allow you to continuously use Narrator without it slowing down over time.
+Narrator now includes a few new keyboard shortcuts. Using the
+Narrator
+key
++ Ctrl+X
+, you can copy the last phrase that Narrator spoke. This copied phrase can be available on the clipboard for you to paste anywhere, such as Teams, Outlook, or a Word document.
+There are also two new shortcuts added to scan mode on Narrator. When you activate the scan mode, the '
+L
+' shortcut enables you to navigate directly to lists within a document, email, or web page. Another scan mode shortcut, ‘
+N'
+allows you to skip past a block of links. This is especially helpful when you're trying to get to the main content on a webpage. To try these two shortcuts, turn on scan mode by pressing the
+Narrator
+key+
+Spacebar.
+With this release, we have resolved a problem where the Narrator would automatically add a "contains style" announcement whenever it detected text with styling attributes like bullets and numbers in applications like Microsoft Edge, Teams, and Outlook, among others.
+We also fixed an issue where a few dialog boxes in Narrator were not adopting the 200% text scaling setting on Windows.
+The narrator will now start auto-reading the email as soon as you press the ‘
+Enter
+' key on the new Outlook Monarch, similar to the classic Outlook, without having to navigate to the email body and then pressing a separate shortcut to auto-read.
+Version released in Aug 2024
+This release is for improving the performance of scan mode in Narrator. Typing in edit fields, such as the address bar, is now easier because Narrator scan mode will now turn off faster. This improvement will also help when filling in form fields, such as typing your name and address in different edit boxes.
+A new keyboard shortcut has been added to hear battery and network status. The new shortcut is
+Narrator
+key+
+Shift
++
+B
+. This will announce if your laptop is plugged for charging, followed by battery status, network name, and network status.
+Few sample announcements are:
+Battery 79%, time remaining 1 hour 48 minutes, Network Sample Wi-Fi Internet access.
+Plugged in, battery 23%, network No internet access.
+Version released in Feb 2024
+This release is about enhancing the reading experience for images with Narrator, early steps in supporting dictation with voice access and Narrator, ability to preview all natural voices and a bunch of bug fixes across Narrator. To give feedback, press
+Narrator
+key
++Alt+F
+while Narrator is running.
+Tip
+The
+Narrator
+key is a modifier key in the Narrator commands. Both the
+Caps lock
+key and the
+Insert
+key serve as your Narrator key by default. For more info on the
+Narrator
+key, go to
+Chapter 2: Narrator basics
+or
+Appendix B: Narrator keyboard commands and touch gestures
+.
+Enhance image consumption experience in Narrator
+With Narrator, we have enhanced image consumption experience. There are two significant modifications:
+A new keyboard command has been added to allow you to switch between the graphics/images on a page or screen. Now, in Scan mode (
+Narrator
+key
++Spacebar
+), you can move forward or backward between graphics/images by pressing the keys
+G
+or
+Shift+G
+.
+Text recognition in images is enhanced, including handwriting recognition, and overall image descriptions are better. To experience the improved experience, navigate to any image and, while the image is in focus, execute the keyboard combination
+Narrator
+key
++Ctrl+D
+. An active internet connection is necessary for this feature, and Narrator settings must have the option to obtain Image Descriptions activated. For more information, refer to image descriptions in
+Chapter 2: Narrator basics.
+Dictate text with voice access
+Voice access in Windows 11 enables everyone, including people with mobility disabilities, to control their PC and author text using their voice. For example, you can open and switch between apps, browse the web, and read and author emails using your voice. Voice access uses modern, on-device speech recognition to accurately recognize speech and works even without the internet. For more information, refer to
+Use voice access to control your PC & author text with your voice.
+Narrator users can start using voice access to dictate text with voice and hear what is dictated. In addition, you can also use voice access to give Narrator commands. For example, "Turn on Narrator," "speak faster," "read selection," "read next line," etc.
+To know the entire list of Narrator commands supported with voice access click
+help icon (?)
+on voice access bar, select
+View all commands
+and choose
+Narrator commands
+.
+Note that, all voice access features do not work with Narrator. Please refer to the section below for more details. You can start voice access by searching in the
+Windows Search
+bar or pinning it to the task bar once it is open.
+What will work:
+Start and setup voice access which includes downloading a speech model.
+Read a list of voice access commands and Narrator commands from voice access help menu.
+Changing voice access microphone state.
+Dictating text with voice and hearing back what was dictated.
+What will not work:
+Using voice access guide with a screen reader.
+Core voice access features: Using different voice access commands to get different tasks done:
+Using "Click" commands or number overlays to interact with specific items on the screen.
+Using grid overlays to control the mouse pointer.
+Using text editing features such as corrections and spellings in voice access.
+Tip
+You can press
+Alt+Tab
+to cycle through all open applications to move the focus to the voice access UI.
+If you don't use headphones for listening to the screen reader, the audio output from the screen reader may get picked up by voice access microphone, leading to unwanted behavior.
+Preview natural voices in Narrator
+We launched natural voices in 10 new locales as part of Windows September 2023 update. Those natural voices include Chinese, Spanish (Spain), Spanish (Mexico), Japanese, English (UK), French, Portuguese, English (India), German and Korean. With this Windows update, users will be able to preview and listen to the natural voice before downloading a voice model.
+Once downloaded, Natural Narrator voices support text-to-speech on-device and do not require an internet connection. For more information, refer to natural voices section in
+Appendix A: Supported languages and voices
+.
+Note
+There are more improvements and bugs fixed in this release. For more information, refer to
+Appendix H: List of Issues and Bugs fixed
+.
+To see the history of narrator updates, refer to
+Appendix I: History of Narrator Updates
+.
+Narrator is a screen-reading app that's built into Windows 10, so there's nothing you need to download or install. This guide describes how to use Narrator with Windows so that you can start using apps, browsing the web, and more.
+Below the table of contents, there's a section about what's new in Narrator.
+Note
+This guide is available as a Word document and a PDF (in English only). To download the documents, go to
+Windows 10 Complete Guide to Narrator
+. You can
+download a version of this guide in braille
+(US English non-UEB grade 2 braille). To obtain additional languages or formats, contact the
+Disability Answer Desk
+.
+Want to learn how to use Narrator to do things in Office apps, like Outlook and Word? Check out the articles on this page:
+Use a screen reader with Office apps
+.
+Table of contents
+Chapter
+What's in it
+Chapter 1: Introducing Narrator
+An overview of Narrator including how to start and stop it.
+Chapter 2: Narrator basics
+How to get around the screen, find and open apps, change what Narrator reads, and adjust speech rate and volume.
+Chapter 3: Using scan mode
+How to use scan mode to navigate apps, email, and the web.
+Chapter 4: Reading text
+How to read and get info about text, such as font, text color, and punctuation.
+Chapter 5: Navigation
+How to get more info on the app or page you're exploring using Narrator views.
+Chapter 6: Using Narrator with touch
+How to use Narrator with touch, including basic gestures.
+Chapter 7: Customizing Narrator
+How to change how Narrator starts, determine how much feedback you hear when typing, change Narrator commands, and use third-party text-to-speech (TTS) software.
+Chapter 8: Using Narrator with braille
+How to use Narrator with a refreshable braille display.
+Appendix A: Supported languages and voices
+A list of supported languages and available TTS voices in Narrator.
+Appendix B: Narrator keyboard commands and touch gestures
+A list of Narrator keyboard commands and touch gestures.
+Appendix C: Supported braille displays
+A list of braille displays supported by Narrator.
+Appendix D: User guides for previous versions of Narrator
+User guides for previous versions of Narrator
+Appendix E: Narrator sounds
+A list of the sounds Narrator uses and what those sounds mean.
+What's new
+Version released in 2020
+This release is all about helping you get things done faster. To give Microsoft feedback, press
+Narrator
+key
++Alt+F
+while Narrator is running.
+Tip
+The Narrator key is a modifier key in the Narrator commands. Both the Caps lock key and the Insert key serve as your Narrator key by default. For more info on the Narrator key, go to
+Chapter 2: Narrator basics
+or
+Appendix B: Narrator keyboard commands and touch gestures
+.
+Email improvements in Outlook and Windows Mail
+Use Scan Mode to read emails
+Scan Mode turns on automatically when you open an email. Use the arrow keys and other Scan Mode commands—just like you would on the web—to navigate around.
+Emails are read automatically
+When you open an email, Narrator will start reading—no commands required.
+Get the important info, skip the noise
+In Outlook, Narrator will read an email's status (unread, forwarded, etc.), who sent it, the subject line, and any other characteristics of the email that are important or unique (for example, Narrator
+will
+read if an email is flagged, but it won't read if an email is unflagged).
+Narrator won't read any unnecessary table info, like if there are 5 empty columns, and column headers won't be read by default. Turn column header reading in Outlook on or off by pressing
+Narrator
+key
++H
+.
+Web improvements
+No more unhelpful hyperlinks
+Narrator will give you the title of the webpage for a link. Press
+Narrator + Ctrl + D
+, and Narrator will take the URL of the hyperlink you are on and send it to an online service that will provide the page title to Narrator. And when focus is on an image, the
+Narrator + Ctrl + D
+command provides a description of the image. If you would like to disable all online services used by Narrator, you can turn this feature off in Narrator settings.
+Get a quick summary of a webpage
+Hear a webpage summary that includes the number of links, landmarks, and headings by pressing
+Narrator + S
+.
+Popular links and full webpage summary
+Press
+Narrator + S twice quickly
+to pull up a dialog box on the screen with the following info: the number of links, landmarks, and headings on a page, and a list of popular links for a page (popular links are the links on the page that get the most engagement).
+Webpages are read automatically
+Narrator automatically reads webpages starting at the top of the page.
+Sound improvements
+New sounds for common actions
+Narrator sounds are now more functional and responsive. For example, sounds now play for common actions, such as when you land on a link or when you turn on or off
+Scan Mode
+. To manage sounds for common actions, go to Narrator settings. To hear the Narrator sounds, refer to
+Appendix E: Narrator Sounds.
+Hear capital letters and words
+By default, Narrator reads capital letters the same as lowercase ones. This means "Word," "WORD," and "word" all sound the same (even though different letters are capitalized in each).
+If you'd like to hear when a letter is capitalized, Narrator can say "cap" before it, or read the word or letter in a higher pitch. To change how Narrator handles capitalization, go to the section
+Change what you hear when reading and interacting
+in
+Narrator settings
+.
+Read with Magnifier
+Magnifier, the screen-magnifying feature that comes with Windows 10, will now read text aloud. This might be useful if you are a low vision user who would like text read aloud on-demand. For more information, refer to
+Use Magnifier to make things on the screen easier to see
+.
+New or notable commands
+Narrator + Ctrl + D
+: Get the webpage source of a link
+Narrator + S
+: Get a webpage summary
+Narrator + S twice quickly
+: Get the webpage summary and popular links dialog box
+Narrator + H
+: Turn on or off Outlook column header reading
+Narrator + Alt + F
+: Give feedback on Narrator
+Windows logo key+ Plus sign⁠(+)⁠
+: Open Magnifier
+Other capabilities that are new to Narrator over the last few releases
+Narrator Home
+Every time you turn on Narrator, you'll go to Narrator Home, which gives you one place where you can find everything you need, from changing your Narrator settings to learning the basics of Narrator with QuickStart. Also, when minimized Narrator Home goes into your system tray, so you won't need to navigate around it when using
+Alt + Tab
+to switch between things.
+Read by sentence
+Narrator can now read next, current, and previous sentences. Read by sentence is available whenever you use a keyboard, touch, or braille.
+"Sentence" is also its own Narrator view. Press
+Narrator + Page up
+or
+Narrator + Page down
+to get to the sentence view, then press
+Narrator + Left
+arrow to move to the previous sentence and
+Narrator + Right arrow
+to move to the next sentence.
+You can use these new commands on braille displays by pressing dots
+2-3-4
+or
+2-3-4-7
+in command input mode.
+New verbosity levels
+Narrator provides five verbosity levels that impact the amount of information you hear when Narrator reads text, such as web sites, and when you interact with controls. Each level is documented in
+Chapter 4
+with a brief description of how you might want to use it.
+Use scan mode in your favorite browser
+Scan mode turns on automatically in Google Chrome and Microsoft Edge.
+Standard keyboard layout
+We wanted to make it easier for you to learn and use Narrator, so we've introduced a new Standard keyboard layout. The updated layout is more like the keyboard layout you may have experienced in other screen readers.
+When keyboard commands are mentioned in this guide, they're for the new standard keyboard layout. Some of the new commands include updates to Narrator's page, paragraph, line, word, and character commands. You'll also notice new commands like Narrator Find, list of links, list of headings, and list of landmarks. For some commands, you can now use the numeric keypad.
+You can explore all the new and updated commands in
+Appendix B: Narrator keyboard commands and touch gestures
+. Find scan mode commands in
+Chapter 3: Using scan mode
+.
+Note
+Your keyboard will default to the Standard layout. If you want to change this, go to
+Settings Glyph Name: Settings > Ease of Access Glyph Name: EaseOfAccess > Narrator
+, and choose the
+Legacy
+layout. You can also get to your Narrator settings by pressing
+Windows Glyph Name: WindowsLogo
+key
++Ctrl+N
+. New Narrator commands will not be available in the Legacy keyboard layout if keystrokes for legacy commands conflict with those used in new Narrator features.
+Open Narrator settings
+Narrator key
+You can now choose what modifier key you want to use in Narrator commands. Both the Caps Lock and Insert keys serve as your
+Narrator
+key by default. You can use either of these keys in any command that uses the Narrator key. The
+Narrator
+key is referred to as simply "Narrator" in commands. You can change your
+Narrator
+key in Narrator settings.
+Updated Change View commands
+Change View commands are now mapped to the
+Narrator + Page up and Page down
+keys. You can also use Change View by pressing
+Narrator + Ctrl + Up arrow
+and
+Down arrow
+.
+Improvements to scan mode
+Scan mode's Primary and Secondary Action commands have changed. A Primary Action can be executed by pressing
+Enter
+or
+Spacebar
+. You can complete a Secondary Action by adding a
+Shift
+key to each of those keys (
+Shift+Enter
+or
+Shift+Spacebar.
+) You'll notice this change regardless of the keyboard layout you select.
+Additionally, several new scan mode keyboard commands have been added that allow you to select text. You can learn more about them in
+Chapter 3: Using scan mode
+.
+Give feedback
+Your feedback helps make Narrator better. When Narrator is turned on, press
+Narrator + Alt + F
+to open the Feedback Hub to provide feedback about Narrator. Additionally, for technical support for Narrator or other Microsoft assistive technology, contact the
+Microsoft Disability Answer Desk
+.
+If you want to provide Microsoft with additional diagnostic and performance data, press
+Windows logo
+key
++Ctrl+N
+to open Narrator settings, turn on the toggle under
+Help make Narrator better
+, and then restart
+Narrator
+.

@@ -1,0 +1,486 @@
+URL: https://support.microsoft.com/en-us/accessibility/windows/eye-control/eye-control-basics-in-windows
+Eye control basics in Windows
+Applies To
+Windows 10
+Windows 11
+Windows 10
+Setting up eye control for the first time? See
+Get started with eye control in Windows
+for help with that. And if you have any issues, see
+Eye control troubleshooting guide
+for extra support.
+General info
+Turn on eye control
+Select Start
+and go to
+Settings
+>
+Accessibility
+>
+Interaction
+>
+Eye control
+, and turn on the
+Eye control
+switch.
+When you turn on eye control, the launchpad appears on the screen.
+Use the launchpad
+To select a button on the launchpad, rest—or dwell—your eyes on it until it activates. Dwelling is the act of fixing your eyes on part of the screen, and keeping your eyes there for a specific amount of time. The amount of time is called dwell time.
+Launchpad buttons let you:
+Move the launchpad to the top or bottom of the screen.
+Control the mouse cursor, including buttons to select the left and right mouse buttons.
+Control the mouse scroll wheel to move through a webpage or app.
+Type using the eye control keyboard.
+Use eye control text-to-speech (TTS) to type words on the screen and have them read aloud.
+Quickly access Start, Task view, eye tracker device calibration, and eye control settings.
+Pause eye control if you're doing something like watching a movie and don't want your eye movements to accidentally select buttons on the launchpad.
+Control the mouse
+To control the mouse with precision, dwell on the
+Precise mouse
+button on the launchpad. Then position your eyes on the screen where you want the cursor to be placed.
+The eye control mouse lets you fine-tune the position of the mouse cursor and then right-click, left-click, or double-click the mouse.
+You can also control the mouse more directly by dwelling on the
+Left-click
+or
+Right-click
+buttons on the launchpad and then positioning your eyes on the screen where you want the mouse action to occur.
+To cancel a mouse interaction after selecting it, look off-screen to return to the launchpad.
+Scroll through webpages and apps
+To scroll through webpages and apps, dwell on the
+Scroll
+button on the launchpad. Then position your eyes on the screen where you want the cursor to be placed. You can then dwell on the up, down, left, or right buttons to scroll in that direction. The longer you dwell on any of these buttons, the more quickly you'll scroll.
+To cancel a scroll interaction after selecting it, look off-screen to return to the launchpad.
+Type using the eye control keyboard
+To open and type on the keyboard, first move the cursor to an editable text field, dwell on the
+keyboard
+button on the launchpad, and then dwell on the characters you want to type.
+The eye control keyboard has buttons that let you reposition the keyboard and delete words and characters. It also has a key to toggle shape writing, and a spacebar key.
+As you dwell on each letter, text suggestions appear at the top of the keyboard. Dwell on a word to select it.
+To type numbers and symbols, select the
+&123
+key. To type other keys, select the
+Fn
+key.
+Note
+Eye control only supports US English keyboard layout.
+Use shape writing
+Type words faster with shape writing. Shape writing lets you form words by dwelling on the first and last letter of a word, glancing at letters in between, and then dwelling on the last letter. If the prediction isn't right, you can select another prediction.
+To turn on shape writing, dwell on the
+Eye control settings
+button on the launchpad. Then dwell on the
+Shape writing
+toggle to turn it on. When shape writing is turned on, you can toggle it on and off with the shape writing button on the keyboard.
+Change eye control settings
+Eye control has different settings to help suit your needs. To change them, dwell on the
+Eye control settings
+button on the launchpad. You can change the following settings:
+Typing dwell time
+. Set the dwell time for letters, numbers, and symbols.
+General dwell time.
+Set the dwell time for function keys, word predictions, and mouse cursor controls.
+Shape writing
+. Turn shape writing on and off.
+Gaze cursor
+. Turn on a cursor that shows where your eyes are pointing when dwelling on eye control features like the launchpad.
+Talk to people around you with text-to-speech
+The text-to-speech (TTS) feature allows you to use the computer to talk for you. You type the words or sentences you want, and then use the computer to read it aloud.
+Note
+The TTS feature in the launchpad fully supports the US English keyboard only. If your computer is using a non-supported keyboard, the TTS feature shows the US English keyboard.
+Type and play a sentence
+On the eye control launchpad, dwell on the
+Text-to-speech
+button to open the TTS window.
+Type the sentence you want to say by dwelling on the letters in the keyboard at the bottom of the window. The sentence you write is shown in the input field above the keyboard.
+To play the sentence, dwell on the
+Play
+button on the left side of the input field.
+The sentence you type is automatically stored for later use. To access the sentences you typed earlier, dwell on the
+Up
+or
+Down
+buttons on the right side of the input field.
+Note
+If you need to dwell on a button twice in a row (to move multiple steps in the list of stored sentences), dwell on the button until it activates, then quickly look away and dwell on it again. If you continue to dwell on the same button even after it activates, it will not activate again.
+To close the TTS window, dwell on the
+X
+button at the top-right corner of the window.
+Play and edit quick phrases
+The quick phrases are predetermined phrases (such as "Yes" or "Hello") displayed at the top of the TTS window.
+To use a quick phrase, dwell on it. The computer reads it aloud immediately.
+To edit your collection of quick phrases:
+Dwell on the
+Edit
+button at the top-left corner of the window. The edit mode activates and the button turns blue.
+Dwell on the quick phrase you want to modify. The selected quick phrase is shown in the input field in the middle of the window.
+Use the keyboard at the bottom of the window to modify the quick phrase.
+Note
+If you need to dwell on a button twice in a row (for example, to remove letters), dwell on the button until it activates, then quickly look away and dwell on it again. If you continue to dwell on the same button even after it activates, it will not activate again.
+To test how the phrase sounds, dwell on the
+Play
+button on the left side of the input field.
+To save the changes and deactivate the edit mode, dwell on the
+Edit
+button at the top-left corner of the window. The button turns gray.
+Send and read email with Mail for Windows
+Create and send an email
+You can easily write and send email from Mail for Windows using an eye tracker.
+On the launchpad, dwell on the
+Left-click
+button until it activates, and then position your eyes on the
+New mail
+button or the + symbol at the top left of the screen. The message pane appears on the right side.
+Define the email recipients, subject, and message body:
+On the launchpad, dwell on the
+Left-click
+button until it activates, and then position your eyes on the field you want to type text into.
+Tip
+If you encounter difficulty clicking on the correct field or button, use the Precise mouse to control the mouse with more precision. Dwell on the
+Precise mouse
+button on the launchpad, then position your eyes on the screen where you want the cursor to be placed. You can then fine-tune the position by dwelling on the
+Left-click
+action to the bottom left of the Precise mouse cursor.
+To enter text, activate the keyboard. On the launchpad, dwell on the
+Eye control keyboard
+button until it activates. Type by dwelling on the letters in the keyboard at the bottom of the screen.
+To close the keyboard, dwell on the
+X
+at the top right of the keyboard on the screen.
+When you're ready to send the email, on the launchpad, dwell on the
+Left-click
+button until it activates, and then position your eyes on the
+Send
+button at the top right of the screen.
+Read and respond to an email
+You can read and respond to email using an eye tracker.
+To scroll through the message list:
+On the launchpad, dwell on the
+Scroll
+button, then position your eyes on the message list. The scroll cursor appears.
+Dwell on the up and down arrows on the cursor to scroll the message list in that direction.
+To close the scroll cursor, dwell on the
+X
+at the top right of the cursor.
+To open an email:
+On the launchpad, dwell on the
+Left-click
+button until it activates.
+Position your eyes on the email you want to read. The email opens in the reading pane.
+To scroll through the email:
+On the launchpad, dwell on the
+Scroll
+button, then position your eyes on the email message body.
+Dwell on the up and down arrows on the cursor to scroll the screen in that direction.
+To close the scroll cursor, dwell on the
+X
+at the top right of the cursor.
+To reply to the email:
+On the launchpad, dwell on the
+Left-click
+button until it activates.
+Position your eyes on the
+Reply
+button at the top of the screen.
+Tip
+If you need to click on something near the bottom or top of the screen, you can use the launchpad
+Reposition
+button to move the launchpad to the bottom or top. This reduces the distance you have to move your gaze after dwelling on the
+Left-click
+or
+Right-click
+buttons.
+Browse the web with Microsoft Edge
+To browse the web using an eye tracker:
+On the launchpad, dwell on the
+Left-click
+button until it activates, and then position your eyes on the address field in your browser.
+On the launchpad, dwell on the
+Keyboard
+button until it activates, and then enter the URL of the website using the eye control keyboard.
+To scroll on a website:
+On the launchpad, dwell on the
+Scroll
+button, then position your eyes on website body. The scroll cursor appears.
+Dwell on the up and down arrows on the cursor to scroll the screen in that direction.
+To close the scroll cursor, dwell on the
+X
+at the top right of the cursor.
+To click on a link on a website, on the launchpad, dwell on the
+Left-click
+button until it activates, and then position your eyes on the link you want to click.
+Tip
+If you're having trouble clicking on a link, try using the Precise mouse mode in the eye control launcher. Dwell on the
+Precise mouse
+button on the launcher, then position your eyes on the link you want to click. The precise mouse cursor appears in the position you were looking at. If necessary, you can dwell on the
+Arrow
+buttons to fine tune the location of the crosshairs over the link. Then dwell on the
+Left-click
+button on the cursor to click on the link.
+If you can make use of the device keyboard in some capacity and are using the Tobii Eye Tracking software, you can make clicking on links easier by enabling the Warp on key functionality. To enable it:
+Open Tobii Eye Tracking, go to
+Interactions
+>
+Mouse
+.
+Click
+Warp on key
+and select which keyboard key you want to use.
+Enable the
+Perform a click when releasing key
+checkbox.
+Now position your eyes on a link or other control and press the selected key to move the cursor to that location and click on it.
+Quick tips for browsing the web
+On some websites, the launchpad or eye control keyboard can cover links or parts of the user interface. To resolve this, either scroll the web page or dwell on the
+Reposition
+button on the launchpad to move it to the opposite side of the screen.
+To make it easier to click on links on a website, you can use the zoom command in Microsoft Edge. Open the eye control keyboard and dwell on the
+&123
+key to access numbers and special characters. Then dwell on the
+Ctrl
+key to activate it, and finally dwell on the + (plus) key to zoom in. To zoom back out, dwell on the
+Ctrl
+key to activate it, then dwell on the - (minus) key.
+Be careful when entering a password for a website using the eye control keyboard, since you cannot see the characters you have entered. For more information, see the
+Eye control troubleshooting guide
+.
+More info about eye control
+Get started with eye control in Windows
+Eye control troubleshooting guide
+Setting up eye control for the first time? See
+Get started with eye control in Windows
+for help with that. And if you have any issues, see
+Eye control troubleshooting
+for extra support.
+General info
+Turn on eye control
+Go to
+Settings
+>
+Ease of Access
+>
+Interaction
+>
+Eye control
+, and enable the
+Use eye control
+option. When you turn on eye control, the launchpad appears on the screen.
+Use the launchpad
+To select a button on the launchpad, rest—or dwell—your eyes on it until it activates. Dwelling is the act of fixing your eyes on part of the screen, and keeping your eyes there for a specific amount of time. The amount of time is called dwell time.
+Launchpad buttons let you:
+Move the launchpad to the top or bottom of the screen.
+Control the mouse cursor, including buttons to select the left and right mouse buttons.
+Control the mouse scroll wheel to move through a webpage or app.
+Type using the eye control keyboard.
+Use eye control text-to-speech (TTS) to type words on the screen and have them read aloud.
+Quickly access Start, Task view, eye tracker device calibration, and eye control settings.
+Pause eye control if you're doing something like watching a movie and don't want your eye movements to accidentally select buttons on the launchpad.
+Control the mouse
+To control the mouse with precision, dwell on the
+Precise mouse
+button on the launchpad. Then position your eyes on the screen where you want the cursor to be placed.
+The eye control mouse lets you fine-tune the position of the mouse curser and then right-click, left-click, or double-click the mouse.
+You can also control the mouse more directly by dwelling on the
+Left-click
+or
+Right-click
+buttons on the launchpad and then positioning your eyes on the screen where you want the mouse action to occur.
+To cancel a mouse interaction after selecting it, look off-screen to return to the launchpad.
+Scroll through webpages and apps
+To scroll through webpages and apps, dwell on the
+Scroll
+button on the launchpad. Then position your eyes on the screen where you want the cursor to be placed. You can then dwell on the up, down, left, or right buttons to scroll in that direction. The longer you dwell on any of these buttons, the more quickly you'll scroll.
+To cancel a scroll interaction after selecting it, look off-screen to return to the launchpad.
+Type using the eye control keyboard
+To open and type on the keyboard, first move the cursor to an editable text field, dwell on the
+keyboard
+button on the launchpad, and then dwell on the characters you want to type.
+The eye control keyboard has buttons that let you reposition the keyboard and delete words and characters. It also has a key to toggle shape writing, and a spacebar key.
+As you dwell on each letter, text suggestions appear at the top of the keyboard. Dwell on a word to select it.
+To type numbers and symbols, select the
+&123
+key. To type other keys, select the
+Fn
+key.
+Note
+Eye control only supports US English keyboard layout.
+Use shape writing
+Type words faster with shape writing. Shape writing lets you form words by dwelling on the first and last letter of a word, glancing at letters in between, and then dwelling on the last letter. If the prediction isn't right, you can select another prediction.
+To turn on shape writing, dwell on the
+Eye control settings
+button on the launchpad. Then dwell on the
+Shape writing
+toggle to turn it on. When shape writing is turned on, you can toggle it on and off with the shape writing button on the keyboard.
+Change eye control settings
+Eye control has different settings to help suit your needs. To change them, dwell on the
+Eye control settings
+button on the launchpad. You can change the following settings:
+Typing dwell time
+. Set the dwell time for letters, numbers, and symbols.
+General dwell time.
+Set the dwell time for function keys, word predictions, and mouse cursor controls.
+Shape writing
+. Turn shape writing on and off.
+Gaze cursor
+. Turn on a cursor that shows where your eyes are pointing when dwelling on eye control features like the launchpad.
+Talk to people around you with text-to-speech
+The text-to-speech (TTS) feature allows you to use the computer to talk for you. You type the words or sentences you want, and then use the computer to read it aloud.
+Note
+The TTS feature in the launchpad fully supports the US English keyboard only. If your computer is using a non-supported keyboard, the TTS feature shows the US English keyboard.
+Type and play a sentence
+On the eye control launchpad, dwell on the
+Text-to-speech
+button to open the TTS window.
+Type the sentence you want to say by dwelling on the letters in the keyboard at the bottom of the window. The sentence you write is shown in the input field above the keyboard.
+To play the sentence, dwell on the
+Play
+button on the left side of the input field.
+The sentence you type is automatically stored for later use. To access the sentences you typed earlier, dwell on the
+Up
+or
+Down
+buttons on the right side of the input field.
+Note
+If you need to dwell on a button twice in a row (to move multiple steps in the list of stored sentences), dwell on the button until it activates, then quickly look away and dwell on it again. If you continue to dwell on the same button even after it activates, it will not activate again.
+To close the TTS window, dwell on the
+X
+button at the top-right corner of the window.
+Play and edit quick phrases
+The quick phrases are predetermined phrases (such as "Yes" or "Hello") displayed at the top of the TTS window.
+To use a quick phrase, dwell on it. The computer reads it aloud immediately.
+To edit your collection of quick phrases:
+Dwell on the
+Edit
+button at the top-left corner of the window. The edit mode activates and the button turns blue.
+Dwell on the quick phrase you want to modify. The selected quick phrase is shown in the input field in the middle of the window.
+Use the keyboard at the bottom of the window to modify the quick phrase.
+Note
+If you need to dwell on a button twice in a row (for example, to remove letters), dwell on the button until it activates, then quickly look away and dwell on it again. If you continue to dwell on the same button even after it activates, it will not activate again.
+To test how the phrase sounds, dwell on the
+Play
+button on the left side of the input field.
+To save the changes and deactivate the edit mode, dwell on the
+Edit
+button at the top-left corner of the window. The button turns gray.
+Send and read email with Mail for Windows 10
+Create and send an email
+You can easily write and send email from Mail for Windows 10 using an eye tracker.
+On the launchpad, dwell on the
+Left-click
+button until it activates, and then position your eyes on the
+New mail
+button or the + symbol at the top left of the screen. The message pane appears on the right side.
+Define the email recipients, subject, and message body:
+On the launchpad, dwell on the
+Left-click
+button until it activates, and then position your eyes on the field you want to type text into.
+Tip
+If you encounter difficulty clicking on the correct field or button, use the Precise mouse to control the mouse with more precision. Dwell on the
+Precise mouse
+button on the launchpad, then position your eyes on the screen where you want the cursor to be placed. You can then fine-tune the position by dwelling on the
+Left-click
+action to the bottom left of the Precise mouse cursor.
+To enter text, activate the keyboard. On the launchpad, dwell on the
+Eye control keyboard
+button until it activates. Type by dwelling on the letters in the keyboard at the bottom of the screen.
+To close the keyboard, dwell on the
+X
+at the top right of the keyboard on the screen.
+When you're ready to send the email, on the launchpad, dwell on the
+Left-click
+button until it activates, and then position your eyes on the
+Send
+button at the top right of the screen.
+Read and respond to an email
+You can read and respond to email using an eye tracker.
+To scroll through the message list:
+On the launchpad, dwell on the
+Scroll
+button, then position your eyes on the message list. The scroll cursor appears.
+Dwell on the up and down arrows on the cursor to scroll the message list in that direction.
+To close the scroll cursor, dwell on the
+X
+at the top right of the cursor.
+To open an email:
+On the launchpad, dwell on the
+Left-click
+button until it activates.
+Position your eyes on the email you want to read. The email opens in the reading pane.
+To scroll through the email:
+On the launchpad, dwell on the
+Scroll
+button, then position your eyes on the email message body.
+Dwell on the up and down arrows on the cursor to scroll the screen in that direction.
+To close the scroll cursor, dwell on the
+X
+at the top right of the cursor.
+To reply to the email:
+On the launchpad, dwell on the
+Left-click
+button until it activates.
+Position your eyes on the
+Reply
+button at the top of the screen.
+Tip
+If you need to click on something near the bottom or top of the screen, you can use the launchpad
+Reposition
+button to move the launchpad to the bottom or top. This reduces the distance you have to move your gaze after dwelling on the
+Left-click
+or
+Right-click
+buttons.
+Browse the web with Microsoft Edge
+To browse the web using an eye tracker:
+On the launchpad, dwell on the
+Left-click
+button until it activates, and then position your eyes on the address field in your browser.
+On the launchpad, dwell on the
+Keyboard
+button until it activates, and then enter the URL of the website using the eye control keyboard.
+To scroll on a website:
+On the launchpad, dwell on the
+Scroll
+button, then position your eyes on website body. The scroll cursor appears.
+Dwell on the up and down arrows on the cursor to scroll the screen in that direction.
+To close the scroll cursor, dwell on the
+X
+at the top right of the cursor.
+To click on a link on a website, on the launchpad, dwell on the
+Left-click
+button until it activates, and then position your eyes on the link you want to click.
+Tip
+If you're having trouble clicking on a link, try using the Precise mouse mode in the eye control launcher. Dwell on the
+Precise mouse
+button on the launcher, then position your eyes on the link you want to click. The precise mouse cursor appears in the position you were looking at. If necessary, you can dwell on the
+Arrow
+buttons to fine tune the location of the crosshairs over the link. Then dwell on the
+Left-click
+button on the cursor to click on the link.
+If you can make use of the device keyboard in some capacity and are using the Tobii Eye Tracking software, you can make clicking on links easier by enabling the Warp on key functionality. To enable it:
+Open Tobii Eye Tracking, go to
+Interactions
+>
+Mouse
+.
+Click
+Warp on key
+and select which keyboard key you want to use.
+Enable the
+Perform a click when releasing key
+checkbox.
+Now position your eyes on a link or other control and press the selected key to move the cursor to that location and click on it.
+Quick tips for browsing the web
+On some websites, the launchpad or eye control keyboard can cover links or parts of the user interface. To resolve this, either scroll the web page or dwell on the
+Reposition
+button on the launchpad to move it to the opposite side of the screen.
+To make it easier to click on links on a website, you can use the zoom command in Microsoft Edge. Open the eye control keyboard and dwell on the
+&123
+key to access numbers and special characters. Then dwell on the
+Ctrl
+key to activate it, and finally dwell on the + (plus) key to zoom in. To zoom back out, dwell on the
+Ctrl
+key to activate it, then dwell on the - (minus) key.
+Be careful when entering a password for a website using the eye control keyboard, since you cannot see the characters you have entered. For more information, see the
+Eye control troubleshooting guide
+.
+More info about eye control
+Get started with eye control in Windows
+Eye Control Troubleshooting Guide

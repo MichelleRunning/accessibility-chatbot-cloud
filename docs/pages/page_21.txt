@@ -1,0 +1,108 @@
+URL: https://support.microsoft.com/en-us/accessibility/windows/change-color-contrast-in-windows
+Change color contrast in Windows
+Applies To
+Windows 10
+Windows 11
+Get help with Copilot
+How can I turn contrast the mes on or off?
+Tell me about adjust the brightness, sharpness
+How can I make own high contrast theme?
+This article explains how to turn on high contrast mode and how to make your own high contrast theme.
+Text with low contrast can be difficult to read for people with low vision. There are websites that have, for example, poor color combinations such as blue links on black backgrounds. They aren't easy to read even for people with unimpaired vision and can be virtually impossible for people with vision disabilities. Strongly contrasting colors can make it quicker and easier to read from your PC.
+Windows 11
+Windows 10
+Turn contrast themes on or off
+Select the
+Start
+button, and then select
+Settings
+>
+Accessibility
+>
+Contrast themes
+.
+To turn on contrast themes, select the theme you want from the
+Contrast themes
+drop-down menu, and then select the
+Apply
+button. Windows may display a "Please wait" screen for a few seconds, after which the colors on the screen change.
+To turn off contrast themes, select the
+None
+option from the
+Contrast themes
+drop-down menu, and then select the
+Apply
+button. Windows may again display a "Please wait" screen for a few seconds, after which the colors on the screen change back to default.
+Tip
+Press the left Alt key + left Shift key + Print screen (Print Scrn on some keyboards) to quickly turn high contrast mode on or off.
+Make your own high contrast theme
+If none of the default themes work perfectly for you, you can further customize the colors of various screen elements. For example, if you have some form of color blindness, you can swap out the affected colors.
+After selecting a theme, select the
+Edit
+button under the
+Contrast themes
+drop-down menu. You can modify the color of the following screen elements:
+Background
+: the background of nearly all text you see in Windows or on a web page, for example.
+Text
+: nearly all text you see in Windows or on a web page, for example.
+Hyperlinks
+: all hyperlinks you see in Windows or on a web page, for example.
+Inactive Text
+: text that would normally be grayed out, for example, when you cannot select a specific option or button.
+Selected Text
+: any selected menu item or option. For example, the alignment of the currently selected paragraph in Word is indicated with this color on the tool ribbon.
+Button Text
+: text on any buttons that contain text.
+Select a new color by clicking on the color picker palette, adjust the selected color's brightness using the slider under the palette, and select
+Done
+.
+To save any color changes you have made to the theme, select
+Save as
+and type a name for your custom theme. Then select
+Save and apply
+.
+Turn high contrast mode on or off
+Select the
+Start
+button, and then select
+Settings
+>
+Ease of Access
+>
+High contrast
+.
+To turn on high contrast mode, select the toggle button under
+Turn on high contrast
+. Windows may display a "Please wait" screen for a few seconds, after which the colors on the screen change.
+Select the theme that works best for you from the
+Choose a theme
+dropdown menu.
+To turn off high contrast mode, select the
+Turn on high contrast
+toggle button again. Windows may again display a "Please wait" screen for a few seconds, after which the colors on the screen change back to default.
+Tip
+Press the left Alt key + left Shift key + Print screen (Print Scrn on some keyboards) to quickly turn high contrast mode on or off.
+Make your own high contrast theme
+If none of the default themes work perfectly for you, you can further customize the colors of various screen elements. For example, if you have some form of color blindness, you can swap out the affected colors.
+After selecting a theme, select one of the colored rectangles under the
+Choose a theme
+dropdown menu. You can modify the color of the following screen elements:
+Text
+: nearly all text you see in Windows or on a web page, for example.
+Hyperlinks
+: all hyperlinks you see in Windows or on a web page, for example.
+Disabled Text
+: text that would normally be grayed out, for example, when you cannot select a specific option or button.
+Selected Text
+: any selected menu item or option. For example, the alignment of the currently selected paragraph in Word is indicated with this color on the tool ribbon.
+Button Text
+: text on any buttons that contain text.
+Background
+: the background of nearly all text you see in Windows or on a web page, for example.
+Select a new color by clicking on the color picker palette, adjust the selected color's brightness using the slider under the palette, and select
+Done
+.
+To save any color changes you have made to the theme, select
+Apply
+.

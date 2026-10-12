@@ -1,0 +1,129 @@
+URL: https://support.microsoft.com/en-us/accessibility/windows/make-windows-easier-to-hear
+Make Windows easier to hear
+Applies To
+Windows 10
+Windows 11
+Get help with Copilot
+How can I make notifications stick around longer?
+Explain how to use text or visual alternative to sounds.
+How do I make Windows easier to hear?
+If you have difficulty hearing your PC, Windows can help.
+Windows 11
+Windows 10
+Hear all sounds in one channel
+Windows lets you convert stereo sound into a single channel so you can hear everything, even if you're using just one headphone. Select the
+Start
+button, then select
+Settings
+>
+Accessibility
+>
+Audio
+, and then switch on the
+Mono audio
+toggle.
+Display audio alerts visually
+If you have trouble hearing audio alerts, you can have your PC display them visually. Select the
+Start
+button, then select
+Settings
+>
+Accessibility
+>
+Audio
+.
+Under
+Flash my screen during audio notifications
+, choose how you want audio alerts displayed. You can choose to have the title bar of the active window, the active window, or the entire screen flash when a notification arrives, instead of relying on sound alone.
+Make notifications stick around longer
+By default, Windows notifications disappear five seconds after they appear. If you want more time to read them, you can increase how long they're displayed.
+Select the
+Start
+button, then select
+Settings
+>
+Accessibility
+>
+Visual effects
+. Then, under
+Dismiss notifications after this amount of time
+, choose the amount of time you want.
+Captions
+If you have trouble hearing audio while playing videos, you can have your PC display them visually. Select the
+Start
+button, then select
+Settings
+>
+Accessibility
+>
+Captions
+. Then switch on the
+Live captions
+toggle.
+Alternatively select the
+Windows
+logo
+key+
+Ctrl
++
+L
+to turn on the live captions.
+Windows lets you customize things like the color, size, and background of closed captions. Select the
+Start
+button, then select
+Settings
+>
+Accessibility
+>
+Captions
+. Then, under
+Caption style
+, choose how you want captions to be displayed.
+Hear all sounds in one channel
+Windows lets you convert stereo sound into a single channel so you can hear everything, even if you're using just one headphone. Select the
+Start
+button, then select
+Settings
+>
+Ease of Access
+>
+Audio
+, and then switch on the toggle under
+Turn on mono audio
+.
+Display audio alerts visually
+If you have trouble hearing audio alerts, you can have your PC display them visually. Select the
+Start
+button, then select
+Settings
+>
+Ease of Access
+>
+Audio
+.
+Under
+Show audio alerts visually
+, choose how you want audio alerts displayed. You can choose to have the title bar of the active window, the active window, or the entire screen flash when a notification arrives, instead of relying on sound alone.
+Make notifications stick around longer
+By default, Windows notifications disappear five seconds after they appear. If you want more time to read them, you can increase how long they're displayed.
+Select the
+Start
+button, then select
+Settings
+>
+Ease of Access
+>
+Display
+. Then, under
+Show notifications for
+, choose the amount of time you want.
+Closed captions
+Windows lets you customize things like the color, size, and background of closed captions. Select the
+Start
+button, then select
+Settings
+>
+Ease of Access
+>
+Closed captions
+, and then choose how you want captions to be displayed.

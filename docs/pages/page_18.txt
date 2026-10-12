@@ -1,0 +1,707 @@
+URL: https://support.microsoft.com/en-us/accessibility/onenote/basic-tasks-using-a-screen-reader-with-onenote
+Basic tasks using a screen reader with OneNote
+Applies To
+OneNote for Microsoft 365
+OneNote for Microsoft 365 for Mac
+OneNote 2024
+OneNote 2024 for Mac
+OneNote 2021
+OneNote 2021 for Mac
+OneNote 2016
+OneNote for Mac
+This article is for people who use a screen reader program such as Windows Narrator, JAWS, or NVDA with Windows tools or features and Microsoft 365 products. This article is part of the
+Accessibility help & learning
+content set where you can find more accessibility information on our apps. For general help, visit
+Microsoft Support
+.
+Windows
+macOS
+iOS
+Android
+Windows 10 app
+Web
+Use OneNote with your keyboard and a screen reader to perform basic tasks, such as opening a notebook, adding pages and sections, and typing text. We have tested it with Narrator, JAWS, and NVDA, but it might work with other screen readers as long as they follow common accessibility standards and techniques. You'll also learn how to add formatting to your text, check spelling, or print pages.
+Note
+New Microsoft 365 features are released gradually to Microsoft 365 subscribers, so your app might not have these features yet. To learn how you can get new features faster,
+join the Office Insider program
+.
+To learn more about screen readers, go to
+How screen readers work with Microsoft 365
+.
+For information on the differences between the app versions, go to
+What's the difference between the OneNote versions?
+In this topic
+Open OneNote
+Open a notebook
+Create a section
+Add a page
+Add text
+Edit text
+Print a page
+Open OneNote
+To open OneNote, press the Windows logo key+Shift+N.
+Sign in to OneNote
+After opening OneNote, you might need to sign in.
+To go to
+Account
+menu, press Alt+F, D. You hear: “Account.”
+To sign into your account, press S.
+Type in your email or phone number, and press Enter. With Narrator, you hear: “Sign in PIN. Password, editing text.” With JAWS and NVDA, you hear: “Password, edit. Type in text.”
+Type in your password, and press Enter.
+Open a notebook
+In OneNote, press Ctrl+G to open the notebook navigation.
+Press the Up or Down arrow key until you hear the name of the notebook you want, and then press Enter.
+Tip
+To create a new notebook, in the notebook navigation, press Shift+Tab until you hear “Add Notebook button,” and then press Enter.
+Create a section
+In a notebook, to create a new section, press Ctrl+T. The section is created, and the cursor is placed on the new section name text field.
+Type a name for the new section, and then press Enter. The section is named, and the cursor moves to the page title text field.
+Add a page
+To navigate to the section where you want to add a new page, press Ctrl+Shift+G, press the Right or Left arrow key until you hear the name of the section you want, and then press Enter.
+To add a page at the end of the section, press Ctrl+N. A new page is created, and the cursor is placed in the page title text field.
+Type a title for the new page.
+Add text
+Navigate to the section where you want to add text.
+In the section, press Ctrl+Alt+G to open the page navigation.
+Press the Up or Down arrow key until you hear the title of the page you want, and then press Enter. The focus moves to the page title text field.
+To move the focus to the content area, press the Tab key once. You hear: "Content block."
+To add text, start typing.
+Edit text
+Formatted text contains more information and is often easier to read than plain text. The following tasks explain how you can use the basic text formatting options in OneNote, how to correct misspellings in your text, and which keyboard commands to use for some basic text editing tasks.
+Format text
+In OneNote, select the piece of text you want to format.
+Press Alt+H to move the focus to the
+Home
+tab. You hear: "Ribbon tabs, Home tab item."
+To select a formatting option, press the Down arrow key once, and then press the Tab key to browse the available options. To expand a menu, press Alt+Down arrow key. To select, press Spacebar. You can also use the following keyboard shortcuts to quickly apply formatting to your text:
+To increase size, press Ctrl+Shift+Left angle bracket (<).
+To decrease size, press Ctrl+Shift+Right angle bracket (>).
+To apply bold formatting to the text, press Ctrl+B.
+To apply italic formatting to the text, press Ctrl+I.
+To apply underlined text, press Ctrl+U.
+To highlight the text in yellow, press Ctrl+Shift+H.
+To apply superscript formatting, press Ctrl+Shift+Equal sign ( = ).
+To right align your text, press Ctrl+R.
+To left align your text, press Ctrl+L.
+Tip
+To clear all formatting in a selected part of text, press Ctrl+Shift+N.
+Undo or redo an action
+To undo an action, press Ctrl+Z.
+To redo an action, press Ctrl+Y.
+Copy and paste content
+In OneNote, select the piece of content you want to copy.
+To copy, press Ctrl+C.
+To paste the copied content, press Ctrl+V.
+Correct spelling and grammar mistakes
+In OneNote, press F7 or Alt+R, S to open the
+Proofing
+pane. You hear the misspelled or grammatically incorrect word.
+Note
+To hear the word in the original sentence, press the Down arrow key until you hear "Read original sentence," and then press Enter.
+Use the Up and Down arrow keys to browse the suggestions on how to correct the mistake. Your screen reader announces the suggestions as you move.
+To select an option, press Enter. The word is corrected, and the focus moves to the next misspelled or grammatically incorrect word, if any.
+When the spelling and grammar check has reached the end of the page, you hear: “The spelling check is complete.” Press Enter. The
+Proofing
+pane closes, and the focus returns to the page content area.
+Print a page
+On the page you want to print, press Ctrl+P. The
+Print
+dialog box opens, and you hear the current printer option.
+To change the printer, press the arrow keys until you hear the name of the printer you want.
+Tip
+To change the printing settings, such as two-sided printing or printing layout or orientation, press Alt+R to open the
+Printing Preferences
+dialog box. Press the Tab key and the arrow keys to browse the options, and then press Enter to select.
+To start printing, press Alt+P. If you selected a printer device, the paper copies are printed out.
+If you selected printing to a file, the
+Save Print Output As
+dialog box opens. The cursor is placed in the
+File name
+field. Type a file name for the print output. Then navigate to the folder where you want to save the file. To print the page to a file, press Alt+S.
+See also
+Use a screen reader to read pages in OneNote
+Use a screen reader to insert content to notebooks in OneNote
+Use a screen reader to share and collaborate on notebooks in OneNote
+Keyboard shortcuts in OneNote
+Set up your device to work with accessibility in Microsoft 365
+Use a screen reader to explore and navigate OneNote
+Use OneNote for Mac with VoiceOver, the built-in macOS screen reader, to perform basic tasks, such as opening a notebook, adding pages and sections, and typing text. You'll also learn how to add formatting to your text, check the spelling, or print pages.
+OneNote for Mac has been especially designed for people who use screen readers. With its new look and feel, you can navigate through notebooks, sections, and pages more easily and effectively.
+Note
+New Microsoft 365 features are released gradually to Microsoft 365 subscribers, so your app might not have these features yet. To learn how you can get new features faster,
+join the Office Insider program
+.
+This topic assumes that you are using the built-in macOS screen reader, VoiceOver. To learn more about using VoiceOver, go to
+VoiceOver Getting Started Guide
+.
+In this topic
+Open OneNote for Mac
+Open a notebook
+Create a section
+Add a page
+Add text
+Edit text
+Print a page
+Open OneNote for Mac
+On your Mac, press Command+Shift+A to open the
+Applications
+view in Finder.
+Type M to go straight to the applications that start with an "M."
+Press the Tab key until you hear: “Microsoft, OneNote application.”
+To open OneNote, press Command+Down arrow key.
+If you need to sign in, type your email address or phone number as prompted, and then press Return. You hear: “Password, secure edit text." Then type your password, and press Return. You hear: “Start using OneNote button.” Press Control+Option+Spacebar.
+Note
+Depending on the account type you're using, the sign-in steps might be slightly different. For example, you might need to use a PIN or smartcard.
+Open a notebook
+In OneNote, press Control+G to open the notebook navigation.
+To move between notebooks, press Control+Option+Shift+Down arrow key to enter the list of notebooks. Then press Control+Option+Left or Right arrow key to move inside the list.
+To select and open a notebook, press Control+Option+Spacebar.
+Tip
+To create a new notebook, press Control+Command+N.
+Create a section
+In a notebook, to create a new section, press Command+T. A new section is added to the list of sections. The focus is on the section title text field.
+Type a name for the new section, and then press Return.
+Add a page
+To move to the section where you want to add the page, press Control+Shift+G. Press the Up or Down arrow key until you hear the section you want, and then press Return.
+Note
+If the section where you want to add a page is located inside a section group, press Spacebar to expand the section group. Then use the Up or Down arrow key to navigate to the right section.
+To add a page, press Command+N. A new untitled page is created. The focus moves to the page title field.
+Type a title for the new page.
+If you want to start adding content straight away, press Return. The focus moves to the content area of the page. You can now add content to your page.
+Add text
+To navigate to the page where you want to add text, press Control+Command+G. The focus moves to the list pages. Press the Up or Down arrow key until you hear the title of the page you want.
+To move the focus to the editable content area of the page, press Return twice. You hear: "Content block, edit text."
+To add text, start typing.
+Edit text
+Formatted text contains more information and is often easier to read than plain text. The following tasks explain how you can use the basic text formatting options in OneNote, how to correct misspellings in your text, and which keyboard shortcuts to use to format your text quickly.
+Format text
+In OneNote, select the piece of text you want to format. To select text, hold down Shift and use the arrow keys to move the cursor.
+To go to the menu bar, press Control+Option+M.
+Press the Right arrow key until you hear: "Format."
+Press the Down arrow key until you hear the option you want, and then press Control+Option+Spacebar. The focus moves back to the content block. You can also use the following keyboard shortcuts to quickly format the selected piece of text:
+To apply bold formatting, press Command+B.
+To apply italic formatting, press Command+I.
+To apply underline formatting, press Command+U.
+To align your text to the left, press Command+L.
+To align your text to the right, press Command+R.
+To clear all formatting in the selected piece of text, in the menu bar, press the Right arrow key until you hear "Edit," and then press Control+Option+Spacebar. Press the Down arrow key until you hear "Clear All Formatting," and then press Control+Option+Spacebar.
+Undo or redo an action
+To undo an action, press Command+Z.
+To redo an action, press Command+Y.
+Copy and paste content
+In OneNote, select the piece of content you want to copy.
+To copy, press Command+C.
+To paste the copied content, press Command+V.
+Correct spelling mistakes
+To check spelling on an entire page, press Shift+Command+L to open the
+Spelling
+pane. The focus moves to the pane, and VoiceOver announces the first misspelled word.
+In the
+Spelling
+pane, do one of the following:
+To use one of the spelling suggestions to correct the misspelled word, press the Tab key until you hear "Word suggestions table," and then use the Up or Down arrow key to browse the spelling suggestions. When on a suggestion you want to use, press the Tab key once. You hear: “Change button.” Press Control+Option+Spacebar. The misspelled word is corrected, and the focus moves to the next misspelled word, if any.
+To skip the announced word and move on to the next one, press the Tab key until you hear "Ignore button," and press Control+Option+Spacebar.
+To add the announced text to the dictionary so that OneNote doesn’t detect the word as an error in the future, press the Tab key until you hear "Add button," and press Control+Option+Spacebar.
+When the check is complete, VoiceOver announces: “The spelling check is complete.” To close the
+Spelling
+pane and continue typing your notes, press Control+Option+Spacebar.
+Print a page
+On the page you want to print, press Command+P. The
+Print
+dialog box opens.
+To change the currently selected printer, press Control+Option+Right or Left arrow key until you hear the name of the current printer. Then press the Up or Down arrow key until you hear the printer you want, and press Control+Option+Spacebar to select.
+To set the number of copies to print, press Control+Option+Right or Left arrow key until you hear the currently selected number of copies, and then type the number you want.
+To change the print settings, such as
+Two-Sided printing
+, press the Tab key until you hear “Show details,” and then press Control+Option+Spacebar. To navigate the options, press the Tab key until you hear the option you want. To select, press Control+Option+Spacebar.
+To print, do one of the following:
+If you want to print paper copies and have a printer selected, press the Tab key until you hear “Print default button,” and then press Control+Option+Spacebar.
+If you want to print to a PDF, press the Tab key until you hear “PDF menu button,” and then press Control+Option+Spacebar. Press the Down arrow key until you hear "Save as PDF," and press Control+Option+Spacebar. A dialog box opens. The focus is on the file name text field. Name the file, and then navigate to the folder where you want to save the file. To save, press Command+S.
+See also
+Use a screen reader to read pages in OneNote
+Use a screen reader to insert content to notebooks in OneNote
+Use a screen reader to share and collaborate on notebooks in OneNote
+Keyboard shortcuts in OneNote
+Set up your device to work with accessibility in Microsoft 365
+Use a screen reader to explore and navigate OneNote
+Use OneNote for iOS with VoiceOver, the built-in iOS screen reader, to perform basic tasks, such as adding pages and sections, typing text, and correcting spelling errors.
+OneNote for iOS is especially designed for people who use screen readers. With its new look and feel, you can navigate through notebooks, sections, and pages more easily and effectively.
+Note
+New Microsoft 365 features are released gradually to Microsoft 365 subscribers, so your app might not have these features yet. To learn how you can get new features faster,
+join the Office Insider program
+.
+This topic assumes that you are using the built-in iOS screen reader, VoiceOver. To learn more about using VoiceOver, visit
+Apple accessibility
+.
+In this topic
+Open OneNote for iOS
+Add a page
+Create a section
+Add and edit text
+Format text
+Correct spelling mistakes
+Copy and paste content
+Open OneNote for iOS
+On the home screen of your phone, swipe left or right with one finger until you hear: "OneNote."
+To open the app, double-tap the screen. You land in the
+Notebooks
+view which lists your notebooks.
+Note
+If you need to sign in to OneNote, give your credentials when prompted.
+You can now open a notebook. For instructions on how to open a notebook in OneNote for iOS, refer to
+Use a screen reader to organize notebooks, sections, and pages in OneNote
+.
+Add a page
+Add a new unformatted page or a page with a list to start creating content in your notebook.
+Add an unformatted page
+Do one of the following:
+In the section where you want to add a new page, tap near the bottom of the screen with four fingers, swipe left until you hear "New page, button," and then double-tap the screen.
+If you're already editing a page and want to create another one, tap near the top of the screen with four fingers. You hear: "Back to page list." Double-tap the screen. Tap near the bottom of the screen with four fingers, swipe left until you hear "New page, button," and then double-tap the screen.
+You hear: "Untitled page." The focus is on the page title text field.
+Use the on-screen keyboard to type a page title.
+When you're done, tap near the bottom of the screen with four fingers, swipe left until you hear "Return," and double-tap the screen. The focus moves to the page canvas.
+Add a page with a list
+Do one of the following:
+In the section where you want to add a new page, tap near the bottom of the screen with four fingers, swipe left until you hear "New page with list, button," and then double-tap the screen.
+If you're already editing a page and want to create another one, tap near the top of the screen with four fingers. You hear: "Back to page list." Double-tap the screen. Tap near the bottom of the screen with four fingers, swipe left until you hear "New page with list, button," and then double-tap the screen.
+You hear: "Text field." The focus is on the text field for the first list item.
+Use the on-screen keyboard to type text for the list item.
+To add a new list item, tap near the bottom of the screen with four fingers, swipe left until you hear "Return," and then double-tap the screen. Type the list item text. Repeat this step for all list items you want to add.
+To add a title to the new page, tap near the top of the screen with four fingers, swipe right until you hear "Untitled list, heading," and double-tap the screen. Use the on-screen keyboard to type the title. Tap near the bottom of the screen with four fingers, swipe left until you hear "Done," and double-tap the screen.
+Create a section
+To organize your content or create a new block of notes in your notebook, create a new section.
+In the
+Sections
+list of your notebook, tap near the top of the screen with four fingers, swipe right until you hear "New section button," and then double-tap the screen. The focus moves to the section title text field.
+Use the on-screen keyboard to type the name for the new section.
+When you're done, tap near the bottom of the screen with four fingers, swipe left until you hear "Done," and then double-tap the screen.
+Add and edit text
+Type text or use predictive text input to quickly jot down notes or make edits in your text.
+Open the page where you want to add or edit text.
+On the page, swipe left or right until you hear: "Content block, text field." Double-tap the screen.
+Use the on-screen keyboard to type or edit text.
+When you are done, tap near the bottom of the screen with four fingers, swipe left until you hear "Return," and double-tap the screen.
+Format text
+To make your text easier to read, you can use the basic text formatting options in the quick actions menu bar. You can, for example, add bulleted and ordered lists and apply bold, italic, or underline formatting.
+Navigate to the content block where you want to edit text, and double-tap the screen. The content block is now selected, and the on-screen keyboard with the quick actions menu bar is displayed.
+Swipe right until you hear the formatting option you'd like to select, for example, "Bold button." Then double-tap the screen.
+Type the formatted text or list items as needed.
+Change the default font type or size
+Navigate to the
+Notebooks
+list as instructed in
+Use a screen reader to organize notebooks, sections, and pages in OneNote
+.
+Swipe left until you hear your username, followed by "Open your account settings," and then double-tap the screen.
+Swipe right until you hear "Settings button," and double-tap the screen. The
+Settings
+menu opens.
+Swipe right until you hear "Edit and view button," and then double-tap the screen.
+Do one or both of the following:
+To change the default font, swipe right until you hear "Default font," and then double-tap the screen. Swipe right or left until you find the font you want, and double-tap the screen. Swipe left until you hear "Edit and view, Back button," and double-tap the screen.
+To change the default font size, swipe right until you hear "Default size," and then swipe up or down to change the size by one point. Repeat this step until you've reached the size you want.
+To exit the
+Edit & View
+settings, tap near the top of the screen with four fingers. You hear: "Settings, Back button." Double-tap the screen. The focus returns to the
+Settings
+main menu.
+To exit the
+Settings
+menu, tap near the top of the screen with four fingers. You hear: "Close button." Double-tap the screen. The focus returns to the
+Notebooks
+list view.
+Correct spelling mistakes
+You can quickly spot and correct spelling errors in OneNote, and make sure your pages are ready to be shared with others. Turn on the spell checker and hear your screen reader announce spelling mistakes as you type or read content blocks.
+Turn on the spell checker
+Navigate to the
+Notebooks
+list as instructed in
+Use a screen reader to organize notebooks, sections, and pages in OneNote
+.
+Swipe left until you hear your username, followed by "Open your account settings," and then double-tap the screen.
+Swipe right until you hear "Settings button," and double-tap the screen. The
+Settings
+menu opens.
+Swipe right until you hear "Edit and view button," and then double-tap the screen.
+Swipe right until you hear: "Check spelling, switch button, off." If you hear "Check spelling, switch button, on," the spell checker is already on, and you can proceed to the next step. To turn on the spell checker, double-tap the screen.
+To exit the
+Edit & View
+settings, tap near the top of the screen with four fingers. You hear: "Settings, Back button." Double-tap the screen. The focus returns to the
+Settings
+main menu.
+To exit the
+Settings
+menu, tap near the top of the screen with four fingers. You hear: "Close button." Double-tap the screen. The focus returns to the
+Notebooks
+list view.
+Find and fix spelling mistakes
+When writing, the spell checker announces spelling errors as "Misspelled."
+Tip
+You can also turn the VoiceOver rotor to
+Words
+and swipe down in the content block to find misspelled words.
+Double-tap the screen with two fingers. The context menu opens.
+Swipe right until you hear "Select menu item," and double-tap the screen with one finger. The misspelled word is now selected.
+Swipe right until you hear "Show more items," and then double-tap the screen with one finger.
+Swipe left until you hear "Replace ellipses," and double-tap the screen with one finger. A list of correction suggestions opens.
+To browse the list, swipe left or right until you hear the correction you'd like to select, and then double-tap the screen with one finger.
+Tip
+To close the context menu, scrub the screen back and forth with two fingers.
+Copy and paste content
+If you need to move a piece of text or an image to another location, you can copy the text or image and paste it elsewhere.
+Do one of the following:
+If you want to copy and paste text, navigate to the content block you want, and double-tap the screen with two fingers. A context menu opens. To select the text, swipe left or right until you hear "Select" or "Select all," and double-tap the screen with one finger.
+If you want to copy and paste an image, navigate to the content block you want, and swipe left or right until you hear VoiceOver announce the image. Double-tap the screen with two fingers. A context menu opens.
+Swipe left or right until you hear "Copy," and double-tap the screen with one finger.
+Navigate to the location where you want to paste the copied content, and double-tap the screen with two fingers.
+Swipe left or right until you hear "Paste," and double-tap the screen with one finger.
+Tip
+To close the context menu, scrub the screen back and forth with two fingers.
+See also
+Use a screen reader to read pages in OneNote
+Use a screen reader to insert content to notebooks in OneNote
+Use a screen reader to share and collaborate on notebooks in OneNote
+Set up your device to work with accessibility in Microsoft 365
+Use a screen reader to explore and navigate OneNote
+Use OneNote for Android with TalkBack, the built-in Android screen reader, to perform basic tasks, such as opening a notebook, adding pages and sections, and typing text.
+Note
+New Microsoft 365 features are released gradually to Microsoft 365 subscribers, so your app might not have these features yet. To learn how you can get new features faster,
+join the Office Insider program
+.
+This topic assumes that you are using the built-in Android screen reader, TalkBack. To learn more about using TalkBack, go to
+Android accessibility
+.
+In this topic
+Open OneNote for Android
+Open a notebook
+Create a section
+Add a page
+Add text to a page
+Open OneNote for Android
+On your phone, navigate to the home screen where the OneNote for Android app is.
+Swipe right until you hear “OneNote,” and double-tap the screen. You hear: “Enter your email, phone, or Skype name, edit box.” Double-tap the screen to open the app.
+Use the on-screen keyboard to type the email address of the account you want to use. When you're done, swipe down-then-left to close the on-screen keyboard.
+Swipe right until you hear "Next button," and double-tap the screen. You hear: "Connecting."
+Swipe right until you hear either “Password, edit box” or “Password, enter password,” depending on your account type, and double-tap the screen.
+Use the on-screen keyboard to type your password. When you're done, swipe down-then-left to close the on-screen keyboard.
+Swipe right until you hear "Sign in button," and double-tap the screen.
+Note
+If you hear "Allow OneNote to access your contacts,” swipe right until you hear “Allow button,” and double-tap the screen.
+If you hear "Get started," double-tap the screen.
+If you hear "One place for all your notes," swipe right until you hear "Got it, button," and double-tap the screen.
+When you hear “Navigate up button,” the sign-in is complete. You land on the
+Home
+tab. OneNote opens a list of your recent pages. To open a recent page, swipe right until you hear the title of the page you want, and then double-tap the screen.
+Open a notebook
+On the
+Home
+tab, slide your finger around the lower-right corner of the screen until you hear "Notebooks tab," and then double-tap the screen. The
+Notebooks
+tab opens listing your recent notebooks.
+Do one of the following:
+To browse the list of your recent notebooks, swipe left until you hear the name of the notebook you want, and then double-tap the screen to open it.
+If the notebook you want is not in the list of the recent notebooks, swipe left or right until you hear "More notebooks," and double-tap the screen. Swipe right until you hear the name of the notebook, and then double-tap the screen.
+The notebook main view opens showing a list of the notebook sections.
+To open a section, swipe right until you hear the name of the section, and then double-tap the screen.
+Create a section
+Organize your notebooks by dividing them into sections.
+In the notebook main view, swipe right or left until you hear "New section," and double-tap the screen. You hear: "Create a new section, section name, edit box."
+Double-tap the screen, and then use the on-screen keyboard to type a name for the new section. When you're done, swipe down-then-left to close the keyboard.
+Swipe right until you hear "Create button," and double-tap the screen. You hear: "Section created, OneNote." The new section is added as the last section of the notebook. It has one untitled page. The focus returns to the notebook main view.
+Add a page
+Add more pages to a section instead of making the first page really long.
+In the notebook main view, swipe right or left until you hear the name of the section where you want to add a page, and then double-tap the screen. The selected section opens showing a list of the section pages.
+Swipe right until you hear "Take a new note, button," and double-tap the screen. You hear: "New page added."
+To give the new page a title, swipe right until you hear "Page title," and then double-tap the screen. Use the on-screen keyboard to write text on the page. When you're done, swipe down-then-left to close the keyboard.
+Start creating content for the new page. For instructions, refer to
+Add text to a page
+.
+Add text to a page
+Navigate and open the page where you want to add text.
+Swipe right until you hear "OneNote page," followed by the title of the page.
+Double-tap the screen. You hear "Content block," followed by the number of the content block, and "Outline."
+Use the on-screen keyboard to write text on the page. When you're done, swipe down-then-left to close the keyboard.
+To return to the list of section pages, swipe left until you hear "Navigate up button," and double-tap the screen. To return to the notebook view, double-tap the screen again.
+See also
+Use a screen reader to read pages in OneNote
+Use a screen reader to insert content to notebooks in OneNote
+Use a screen reader to organize notebooks, sections, and pages in OneNote
+Set up your device to work with accessibility in Microsoft 365
+Use a screen reader to explore and navigate OneNote
+Use OneNote for Windows 10 with your keyboard and a screen reader to perform basic tasks, such as opening a notebook, adding pages and sections, and typing text. We have tested it with Narrator, JAWS, and NVDA, but it might work with other screen readers as long as they follow common accessibility standards and techniques. You'll also learn how to add formatting to your text, check spelling, or print pages.
+Note
+New Microsoft 365 features are released gradually to Microsoft 365 subscribers, so your app might not have these features yet. To learn how you can get new features faster,
+join the Office Insider program
+.
+To learn more about screen readers, go to
+How screen readers work with Microsoft 365
+.
+For information on the differences between the app versions, go to
+What's the difference between the OneNote versions?
+In this topic
+Open OneNote for Windows 10
+Open a notebook
+Create a section
+Add a page
+Add text
+Edit text
+Print a page
+Open OneNote for Windows 10
+Make sure you're signed in to your Microsoft account on your device.
+Press the Windows logo key, type
+OneNote for Windows 10
+, and then press Enter.
+Open a notebook
+In OneNote, press Ctrl+G to open the notebook navigation.
+Press the Up or Down arrow key until you hear the name of the notebook you want, and then press Enter.
+Tip
+To create a new notebook, in the notebook navigation, press the Tab key until you hear “Add notebook,” and then press Enter.
+Create a section
+Open the notebook in which you want to create a new section.
+To create a new section, press Ctrl+T. The section is created. The focus is placed on the new section name field. You hear: “Section name text box.”
+Type a name for the section, and then press Enter. The section is named, and the focus is on the new section.
+Add a page
+To navigate to the section where you want to add a page, press Ctrl+Shift+G, and then press the Up or Down arrow key until you hear the name of the section you want.
+To add a page at the end of the section, press Ctrl+N. A new untitled page is created. The focus moves to the page title text field.
+Type a page title, and then press Enter. The page is named, and the focus moves to the page content area.
+Add text
+Navigate to the section where you want to add text.
+In the section, press Ctrl+Alt+G to open the page navigation.
+Press the Up or Down arrow key until you hear the title of the page you want, and then press Enter. The focus moves to the page title text field.
+To move the focus to the content area, press the Tab key once. You hear: "Content block."
+To add text, start typing.
+Edit text
+Formatted text contains more information and is often easier to read than plain text. The following tasks explain how you can use the basic text formatting options in OneNote for Windows 10, and which keyboard shortcuts to use for some basic text editing tasks.
+Format text
+Press and hold down Shift and use the arrow keys to select the piece of text you want to format.
+Press Alt+H to move the focus to the
+Home
+tab. You hear: "Ribbon, Home tab item."
+To select a formatting option, press the Down arrow key once, and then use the Right or Left arrow key to browse the available options. To expand an option or to select, press Spacebar. You can also use the following keyboard shortcuts to quickly apply formatting to your text:
+To increase size, press Ctrl+Shift+Left angle bracket (<).
+To decrease size, press Ctrl+Shift+Right angle bracket (>).
+To apply bold formatting to the text, press Ctrl+B.
+To apply italic text, press Ctrl+I.
+To apply underlined text, press Ctrl+U.
+To highlight the text in yellow, press Ctrl+Shift+H.
+To apply superscript formatting, press Ctrl+Shift+Equal sign ( = ).
+To right align your text, press Ctrl+R.
+To left align your text, press Ctrl+L.
+Tip
+To clear all formatting in a selected part of text, press Ctrl+Shift+N.
+Undo and redo an action
+To undo an action, press Ctrl+Z.
+To redo an action, press Ctrl+Y.
+Copy and paste content
+In OneNote, select the piece of content you want to copy.
+To copy, press Ctrl+C.
+To paste the copied content, press Ctrl+V.
+Correct spelling mistakes
+Navigate to the page you want to check for spelling mistakes.
+In OneNote, press F6 until you hear the title of the page and the content block in focus.
+To navigate to the beginning of the current content block, press the Up arrow key until you hear: "Beginning of content block." To navigate to another content block, press Alt+Up or Down arrow key until you reach the content block you want.
+To read the text one word at a time, do one of the following:
+With Narrator, press the SR key+L.
+With JAWS, press the SR key+Right arrow key.
+With NVDA, press Ctrl+Right arrow key.
+When you land on a misspelled word, you hear "Misspelled," followed by the word.
+To display the spelling suggestions for the misspelled word, press Shift+F10 or the Windows Menu key.
+With Narrator, you hear "Proofing," followed by the first suggestion.
+With JAWS, you hear "Menu," followed by the first suggestion.
+With NVDA, you hear "Pop-up window, Proofing list," followed by the first suggestion.
+To browse the suggestions, use the Up and Down arrow keys, and press Enter to select the one you want.
+Tip
+To add the word to the dictionary, select "Add to dictionary." To keep the spelling unchanged this time, select "Ignore."
+To move to the next spelling error, repeat step 4 until you hear: "Misspelled."
+Print a page
+You can print a page to paper or to a file. The options available in the
+Print
+dialog box depend on the selected print output.
+Navigate to the page you want to print, and then press Ctrl+P.
+The
+Print
+dialog box opens, and your hear the current printer option. To change the printer or print output, use the Up or Down arrow key.
+To change the printing orientation, press the Tab key until you hear "Orientation," and then use the Up or Down arrow key to select the orientation you want.
+To start printing, press the Tab key until you hear “Print button,” and then press Spacebar. If you selected a printer device, the page is printed out.
+If you selected printing to a file, the
+Save Print Output As
+dialog box opens. The focus is on the
+File name
+text field. Name the file, and then navigate to the folder where you want to save the file. To save, press Alt+S.
+See also
+Use a screen reader to read pages in OneNote
+Use a screen reader to insert content to notebooks in OneNote
+Use a screen reader to share and collaborate on notebooks in OneNote
+Keyboard shortcuts in OneNote
+Set up your device to work with accessibility in Microsoft 365
+Use a screen reader to explore and navigate OneNote
+Use OneNote for the web with your keyboard and a screen reader to create, open, edit, and format the OneNote notebooks that you created on a cloud server with any of your devices. We have tested it with Narrator in Microsoft Edge and JAWS and NVDA in Chrome, but it might work with other screen readers and web browsers as long as they follow common accessibility standards and techniques.
+OneNote for the web is especially designed for people who use screen readers. With its new look and feel, you can navigate through notebooks, sections, and pages more easily and effectively.
+If your organization or school has a Microsoft 365 plan or SharePoint site, start using OneNote for the web by creating or sharing notebooks in libraries on your site.
+Note
+New Microsoft 365 features are released gradually to Microsoft 365 subscribers, so your app might not have these features yet. To learn how you can get new features faster,
+join the Office Insider program
+.
+To learn more about screen readers, go to
+How screen readers work with Microsoft 365
+.
+If you use OneNote for the web with Narrator, switch off scan mode. Press the SR key+Spacebar to toggle the scan mode off and on.
+When you use OneNote for the web, we recommend that you use Microsoft Edge as your web browser. Because OneNote for the web runs in your web browser, the keyboard shortcuts are different from those in the desktop program. For example, you’ll use Ctrl+F6 instead of F6 for jumping in and out of the commands. Also, common shortcuts like F1 (Help) and Ctrl+O (Open) apply to the web browser – not OneNote for the web.
+In this topic
+Open OneNote for the web
+Open a notebook
+Create a new notebook
+Open a notebook in the full version of OneNote
+Show the full ribbon
+Create a section
+Add a page
+Add text
+Edit and format text
+Check spelling
+Print a page
+Open OneNote for the web
+Explore OneNote for the web, take your notes with you wherever you go, and log those brilliant new ideas the minute you have them.
+Note
+Depending on the account type you're using, the sign-in steps might be slightly different. For example, you might need to use a PIN or smartcard.
+In your browser, go to
+onenote.com
+.
+On the sign-in page, press the Tab key until you hear "Sign in," and press Enter.
+To sign, do one of the following:
+To sign in with your Microsoft account, press Alt+A.
+To sign in with a work or school account, press Alt+N.
+Type your username, and press Enter.
+Type your password, and press Enter.
+Open a notebook
+You can quickly open recently used notebooks to continue your work where you left off. You can also explore and open private and shared notebooks.
+To open a notebook, do one of the following:
+Open and sign in to OneNote for the web. You land in the
+Notebooks
+view which lists your recent notebooks. Press the Tab key or Shift+Tab until you hear the name of the notebook you'd like to open, and then press Enter.
+If you're already working on a notebook and want to open another notebook, press Ctrl+F6 until you hear "Use this panel to select notebooks, sections, and pages," and then press Enter. You hear the name of the notebook currently in focus. Press the Down arrow key until you hear the notebook you want, and then press Enter.
+Create a new notebook
+To create a new notebook, do one of the following:
+Open and sign in to OneNote for the web. You land in the
+Notebooks
+view which lists your recent notebooks. Press the Tab key or Shift+Tab until you hear "New notebook," and then press Enter.
+If you're already working on a notebook and want to create a one, press Ctrl+F6 until you hear "Use this panel to select notebooks, sections, and pages," and then press Enter. Press the Tab key until you hear "Add notebook," and then press Enter.
+Open a notebook in the full version of OneNote
+The full desktop version of OneNote gives you many more options when working with your files. It's easy to open the full version from OneNote for the web.
+Note
+If you have both the full desktop version of OneNote and OneNote for Windows 10 installed on your device, make sure the full desktop version is selected as the default app. For instructions, go to
+Check and change the default OneNote app
+.
+In OneNote for the web, open the notebook you want to use in the full desktop version of OneNote.
+Do one of the following:
+Press Ctrl+F6 until you hear the currently selected ribbon tab, for example, "Home tab item," then press the Tab key until you hear "Mode menu," and press Enter. Press the Down arrow key until you hear "Open in desktop app," and press Enter.
+Press F11 to switch to the full-screen mode. Press Alt+Windows logo key, Z, M, and then T.
+The
+This site is trying to open OneNote
+notification dialog box opens. Press the Tab key until you hear "Open," and then press Enter.
+If you're prompted to sign in, press the Tab key until you hear "Yes," and then press Enter. Type your email or phone number, and press Enter. You hear: “Sign in PIN. Password, editing text.” Type in your password, and press Enter.
+Note
+Depending on the account type you're using, the sign-in steps might be slightly different. For example, you might need to use a PIN or smartcard.
+Your notebook opens in OneNote.
+Check and change the default OneNote app
+On your computer, press the Windows logo key+I to open the
+Settings
+menu.
+Press the Tab key once, press the Down arrow key until you hear "Apps," and press Enter.
+Press the Tab key until you hear "Apps and features," press the Down arrow key until you hear "Default apps," and then press Enter.
+Press the Tab key until you hear: "Set the defaults for applications."
+Type
+OneNote
+, press the Tab key once, and then do one of the following:
+If you hear "Set the defaults for application, OneNote," press Enter.
+If you hear "Set the defaults for application, OneNote for Windows 10," press the Down arrow key until you hear "OneNote," and then press Enter.
+Press the Tab key until you hear "Point one," and then press the Down arrow key until you hear "OneNote," followed by the default app, and "URL OneNote protocol."
+Do one of the following:
+If the default app is OneNote, you're all set, and you can return to OneNote for the web.
+If the default app is OneNote for Windows 10, press Enter. You hear: "How do you want to open this?" Press the Up or Down arrow key until you hear "OneNote," and then press Enter.
+Show the full ribbon
+In OneNote for the web, the simplified ribbon is displayed by default. You can switch to the classic, full ribbon to access more options.
+In OneNote for the web, press Alt+Windows logo key, Z, R, and then C.
+Create a section
+To organize your content or create a new block of notes in your notebook, you can create a new section.
+To create a new section, do one of the following:
+If you're using the simplified ribbon, press Ctrl+F6 until you hear "Use this panel to select notebooks, sections, and pages," and press Enter. Then press the Tab key until you hear "Add a new section," and press Enter.
+If you're using the full ribbon, press Alt+Windows logo key, N, S. You hear: "Section name."
+Type a name for the new section, and then press Enter. The section is named, and the focus moves to the new page title. You hear: “Page title, editing area, title.”
+Add a page
+To jot down your new ideas or notes, add a new page for them.
+To navigate to the section where you want to add a new page, press Ctrl+F6 until you hear: "Use this panel to select notebooks, sections and pages." Press the Tab key until you hear "Section list," followed by the name of the section currently in focus. Press the Up or Down arrow key until you hear the name of the section where you want to add a new page, and then press Enter.
+In the selected section, do one of the following:
+If you're using the simplified ribbon, press the Tab key until you hear "Add a new page," and press Enter.
+If you're using the full ribbon, press Alt+Windows logo key, N, N. A new untitled page is created, and the focus moves to the page title field.
+Type a title for the new page.
+Add text
+When exploring pages, screen readers announce the title as “Page title” and the content area below the title as “Canvas area.”
+To navigate to the page where you want to add text, press Ctrl+F6 until you hear: “Use this panel to select notebooks, sections and pages.” Press the Tab key until you hear "Page list," followed by the name of the page currently in focus. Press the Up or Down arrow key until you hear the name of the page you want, and then press Enter.
+The focus moves to the page title field, and you hear "Page title," followed by the title, and "Editing area.” To move the focus to the canvas area, press the Tab key once.
+To add text, start typing your notes.
+Edit and format text
+To make your text easier to read, you can use the basic text formatting options in OneNote for the web with your keyboard or using the ribbon.
+To select text, press and hold down Shift and press the arrow keys to move the cursor until you have selected the piece of text you want to format.
+To move the focus to the
+Home
+ribbon tab, do one of the following:
+If you're using the simplified ribbon, press Ctrl+F6 until you hear "Home tab item," and then press Enter.
+If you're using the full ribbon, press F11 to switch to the full-screen mode, and then press Alt+Windows logo key, H.
+To move the focus to the
+Home
+ribbon, press the Tab key once. To browse the formatting options on the ribbon, use the Tab key and the Left and Right arrow keys. Your screen reader announces the options as you move. You can, for example, change the font type, font color, or add preformatted styles in your text. To expand the options with submenus, press Alt+Down arrow key. To select an option, press Enter.
+Alternatively, to quickly apply a formatting option, use the following keyboard shortcuts:
+To apply bold formatting, press Ctrl+B.
+To apply italic formatting, press Ctrl+I.
+To apply underline formatting, press Ctrl+U.
+To create a bulleted list, press Ctrl+Period (.).
+To create a numbered list, press Ctrl+Forward slash (/) or Ctrl+Shift+O.
+To align the text to the left, press Ctrl+L.
+To align the text to the right, press Ctrl+R.
+To increase text indent, press Alt+Shift+Right arrow key.
+To decrease text indent, press Alt+Shift+Left arrow key.
+Undo or redo an action
+You can easily undo or redo an action, formatting, or a recently typed word using your keyboard.
+To undo an action, press Ctrl+Z.
+To redo an action, press Ctrl+Y.
+Copy and paste content
+If you need to move a piece of text to another location, you can copy the text and paste it elsewhere.
+To select text, press and hold down Shift and press the arrow keys to move the cursor until you have selected the piece of text you want to format.
+To copy the selection, press Ctrl+C.
+To paste the copied content, press Ctrl+V.
+Check spelling
+You can quickly spot and correct spelling errors, and make sure your pages are ready to be shared with others.
+On a OneNote page, press Alt+F7 or F7. The misspelled word is highlighted in the text. The focus moves to a context menu with suggestion(s) for correct spelling.
+Press the Tab key to move through the suggestions. When you hear a suggestion you’d like to use, press Enter. If you don’t want to change the current spelling, press the Tab key until you hear “Ignore once,” and then press Enter.
+To move to the next misspelled word, press Alt+F7 or F7. When you hear a notification that the check is complete, no more mistakes were found.
+Print a page
+If you'd like a hard copy of a page, you can print it out. You can also print a page to a file and store the file on your device.
+On the page you want to print, press Ctrl+P. The
+Print
+dialog box opens with the focus on the print preview.
+To change the currently selected printer, press the Tab key until you hear "Printer," followed by the current printer name. Then press the Up or Down arrow key until you hear the name of the printer you want.
+To select the number of copies to print, press the Tab key until you hear "Copies," and then type the number of copies you want.
+To change the page orientation to
+Portrait
+or
+Landscape
+, press the Tab key until you hear “Layout," followed by the current orientation. Press the Up or Down arrow key until you hear the option you want.
+To start printing, press the Tab key until you hear “Print button,” and then press Enter. If you selected a printer device, the page is printed out.
+If you selected printing to a file, the
+Save Print Output As
+dialog box opens. The cursor is in the
+File name
+field. Name the file, and then navigate to the folder where you want to save the file. To save, press Alt+S.
+See also
+Use a screen reader to read pages in OneNote
+Use a screen reader to insert content to notebooks in OneNote
+Use a screen reader to share and collaborate on notebooks in OneNote
+Keyboard shortcuts in OneNote
+Use a screen reader to explore and navigate OneNote
+Technical support for customers with disabilities
+Microsoft wants to provide the best possible experience for all our customers. If you have a disability or questions related to accessibility, please contact the
+Microsoft Disability Answer Desk
+for technical assistance. The Disability Answer Desk support team is trained in using many popular assistive technologies and can offer assistance in English, Spanish, French, and American Sign Language. Please go to the Microsoft Disability Answer Desk site to find out the contact details for your region.
+If you are a government, commercial, or enterprise user, please contact
+the enterprise Disability Answer Desk
+.

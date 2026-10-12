@@ -1,0 +1,79 @@
+URL: https://support.microsoft.com/en-us/accessibility/windows/make-text-and-apps-bigger
+Make text and apps bigger
+Applies To
+Windows 11
+Windows 10
+Get help with Copilot
+What's the best way to make text bigger on screen?
+Show me how to add text and titles to video.
+How can I make images and apps bigger on screen?
+Is it difficult seeing text or apps on your computer screen? There are simple ways to make it easier to see on Windows.
+Windows 11
+Windows 10
+Make text bigger on your screen
+If the text size feels too small when navigating through Windows, you can make the text bigger. This affects, for example, title bars, menus, and icon texts.
+To go to the
+Accessibility
+settings on your computer, press the Windows logo key+U or select
+Start
+>
+Settings
+>
+Accessibility
+.
+Select
+Text size
+.
+Drag the
+Text size
+slider to the right to increase the size of the sample text.
+Once you're happy with the text size, select
+Apply
+. Windows scales up the size of all text.
+Make images and apps bigger on your screen
+In addition to the text size, you can also make everything else on your screen bigger, including images and apps.
+To open
+Settings
+on your computer, press the Windows logo key+I or select
+Start
+>
+Settings
+.
+Select
+Display
+.
+Under
+Scale & layout
+, expand the
+Scale
+menu and select the option you want.
+You may need to sign out and back in again for some of the changes to take effect on certain apps, but it applies to most things immediately.
+See also
+Microsoft accessibility features
+Make text bigger on your screen
+If the text size feels too small when navigating through Windows, you can make the text bigger. This affects, for example, title bars, menus, and icon texts.
+To go to the
+Ease of Access
+settings on your computer, press the Windows key+U.
+Under
+Make text bigger
+on the
+Display
+tab, drag the slider to the right to increase the size of the sample text.
+Once you're happy with the text size, select
+Apply
+. Windows scales up the size of all text.
+Make images and apps bigger on your screen
+In addition to the text size, you can also make everything else on your screen bigger, including images and apps.
+To go to the
+Ease of Access
+settings on your computer, press the Windows key+U.
+Under
+Make everything bigger
+on the
+Display
+tab, expand the menu and select the option you want.
+You may need to sign out and back in again for some of the changes to take effect on certain apps, but it applies to most things immediately.
+See also
+Microsoft accessibility features
+Accessibility for everyone

@@ -1,0 +1,666 @@
+URL: https://support.microsoft.com/en-us/accessibility/outlook/make-your-outlook-email-accessible-to-people-with-disabilities
+Make your Outlook email accessible to people with disabilities
+Applies To
+Outlook for Microsoft 365
+Outlook 2024
+Outlook 2021
+Outlook 2019
+Outlook 2016
+Outlook.com
+New Outlook for Windows
+Outlook for Android
+Outlook for iOS
+Outlook on the web for Exchange Server 2016
+Get help with Copilot
+Help me add alt text to visuals in Outlook on the web.
+Show me how to check accessibility while I work in Word.
+Make my Outlook email accessible to people
+This topic gives you step-by-step instructions on how to make your email messages accessible and unlock your content to everyone, including people with disabilities.
+You learn, for example, how to work with the Accessibility Checker to tackle accessibility issues while you're writing your email message. You'll also learn how to add alt texts to images so that people using screen readers are able to listen to what the image is all about. You can also read about how to use fonts, colors, and styles to maximize the inclusiveness of your email messages before sending them.
+Outlook for Windows
+Outlook for iOS
+Outlook for Android
+Outlook on the web
+In this topic
+Make your Mac Outlook email accessible to people with disabilities
+Check accessibility while you work in Outlook
+Avoid using tables
+Use built-in headings and styles
+Create paragraph banners
+Add alt text to visuals
+Add accessible hyperlink text and ScreenTips
+Use accessible font format and color
+Create accessible lists
+Adjust space between sentences and paragraphs
+Request accessible email
+Test accessibility with Immersive Reader
+Check accessibility while you work in Outlook for Windows
+The Accessibility Checker is a tool that reviews your content and flags accessibility issues it comes across. It explains why each issue might be a potential problem for someone with a disability. The Accessibility Checker also suggests how you can resolve the issues that appear.
+In new Outlook and classic Outlook the Accessibility Checker runs automatically in the background when you're composing an email. If the Accessibility Checker detects accessibility issues, a MailTip will provide a convenient nudge to review and correct the issues before sending your email.
+In new Outlook and classic Outlook, you can define how the accessibility notifications and Accessibility Checker work. Select
+File
+>
+Options
+>
+Accessibility
+and select if you want to see accessibility notifications through a MailTip while you work, in certain scenarios, or only when you manually launch the Accessibility Checker.
+The default option is to show accessibility notifications in certain scenarios. If any accessibility issues are detected, a MailTip appears to guide you to review suggestions and fix the issue.
+The following options are available:
+Show me accessibility warnings while I work
+Show me accessibility warnings when:
+At least one recipient prefers accessible content
+Using a dark background to compose a message. If you're composing in Black Theme with dark mode enabled, which is the default for this theme, the Accessibility Checker runs but shows notifications only when text contrast is insufficient. Any other issues will still appear in the
+Accessibility
+pane, but they won't cause the MailTip to appear.
+Composing a message to a large audience
+At least one recipient is outside my organization
+Composing a message with high importance
+Show me accessibility warnings only when I open the accessibility checker
+To manually launch the Accessibility Checker, select
+Review
+>
+Check Accessibility
+. The
+Accessibility
+pane opens, and you can now review and fix accessibility issues. For more info, go to
+Improve accessibility with the Accessibility Checker
+.
+Top of Page
+Avoid using tables in Outlook for Windows
+In new Outlook for Windows or classic Outlook for Windows, avoid using tables if possible and present the data another way, like paragraphs with headings and banners. Tables with fixed width might prove difficult to read for people who use Magnifier, because such tables force the content to a specific size. This makes the font very small, which forces Magnifier users to scroll horizontally especially on mobile devices.
+If you have to use tables, use the following guidelines to make sure your table is as accessible as possible:
+Avoid fixed width tables.
+Make sure the tables render properly on all devices, including phones and tablets.
+If you have hyperlinks in your table, edit the link texts, so they make sense and don't break mid-sentence.
+Make sure the email is easily read with Magnifier. Send the email draft to yourself and view it on a mobile device to make sure people won't need to horizontally scroll the email on a phone, for example.
+Use table headers
+.
+Test accessibility with Immersive Reader
+.
+Use table headers
+In new Outlook for Windows or classic Outlook for Windows, screen readers keep track of their location in a table by counting table cells. If a table is nested within another table or if a cell is merged or split, the screen reader loses count and can't provide helpful information about the table after that point. Blank cells in a table could also mislead someone using a screen reader into thinking that there is nothing more in the table. Use a simple table structure for data only and specify column header information. Screen readers also use header information to identify rows and columns.
+To ensure that tables don't contain split cells, merged cells, or nested tables, use the
+Accessibility Checker
+.
+Place the cursor anywhere in a table.
+On the
+Table Design
+tab, in the
+Table Style Options
+group, select the
+Header Row
+checkbox.
+Type your column headings.
+Top of Page
+Use built-in headings and styles in Outlook for Windows
+In new Outlook for Windows or classic Outlook for Windows, headings are meant to be scanned, both visually and with assistive technology. Ideally, headings explain what an email section is about. Use the built-in heading styles and create descriptive heading texts to make it easier for screen reader users to determine the structure of the message and navigate the headings.
+Organize headings in the prescribed logical order. For example, use
+Heading 1
+and then
+Heading 2
+. Organize the information in your email into small chunks. Ideally, each heading would include only a few paragraphs.
+For the step-by-step instructions on how to use the headings and styles, go to
+Format email messages with Styles
+.
+Top of Page
+Create paragraph banners in Outlook for Windows
+In new Outlook for Windows or classic Outlook for Windows, in addition to using headings to organize the content in your email message, you can also create paragraph banners. In a paragraph banner, the background color block extends across the width of the email message and highlights the text within the banner. This is a great alternative to tables to organize and separate content.
+Select your banner text.
+Select the
+Format Text
+tab.
+In the
+Paragraph
+group, select
+Shading
+, and then select the color you want.
+Top of Page
+Add alt text to visuals in Outlook for Windows
+In new Outlook for Windows or classic Outlook for Windows, alt text helps people who can't see the screen to understand what's important in images, shapes, SmartArt graphics, charts, and other visuals. In alt text, briefly describe the image and mention its intent. Screen readers read the text to describe the image to users who can't see the image.
+For the step-by-step instructions on how to add alt text, go to
+Add alternative text to a shape, picture, chart, SmartArt graphic, or other object
+.
+For more info on how to write alt text, go to
+Everything you need to know to write effective alt text
+. Visual content includes pictures, SmartArt graphics, shapes, groups, charts, embedded objects, ink, and videos.
+To find missing alternative text, use the
+Accessibility Checker
+in new Outlook or classic Outlook.
+Note
+For audio and video content, in addition to alt text, include closed captioning for people who are deaf or hard of hearing.
+Avoid using text in images as the sole method of conveying important information. If you must use an image with text in it, repeat that text in the email message.
+Top of Page
+Add accessible hyperlink text and ScreenTips in Outlook for Windows
+In new Outlook for Windows or classic Outlook for Windows, people who use screen readers sometimes scan a list of links. Links should convey clear and accurate information about the destination. For example, avoid using link texts such as "Click here," "See this page," "Go here," or "Learn more." Instead include the full title of the destination page. You can also add ScreenTips that appear when your cursor hovers over text or images that include a hyperlink.
+Tip
+If the title on the hyperlink's destination page gives an accurate summary of what's on the page, use it for the hyperlink text. For example, this hyperlink text matches the title on the destination page:
+Create more with Microsoft templates
+.
+For the step-by-step instructions on how to create hyperlinks and ScreenTips, go to
+Create or edit a hyperlink
+.
+Top of Page
+Use accessible font format and color in Outlook for Windows
+In new Outlook for Windows or classic Outlook for Windows, an accessible font doesn't exclude or slow down the reading speed of anyone reading an email message, including people with low vision or reading disability or people who are blind. The right font improves the legibility and readability of the email messages.
+For instructions on how to change the default font, go to
+Change or set the default font in Outlook
+.
+Use accessible font format
+To reduce the reading load, select familiar sans serif fonts such as Arial or Calibri. Avoid using all capital letters and excessive italics or underlines.
+A person with a vision disability might miss out on the meaning conveyed by particular colors. For example, add an underline to color-coded hyperlink text so that people who are colorblind know that the text is linked even if they can't see the color. For headings, consider adding bold or using a larger font.
+Select your text.
+Select the
+Format Text
+tab.
+In the
+Font
+group, which provides options for font type, size, style, and color, select your formatting choices in new Outlook or classic Outlook.
+Use accessible font color
+In new Outlook for Windows or classic Outlook for Windows, the text in your email should be readable in a high contrast mode. For example, use bright colors or high-contrast color schemes on opposite ends of the color spectrum. White and black schemes make it easier for people who are colorblind to distinguish text and shapes.
+To ensure that text displays well in a high contrast mode, use the
+Automatic
+setting for font colors. To find insufficient color contrast, use the
+Accessibility Checker
+.
+Select your text.
+Select
+Message
+.
+In the
+Font
+group, select
+Font Color
+.
+Select
+Automatic
+.
+Top of Page
+Create accessible lists in Outlook for Windows
+To make it easier for screen readers to read your email, organize the information in your email into small chunks such as bulleted or numbered lists.
+For the step-by-step instructions on how to create lists, go to
+Add a numbered or bulleted list to a message
+.
+Top of Page
+Adjust space between sentences and paragraphs in Outlook for Windows
+In new Outlook for Windows or classic Outlook for Windows, people who have dyslexia describe seeing text "swim together" on a page (the compressing of one line of text into the line below). They often see text merge or distort. To reduce the reading load, you can increase white space between sentences and paragraphs.
+Select your text.
+Select the
+Format Text
+tab.
+In the
+Paragraph
+group, select
+Paragraph Settings
+launcher button in the lower-right corner.
+On the
+Indents and Spacing
+tab select the spacing options you want under
+Spacing
+and select
+OK
+.
+Top of Page
+Request accessible email in Outlook for Windows
+In new Outlook for Windows or classic Outlook for Windows, let people who send you email know that you prefer to receive accessible content.
+To go to your account details on the web, in Outlook, select
+File
+>
+Info
+, and then in
+Account Settings
+, click the link under
+Access this account on the web
+. Outlook on the web opens in your browser.
+In Outlook on the web, on the
+File
+tab, select
+Settings, and choose
+Accessibility
+. on the
+General
+tab.
+To request accessible content, select
+Ask senders to send content that's accessible
+. and close the
+Settings
+window.
+Top of Page
+Test accessibility with Immersive Reader in Outlook for Windows
+In new Outlook for Windows or classic Outlook for Windows, try reading the email with Immersive Reader to check how it sounds like.
+In your email message, on the
+Message
+tab select
+Immersive Reader
+.
+On the
+Immersive Reader
+tab, select
+Read Aloud
+.
+To exit
+Immersive Reader
+, select
+Close Immersive Reader
+.
+Top of Page
+See also
+Video: Improve email accessibility
+Improve accessibility with the Accessibility Checker
+Rules for the Accessibility Checker
+Make your Word documents accessible to people with disabilities
+Make your Excel documents accessible to people with disabilities
+Make your PowerPoint presentations accessible to people with disabilities
+In this topic
+Best practices for making Outlook email accessible
+Add alternative text to visuals
+Add accessible hyperlink text
+Create accessible lists
+Best practices for making Outlook for iOS email accessible
+The following table includes key best practices for creating an Outlook for iOS email that is accessible to people with disabilities.
+What to fix
+Why fix it
+How to fix it
+Include alternative text with visuals.
+Alternative text helps people who can't see the screen to understand what's important in images and other visuals.
+Add alternative text to visuals
+Add meaningful hyperlink text.
+People who use screen readers sometimes scan a list of links.
+Add accessible hyperlink text
+Use built-in lists.
+Organize and structure the information in your email into small units which are easy to read, navigate, and skim through.
+Create accessible lists
+Top of Page
+Add alternative text to visuals in Outlook for iOS
+Alt text helps people who can't see the screen to understand what's important in images, shapes, SmartArt graphics, charts, and other visuals. In alt text, briefly describe the image and mention its intent. Screen readers read the text to describe the image to users who can't see the image.
+Avoid using text in images as the sole method of conveying important information. If you must use an image with text in it, repeat that text in the email message. This is especially important when using Outlook for iOS.
+To write a good alt text, make sure to convey the content and the purpose of the image in a concise and unambiguous manner. The alt text shouldn't be longer than a short sentence or two—most of the time a few thoughtfully selected words will do. Do not repeat the surrounding textual content as alt text or use phrases referring to images, such as, "a graphic of" or "an image of."
+For more info on how to write alt text, go to
+Everything you need to know to write effective alt text
+.
+In the email you are composing, tap an image to select it and to open the context menu.
+In the context menu, swipe left, and then select
+Alt Text
+.
+Type the alt text for the image.
+Tip
+Include the most important information in the first line and be as concise as possible.
+When you're ready, select
+OK
+.
+Top of Page
+Add accessible hyperlink text in Outlook for iOS
+People who use screen readers sometimes scan a list of links. Links should convey clear and accurate information about the destination. For example, avoid using link texts such as "Click here," "See this page," "Go here," or "Learn more." Instead include the full title of the destination page.
+Tip
+If the title on the hyperlink's destination page gives an accurate summary of what's on the page, use it for the hyperlink text. For example, this hyperlink text matches the title on the destination page:
+Create more with Microsoft templates
+.
+In the email you are composing in Outlook for iOS, select the piece of text where you want to insert the hyperlink.
+If necessary, double-tap the selected text to open the context menu.
+In the context menu, swipe left, and then select
+Add Link
+.
+If you want to change the hyperlink text, type a new text to the
+Text
+field.
+In the
+Link
+field, type or paste the destination URL.
+To insert the hyperlink, select
+(Done).
+Top of Page
+Create accessible lists in Outlook for iOS
+To make it easier for screen readers to read your email in Outlook for iOS, organize the information in it into small chunks such as bulleted or numbered lists.
+Design lists so that you do not need to add a plain paragraph without a bullet or number to the middle of a list. If your list is broken up by a plain paragraph, some screen readers might announce the number of list items wrong. Also, the user might hear in the middle of the list that they are leaving the list.
+In the email message you're composing, place the cursor where you want to create a list.
+In the toolbar above the on-screen keyboard, select
+(Rich text formatting).
+In the text formatting menu, select
+(Bullet) or
+(Numbering).
+Type the list item text, and then select
+return
+. A new list item is added. Repeat this step for each list item you want to add.
+Top of Page
+See also
+Make your Word documents accessible to people with disabilities
+Make your Excel documents accessible to people with disabilities
+Make your PowerPoint presentations accessible to people with disabilities
+Make your OneNote notebooks accessible to people with disabilities
+In this topic
+Best practices for making Outlook email accessible
+Add alternative text to visuals
+Add accessible hyperlink text
+Create accessible lists
+Best practices for making Outlook for Android email accessible
+The following table includes the key best practices for creating an Outlook for Android email that is accessible to people with disabilities.
+What to fix
+Why fix it
+How to fix it
+Include alternative text with visuals.
+Alternative text helps people who can't see the screen to understand what's important in images and other visuals.
+Add alternative text to visuals
+Add meaningful hyperlink text.
+People who use screen readers sometimes scan a list of links.
+Add accessible hyperlink text
+Use built-in lists.
+Organize and structure the information in your email into small units which are easy to read, navigate, and skim through.
+Create accessible lists
+Top of Page
+Add alternative text to visuals in Outlook for Android
+Alt text helps people who can't see the screen to understand what's important in images, shapes, SmartArt graphics, charts, and other visuals. In alt text, briefly describe the image and mention its intent. Screen readers read the text to describe the image to users who can't see the image.
+Avoid using text in images as the sole method of conveying important information. If you must use an image with text in it, repeat that text in the email message.
+To write a good alt text, make sure to convey the content and the purpose of the image in a concise and unambiguous manner. The alt text shouldn't be longer than a short sentence or two—most of the time a few thoughtfully selected words will do. Do not repeat the surrounding textual content as alt text or use phrases referring to images, such as, "a graphic of" or "an image of."
+For more info on how to write alt text, go to
+Everything you need to know to write effective alt text
+.
+In the email you are composing in Outlook for Android, tap and hold an image to open the context menu.
+In the context menu, select
+Alt text
+.
+Type the alt text for the image.
+Tip
+Include the most important information in the first line and be as concise as possible.
+When you're ready, select
+SAVE
+.
+Top of Page
+Add accessible hyperlink text in Outlook for Android
+People who use screen readers sometimes scan a list of links. Links should convey clear and accurate information about the destination. For example, avoid using link texts such as "Click here," "See this page," "Go here," or "Learn more." Instead include the full title of the destination page.
+Tip
+If the title on the hyperlink's destination page gives an accurate summary of what's on the page, use it for the hyperlink text. For example, this hyperlink text matches the title on the destination page:
+Create more with Microsoft templates
+.
+In the email you are composing in Outlook for Android, select the piece of text where you want to add the hyperlink. The context menu opens.
+In the context menu, select
+Add Link
+.
+If you want to change the hyperlink text, type the new text to the
+Text to display
+text field.
+In the
+Link
+text field, type or paste the destination URL.
+To insert the hyperlink, select
+SAVE
+.
+Top of Page
+Create accessible lists in Outlook for Android
+To make it easier for screen readers to read your email, organize the information in it into small chunks such as bulleted or numbered lists.
+Design lists so that you do not need to add a plain paragraph without a bullet or number to the middle of a list. If your list is broken up by a plain paragraph, some screen readers might announce the number of list items wrong. Also, the user might hear in the middle of the list that they are leaving the list.
+In the email message you're composing in Outlook for Android, place the cursor where you want to create a list.
+In the toolbar above the on-screen keyboard, select
+(Show formatting options).
+In the text formatting menu, select
+(Bulleted list) or
+(Numbered list).
+Type the list item text, and then select
+(Enter). A new list item is added. Repeat this step for each list item you want to add.
+Top of Page
+See also
+Make your Word documents accessible to people with disabilities
+Make your Excel documents accessible to people with disabilities
+Make your PowerPoint presentations accessible to people with disabilities
+Make your OneNote notebooks accessible to people with disabilities
+In this topic
+Best practices for making Outlook email accessible
+Check accessibility while you work in Outlook
+Avoid using tables
+Use built-in headings and styles
+Add alt text to visuals
+Use accessible hyperlink texts
+Use accessible font format and color
+Create accessible lists
+Use accessible text alignment and spacing
+Request accessible email
+Test the accessibility of your email message
+Best practices for making Outlook on the web email accessible
+The following table includes key best practices for creating Outlook on the web email that is accessible to people with disabilities.
+What to fix
+Why fix it
+How to fix it
+Avoid common accessibility issues such as missing alternative text (alt text) and low contrast colors.
+Make it easy for everyone to read your email message.
+Check accessibility while you work in Outlook
+If you need to use tables, create a simple table structure for data only, and specify column header information.
+Screen readers keep track of their location in a table by counting table cells.
+Avoid using tables
+Use built-in headings and styles.
+To make it easier for screen readers to read your email, use a logical heading order and the built-in formatting tools in Outlook.
+Use built-in headings and styles
+Create accessible lists
+Include alternative text with all visuals.
+Alt text helps people who can't see the screen to understand what's important in images and other visuals.
+Add alt text to visuals
+Add meaningful hyperlink text.
+People who use screen readers sometimes scan a list of links.
+Use accessible hyperlink texts
+Ensure that color is not the only means of conveying information.
+People who are blind, have low vision, or are colorblind might miss out on the meaning conveyed by particular colors.
+Use accessible font format and color
+Use sufficient contrast for text and background colors.
+The text in your email should be readable in
+High Contrast
+mode so that everyone, including people with visual disabilities, can see it well.
+Use accessible font format and color
+Use a larger font size (11pt or larger), sans serif fonts, and sufficient white space.
+People who have dyslexia describe seeing text "swim together" on a page (the compressing of one line of text into the line below). They often see text merge or distort.
+Use accessible font format and color
+Use accessible text alignment and spacing
+Top of Page
+Check accessibility while you work in Outlook on the web
+The Accessibility Checker is a tool that reviews your content and flags accessibility issues it comes across. It explains why each issue might be a potential problem for someone with a disability. The Accessibility Checker also suggests how you can resolve the issues that appear.
+To launch the Accessibility Checker, select
+Options
+>
+Check Accessibility
+or
+Message
+>
+Check Accessibility
+.The
+Accessibility checker
+pane opens, and you can now review and fix accessibility issues. For more info, go to
+Improve accessibility with the Accessibility Checker
+.
+Top of Page
+Avoid using tables in Outlook on the web
+In general, avoid tables if possible and present the data another way, like paragraphs with headings and banners. Tables with fixed width might prove difficult to read for people who use Magnifier, because such tables force the content to a specific size. This makes the font very small, which forces Magnifier users to scroll horizontally especially on mobile devices.
+If you have to use tables, use the following guidelines to make sure your table is as accessible as possible:
+Avoid fixed width tables.
+Make sure the tables render properly on all devices, including phones and tablets.
+If you have hyperlinks in your table, edit the link texts, so they make sense and don't break mid-sentence.
+Make sure the email is easily read with Magnifier. Send the email draft to yourself and view it on a mobile device to make sure people won't need to horizontally scroll the email on a phone, for example.
+Use table headers
+.
+Test the accessibility of your email message
+.
+Top of Page
+Use table headers in Outlook on the web
+Screen readers keep track of their location in a table by counting table cells. If a table is nested within another table or if a cell is merged or split, the screen reader loses count and can't provide helpful information about the table after that point. Blank cells in a table could also mislead someone using a screen reader into thinking that there is nothing more in the table. Use a simple table structure for data only and specify column header information. Screen readers also use header information to identify rows and columns.
+To ensure that tables don't contain split cells, merged cells, or nested tables, use the
+Accessibility Checker
+.
+Place the cursor anywhere in a table.
+On the
+Table
+tab, select
+Table options
+and choose
+Header row
+.
+Type the column headers.
+Top of Page
+Use built-in headings and styles in Outlook on the web
+Headings are meant to be scanned, both visually and with assistive technology. Ideally, headings explain what an email section is about. Use the built-in heading styles and create descriptive heading texts to make it easier for screen reader users to determine the structure of the message and navigate the headings.
+Organize headings in the prescribed logical order and do not skip heading levels. For example, use
+Heading 1
+,
+Heading 2
+, and then
+Heading 3
+, rather than
+Heading 3
+,
+Heading 1
+, and then
+Heading 2
+. Organize the information in your document into small chunks. Ideally, each heading would include only a few paragraphs.
+Select the piece of text you want to turn into a heading.
+On the
+Message
+tab, select
+Styles
+, and then pick the heading style you want, for example,
+Heading 1
+.
+Top of Page
+Add alt text to visuals in Outlook on the web
+Alt text helps people who can't see the screen to understand what's important in visual content. Visual content includes pictures, SmartArt graphics, shapes, groups, charts, embedded objects, ink, and videos. In alt text, briefly describe the image and mention its intent. Screen readers read the text to describe the image to users who can't see the image.
+Avoid using text in images as the sole method of conveying important information. If you must use an image with text in it, repeat that text in the document. In alt text, briefly describe the image and mention the existence of the text and its intent.
+To write a good alt text, make sure to convey the content and the purpose of the image in a concise and unambiguous manner. The alt text shouldn't be longer than a short sentence or two—most of the time a few thoughtfully selected words will do. Do not repeat the surrounding textual content as alt text or use phrases referring to images, such as, "a graphic of" or "an image of." For more info on how to write alt text, go to
+Everything you need to know to write effective alt text
+.
+To find missing alt text, use the
+Accessibility Checker
+.
+When you're composing an email, right-click an image in the message body. The context menu opens.
+In the context menu, select
+Add alternate text
+.
+Type the alt text for the image, and then select
+OK
+.
+Top of Page
+Use accessible hyperlink texts in Outlook on the web
+People who use screen readers sometimes scan a list of links. Links should convey clear and accurate information about the destination. For example, avoid using link texts such as "Click here," "See this page," "Go here," or "Learn more." Instead include the full title of the destination page.
+Tip
+If the title on the hyperlink's destination page gives an accurate summary of what's on the page, use it for the hyperlink text. For example, this hyperlink text matches the title on the destination page:
+Create more with Microsoft templates
+.
+When you're composing an email, type a meaningful link text in the message body.
+Select the link text, and then press Ctrl+K. The
+Insert link
+dialog box opens.
+To change the link text, type the new text to the
+Display as
+text field.
+In the
+Web address (URL)
+text field, type or paste the destination URL.
+When you're ready, select
+OK
+.
+Top of Page
+Turn off link preview
+When you add a URL to an email in Outlook.com or Outlook on the web, or when you receive an email with a URL in the body, you'll see a rich text preview that includes a link title, thumbnail image, and description of the link. This is called a link preview and it is turned on by default.
+To reduce clutter and distractions, you can turn off link preview.
+On the File tab, select
+Settings
+. The
+Settings
+window opens.
+In the
+Settings
+window on the
+Mail
+tab. select
+Compose and reply
+.
+Under
+Link preview
+, clear the
+Preview links in email
+checkbox to turn off link preview.
+Top of Page
+Use accessible font format and color in Outlook on the web
+An accessible font doesn't exclude or slow down the reading speed of anyone reading an email message, including people with low vision or reading disability or people who are blind. The right font improves the legibility and readability of the email messages.
+Use accessible font format
+To reduce the reading load, select familiar sans serif fonts such as Arial or Calibri, and use a large enough font size (11pt or larger). Avoid using all capital letters and excessive italics or underlines.
+A person with a vision disability might miss out on the meaning conveyed by particular colors. For example, add an underline to color-coded hyperlink text so that people who are colorblind know that the text is linked even if they can't see the color.
+Select the piece of text you want to format.
+To change the font type, expand the font menu on the ribbon, and then select the font type you want.
+To change the font size, expand the font size menu on the ribbon, and then select the size you want.
+Top of Page
+Use accessible font color
+The text in your email should be readable in a high contrast mode in Outlook on the web. For example, use bright colors or high-contrast color schemes on opposite ends of the color spectrum. White and black schemes make it easier for people who are colorblind to distinguish text and shapes.
+To find insufficient color contrast, use the
+Accessibility Checker
+.
+Select the piece of text you want to format.
+On the ribbon, select
+Font color
+.
+In the Font color menu, select the color you want.
+Top of Page
+Create accessible lists in Outlook on the web
+To make it easier for screen readers to read your email message, organize the information in it into small chunks such as bulleted or numbered lists.
+Design lists so that you do not need to add a plain paragraph without a bullet or number to the middle of a list. If your list is broken up by a plain paragraph, some screen readers might announce the number of list items wrong. Also, the user might hear in the middle of the list that they are leaving the list.
+In your email, place the cursor where you want to create a list.
+On the ribbon, select
+(Bullets) or
+(Numbering).
+Type each list item in the bulleted or numbered list.
+Top of Page
+Use accessible text alignment and spacing in Outlook on the web
+People with dyslexia perceive text in a way that can make it difficult to distinguish letters and words. For example, they might perceive a line of text compressing into the line below, or adjacent letters seeming to merge. Also, having multiple blank lines or consecutive spaces can make keyboard navigation slow and screen reader usage more cumbersome.
+Align your paragraph to the left to avoid uneven gaps between words, and increase or decrease the white space between lines to improve readability. Include sufficient white space between lines and paragraphs but avoid more than two spaces between words and two blank lines between paragraphs.
+In your email, place the cursor within the paragraph whose text alignment you want to adjust.
+On the ribbon, select
+(Align) >
+Align left
+.
+Top of Page
+Request accessible email in Outlook on the web
+Let people who send you email know that you prefer to receive accessible content.
+In Outlook on the web, select
+Settings
+. The
+Settings
+window opens.
+In the
+Settings
+window, select
+General
+>
+Accessibility
+.
+To request accessible content, select the
+Ask senders to send content that's accessible
+checkbox. Then close the
+Settings
+window.
+Top of Page
+Test the accessibility of your email message in Outlook on the web
+When your email is ready, you can try a couple of things to make sure the email is accessible:
+Run the Accessibility Checker. For instructions, go to
+Check accessibility while you work in Outlook
+or
+Improve accessibility with the Accessibility Checker
+.
+Try navigating and reading the email using the built-in screen reader, Narrator. Narrator comes with Windows, so there's no need to install anything. This is one additional way to spot issues in the navigation order, for example.
+To turn on Narrator, press Windows logo key+Ctrl+Enter.
+To navigate the content in the message, use the arrow keys. Modify the reading order of the elements in the email if necessary.
+To have Narrator read the whole email window, press the Narrator key (Caps lock or Insert)+W.
+For more info on how to navigate with Narrator, go to
+Chapter 3: Using scan mode
+,
+Chapter 4: Reading text
+, or
+Chapter 5: Navigation
+.
+To turn off Narrator, press Windows logo key+Ctrl+Enter.
+Top of Page
+See also
+Improve accessibility with the Accessibility Checker
+Rules for the Accessibility Checker
+Make your Word documents accessible to people with disabilities
+Make your Excel documents accessible to people with disabilities
+Make your PowerPoint presentations accessible to people with disabilities
+Make your OneNote notebooks accessible to people with disabilities
+Technical support for customers with disabilities
+Microsoft wants to provide the best possible experience for all our customers. If you have a disability or questions related to accessibility, please contact the
+Microsoft Disability Answer Desk
+for technical assistance. The Disability Answer Desk support team is trained in using many popular assistive technologies and can offer assistance in English, Spanish, French, and American Sign Language. Please go to the Microsoft Disability Answer Desk site to find out the contact details for your region.
+If you are a government, commercial, or enterprise user, please contact
+the enterprise Disability Answer Desk
+.

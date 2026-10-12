@@ -1,0 +1,119 @@
+URL: https://support.microsoft.com/en-us/teams/platform/zoom-in-and-out-in-microsoft-teams
+Zoom in and out in Microsoft Teams
+Applies To
+Teams
+Microsoft Teams
+Get help with Copilot
+Tell me about zoom in and out.
+Explain how to add shifts to the schedule in shifts.
+How should I view by day, week, or month?
+In Teams
+Use your keyboard or mouse to make the Teams interface bigger or smaller, using the same familiar controls you might already be using with your browser.
+Action
+Windows
+Mac
+Zoom in
+Ctrl+=
+or
+Ctrl+(rotate mouse wheel up)
+Command+=
+or
+Command+(rotate mouse wheel up)
+Zoom out
+Ctrl+-
+or
+Ctrl+(rotate mouse wheel down)
+Command+-
+or
+Command+(rotate mouse wheel down)
+Reset zoom
+Ctrl+0
+Command+0
+In Teams meetings
+Use your keyboard or mouse to make the shared content in Teams meetings bigger or smaller, instead of using the buttons at the lower left of your meeting window.
+Action
+Windows
+Mac
+Zoom in
+Alt
++
+Shift
++ “
+⁠+⁠
+”
+Option
++
+Shift
++ “
+⁠+⁠
+”
+Zoom out
+Alt
++
+Shift
++ “
+⁠-⁠
+”
+Option
++
+Shift
++ “
+⁠+⁠
+”
+Reset zoom
+Alt
++
+Shift
++ “
+0
+”
+Option
++
+Shift
++ “
+0
+”
+Move content up
+Alt
++
+Shift
++
+↑ (arrow up)
+Option
++
+Shift
++
+↑ (arrow up)
+Move content down
+Alt
++
+Shift
++
+↓ (arrow down)
+Option
++
+Shift
++
+↓ (arrow down)
+Move content left
+Alt
++
+Shift
++
+← (arrow left)
+Option
++
+Shift
++
+← (arrow left)
+Move content right
+Alt
++
+Shift
++
+→ (arrow right)
+Option
++
+Shift
++
+→ (arrow right)

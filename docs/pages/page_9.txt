@@ -1,0 +1,1279 @@
+URL: https://support.microsoft.com/en-us/accessibility/outlook/basic-tasks-using-a-screen-reader-with-the-calendar-in-outlook
+Basic tasks using a screen reader with the calendar in Outlook
+Applies To
+Outlook for Microsoft 365
+Outlook for Microsoft 365 for Mac
+Outlook 2024
+Outlook 2024 for Mac
+Outlook 2021
+Outlook 2021 for Mac
+Outlook 2019
+Outlook 2016
+Outlook.com
+Outlook for iOS
+Outlook on the web for Exchange Server 2016
+This article is for people who use a screen reader program such as Windows Narrator, JAWS, or NVDA with Windows tools or features and Microsoft 365 products. This article is part of the
+Accessibility help & learning
+content set where you can find more accessibility information on our apps. For general help, visit
+Microsoft Support
+.
+New Outlook
+Classic Outlook
+Outlook for Mac
+Outlook for iOS
+Outlook for Android
+Outlook on the web
+Use the calendar in new Outlook with your keyboard and a screen reader to do the essential basic tasks. You'll learn how to open and edit calendar events, join online meetings, and more.
+Note
+To learn more about screen readers, go to
+How screen readers work with Microsoft 365.
+In this topic
+Set up your calendar view
+Open, read, and edit calendar events
+Join an online meeting from Outlook calendar
+Set options for your calendar
+Print your calendar
+Set up your calendar view
+You can set up your calendar to show a selected day, a work week, a full week, or a month whichever is your preferred way of working.
+In Outlook, press
+Ctrl
++
+2
+to open the
+Calendar
+.
+Use the following keyboard shortcuts to select the calendar view:
+Press
+Alt
++ a number key to show a number of days from 1 to 7, starting from today. For example, press
+Alt
++
+7
+to show 7 days.
+To shift the calendar view between the day, work week, full week, and month views, first move the focus to the ribbon by pressing the
+Tab
+key or
+Shift
++
+Tab
+until you hear "New event," then press the
+Right arrow
+key until you hear the view you want, and then press
+Enter
+.
+Open, read, and edit calendar events
+To keep up with your busy schedule, you can quickly read and edit event details.
+Note
+You can only edit events that you've created. For example, you cannot edit meeting requests that you've received from someone else.
+In Outlook, press
+Ctrl
++
+2
+to open the
+Calendar
+.
+Do one of the following to move in the calendar:
+To move to the previous day, week, or month, press the
+Tab
+key until you hear "Go to previous," followed by the unit of time, and then press
+Enter
+.
+To move to the next day, week, or month, press the
+Tab
+key until you hear "Go to next," followed by the unit of time, and then press
+Enter
+.
+In any view, press the
+Tab
+key or
+Shift
++
+Tab
+to browse the events for the time period displayed. As you move, you'll hear "Event title," followed by the time, date, event location, and organizer of the selected event.
+To review the event in more detail, or open the event to edit it, press
+Enter
+. The event
+Details
+window opens.
+To browse the event details and options, press the
+Tab
+key. Your screen reader announces the details and options as you move.
+When finished, do one of the following:
+If you are editing a meeting, press
+Shift
++
+Tab
+until you hear "Send button," and then press
+Enter
+.
+If you are editing an appointment, press
+Shift
++
+Tab
+until you hear "Save button," and then press
+Spacebar
+.
+If you didn't change anything in the event, to close the event
+Details
+window, press
+Esc
+.
+When you leave the
+Details
+window, the focus moves to
+Calendar
+.
+Join an online meeting from Outlook calendar
+You can easily join Skype for Business or Microsoft Teams online meetings.
+Join a Skype for Business meeting
+In Outlook, press
+Ctrl
++
+2
+to open the
+Calendar
+.
+Press the
+Tab
+key until you hear the event you want to join, and then press
+Enter
+to open the event.
+Press the
+Tab
+key until you hear the link to join the meeting, and then press
+Enter
+. The
+Join Meeting Audio
+dialog opens.
+To join with full audio and video experience, press
+Enter
+. The
+Join Meeting Audio
+dialog closes and you're connected to the meeting.
+Tip
+To mute or unmute your microphone while in the meeting, press the
+Windows
+key+
+F4
+. To hang up, press
+Ctrl
++
+Enter
+.
+Join a Microsoft Teams meeting
+In Outlook, press
+Ctrl
++
+2
+to open the calendar.
+Press the
+Tab
+key until you hear the event you want to join, and then press
+Enter
+to open the event.
+Press the
+Tab
+key to select the
+Join
+button and then press
+Enter
+. The meeting opens in Microsoft Teams.
+To change the meeting audio and video settings, press the
+Tab
+key until you hear the setting you want to change, and then press
+Enter
+to change it. To join the meeting, press
+Shift
++
+Tab
+until you hear "Join now button," and then press
+Enter
+.
+To change meeting settings or to hang up, press the
+Tab
+key until you hear the option you want, and then press
+Enter
+.
+Set options for your calendar
+In the calendar settings, you can change the appearance of your calendar or choose to receive notifications. You can also modify your out-of-office messages and how you want to send them.
+In Outlook, to open the
+Settings
+window, press the
+Tab
+key or
+Shift
++
+Tab
+until you hear "Settings button," and then press
+Enter
+.
+Press the
+Tab
+key until you hear "Accounts tab item," then press the
+Down arrow
+key until you hear "Calendar," and then press
+Enter
+.
+To navigate between the Calendar settings, press the
+Tab
+key until you hear "Calendar category subtab," then use the
+Up
+and
+Down arrow
+keys to move between the subtabs.
+To navigate settings in a subtab, press the
+Tab
+key once to move the focus to the list of settings and then use
+Up
+or
+Down arrow
+key, then move between the settings by pressing the
+Tab
+key or
+Shift
++
+Tab
+. To select settings, press
+Enter
+.
+When done, to close the
+Settings
+window, press
+Alt
++
+F4
+.
+Print your calendar
+Print out a selected day, week, or calendar month in Outlook.
+In Outlook, press
+Ctrl
++
+2
+to open the
+Calendar
+.
+Select the calendar view you want to print.
+In the
+Calendar
+main window, press
+Ctrl
++
+P
+. A print preview opens.
+Press the
+Tab
+key until you hear "Print button," and then press
+Enter
+. The
+Print
+dialog opens.
+To choose a printer, press the
+Tab
+key or
+Shift
++
+Tab
+until you hear "Printer." Press
+Spacebar
+, and then press the
+Down arrow
+key until you hear the name of the printer you want to use. To select, press
+Spacebar
+.
+Press the
+Tab
+key or
+Shift
++
+Tab
+to browse other printing options. When done, press the
+Tab
+key until you hear "Print button," and then press
+Spacebar
+. The calendar is printed.
+See also
+Use a screen reader to read and reply to a meeting request in Outlook
+Use a screen reader to schedule appointments or meetings in Outlook
+Basic tasks using a screen reader with email in Outlook
+Keyboard shortcuts for Outlook
+Use a screen reader to explore and navigate Outlook Calendar
+Set up your device to work with accessibility in Microsoft 365
+Use the calendar in Outlook with your keyboard and screen reader to do the essential basic tasks. You'll learn how to open and edit calendar events, join online meetings, and more.
+Note
+To learn more about screen readers, go to
+How screen readers work with Microsoft 365.
+In this topic
+Set up your calendar view
+Open, read, and edit calendar events
+Join a meeting from Outlook calendar
+Print your event
+Set up your calendar view
+You can set up your calendar to show a selected number of days, a work week, a full week, or a month whichever is your preferred way of working.
+In Outlook, press
+Ctrl
++
+2
+to open the calendar. You hear the name of the current view, for example, "Work week view."
+Use the following keyboard shortcuts to select the calendar view:
+Press
+Alt
++ a number key to show a number of days from 1 to 10, starting from today. For example, press
+Alt
++
+0
+(zero) to show 10 days.
+Press
+Ctrl
++
+Alt
++
+2
+to show the work week view.
+Press
+Ctrl
++
+Alt
++
+3
+to show the full week view.
+Press
+Ctrl
++
+Alt
++
+4
+to show the month view.
+Open, read, and edit calendar events
+In Outlook, press
+Ctrl
++
+2
+to open the calendar. You hear the name of the current view, for example, "Work week view," followed by the number of events in the view.
+Press
+Ctrl
++
+Period
+(
+⁠.⁠
+) to browse the events in the current view. For each event, you hear its name, time, and organizer. Press
+Ctrl
++
+Comma
+(
+⁠,⁠
+) to move to the previous event.
+Use the following keyboard shortcuts to move in the calendar:
+Press
+Ctrl
++
+Right
+or
+Left arrow
+key to move to the next or previous day.
+Press
+Alt
++
+Down
+or
+Up arrow
+key to move to the next or previous week.
+Press
+Alt
++
+Page down
+or
+Page up
+key to move to the next or previous month.
+If you want to edit the currently selected event, press
+Enter
+, and then use the following keyboard shortcuts to change its details:
+Press
+Alt
++
+U
+to move the focus to the
+Subject
+field and then use the keyboard to edit the text.
+Press
+Alt
++
+I
+to move the focus to the
+Location
+field and then use the keyboard to edit the text.
+Press
+Alt
++
+T
+to move the focus to the
+Start time
+row. To change the start date, press the
+Down
+or
+Up arrow
+key to move the date forward or backward by a day. To change the time, press the
+Tab
+key until you hear "Start time," and then press the
+Down
+or
+Up arrow
+key to move the time forward or backward by half an hour.
+Press
+Alt
++
+D
+to move the focus to the
+End time
+row. To change the end date, press the
+Down
+or
+Up arrow
+key to move the date forward or backward by a day. To change the time, press the
+Tab
+key until you hear "End time," and then press the
+Down
+or
+Up arrow
+key to move the time forward or backward by half an hour.
+To edit the description of the event, press the
+Tab
+key until you hear "Message editing," and then use the keyboard to edit the text. With JAWS, you hear "Notes edit." With NVDA, you hear "Message edit multi-line."
+Press
+Ctrl
++
+S
+to save your changes. To close the event window, press
+Esc
+.
+Join a meeting from Outlook calendar
+Note
+To join a Skype for Business or Microsoft Teams meeting as described below, make sure you have Skype for Business or Microsoft Teams installed on your computer, and you're signed in with your work or school account.
+Join a Skype for Business meeting
+In Outlook, press
+Ctrl
++
+2
+to open the calendar view. The screen reader announces the view that opens, such as
+Work Week
+view or
+Month
+view, and the number of items in that view. The focus is on today.
+Note
+You cannot navigate today's calendar events in
+Month
+view, so if you're in
+Month
+view, first change to another view. To change to, for example,
+Work Week
+view, press
+Ctrl
++
+Alt
++
+2
+.
+To navigate to the upcoming calendar events for today, press the
+Tab
+key. To navigate to the past items, press
+Shift
++
+Tab
+.
+When you hear the meeting, you want to join, press
+Ctrl
++
+O
+. The calendar item opens.
+To join the meeting, press
+Alt
++
+H
+,
+Y
+. The Skype for Business meeting window opens. To join with full audio and video experience, press
+Enter
+.
+Tip
+To mute or unmute your microphone, press the
+Windows
+key+
+F4
+.
+To hang up, press
+Ctrl
++
+Enter
+.
+Join a Microsoft Teams meeting
+In Outlook, press
+Ctrl
++
+2
+to open the calendar. The screen reader announces the view that opens, such as
+Work Week
+view or
+Month
+view, and the number of items in that view. The focus is on today.
+To navigate to the upcoming calendar events for today, press the
+Tab
+key. To navigate to the previous items, press
+Shift
++
+Tab
+.
+When you hear the meeting, you want to join, press
+Ctrl
++
+O
+. The calendar item opens.
+To join the meeting, press
+Alt
++
+H
+,
+T
+,
+J
+. The Microsoft Teams app opens and you're now ready to choose how to join the meeting. To join with the default settings, press the
+Tab
+key until you hear "Join now," and press
+Enter
+.
+Tip
+To mute or unmute your microphone, press
+Ctrl
++
+Shift
++
+M
+.
+To hang up, press
+Ctrl
++
+Shift
++
+B
+.
+Print your event
+In Outlook, press
+Ctrl
++
+2
+to open the calendar. You hear the name of the current view, for example, "Work week view," followed by the number of events in the view.
+Press
+Ctrl
++
+Period
+(
+⁠.⁠
+) to browse the events in the current view. For each event, you hear its name, time, and organizer. Press
+Ctrl
++
+Comma
+(
+⁠,⁠
+) to move to the previous event.
+Use the following keyboard shortcuts to move in the calendar:
+Press
+Ctrl
++
+Right
+or
+Left arrow
+key to move to the next or previous day.
+Press
+Alt
++
+Down
+or
+Up arrow
+key to move to the next or previous week.
+Press
+Alt
++
+Page down
+or
+Page up
+key to move to the next or previous month.
+To open the currently selected event, press
+Enter
+.
+Press
+Alt
++
+F
+, and then press
+P
+. The
+Print
+menu opens.
+To select which printer you want to use, press
+I
+, and then find the printer with the
+Up
+and
+Down arrow
+keys, and press
+Enter
+.
+To print the event, press
+Alt
++
+P
+, and then press
+P
+.
+If you are printing to a file, for example, to convert the event to PDF format, type a file name, and then press
+Enter
+to create the file.
+The
+Print
+menu closes and the focus returns to the event window.
+See also
+Use a screen reader to read and reply to a meeting request in Outlook
+Use a screen reader to schedule appointments or meetings in Outlook
+Basic tasks using a screen reader with email in Outlook
+Keyboard shortcuts for Outlook
+Use a screen reader to explore and navigate Outlook Calendar
+Set up your device to work with accessibility in Microsoft 365
+Use the calendar in Outlook for Mac with VoiceOver, the built-in macOS screen reader, to do the essential basic tasks. You'll learn how to open, read, and edit calendar events you've created, join Microsoft Teams meetings, and more.
+Note
+This topic assumes that you are using the built-in macOS screen reader, VoiceOver. To learn more about using VoiceOver, go to
+VoiceOver Getting Started Guide.
+In this topic
+Set up your calendar view
+Open, read, and edit calendar events
+Join a Microsoft Teams meeting from the Outlook calendar
+Print your calendar
+Set up your calendar view
+You can set up your calendar to show a selected day, a work week, a full week, or a month whichever is your preferred way of working.
+In Outlook, press
+Command
++
+2
+to open the calendar. You hear the current time frame, and if any events are scheduled.
+Use the following keyboard shortcuts to select the calendar view:
+Press
+Control
++
+Command
++
+1
+to show the day view.
+Press
+Control
++
+Command
++
+2
+to show the work week view.
+Press
+Control
++
+Command
++
+3
+to show the full week view.
+Press
+Control
++
+Command
++
+4
+to show the month view.
+Open, read, and edit calendar events
+To keep up with your busy schedule, you can quickly read and edit event details.
+Note
+You can only edit events that you've created. For example, you cannot edit meeting requests that you've received from someone else.
+In the Outlook calendar, navigate to the event you want to open and press
+Control
++
+Option
++
+Spacebar
+or
+Command
++
+O
+. The event details window opens.
+To browse the details of the event, press the
+Tab
+key or
+Shift
++
+Tab
+. VoiceOver announces the details as you move. To close the details window without editing the details, press
+Command
++
+W
+.
+To edit the event details, in the event details window, press
+Shift
++
+Tab
+until you hear "Edit event button," and press
+Control
++
+Option
++
+Spacebar
+. To navigate the editable fields and menus, press the
+Tab
+key or
+Shift
++
+Tab
+.
+To save your changes, do one of the following:
+If you are editing a meeting, press
+Shift
++
+Tab
+until you hear "Send," and then press
+Control
++
+Options
++
+Spacebar
+.
+If you are editing an appointment, press
+Shift
++
+Tab
+until you hear "Save," and then press
+Control
++
+Option
++
+Spacebar
+.
+The event is changed and the focus returns to calendar grid.
+Join a Microsoft Teams meeting from the Outlook calendar
+Note
+To join a Microsoft Teams meeting as described below, make sure you have the Microsoft Teams app installed on your Mac, and you're signed in with your work or school account.
+In the Outlook calendar, navigate to the event you want to join and press
+Control
++
+Option
++
+Spacebar
+or
+Command
++
+O
+to open the event details.
+Press the
+Tab
+key until you hear "Join Teams meeting button," and press
+Control
++
+Option
++
+Spacebar
+.
+The Microsoft Teams app opens and you're now ready to choose how to join the meeting. To join with the default settings, press the
+Tab
+key until you hear "Join now," and press
+Control
++
+Option
++
+Spacebar
+.
+Tip
+To mute or unmute your microphone, press
+Shift
++
+Command
++
+M
+. To hang up, press
+Shift
++
+Command
++
+B
+.
+To learn more about how to join Microsoft Teams meetings, refer to
+Use a screen reader to join a meeting in Microsoft Teams
+.
+Print your calendar
+Print a selected calendar day, week, or month in Outlook.
+In Outlook, set the calendar to display the view you want to print as instructed in
+Set up your calendar view
+.
+Navigate to the day, week, or month you want to include in the print.
+To open the print dialog, press
+Command
++
+P
+. You hear the name of the default printer.
+To choose a printer, press
+Spacebar
+, press the
+Down arrow
+key until you hear the name of the printer you want to use, and then press
+Control
++
+Option
++
+Spacebar
+to select.
+Press the
+Tab
+key or
+Shift
++
+Tab
+to browse and change other printing options. When done, press the
+Tab
+key until you hear "Print," and press
+Control
++
+Option
++
+Spacebar
+. The calendar is printed.
+See also
+Use a screen reader to read and reply to a meeting request in Outlook
+Use a screen reader to schedule appointments or meetings in Outlook
+Keyboard shortcuts for Outlook
+Set up your device to work with accessibility in Microsoft 365
+Use a screen reader to explore and navigate Outlook Calendar
+Use the calendar in Outlook for iOS with VoiceOver, the built-in iOS screen reader, to do the essential basic tasks. You'll learn how to set up your calendar view, open, read, and edit calendar events you've created, join Microsoft Teams meetings, and more.
+Note
+This topic assumes that you are using the built-in iOS screen reader, VoiceOver. To learn more about using VoiceOver, visit
+Apple accessibility
+.
+In this topic
+Set up your calendar view
+Open, read, and edit calendar events
+Join a Microsoft Teams meeting from the Outlook for iOS calendar
+Respond to event reminders
+Set up your calendar view
+You can choose between three options to view the calendar:
+Agenda
+,
+Day
+,
+3-Day
+, or
+Month
+view. The default option is
+Agenda
+.
+In the Outlook for iOS calendar, tap near the top of the screen with four fingers, flick right until you hear "Change view," followed by the current view, for example, "Agenda view," and then double-tap the screen.
+A list of the view options opens. Flick right or left until you hear the option you want, and then double-tap the screen.
+Open, read, and edit calendar events
+To keep up with your busy schedule, you can quickly read and edit event details.
+Note
+You can only edit events that you've created. For example, you cannot edit meeting requests that you've received from someone else.
+In the Outlook for iOS calendar, flick right until you hear "Change view," and do one of the following:
+In the
+Agenda
+view, flick right until you hear "Agenda." To browse to events in the future, flick up.
+In the
+Day
+view, flick right until you hear "Day today," followed by the current date and the number of events scheduled for today. To review events in the coming days, flick up.
+In the
+3-Day
+view, flick right until you hear "Timeslot events," followed by the details of the first event of the day. To browse to events in the future, flick up.
+In the
+Month
+view, flick right until you hear the first event in the current month's view. To browse to events in the future, flick right. If you have multiple entries for a single day, double-tap the screen to switch to the
+Agenda
+view and review each event separately.
+When you're on an event whose details you want to review, double-tap the screen. The event details open in a new window.
+To hear the event details, flick right or left or slide one finger down the screen. VoiceOver announces the details as you move. To close the details window without editing the details, flick left until you hear "Back button," and double-tap the screen.
+To edit the event, in the event details window, flick right or left until you hear "Edit," and double-tap the screen. The
+Edit Event
+window opens.
+Flick right until you hear the event detail you want to edit, double-tap the screen, and make the changes you want.
+When finished, to save your changes, flick left until you hear "Done," and double-tap the screen. The focus returns to the event details window.
+To close the event details window, flick left until you hear "Back button," and double-tap the screen. The focus returns to the calendar grid.
+Join a Microsoft Teams meeting from the Outlook for iOS calendar
+Note
+To join a Microsoft Teams meeting as described below, make sure you have the Microsoft Teams app installed on your phone, the app is running, and you've signed in to Microsoft Teams with your work or school account.
+In your Outlook for iOS calendar, move the focus to the event you want to join. To open the meeting details window, double-tap the screen.
+Flick right until you hear "Join button," and double-tap the screen.
+The Microsoft Teams app opens, and you're connected to the meeting.
+To learn more about how to join Microsoft Teams meetings, refer to
+Use a screen reader to join a meeting in Microsoft Teams
+.
+Respond to event reminders
+When you have events scheduled in the Outlook app and you have turned on notifications, VoiceOver announces reminders of events at the predefined time prior to the event and an event reminder pops up on the screen. The focus moves to the reminder.
+To respond to the reminder, do one of the following:
+To open the event details, flick right until you hear "View," and double-tap the screen.
+To close the reminder until the event time, flick right until you hear "Snooze," and double-tap the screen.
+To close the reminder without taking any action, flick right until you hear "Close," and double-tap the screen.
+See also
+Use a screen reader to read and reply to a meeting request in Outlook
+Use a screen reader to schedule appointments or meetings in Outlook
+Set up your device to work with accessibility in Microsoft 365
+Use a screen reader to explore and navigate Outlook Calendar
+Use the calendar in Outlook for Android with TalkBack, the built-in Android screen reader, to do the essential basic tasks. You'll learn how to open, read, and edit calendar events you've created, join Microsoft Teams meetings, and respond to event reminders.
+Note
+This topic assumes that you are using the built-in Android screen reader, TalkBack. To learn more about using TalkBack, go to
+Android accessibility
+.
+In this topic
+Open, read, and edit calendar events
+Join a Microsoft Teams meeting from the Outlook for Android calendar
+Respond to event reminders
+Open, read, and edit calendar events
+To keep up with your busy schedule, you can quickly read and edit event details.
+Note
+You can only edit events that you've created. You can't edit meeting requests that you've received from someone else.
+In the Outlook for Android calendar, slide one finger across the screen until you hear the title of the event you want to review, and double-tap the screen. The event details window opens.
+Tip
+If you have many events in your calendar, you can browse them by swiping up and down with two fingers.
+To hear the event title, day, date, time, location, and other information, flick right or left or slide one finger down the screen. TalkBack announces the details as you move. To close the details window without editing the details, flick down-then-left.
+To edit the event, in the event details window, flick right or left until you hear "Edit button," and double-tap the screen. The
+Edit Event
+window opens.
+Flick right until you hear the event detail you want to edit, and then double-tap the screen. Make the changes you want. When finished, flick left until you hear "Save," and double-tap the screen.
+Tip
+To cancel the event, flick right until you hear "Cancel event," and double-tap the screen.
+To close the event details window, flick left until you hear "Back button," and then double-tap the screen.
+Join a Microsoft Teams meeting from the Outlook for Android calendar
+Note
+To join a Microsoft Teams meeting as described below, make sure you have the Microsoft Teams app installed on your phone, the app is running, and you've signed in to Microsoft Teams with your work or school account.
+In the Outlook for Android calendar, move the focus to the event you want to join. When an event is a Microsoft Teams meeting, TalkBack announces "At location Microsoft Teams meeting." To open the meeting details window, double-tap the screen.
+Flick right until you hear "Join button," and double-tap the screen. The Microsoft Teams app opens, and you're connected to the meeting.
+To learn more about how to join Microsoft Teams meetings, refer to
+Use a screen reader to join a meeting in Microsoft Teams
+.
+Respond to event reminders
+If you have notifications turned on for your Outlook Calendar events, you hear a chime at the predefined time prior to the event.
+To bring up the event reminder, flick down from the top of the screen with two fingers to open the notification shade.
+Flick right until you hear "Outlook," followed by the event details.
+Do one of the following:
+To open the event details window to review the details, double-tap the screen.
+To close the reminder without taking any action, double-tap and hold the screen, flick right until you hear "Done," and double-tap the screen.
+See also
+Use a screen reader to read and reply to a meeting request in Outlook
+Use a screen reader to schedule appointments or meetings in Outlook
+Set up your device to work with accessibility in Microsoft 365
+Use a screen reader to explore and navigate Outlook Calendar
+Use the calendar in Outlook on the web with your keyboard and a screen reader to do the essential basic tasks. You'll learn how to open and edit calendar events, join online meetings, and more.
+Note
+To learn more about screen readers, go to
+How screen readers work with Microsoft 365
+.
+When you use Outlook on the web, we recommend that you use Microsoft Edge as your web browser. Because Outlook on the web runs in your web browser, the keyboard shortcuts are different from those in the desktop program. For example, you'll use
+Ctrl
++
+F6
+instead of
+F6
+for jumping in and out of the commands. Also, common shortcuts like
+F1
+(Help) and
+Ctrl
++
+O
+(Open) apply to the web browser – not Outlook on the web.
+We're currently updating Outlook.office.com (Outlook on the Web). Some people are already using the new Outlook, and for others the classic version will be the default experience until we complete the update. For more information, go to
+Get help with the new Outlook on the web
+. Since the instructions in this topic apply to the new experience, we recommend that you switch from the classic experience to the new Outlook. To switch to the new Outlook, press Ctrl+F6 until you hear "Command, Try the new Outlook," and then press Enter. If you hear "Command toolbar" instead of "Command, Try the new Outlook," you're already using the new Outlook.
+In this topic
+Set up your calendar view
+Open, read, and edit calendar events
+Join an online meeting from Outlook calendar
+Set options for your calendar
+Print your calendar
+Set up your calendar view
+You can set up your calendar to show a selected day, a work week, a full week, or a month whichever is your preferred way of working.
+In Outlook, press
+Ctrl
++
+Shift
++
+2
+to open the
+Calendar
+.
+Use the following keyboard shortcuts to select the calendar view:
+Press
+Shift
++
+Alt
++
+1
+to show the day view.
+Press
+Shift
++
+Alt
++
+2
+to show the work week view.
+Press
+Shift
++
+Alt
++
+3
+to show the full week view.
+Press
+Shift
++
+Alt
++
+4
+to show the month view.
+Open, read, and edit calendar events
+To keep up with your busy schedule, you can quickly read and edit event details.
+Note
+You can only edit events that you've created. For example, you cannot edit meeting requests that you've received from someone else.
+In Outlook, press
+Ctrl
++
+Shift
++
+2
+to open the
+Calendar
+.
+Press
+Ctrl
++
+F6
+until you hear "Jump to calendar view options," and press
+Enter
+. Do one of the following to move in the calendar:
+To move to the previous day, week, or month, press the
+Right arrow
+key until you hear "Go to previous," followed by the unit of time, and press
+Enter
+.
+To move to the next day, week, or month, press the
+Right arrow
+key until you hear "Go to next," followed by the unit of time, and press
+Enter
+.
+In any view, press the
+Tab
+key or
+Shift
++
+Tab
+to browse the events for the time period displayed. As you move, you'll hear the "Event title" followed by the hours, date, event location, and organizer of the selected event.
+To review the event in more detail, or open the event to edit it, press
+Enter
+. The event
+Details
+window opens. You hear "Add a title for the event."
+To browse the event details and options, press the
+Tab
+key. Narrator announces the details and options as you move.
+When finished, do one of the following:
+If you are editing a meeting, press
+Shift
++
+Tab
+until you hear "Send button," and then press
+Enter
+.
+If you are editing an appointment, press
+Shift
++
+Tab
+until you hear "Save button," and then press
+Spacebar
+.
+If you didn't change anything in the event, to close the event
+Details
+window, press
+Esc
+.
+The event is changed, and the focus moves to
+Calendar
+.
+Join an online meeting from Outlook calendar
+You can easily join Skype for Business or Microsoft Teams online meetings.
+Join a Skype for Business meeting
+In Outlook on the web, press
+Ctrl
++
+Shift
++
+2
+to open the calendar.
+Press the
+Tab
+key until you hear the event you want to join, and press
+Enter
+to open the event.
+Press the
+Tab
+key until you hear "Link to join the meeting," and press
+Enter
+. The
+Join Meeting Audio
+dialog opens.
+To join with full audio and video experience, press
+Enter
+. The
+Join Meeting Audio
+dialog closes and you're connected to the meeting.
+Tip
+To mute or unmute your microphone while in the meeting, press the
+Windows
+key+
+F4
+. To hang up, press
+Ctrl
++
+Enter
+.
+Join a Microsoft Teams meeting
+In Outlook on the web, press
+Ctrl
++
+Shift
++
+2
+to open the calendar.
+Press the
+Tab
+key until you hear the event you want to join, and press
+Enter
+to open the event.
+Press the
+Tab
+key until you hear "Join button," and press
+Enter
+. The
+Join conversation
+tab is opened in your browser.
+You might be prompted to confirm you want to switch apps away from Calendar. If so, press the
+Tab
+key until you hear "Yes button," and press
+Enter
+.
+To use Microsoft Teams on the web, press the
+Tab
+key until you hear "Join meeting from this browser," and press
+Enter
+.
+Type your credentials when asked, and press
+Enter
+. You hear "Choose your audio and video settings."
+To change the settings, press the
+Tab
+key until you hear the setting you want to change, and press
+Enter
+to change it. To join the meeting, press
+Shift
++
+Tab
+until you hear "Join now button," and press
+Enter
+.
+To change meeting settings or to hang up, press the
+Tab
+key until you hear the option you want, and then press
+Enter
+.
+Set options for your calendar
+In the calendar settings, you can change the appearance of your calendar or choose to receive notifications. You can also modify your out-of-office messages and how you want to send them.
+In Outlook, to open the
+Settings
+pane, press the
+Tab
+key or
+Shift
++
+Tab
+until you hear "Settings button," and then press
+Enter
+.
+To navigate between the available settings in the pane, press the
+Tab
+key or
+Shift
++
+Tab
+. Narrator announces the settings as you move through the pane.
+To select a setting or open further options from a setting, press
+Enter
+. To move between the settings, press the
+Tab
+key or
+Shift
++
+Tab
+.
+When done, to exit the
+Settings
+pane, press
+Esc
+.
+Print your calendar
+Print out a selected day, week, or calendar month in Outlook.
+In Outlook, press
+Ctrl
++
+Shift
++
+2
+to open the calendar.
+Select the calendar view you want to print.
+In the
+Calendar
+main window, Press
+Ctrl
++
+F6
+until you hear "calendar view," and press
+Ctrl+P
+. Then press the
+Tab
+key until you hear "Print," and press
+Spacebar
+. A print preview opens.
+To open the print dialog, press the
+Tab
+key until you hear "Print button," and press
+Enter
+. The dialog opens with the focus on the
+Printer
+combo box.
+To choose a printer, press the
+Tab
+key or
+Shift
++
+Tab
+until you hear "Printer." Press
+Spacebar
+, and then press the
+Down arrow
+key until you hear the name of the printer you want to use. To select, press
+Spacebar
+.
+Press the
+Tab
+key or
+Shift
++
+Tab
+to browse other printing options. When done, press the
+Tab
+key until you hear "Print button," and then press
+Spacebar
+. The calendar is printed.
+See also
+Use a screen reader to read and reply to a meeting request in Outlook
+Use a screen reader to schedule appointments or meetings in Outlook
+Basic tasks using a screen reader with email in Outlook
+Keyboard shortcuts for Outlook
+Use a screen reader to explore and navigate Outlook Calendar
+Technical support for customers with disabilities
+Microsoft wants to provide the best possible experience for all our customers. If you have a disability or questions related to accessibility, please contact the
+Microsoft Disability Answer Desk
+for technical assistance. The Disability Answer Desk support team is trained in using many popular assistive technologies and can offer assistance in English, Spanish, French, and American Sign Language. Please go to the Microsoft Disability Answer Desk site to find out the contact details for your region.
+If you are a government, commercial, or enterprise user, please contact
+the enterprise Disability Answer Desk
+.

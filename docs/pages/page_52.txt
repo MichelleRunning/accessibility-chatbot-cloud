@@ -1,0 +1,85 @@
+URL: https://support.microsoft.com/en-us/education/learning-accelerators/use-immersive-reader-in-microsoft-teams
+Use Immersive Reader in Microsoft Teams
+Applies To
+Immersive Reader
+Microsoft Teams
+Microsoft Teams for Education
+Get help with Copilot
+How do I use Immersive Reader in Microsoft Teams?
+Tell me about read Aloud in Microsoft Edge.
+Hear posts, chat messages, and assignments read aloud using Immersive Reader in Microsoft Teams for Education. Immersive Reader also includes grammar tools such as Parts of Speech and Picture Dictionary.
+Launch Immersive Reader from a message
+Hover over a message with your cursor or tap with your finger on a touch screen device.
+Select
+More actions
+, and then
+Immersive Reader.
+Immersive Reader will launch as a full-screen experience.
+Launch Immersive Reader from an assignment
+If you're a student, open an assignment and select
+Immersive Reader
+.
+If you're an educator, open an assignment and select
+Student view
+, then
+Immersive Reader
+.
+Immersive Reader will launch as a full-screen experience.
+Immersive Reader features
+You can do one or more of the following in
+Immersive Reader
+, depending on how you'd like to focus on the message or assignment text.
+Select
+Play
+to hear your document read aloud by a male or female narrator and to see the text highlighted simultaneously. The narrator starts reading from the top of your page by default, unless you have selected a word, in which case it will start reading from the selected word. Choose
+Pause
+to stop narration.
+Select
+Voice Options
+on the top right of the document to change the speed of narration.
+Text Options
+You can change the appearance of your document by using
+Text Options
+. Text options can help you focus on your content and remove visual distraction.
+Set
+Text Size
+,
+Spacing
+,
+Font
+, and
+Themes
+that suit your learning needs. You can increase or decrease text size and the amount of spacing between letters and words. The Theme color you select becomes the background color of the document.
+Switch on
+Show Source Formatting
+to retain formatting from the original text, such as bolding or underlining.
+Parts of Speech in Grammar Options
+Select one or more of the following options:
+Syllables
+to break words into syllables.
+Nouns
+to highlight nouns in your document in purple.
+Verbs
+to highlight verbs in your document in red.
+Adjectives
+to highlight adjectives in your document in green.
+Adverbs
+to highlight adverbs in your document in yellow.
+Switch on
+Show labels
+to see the label underneath the highlighted parts of speech.
+Reading Preferences
+Line Focus
+enables readers to narrow the focus of their reading experience by highlighting sets of one, three, or five lines within their chosen material in Immersive Reader. Use the toggle to turn it on or off.
+Picture Dictionary
+gives you the ability to click on any single word to hear it read aloud and see a picture that helps define the word.
+Translate
+lets you translate your text into other languages by word or document.
+Reading Coach
+provides students with personalized and independent practice based on words that a student has mispronounced.
+Learn more about Reading Coach.
+Select
+Close
+to exit
+Immersive Reader
+.

@@ -1,0 +1,682 @@
+URL: https://support.microsoft.com/en-us/accessibility/windows/voice-access/voice-access-command-list
+Voice access command list
+Get help with Copilot
+What are the steps to manage voice access and microphone?
+Show me how I can't seem to select text with voice.
+Show me how edit text with voice.
+This article is for people who want to control their PC and author text using their voice with Windows. This article is part of the
+Accessibility support for Windows
+content set where you can find more information on Windows accessibility features. For general help, visit
+Microsoft Support home
+.
+Voice access is a feature in Windows 11 that enables everyone to control their PC and author text using only their voice and without an internet connection. For example, you can open and switch between apps, browse the web, and read and author email using your voice. For more information, go to
+Use voice access to control your PC & author text with your voice
+.
+Voice access is available in Windows 11, version 22H2 and later. For more information on Windows 11 22H2 new features, and how to get the update, see
+What's new in recent Windows updates
+. Not sure which version of Windows you have? See:
+Find Windows version
+.
+Available languages
+Voice access is currently available in English, Spanish, French, German, Chinese, and Japanese.  For more details about supported languages and how to download language files, go to
+Set up voice access
+.
+Available commands
+Manage voice access and microphone
+Interact with apps
+Interact with controls
+Interact with overlays
+Control mouse and keyboard
+Dictate text
+Select text
+Edit text
+Format text
+Navigate text
+Dictate punctuation marks
+Dictate symbols
+Manage voice access and microphone
+To do this
+Say this
+Get voice access to listen to you.
+"Voice access wake up"
+"Unmute"
+Put voice access to sleep.
+"Voice access sleep"
+"Mute"
+Turn off the voice access microphone.
+"Turn off microphone"
+Close voice access.
+"Turn off voice access"
+"Stop voice access"
+"Close voice access"
+"Exit voice access"
+"Quit voice access"
+Find out what command to use.
+"What can I say"
+"Show all commands"
+"Show command list"
+"Show commands"
+Access voice access settings menu.
+"Open voice access settings"
+Access voice access help menu.
+"Open voice access help"
+Access the voice access tutorial.
+"Open voice access guide"
+Switch to commands only mode.
+"Commands mode"
+"Switch to command mode"
+Switch to dictation only mode.
+"Dictation mode"
+"Switch to dictation mode"
+Switch to default mode (command and dictation).
+"Default mode"
+"Switch to default mode"
+Interact with apps
+To do this
+Say this
+Open a new app.
+"Open <app name>"
+"Start <app name>"
+"Show <app name>"
+Close an open app.
+"Close <app name>"
+"Close window"
+"Exit <app name>"
+"Quit <app name>"
+Switch to an existing app.
+"Switch to <app name>"
+"Go to <app name>"
+Minimize a window.
+"Minimize window"
+"Minimize <app name>"
+Maximize a window.
+"Maximize window"
+"Maximize <app name>"
+Restore a window.
+"Restore window"
+"Restore <app name>"
+Open task switcher.
+"Show task switcher"
+"List all windows"
+"Show all windows"
+Go to desktop.
+"Go to desktop"
+"Go home"
+"Minimize all windows"
+Search on the browser, where "search engine" can be Bing, Google, or YouTube, and "x" is what you’re looking for.
+"Search on <search engine> for <x>"
+Snap window to a specific direction, where "direction" is left, right, top-left, top-right, bottom-left, or bottom-right.
+"Snap window to <direction>"
+"Snap the window to <direction>"
+To search for an entity (Entity can be a file or an application) on your windows PC.
+"Search <Entity>"
+"Search Windows for <Entity>"
+"Search for <Entity>"
+Interact with controls
+To do this
+Say this
+Select an item.
+"Click <item name>"
+"Tap <item name>"
+Double-click an item.
+"Double-click <item name>"
+"Mouse double-click"
+Put focus on an item.
+"Move to <item name>"
+"Focus on <item name>"
+Expand a list.
+"Expand <item name>"
+Toggle between states.
+"Toggle <item name>"
+"Flip <item name>"
+Scroll in a specific direction.
+"Scroll <direction>"
+Start scrolling in a specific direction.
+"Start scrolling <direction>"
+Stop scrolling.
+"Stop scrolling"
+"Stop"
+Move a slider in a specific direction by a certain distance, where "direction" is up, down, left, or right and "value" is the distance.
+"Move slider <direction> <value> times"
+Interact with overlays
+To do this
+Say this
+Show number overlays on your screen.
+"Show numbers"
+"Show numbers everywhere"
+Show number overlays on the app you are working on.
+"Show numbers here"
+Show number overlays on a specific app or window.
+"Show numbers on <app name>"
+Show number over the taskbar.
+"Show numbers on taskbar"
+Remove number overlays.
+"Hide numbers"
+"Cancel"
+Select a numbered item.
+"Click <number>"
+"<number>"
+Show grid overlay on your screen.
+"Show grid"
+"Show grid everywhere"
+"Show window grid"
+Show grid overlay on the window you are working on.
+"Show grid here"
+Remove grid overlay.
+"Hide grid"
+"Cancel"
+Drill down into the grid.
+"<number>"
+Drill down into the grid multiple steps at once.
+"Mouse grid <number> <number> <number> <number> <number>"
+Revert to the previous state of the grid.
+"Undo"
+"Undo that"
+Mark an object to drag.
+"Mark"
+"Mark <number>"
+Drop the marked object into a location.
+"Drag"
+Control mouse and keyboard
+To do this
+Say this
+Perform a left click.
+"Click"
+"Tap"
+"Left click"
+Perform a right click.
+"Right click"
+Perform a double-click.
+"Double-click"
+Perform a triple-click.
+"Triple-click"
+Press a key.
+"Press <key>"
+Press a key multiple times.
+"Press <key> <count> times"
+Press a key combination.
+"Press <key1> <key2>..."
+"Press <key1> and/plus <key2>..."
+Press and hold down a key.
+"Press and hold <key>"
+Release the held down key.
+"Release <key>"
+"Release"
+Press the keyboard Esc key to close menu flyouts like context menus or dropdown menus.
+"Dismiss"
+Press the keyboard Backspace key to fix mistakes made during dictation.
+"Backspace"
+Press the keyboard Enter key to move to a new line while dictating text.
+"Enter"
+Press the keyboard Tab key to quickly navigate through fields on the UI.
+"Tab"
+Press the keyboard Delete key to fix mistakes made during dictation.
+"Delete"
+Move your mouse pointer continuously in a specified direction, where "direction" can be up, down, left, right, top-left, top-right, bottom-left, or bottom-right.
+"Move mouse <direction>"
+Move your mouse pointer by a fixed distance in a specific direction, where "direction" can be up, down, left, right, top-left, top-right, bottom-left, or bottom-right.
+"Move mouse <direction> <distance>"
+Drag your mouse pointer in the given direction, where "direction" can be up, down, left, right, top-left, top-right, bottom-left, or bottom-right.
+"Drag mouse <direction>"
+Increase or decrease the speed of mouse pointer movement.
+"Move faster"
+"Faster"
+"Move slower"
+"Slower"
+Stop moving your mouse pointer.
+"Stop"
+"Stop moving"
+Dictate text
+To do this
+Say this
+Insert text in a text box.
+"<text>"
+Insert a voice access command as text in a text box.
+"Type <voice access command>"
+"Dictate <voice access command>"
+Insert text at the cursor and capitalize the first letter of each word.
+"Caps <text>"
+Insert text at the cursor without any white space before the text.
+"No space <text>"
+Open the touch keyboard.
+"Show touch keyboard"
+"Show keyboard"
+Close the touch keyboard.
+"Hide touch keyboard"
+"Hide keyboard"
+Spell out text letter by letter.
+"Spell out"
+Spell out selected text or last dictated text letter by letter.
+"Spell that"
+Correct the selected text or last dictated text.
+"Correct that"
+Correct specific text.
+"Correct <text>"
+Improve recognition of complex/hard to pronounce word
+"Add to vocabulary"
+Turn on fluid dictation
+“Turn on fluid dictation”
+Turn off fluid dictation
+“Turn off fluid dictation”
+Select text
+To do this
+Say this
+Select the last text you dictated.
+"Select that"
+Select all text in a text box.
+"Select all"
+Select specific text in a text box.
+"Select <text>"
+Select a range of text in a text box.
+"Select from <text 1> to <text 2>"
+"Select <text 1> through <text 2>"
+Select the previous or next word.
+"Select previous word"
+"Select last word"
+"Select next word"
+Select the desired number of previous or next words.
+"Select previous <count> words"
+"Select last <count> words"
+"Select next <count> words"
+Select the previous or next character.
+"Select previous character"
+"Select last character"
+"Select next character"
+Select the desired number of previous or next characters.
+"Select previous <count> characters"
+"Select backward <count> characters"
+"Select last <count> characters"
+"Select forward <count> characters"
+"Select next <count> characters"
+Select the previous line.
+"Select previous line"
+"Select last line"
+Select the desired number of previous or next lines.
+"Select previous <count> lines"
+"Select backward <count> lines"
+"Select last <count> lines"
+"Select forward <count> lines"
+"Select next <count> lines"
+Select the previous or next paragraph.
+"Select previous paragraph"
+"Select last paragraph"
+"Select next paragraph"
+Select the desired number of previous or next paragraphs.
+"Select previous <count> paragraphs"
+"Select last <count> paragraphs"
+"Select next <count> paragraphs"
+Select the current word at the text cursor.
+"Select word"
+"Select this word"
+Select the current line at the text cursor.
+"Select line"
+"Select this line"
+Select the current paragraph at text cursor.
+"Select paragraph"
+"Select this paragraph"
+Clear selected text.
+"Unselect that"
+"Clear selection"
+Edit text
+To do this
+Say this
+Delete the selected text or last dictated text.
+"Delete that"
+"Scratch that"
+"Strike that"
+Delete specific text in a text box.
+"Delete <text>"
+Delete all text in a text box.
+"Delete all"
+Delete the previous or next character.
+"Delete previous character"
+"Delete last character"
+"Delete next character"
+Delete the desired number of previous or next characters.
+"Delete previous <count> characters"
+"Delete last <count> characters"
+"Delete next <count> characters"
+Delete the previous or next word.
+"Delete previous word"
+"Delete last word"
+"Delete next word"
+Delete the desired number of previous or next words.
+"Delete previous <count> words"
+"Delete last <count> words"
+"Delete next <count> words"
+Delete the previous line.
+"Delete previous line"
+"Delete last line"
+Delete the desired number of previous or next lines.
+"Delete previous <count> lines"
+"Delete last <count> lines"
+"Delete next <count> lines"
+Delete the previous or next paragraph.
+"Delete previous paragraph"
+"Delete last paragraph"
+"Delete next paragraph"
+Delete the desired number of previous or next paragraphs.
+"Delete previous <count> paragraphs"
+"Delete last <count> paragraphs"
+"Delete next <count> paragraphs"
+Delete the current word at text cursor.
+"Delete word"
+"Delete this word"
+Delete the current line at text cursor.
+"Delete line"
+"Delete this line"
+Delete the current paragraph at text cursor.
+"Delete paragraph"
+"Delete this paragraph"
+Cut the selected text or last dictated text.
+"Cut that"
+Cut the desired number of previous or next characters.
+"Cut previous <count> characters"
+"Cut last <count> characters"
+"Cut next <count> characters"
+Cut the previous or next word.
+"Cut previous word"
+"Cut last word"
+"Cut next word"
+Cut the desired number of previous or next words.
+"Cut previous <count> words"
+"Cut last <count> words"
+"Cut next <count> words"
+Cut the previous line.
+"Cut previous line"
+"Cut last line"
+Cut the desired number of previous or next lines.
+"Cut previous <count> lines"
+"Cut last <count> lines"
+"Cut next <count> lines"
+Cut the previous or next paragraph.
+"Cut previous paragraph"
+"Cut last paragraph"
+"Cut next paragraph"
+Cut the desired number of previous or next paragraphs.
+"Cut previous <count> paragraphs"
+"Cut last <count> paragraphs"
+"Cut next <count> paragraphs"
+Copy the selected text or last dictated text.
+"Copy that"
+Copy the desired number of previous or next characters.
+"Copy previous <count> characters"
+"Copy last <count> characters"
+"Copy next <count> characters"
+Copy the previous or next word.
+"Copy previous word"
+"Copy last word"
+"Copy next word"
+Copy the desired number of previous or next words.
+"Copy previous <count> words"
+"Copy last <count> words"
+"Copy next <count> words"
+Copy the previous line.
+"Copy previous line"
+"Copy last line"
+Copy the desired number of previous or next lines.
+"Copy previous <count> lines"
+"Copy last <count> lines"
+"Copy next <count> lines"
+Copy the previous or next paragraph.
+"Copy previous paragraph"
+"Copy last paragraph"
+"Copy next paragraph"
+Copy the desired number of previous or next paragraphs.
+"Copy previous <count> paragraphs"
+"Copy last <count> paragraphs"
+"Copy next <count> paragraphs"
+Paste text in a text box.
+"Paste"
+"Paste here"
+"Paste that"
+Undo/revert the effect of a previous action.
+"Undo that"
+Redo/restore the effect of an action that was previously reverted.
+"Redo that"
+Remove all white spaces from the selected text or the last dictated text. For example, if you dictated "Peyton Davis
+@outlook.com
+" in your last utterance and then want to remove all spaces to get the output as PeytonDavis@outlook.com.
+"No space that"
+Insert text at the cursor without any white space before the text. For example, if you have added the text "Peyton" to a text box and then want to insert "Davis," but you do not want to add a space before "Davis." The output will be "PeytonDavis."
+"No space <text>"
+Format text
+To do this
+Say this
+Apply bold formatting to specific text.
+"Bold <text>"
+"Boldface <text>"
+Apply italic formatting to specific text.
+"Italicize <text>"
+Underline specific text.
+"Underline <text>"
+Apply bold, italic, or underline formatting to the selected text or the last dictated text.
+"Bold that"
+"Italicize that"
+"Underline that"
+Capitalize the first letter of a specific word.
+"Capitalize <word>"
+Capitalize all the letters of a specific word.
+"Uppercase <word>"
+"All caps <word>"
+Insert text at the cursor and capitalize the first letter of each word.
+"Caps <text>"
+Lowercase all the letters in a specific word.
+"Lowercase <word>"
+"No caps <word>"
+Capitalize, uppercase, or lowercase selected text or the last dictated text.
+"Capitalize that"
+"Cap that"
+"Uppercase that"
+"All caps that"
+"Lowercase that"
+"No caps that"
+Take one of the following actions on the specified number of previous or next words: bold, italicize, underline, capitalize, uppercase, or lowercase.
+"<action> previous <count> words"
+"<action> last <count> words"
+"<action> next <count> words"
+Take one of the following actions on the specified number of previous or next lines: bold, italicize, underline, capitalize, uppercase, or lowercase.
+"<action> previous <count> lines"
+"<action> last <count> lines"
+"<action> next <count> lines"
+Take one of the following actions on the specified number of previous or next paragraphs: bold, italicize, underline, capitalize, uppercase, or lowercase.
+"<action> previous <count> paragraphs"
+"<action> last <count> paragraphs"
+"<action> next <count> paragraphs"
+Take one of the following actions on the specified number of previous or next characters: bold, italicize, underline, capitalize, uppercase, or lowercase.
+"<action> previous <count> characters"
+"<action> last <count> characters"
+"<action> next <count> characters"
+Navigate text
+To do this
+Say this
+Insert a new line and place the cursor at the beginning of the new line.
+"New line"
+Insert a new paragraph and place the cursor at the beginning of the new paragraph.
+"New paragraph"
+Place the cursor before or after specific text.
+"Move before <text>"
+"Move after <text>"
+"Insert before <text>"
+"Insert after <text>"
+Place the cursor at the beginning/end of a text box or document.
+"Go to top"
+"Go to bottom"
+"Go to end"
+"Go to beginning of document"
+"Go to start of document"
+"Go to end of document"
+"Move to top"
+"Move to bottom"
+"Move to end"
+"Move to beginning of document"
+"Move to start of document"
+"Move to end of document"
+"Move to bottom"
+Place the cursor at the beginning or end of a word.
+"Go to beginning of word"
+"Go to start of word"
+"Move to beginning of word"
+"Move to start of word"
+"Go to end of word"
+"Move to end of word"
+Place the cursor at the beginning or end of a line.
+"Go to beginning of line"
+"Go to start of line"
+"Move to beginning of line"
+"Move to start of line"
+"Go to end of line"
+"Move to end of line"
+Place the cursor at the beginning or end of a paragraph.
+"Go to beginning of paragraph"
+"Go to start of paragraph"
+"Move to beginning of paragraph"
+"Move to start of paragraph"
+"Go to end of paragraph"
+"Move to end of paragraph"
+Move the cursor the desired number of steps left, right, up, or down.
+"Move <direction> <count> times
+"Go <direction> <count> times"
+Move the cursor the desired number of characters left or right.
+"Move left <count> characters"
+"Move right <count> characters"
+"Move forward <count> characters"
+"Go left <count> characters"
+"Go right <count> characters"
+Move the cursor the desired number of words left or right.
+"Move left <count> words"
+"Move right <count> words"
+"Go left <count> words"
+"Go right <count> words"
+Move the cursor the desired number of lines up or down.
+"Move up <count> lines"
+"Move down <count> lines"
+"Go up <count> lines"
+"Go down <count> lines"
+"Go back <count> lines"
+Move the cursor the desired number of paragraphs up or down.
+"Move up <count> paragraphs"
+"Move down <count> paragraphs"
+"Go up <count> paragraphs"
+"Go down <count> paragraphs"
+Place the cursor at the beginning or end of selected text and clear selection.
+"Move to beginning of selection"
+"Move to end of selection"
+"Go to beginning of selection"
+"Go to end of selection"
+Dictate punctuation marks
+To insert this
+Say this
+.
+"Period"
+"Full stop"
+,
+"Comma"
+?
+"Question mark"
+!
+"Exclamation mark"
+"Exclamation point"
+'s
+"Apostrophe-s"
+:
+"Colon"
+;
+"Semicolon"
+" "
+"Open quotes"
+"Close quotes"
+-
+"Hyphen"
+...
+"Ellipsis"
+"Dot dot dot"
+' '
+"Begin single quote"
+"Open single quote"
+"End single quote"
+"Close single quote"
+( )
+"Left parentheses"
+"Open parentheses"
+"Right parentheses"
+"Close parentheses"
+[ ]
+"Open bracket"
+"Close bracket"
+{ }
+"Left brace"
+"Open brace"
+"Right brace"
+"Close brace"
+Dictate symbols
+To insert this
+Say this
+*
+"Asterisk"
+\
+"Backslash"
+/
+"Forward slash"
+|
+"Vertical bar"
+"Pipe character"
+_
+"Underscore"
+¶
+"Paragraph sign"
+"Paragraph mark"
+§
+"Section sign"
+&
+"Ampersand"
+"And sign"
+@
+"At sign"
+©
+"Copyright sign"
+®
+"Registered sign"
+°
+"Degree symbol"
+%
+"Percent sign"
+#
+"Number sign"
+"Pound sign"
++
+"Plus sign"
+-
+"Minus sign"
+×
+"Multiplication sign"
+÷
+"Division sign"
+=
+"Equals sign"
+< >
+"Less than sign"
+"Greater than sign"
+$
+"Dollar sign"
+£
+"Pound sterling sign"
+€
+"Euro sign"
+¥
+"Yen sign"
+See also
+Set up voice access
+Get started with voice access
+Use voice to work with windows and apps
+Use the mouse with voice
+Use voice to interact with items on the screen
+Use the keyboard with voice
+Voice access Frequently Asked Questions
+Technical support for customers with disabilities
+Microsoft wants to provide the best possible experience for all our customers. If you have a disability or questions related to accessibility, please contact the
+Microsoft Disability Answer Desk
+for technical assistance. The Disability Answer Desk support team is trained in using many popular assistive technologies and can offer assistance in English, Spanish, French, and American Sign Language. Please go to the Microsoft Disability Answer Desk site to find out the contact details for your region.
+If you are a government, commercial, or enterprise user, please contact
+the enterprise Disability Answer Desk
+.

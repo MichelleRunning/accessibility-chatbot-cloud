@@ -1,0 +1,808 @@
+URL: https://support.microsoft.com/en-us/accessibility/word/basic-tasks-using-a-screen-reader-with-word
+Basic tasks using a screen reader with Word
+Applies To
+Word for Microsoft 365
+Word for Microsoft 365 for Mac
+Word 2024
+Word 2024 for Mac
+Word 2021
+Word 2021 for Mac
+Word 2019
+Word 2016
+Word for iPhone
+Word for Android phones
+This article is for people who use a screen reader program such as Windows Narrator, JAWS, or NVDA with Windows tools or features and Microsoft 365 products. This article is part of the
+Accessibility help & learning
+content set where you can find more accessibility information on our apps. For general help, visit
+Microsoft Support
+.
+Windows
+macOS
+iOS
+Android
+Web
+Use Word with your keyboard and a screen reader to quickly do all essential basic tasks, such as open, create, and read a document or add page numbers. We have tested it with Narrator, JAWS, and NVDA, but it might work with other screen readers as long as they follow common accessibility standards and techniques.
+Note
+New Microsoft 365 features are released gradually to Microsoft 365 subscribers, so your app might not have these features yet. To learn how you can get new features faster,
+join the Office Insider program
+.
+To learn more about screen readers, go to
+How screen readers work with Microsoft 365
+.
+In this topic
+Open Word
+Sign in to your Microsoft account
+Open a recent document
+Create a new blank document
+Save a document
+Read a document
+Apply styles
+Navigate by headings
+Search a document
+Add page numbers
+Print documents
+Change the app theme to increase contrast
+Open Word
+Press the Windows logo key, type
+word
+, and then press Enter. Word opens.
+You can now start a new blank document to add your text and other content or create your document using a template with predesigned formatting. For instructions, refer to
+Create a new blank document
+or
+Use a screen reader to work with templates in Word
+.
+Sign in to your Microsoft account
+Sign in to your Microsoft account to get the most out of the Word features and to take your documents with you wherever you go. You can also open Word without signing in.
+Note
+If you are using an account in an organization, the sign-in steps might be slightly different. For example, you might need to use a PIN or smartcard to complete the sign-in.
+Tip
+If you did not sign out of Word the last time you used it, the app opens without prompting you to sign in.
+Do one of the following:
+Open Word. Press the Tab key until you hear "Sign in to get the most out of Microsoft 365," and then press Enter.
+If you're already editing a document and want to sign in, press Alt+F to open the
+File
+menu. Then press D, S. You hear: “Accounts.”
+Type your email or phone number, press Enter, and then press the Tab key. You hear: “Password.”
+Type your password, and press Enter.
+Open a recent document
+All documents you have recently worked on can be found in one place so you can quickly pick up where you left off.
+Do one of the following:
+Open Word, and then press Shift+Tab until you hear the name of a recent document.
+If you're already editing a document and want to open another one, press Alt+F to open the
+File
+menu, and then press Shift+Tab until you hear the name of a recent document.
+Press the Up or Down arrow key until you hear the name of the document you want, and press Enter to open it.
+Create a new blank document
+Do one of the following:
+Open Word. The focus is on the option to create a new, blank document and you hear: "Blank document."
+If you're already editing a document and want to start a new one, press Alt+F to open the
+File
+menu, and then press the Tab key until you hear: "Blank document."
+To select and open the blank document, press Enter. You hear the default name of the document, followed by "Editing." The focus moves to the editing area in the document body.
+You can now start adding text and other content to the document. For instructions on how to insert and format text in a document, refer to
+Use a screen reader to insert and change text in Word
+.
+Save a document
+Word automatically saves your document to OneDrive or SharePoint when
+AutoSave
+is turned on. For instructions on how to turn on
+AutoSave
+, refer to
+Turn on AutoSave
+.
+If
+AutoSave
+is not turned on or if you want to save the document with another name, to another location, or using another format, you can save your document manually to your computer, for example. For instructions, refer to
+Save a document locally
+. Alternatively, you can manually save your document to an online location. For instructions, refer to
+Save a document to OneDrive or SharePoint
+.
+For instructions on how to save a document as a PDF, refer to
+Save a document as a PDF
+.
+For instructions on how to use other saving options, refer to
+Use a screen reader to save a document in Word
+.
+Read a document
+To use the text reading keyboard shortcuts, place the focus to the document body area.
+To start reading from where your cursor is with Narrator, press the SR key+Ctrl+R or the SR key+Down arrow key. With JAWS, press the SR key+Page up. With NVDA, press the SR key+Down arrow key.
+To read the current page with Narrator, press the SR key+Ctrl+I.
+To read the current paragraph with Narrator, press the SR key+Ctrl+K. With JAWS, press Ctrl+5 on the numeric keypad.
+To read the next line with Narrator, press the SR key+O. With JAWS and NVDA, press the Down arrow key.
+To read the previous line with Narrator, press the SR key+U. With JAWS and NVDA, press the Up arrow key.
+To read the next word with Narrator, press the SR key+L or SR key+Ctrl+Right arrow key. With JAWS, press the SR key+Right arrow key. With NVDA, press Ctrl+Right arrow key.
+To read the previous word with Narrator, press the SR key+J or SR key+Ctrl+Left arrow key. With JAWS, press the SR key+Left arrow key. With NVDA, press Ctrl+Left arrow key.
+To stop reading, press Ctrl.
+For the detailed lists of the keyboard shortcuts for reading text, refer to the user guidance of your screen reader. With Narrator, refer to
+Chapter 4: Reading text
+. With JAWS, refer to
+JAWS Reading Commands
+. With NVDA, refer to
+NVDA User Guide
+.
+Apply styles
+Use the built-in styles to give your document a consistent look. Using styles can also improve the accessibility and usability of your document. Use the built-in heading styles if you want to insert a table of contents to the document.
+Place the cursor where you want to apply a style to.
+To open the
+Styles
+menu, press Alt+H, L.
+Use the arrow keys to browse the list of available styles.
+When you hear the style you want, press Enter to apply it to your document.
+Navigate by headings
+If you've used the heading styles in your document, you can use the
+Navigation Pane
+to quickly move from heading to heading.
+To turn on the
+Navigation Pane
+, press Alt+W, K. You hear: "Navigation, Search document."
+Press the Tab key until you hear the currently selected tab, for example, "Pages." Press the Left arrow key until you hear "Headings."
+Press the Tab key or Shift+Tab to browse the list of headings. Your screen reader announces the headings as you move.
+To move to the heading in the document body, press Enter. The focus moves to the beginning of the heading row.
+Search a document
+Use search to quickly find a certain word or element such as a graphic in your document.
+Search for a word
+Press Ctrl+F. You hear: "Navigation, Search document."
+Type your search words. The list of search results is updated as you type.
+Press the Tab key until you hear "Search results list," followed by the first search result.
+Press the Down arrow key to move through the list of results. Your screen reader announces the results.
+When you hear the search result you want, press Enter to move the focus to the document body where the searched word can be found.
+Search for an element
+Search for a specific element, for example, a graphic, table, or comment from a specific person.
+Press Ctrl+F. You hear: "Navigation, Search a document."
+Press the Tab key until you hear "Search, split button," and then press Alt+Down arrow key to expand the menu.
+Press the Down arrow key until you hear the element you want, for example, "Graphic," and then press Enter to select.
+If the element has a submenu, you hear the element, followed by "Collapsed, menu item." Press the Right arrow key to expand the menu, and then press the Up or Down arrow keys to browse the submenu.
+The focus moves to the next result button. Press Enter repeatedly to move through the results.
+Add page numbers
+Press Alt+N, N, U. You hear: "Top of page." The
+Page Number
+menu opens, and the focus is on the first option.
+To browse the menu, press the Down arrow key until you hear the option you want, and then press Enter. A list of page number styles opens.
+Press the Down arrow key until you hear the option you want, and then press Enter.
+If you chose to add the page numbers at the top or bottom of the page, or in the page margin, the
+Header
+or
+Footer
+pane opens. To exit the pane and return to the document editing mode, press Esc.
+Print documents
+If you need hard copies of your Word documents, you can easily print them. If you don't have immediate access to a printer, you can print the document to PDF and save it on your computer.
+Print a document using a printer
+Press Ctrl+P. The
+Print
+dialog box opens. Do one of the following:
+To print with the default settings, press Enter.
+To change the print settings, press the Tab key to move through the options. To open an options list, press Spacebar. To move in an options list, press the arrow keys. To select an option, press Enter. To print with the new settings, press the Tab key until you hear "Print button," and then press Enter.
+Print a document to PDF
+Press Ctrl+P. The
+Print
+dialog box opens.
+Press the Tab key until you hear "Printer, Which printer," and press Spacebar to expand the
+Printer
+menu. Press the Up or Down arrow key until you hear "Microsoft, Print to PDF," and press Enter.
+Press Shift+Tab until you hear "Print button," and press Enter.
+The
+Save Print Output As
+dialog box opens. The focus is on the
+File name
+text field. Type a name for your document. Then use the Tab key and the arrow keys to navigate to the location where you want to save the print output. When you're on the right location, press Alt+S to save the file as a PDF.
+Change the app theme to increase contrast
+You might find Word easier to use if you adjust the theme to one that provides more contrast.
+Note
+Changing the app theme affects all your Microsoft 365 applications.
+In Word, press Alt+F, D, Y, and then 2. The focus moves to the
+Office Theme
+list in the
+File
+menu. You hear “Office theme,” followed by the currently selected theme.
+Press the Down arrow key until you find the theme you want, and press Enter. For the highest contrast, select
+Dark Gray
+.
+To exit the
+Files
+menu and return to the document body, press Esc.
+Tip
+For information on how to choose a higher-contrast theme in Windows, refer to
+Use color and contrast for accessibility in Microsoft 365
+and
+Make Windows easier to see
+.
+See also
+Use a screen reader to insert and change text in Word
+Use a screen reader to insert a picture or image in Word
+Use a screen reader to check spelling and grammar in Word
+Keyboard shortcuts in Word
+Keyboard shortcuts for the File menu in Microsoft 365 for Windows
+Set up your device to work with accessibility in Microsoft 365
+Use a screen reader to explore and navigate Word
+Use Word for Mac with your keyboard and VoiceOver, the built-in Mac OS screen reader, to quickly do all essential basic tasks, such as open, create, and read a document or add page numbers.
+Note
+New Microsoft 365 features are released gradually to Microsoft 365 subscribers, so your app might not have these features yet. To learn how you can get new features faster,
+join the Office Insider program
+.
+This topic assumes that you are using the built-in macOS screen reader, VoiceOver. To learn more about using VoiceOver, go to
+VoiceOver Getting Started Guide
+.
+We recommend you read and edit documents in
+Print Layout View
+. VoiceOver might not work reliably in other view modes.
+In this topic
+Open Word for Mac
+Sign in to your Microsoft account
+Open a recent document
+Create a new blank document
+Save a document
+Read a document
+Navigate by headings
+Search a document
+Add page numbers
+Print documents
+Open Word for Mac
+To go to the
+Applications
+list in
+Finder
+, press Shift+Command+A.
+Type
+M
+to go straight to applications that start with an "M," and then press the Tab key until you hear: "Microsoft Word application."
+To open Word for Mac, press Command+Down arrow key.
+You can now start a new blank document to add your text and other content or create your document using a template with predesigned formatting. For instructions, refer to
+Create a new blank document
+or
+Use a screen reader to work with templates in Word
+.
+Sign in to your Microsoft account
+Sign in to your Microsoft account to get the most out of the Word for Mac features and to take your documents with you wherever you go. You can also open Word without signing in.
+Note
+If you are using an account in an organization, the sign-in steps might be slightly different. For example, you might need to use a PIN or smartcard to complete the sign-in.
+Tip
+If you did not sign out of Word the last time you used it, the app opens without prompting you to sign in.
+Do one of the following:
+Open Word for Mac.
+If you're already editing a document and want to sign in, press Shift+Command+P. You hear: "New from template."
+You land in the templates view. Press the Tab key until you hear: "Sign in, account settings, menu button."
+Press Spacebar. The
+Sign in
+dialog box opens. You hear: “Type your email or phone number.”
+Type your email or phone number, and then press Return. VoiceOver announces: “Password, secure edit text.”
+Type your password, and press Return. If you hear “Start using Word button,” press Spacebar to go to the application.
+Open a recent document
+All documents you have recently worked on can be found in one place so you can quickly pick up where you left off.
+Do one of the following:
+Open Word for Mac.
+If you're already editing a document and want to open another one, press Shift+Command+P. You hear: "New from template."
+You land in the templates view. Press the Tab key until you hear "Recent, radio button," and then press Control+Option+Spacebar to open the
+Recent
+list.
+Press the Tab key until you hear “Entering recent files table,” followed by the name and details of the first document in the list. If the first document is not the one you want, press the Down arrow key until you find the right one.
+Press Return to open the selected document.
+Create a new blank document
+Do one of the following:
+Open Word for Mac.
+If you're already editing a document and want to start a new one, press Shift+Command+P. You hear: "New from template."
+Press the Tab key until you hear: “Entering collection, collection one item selected, blank document.”
+Press Control+Option+Shift+Down arrow key, and then press Control+Option+Spacebar. The blank document opens, and the focus moves to the editing area in the document body.
+You can now start adding text and other content to the document. For instructions on how to insert and format text in a document, refer to
+Use a screen reader to insert and change text in Word
+.
+Save a document
+Word automatically saves your document to OneDrive or SharePoint when
+AutoSave
+is turned on.
+For instructions on how to save a copy of a document to your computer or as a PDF, refer to
+Use a screen reader to save a document in Word
+.
+Read a document
+To use the text reading commands, the focus must be in the document body area.
+To read all text from the cursor location to the end, press Control+Option+A.
+To read the current paragraph, press Control+Option+P.
+To read the next or previous line, press the Down or Up arrow key.
+To read the next or previous word, press the Right or Left arrow key.
+Tip
+To learn how to navigate footnotes or comments in your document, refer to
+Use a screen reader to read and edit footnotes and endnotes in Word
+or
+Use a screen reader to add, read, and delete comments in Word
+.
+For the detailed list of keyboard shortcuts for reading text, refer to
+Chapter 4. Working with Text
+.
+Navigate by headings
+If you've used the heading styles in your document, you can use the
+Navigation Pane
+to quickly move from heading to heading.
+Turn on the Navigation Pane
+Press Command+F6 until you hear the name of the current tab, for example, "Home, selected, tab."
+Press Control+Option+Right arrow key until you hear "View, tab," and then press Control+Option+Spacebar.
+Press the Tab key until you hear "Navigation pane, toggle button," and then press Control+Option+Spacebar to turn on the pane.
+Use the Navigation Pane
+To move the focus to the navigation pane, press Command+F6 until you hear: "Thumbnails pane, selected."
+Press Control+Option+Right arrow until you hear "Document map, tab," and then press Control+Option+Spacebar to open the document map.
+Press Control+Option+Right arrow key until you hear "Table," and then press Control+Option+Shift+Down arrow key to open the headings table.
+To move between headings, press the Down or Up arrow keys until you find the heading you want, and then press Control+Option+Spacebar to move the focus to the beginning of the heading in the document body.
+Search a document
+Use search to quickly find a certain word or element such as a graphic in your document.
+Search for a word
+Press Shift+Command+H. You hear: "Search document, combo box."
+Type your search word. The list of search results is updated as you type.
+Press the Tab key until you hear "Matches, result," and then press Control+Option+Down arrow key to move the focus to the results list.
+To move through the list of search results, press the Up or Down arrow key.
+When you hear a search result that you want to modify in the document, press the Tab key to move the focus to the document body and make your changes.
+Search for an element
+Press Shift+Command+H. You hear: "Search document, combo box."
+To open the search menu, press the Down arrow key.
+Press the Down arrow key until you hear the element you want, for example, "Graphic," and then press Spacebar. The matching elements are highlighted in the document.
+To move the focus back to the document body, press the Tab key until VoiceOver starts to read the document content.
+Add page numbers
+Press Command+F6 until you hear the name of the current tab, for example, "Home, selected, tab."
+Press Control+Option+Right arrow key until you hear "Insert, tab," and then press Control+Option+Spacebar.
+Press the Down arrow key until you hear "Page numbers, menu button," and then press Control+Option+Spacebar. You hear: "Page number." Press Control+Option+Spacebar.
+The
+Page Numbers
+dialog box opens. The focus is on the
+Position
+menu. To set the position of the page number on the page, press the Down arrow key until you hear the option you want, and then press Spacebar.
+To set the alignment of the page number, press the Tab key until you hear the current alignment, followed by "Alignment." Press the Down arrow key until you hear the option you want, and then press Spacebar.
+Press the Tab key until you hear: "Show number on first page, checked checkbox." If you don’t want the page number to show on the first page of your document, press Spacebar.
+To add the page numbers to the document, press the Tab key until you hear "OK button," and then press Control+Option+Spacebar. The page numbers are added, and the focus moves to the document body.
+Print documents
+If you need hard copies of your Word documents, you can easily print them. If you don't have immediate access to a printer, you can print the document to PDF and save it on your computer.
+Print a document using a printer
+Press Command+P. The
+Print
+dialog box opens. Do one of the following:
+To print with the default settings, press the Tab key until you hear "Print button," and press Control+Option+Spacebar.
+To change the print settings, press the Tab key to move through the options. To open an options list, press Spacebar. To move in an options list, press the arrow keys. To select an option, press Control+Option+Spacebar. To print with the new settings, press the Tab key until you hear "Print button," and then press Control+Option+Spacebar.
+Print a document to PDF
+Press Command+P. The
+Print
+dialog box opens.
+Press the Tab key until you hear "PDF menu button,” and press Control+Option+Spacebar. Press the Down arrow key until you hear "Save as PDF," and press Control+Option+Spacebar.
+You hear “Save As,” followed by the document name. Press the Tab key until you hear “Where,” and press Control+Option+Spacebar.
+Press the Up or Down arrow key until you hear the location where you want to save the print output, and then press Control+Option+Spacebar.
+Press the Tab key until you hear “Save button,” and press Control+Option+Spacebar to save the file as a PDF.
+See also
+Use a screen reader to insert and change text in Word
+Use a screen reader to insert a picture or image in Word
+Use a screen reader to check spelling and grammar in Word
+Keyboard shortcuts in Word
+Set up your device to work with accessibility in Microsoft 365
+Use a screen reader to explore and navigate Word
+Use Word for iOS with VoiceOver, the built-in iOS screen reader, to do all essential basic tasks, such as open, create, and read a document or add page numbers.
+Note
+New Microsoft 365 features are released gradually to Microsoft 365 subscribers, so your app might not have these features yet. To learn how you can get new features faster,
+join the Office Insider program
+.
+This topic assumes that you are using the built-in iOS screen reader, VoiceOver. To learn more about using VoiceOver, visit
+Apple accessibility
+.
+We recommend you read and edit documents in
+Print Layout View
+. VoiceOver might not work reliably in other view modes.
+In this topic
+Open Word for iOS
+Sign in to your Microsoft account
+Open a recent document
+Create a new blank document
+Save a document
+Read a document
+Search a document
+Add page numbers
+Print documents
+Open Word for iOS
+On your iPhone, locate the button for the Word for iOS app, and double-tap the screen. Word opens with the focus on the
+New
+tab.
+You can now start a new blank document to add your text and other content or create your document using a template with predesigned formatting. For instructions, refer to
+Create a new blank document
+or
+Use a screen reader to work with templates in Word
+.
+Sign in to your Microsoft account
+Sign in to your Microsoft account to get the most out of the Word for iOS features and take your documents with you wherever you go. You can also open Word without signing in.
+Note
+If you are using an account in an organization, the sign-in steps might be slightly different. For example, you might need to use a PIN or smartcard to complete the sign-in.
+Tip
+If you did not sign out of Word the last time you used it, the app opens without prompting you to sign in.
+Do one of the following:
+Open Word for iOS.
+If you're already editing a document and want to sign in, swipe left or right until you hear "Close file," and then double-tap the screen. If you have unsaved changes, you're prompted to save your document. For instructions on how to save a document, refer to
+Use a screen reader to save a document in Word
+.
+Swipe left until you hear "Signed out, Navigation pane, button," and then double-tap the screen.
+You hear: "Sign in." Double-tap the screen. Tap near the top of the screen with four fingers and swipe right until you hear: "Email, phone, or Skype, text field, required."
+Double-tap the screen, and then use the on-screen keyboard to type your email address, phone number, or Skype address.
+Tap near the top of the screen with four fingers, swipe right until you hear "Next button," and double-tap the screen. You hear "Enter password" or "Secure text field."
+Double-tap the screen, and then use the on-screen keyboard to type your password.
+Tap near the top of the screen with four fingers, swipe right until you hear "Sign in," and double-tap the screen.
+Open a recent document
+All documents you have recently worked on can be found in one place so you can quickly pick up where you left off.
+Do one of the following:
+Open Word for iOS. You hear: "New heading." Tap near the bottom of the screen with four fingers, swipe left until you hear "Home tab," and then double-tap the screen.
+If you're already editing a document and want to open another one, swipe left or right until you hear "Close file," and then double-tap the screen. If you have unsaved changes, you're prompted to save your document. For instructions on how to save a document, go to
+Use a screen reader to save a document in Word
+. You hear: "Home heading."
+Swipe right until you hear the name of the document you want, and double-tap the screen to open it.
+Create a new blank document
+Do one of the following:
+Open Word for iOS. You hear: "New heading."
+If you're already editing a document and want to start a new one, swipe left or right until you hear "Close file," and then double-tap the screen. If you have unsaved changes, you're prompted to save your document. For instructions on how to save a document, go to
+Use a screen reader to save a document in Word
+. You hear: "Home heading." Tap near the bottom of the screen with four fingers, swipe right or left until you hear "New tab," and double-tap the screen. You hear: "New heading."
+Swipe right until you hear "Blank document," and double-tap the screen. The new blank document opens. The focus is on the document body. You hear: "Page one content." The on-screen keyboard opens.
+Note
+If you can't access the editing area or open the on-screen keyboard, check the VoiceOver Rotor settings. For instructions, refer to
+Use a screen reader to insert and change text in Word.
+You can now start adding text and other content to the document. For instructions on how to insert and format text in a document, refer to
+Use a screen reader to insert and change text in Word
+.
+Save a document
+Word automatically saves your document to OneDrive or SharePoint when
+AutoSave
+is turned on.
+For instructions on how to save a copy of a document to your phone or as a PDF, refer to
+Use a screen reader to save a document in Word
+.
+Read a document
+To use the text reading gestures in the
+Editing
+view, place the focus to the document body area.
+To read all text on a page, swipe right until you hear "Page," followed by the current page number and "Content," for example, "Page one, Content." VoiceOver starts reading the whole page.
+To read lines, place one finger on a page and drag it down. VoiceOver reads a line as you land on it.
+To change how the text is read, activate Rotor, and select, for example,
+Words
+or
+Characters
+. To read the text one word or character at a time, swipe up or down.
+To stop reading, tap the screen once with two fingers.
+For the detailed list of gestures for reading text, refer to
+Learn VoiceOver gestures on iPhone
+.
+Search a document
+Tap near the top of the screen with four fingers, swipe right until you hear "Find button," and double-tap the screen. You hear: "Search, text field, is editing." The on-screen keyboard opens.
+Use the on-screen keyboard to type your search words. VoiceOver announces the number of matches.
+To move between the search results, tap near the top of the screen with four fingers, swipe right until you hear "Previous search result" or "Next search result," and then double-tap the screen.
+To close the
+Search
+bar and move the focus to the search result in the document body, use two fingers to swipe a Z gesture. You hear: "Leaving search."
+Add page numbers
+Tap near the top of the screen with four fingers, swipe right until you hear "Show ribbon," and double-tap the screen. You hear the currently selected tab, for example, "Home tab."
+Double-tap the screen, swipe left or right until you hear "Insert, tab," and double-tap the screen.
+Swipe right until you hear "Page numbers, button," and double-tap the screen.
+Swipe right you hear the page number option you want, and then double-tap the screen.
+The header and footer pane opens with the on-screen keyboard activated. If you want to edit the page number, type the new page number. To exit the pane, swipe left or right until you hear VoiceOver read the document content, and then double-tap the screen.
+Print documents
+Print your Word documents directly from your iPhone to a printer that supports AirPrint. To learn more about AirPrint and the supported printers, refer to
+Use AirPrint to print from your iPhone, iPad, or iPod touch
+.
+If you don't have immediate access to a printer, you can print the document to PDF and save it on your phone.
+Print a document using a printer
+Before you start, make sure that your iPhone and printer are connected to the same Wi-Fi network.
+Tap near the top of the screen with four fingers, swipe right until you hear "File button," and double-tap the screen. The
+File
+menu opens.
+Swipe right until you hear "Print button," and double-tap the screen. You hear: "Air print button."
+Double-tap the screen. The
+Printer Options
+dialog box opens.
+Swipe until you hear: "Printer, select printer button." Double-tap the screen. The list of available AirPrint printers opens. Swipe right until you hear the printer you want to select, and then double-tap the screen.
+To print using the default settings, in
+Printer Options
+menu, swipe right or left until you hear "Print button," and then double-tap the screen.
+Print a document to PDF
+Tap near the top of the screen with four fingers, swipe right until you hear "File button," and double-tap the screen. The
+File
+menu opens.
+Swipe right until you hear "Print button," and double-tap the screen. You hear: "Air print button."
+Swipe right until you hear "Open in another app," and double-tap the screen. You hear the name of the document followed by "PDF document."
+Swipe right until you hear "Save to files," and double-tap the screen.
+To save the document as a PDF file to your phone, swipe right until you hear "Save button," and double-tap the screen.
+See also
+Use a screen reader to insert and change text in Word
+Use a screen reader to insert a picture or image in Word
+Use a screen reader to check spelling and grammar in Word
+Set up your device to work with accessibility in Microsoft 365
+Use a screen reader to explore and navigate Word
+Use Word for Android with TalkBack, the built-in Android screen reader, to do all essential basic tasks such as open, create, and read a document or add page numbers.
+Note
+New Microsoft 365 features are released gradually to Microsoft 365 subscribers, so your app might not have these features yet. To learn how you can get new features faster,
+join the Office Insider program
+.
+This topic assumes that you are using the built-in Android screen reader, TalkBack. To learn more about using TalkBack, go to
+Android accessibility
+.
+In this topic
+Open Word for Android
+Sign in to your Microsoft account
+Open a recent document
+Create a new blank document
+Save a document
+Read a document
+Search a document
+Add page numbers
+Print documents
+Open Word for Android
+On your phone, locate the button for the Word for Android app, and double-tap the screen. Word opens with the focus on the
+Recent
+tab.
+You can now start a new blank document to add your text and other content or create your document using a template with predesigned formatting. For instructions, refer to
+Create a new blank document
+or
+Use a screen reader to work with templates in Word
+.
+Sign in to your Microsoft account
+Sign in to your Microsoft account to get the most out of the Word for Android features and take your documents with you wherever you go. You can also open Word without signing in.
+Note
+If you are using an account in an organization, the sign-in steps might be slightly different. For example, you might need to use a PIN or smartcard to complete the sign-in.
+Tip
+If you did not sign out of Word the last time you used it, the app opens without prompting you to sign in.
+Do one of the following:
+Open Word for Android.
+If you're already editing a document and want to sign in, swipe left or right until you hear "Back button," and double-tap the screen. If you have unsaved changes, you're prompted to save your document. For instructions on how to save a document, go to
+Use a screen reader to save a document in Word
+.
+Swipe left until you hear "Sign in," and then double-tap the screen.
+Tip
+If you're prompted to accept terms and conditions, swipe right or left until you hear "Accept," and then double-tap the screen.
+You hear: "Get things done on the go, sign in." Swipe right until you hear "Sign in button," and double-tap the screen.
+Swipe right until you hear: "Edit box, Email, phone, or Skype." Double-tap the screen, and then use the on-screen keyboard to type your email address, phone number, or Skype address. To close the on-screen keyboard, swipe down-then-left.
+Swipe right until you hear "Next button," and double-tap the screen. You hear: "Password."
+Swipe right until you hear "Editing, password," double-tap the screen, and then use the on-screen keyboard to type your password. To close the on-screen keyboard, swipe down-then-left.
+Swipe right until you hear "Sign in," and then double-tap the screen.
+Open a recent document
+All documents you have recently worked on can be found in one place so you can quickly pick up where you left off.
+Do one of the following:
+Open Word for Android.
+If you're already editing a document and want to open another one, swipe left or right until you hear "Back button," and then double-tap the screen. If you have unsaved changes, you're prompted to save your document. For instructions on how to save a document, go to
+Use a screen reader to save a document in Word
+.
+Swipe right until you hear the name of the document you want, and double-tap the screen to open it.
+Create a new blank document
+Do one of the following:
+Open Word for Android.
+If you're already editing a document and want to create a new one, swipe left or right until you hear "Back button," and then double-tap the screen. If you have unsaved changes, you're prompted to save your document. For instructions on how to save a document, go to
+Use a screen reader to save a document in Word
+.
+Swipe right until you hear "New button," and double-tap the screen.
+Swipe right until you hear "Blank document," and double-tap the screen.
+The new document opens. The focus is on the document body, and the on-screen keyboard is displayed. Use the on-screen keyboard to type text in your document. When you have finished, swipe down-then-left to close the keyboard.
+For instructions on how to format text in a document, go to
+Use a screen reader to insert and change text in Word
+.
+Save a document
+Word automatically saves your document to OneDrive when
+AutoSave
+is turned on.
+For instructions on how to save a copy of a document to your phone, refer to
+Use a screen reader to save a document in Word
+.
+Read a document
+To use the text reading gestures in the
+Editing
+view, place the focus to the document body area.
+To read all content on a page, swipe right to move to the first text box, image, or link of the page. TalkBack starts reading the content.
+To read the next text box, image, or link, swipe right.
+To change how the text is read, swipe up-then-down or down-then-up until you hear, for example, "Words" or "Characters." To read the text a word or a character at a time, swipe left or right.
+To stop reading, tap the screen once with one finger.
+For the detailed list of all gestures for reading text, refer to
+Use the TalkBack menu & reading controls
+.
+Search a document
+Swipe left or right until you hear "Find button," and double-tap the screen. You hear: "Editing, find, three periods." The on-screen keyboard opens.
+Use the on-screen keyboard to type your search word or phrase. You hear the number of matching instances as you type. To close the on-screen keyboard, swipe down-then-left.
+To move between the search results, swipe left until you hear "Find previous button" or "Find next button," and double-tap the screen.
+To close the
+Find
+bar, swipe right or left until you hear "Close Find bar, button," and then double-tap the screen.
+Add page numbers
+Swipe left or right until you hear "More option button," and double-tap the screen. You hear: "Tab menu," followed by the currently selected tab, for example, "Home, selected."
+Double-tap the screen. The tab menu opens. Swipe right or left until you hear "Insert tab," and double-tap the screen.
+Swipe right until you hear "Page number menu," and double-tap the screen.
+Swipe right until you hear the position for the page number you want, and then double-tap the screen.
+The
+Header & Footer
+menu opens. If you want to change the page number options, swipe right until you hear "Page number menu," and double-tap the screen. Swipe right until you hear the option you want, and then double-tap the screen.
+To close the
+Header & Footer
+menu, swipe left or right until you hear "Close header and footer, button," and double-tap the screen. To return to the document body, swipe left until TalkBack starts to read the document content.
+Print documents
+Print your document directly from your Android phone to a Wi-Fi printer. If you don't have immediate access to a printer, you can print the document to PDF and save it on your computer.
+Print a document using a printer
+Before you start, make sure your phone and the printer are connected to the same Wi-Fi network.
+Swipe right or left until you hear "More options menu," and double-tap the screen.
+Swipe right until you hear "Print button," and double-tap the screen.
+Note
+If this is the first time you're printing a Word document from your phone, a dialog box opens asking for your permission to connect to an online service that prepares the file for printing. To continue, swipe right until you hear "Allow button," and double-tap the screen. The printer dialog box opens, and TalkBack announces: "Print dialog."
+Swipe left until you hear "Drop-down list, Select a printer," and double-tap the screen.
+Swipe left or right until you hear the name of the printer you want, and double-tap the screen. The printer is selected, and the focus moves to the
+Print
+dialog box.
+To print the document, swipe right until you hear "Print document," and then double-tap the screen. The document is printed, and the focus returns to the document body.
+Print a document to PDF
+Swipe right or left until you hear "More options menu," and double-tap the screen.
+Swipe right until you hear "Print button," and double-tap the screen.
+Swipe left until you hear "Drop-down list, Select a printer," and double-tap the screen.
+Swipe right or left until you hear "Save as PDF," and double-tap the screen.
+Swipe right until you hear "Save to PDF," and double-tap the screen.
+The
+Downloads
+folder in the
+Files
+app opens. Swipe right until you hear "Save button," and double-tap the screen to save the print output as a PDF file.
+See also
+Use a screen reader to insert and change text in Word
+Use a screen reader to insert a picture or image in Word
+Use a screen reader to check spelling and grammar in Word
+Set up your device to work with accessibility in Microsoft 365
+Use a screen reader to explore and navigate Word
+Use Word for the web with your keyboard and a screen reader to quickly do all essential basic tasks, such as open, create, and read a document or add page numbers. We have tested it with Narrator in Microsoft Edge and JAWS and NVDA in Chrome, but it might work with other screen readers and web browsers as long as they follow common accessibility standards and techniques.
+Note
+If you use Narrator with the Windows 10 Fall Creators Update, you have to turn off scan mode in order to edit documents, spreadsheets, or presentations with Microsoft 365 for the web. For more information, refer to
+Turn off virtual or browse mode in screen readers in Windows 10 Fall Creators Update
+.
+New Microsoft 365 features are released gradually to Microsoft 365 subscribers, so your app might not have these features yet. To learn how you can get new features faster,
+join the Office Insider program
+.
+To learn more about screen readers, go to
+How screen readers work with Microsoft 365
+.
+When you use Word for the web with a screen reader, switch to the full screen mode. Press F11 to toggle the full screen mode on and off.
+When you use Word for the web, we recommend that you use Microsoft Edge as your web browser. Because Word for the web runs in your web browser, the keyboard shortcuts are different from those in the desktop program. For example, you’ll use Ctrl+F6 instead of F6 for jumping in and out of the commands. Also, common shortcuts like F1 (Help) and Ctrl+O (Open) apply to the web browser – not Word for the web.
+In this topic
+Open Word for the web and sign in
+Open a recent document
+Open a document in the full version of Word
+Switch to the Editing view to make changes
+Create a new blank document
+Save a document
+Read a document
+Navigate by headings
+Search a document
+Add page numbers
+Print documents
+Open Word for the web and sign in
+Sign in to Word for the web and take your documents with you wherever you go.
+In your browser, go to
+Office.com
+. The sign-in page opens.
+Press the Tab key until you hear "Sign-in to your account," and then press Enter. The
+Pick an account
+menu opens.
+Do one of the following:
+To use an existing account to sign in, press the Tab key until you hear the account you want, and then press Enter.
+To add a new account, press the Tab key until you hear "Use another account, button," and then press Enter. Type your email address, phone number, or Skype address, and then press Enter. Type your password, and press Enter.
+The
+Microsoft Office Home
+page opens. Press the Tab key until you hear "App launcher," and then press Enter.
+Press the Tab key until you hear "Link, Word," and press Enter.
+Word for the web opens. You hear: "Link, create a new blank document." The focus is on the
+New blank document
+button.
+You can now start a new blank document to add your text and other content or create your document using a template with predesigned formatting. For instructions, refer to
+Create a new blank document
+or
+Use a screen reader to work with templates in Word
+.
+Open a recent document
+All documents you have recently worked on can be found in one place so you can quickly pick up where you left off.
+Do one of the following:
+Open Word, and then press the Tab key until you hear "Open," followed by the name of the recent document you want, and press Enter to open it.
+If you're already editing a document and want to open another one, press Alt+Windows logo key+F to open the
+File
+menu, and then press Shift+Tab until you hear "Recent," followed by the name of a recent document. Press the Down arrow key until you hear the name of the document you want, and press Enter to open it.
+Do one of the following:
+If you hear "Document contents, editing," you can start adding your content to the document.
+If you hear "Reading view" or "Not intended for user action" instead of "Document contents, editing," the document has opened in the
+Reading
+view where you can't make changes. To edit the document, you need to switch to the
+Editing
+view. For instructions, refer to
+Switch to the Editing view to make changes
+.
+Open a document in the full version of Word
+If you have the full desktop version of Word, it gives you many more options when working with your files. It's easy to open the full version from Word for the web.
+Press Alt+Windows logo key+Z, M, and then O. The document opens in the desktop version.
+Navigate back to Word for the web, and then press Ctrl+W to close the browser tab.
+Switch to the Editing view to make changes
+Sometimes Word for the web opens a document in the
+Reading
+view. Before you can make changes to the document, you need to switch to the
+Editing
+view.
+In the
+Reading
+view, press Ctrl+F6 until you hear "Accessibility mode," press the Tab key until you hear "Edit document, button collapsed," and then press Spacebar.
+Press the Down arrow key until you hear "Edit document. Make quick changes right here using Word," and press Enter. The document opens in the
+Editing
+view, and you can start adding your content to the document.
+Create a new blank document
+Do one of the following:
+Open Word for the web. The focus is on the option to create a new, blank document.
+If you're already editing a document and want to start a new one, press Alt+Windows logo key+F to open the
+File
+menu, and then press the Tab key until you hear: "New blank document."
+To select and open the blank document, press Enter. You hear the default name of the document, followed by "Editing." The focus moves to the editing area in the document body.
+You can now start adding text and other content to the document. For instructions on how to insert and format text in a document, refer to
+Use a screen reader to insert and change text in Word
+.
+Tip
+To quickly create a new document in Word for the web, open your browser, type
+Word.new
+in the address bar, and then press Enter.
+Save a document
+Word for the web automatically saves your document to OneDrive as you work so you don't have to worry about saving. For instructions on how to rename your document or save a copy of the document to your device, refer to
+Use a screen reader to save a document in Word
+.
+Read a document
+To use the text reading keyboard shortcuts in the
+Editing
+view, place the focus to the document body area.
+To start reading from where your cursor is with Narrator, press the SR key+Ctrl+R or the SR key+Down arrow key. With JAWS, press the SR key+Page up. With NVDA, press the SR key+Down arrow key.
+To read the current page with Narrator, press the SR key+Ctrl+I.
+To read the current paragraph with Narrator, press the SR key+Ctrl+K. With JAWS, press Ctrl+5 on the numeric keypad.
+To read the next line with Narrator, press the SR key+O. With JAWS and NVDA, press the Down arrow key.
+To read the previous line with Narrator, press the SR key+U. With JAWS and NVDA, press the Up arrow key.
+To read the next word with Narrator, press the SR key+L or SR key+Ctrl+Right arrow key. With JAWS, press the SR key+Right arrow key. With NVDA, press Ctrl+Right arrow key.
+To read the previous word with Narrator, press the SR key+J or SR key+Ctrl+Left arrow key. With JAWS, press the SR key+Left arrow key. With NVDA, press Ctrl+Left arrow key.
+To stop reading, press Ctrl.
+For detailed lists of the keyboard shortcuts for reading text, refer to the user guidance of your screen reader. With Narrator, refer to
+Chapter 4: Reading text
+. With JAWS, refer to
+JAWS Reading Commands
+. With NVDA, refer to
+NVDA User Guide
+.
+Navigate by headings
+If you've used the heading styles in your document, you can use the
+Navigation Pane
+to quickly move from heading to heading.
+To turn on the
+Navigation Pane
+, press Alt+Windows logo key+W, K. You hear: "Navigation, Search for."
+Press Shift+Tab until you hear the currently selected tab, for example, "Find." Press the Left arrow key until you hear "Headings."
+Press the Tab key to browse the list of headings. Your screen reader announces the headings as you move.
+To move to the heading in the document body, press Enter. The focus moves to the beginning of the heading row.
+Search a document
+Press Ctrl+F. You hear: "This file results tab selected." The focus is on the search text field. Type your search words and press Enter.
+To move the focus to the list of search results, press the Tab key until you hear "Showing this file, results for," followed by your search words.
+To browse the list of results, use the arrow keys. Your screen reader announces each matching result as you move on the list.
+Add page numbers
+Press Alt+Windows logo key+N, N, U. The
+Add to Header or Footer
+menu opens.
+Press the Tab key until you hear the page number style option you want, and then press Enter.
+The header and footer editing area opens. To exit the area and return to the document body, press Esc.
+Print documents
+If you need hard copies of your Word documents, you can easily print them. If you don't have immediate access to a printer, you can print the document to PDF and save it on your computer.
+Print a document using a printer
+Press Ctrl+P. The
+Print
+dialog box opens. Do one of the following:
+To print with the default settings, press Shift+Tab until you hear "Print button," and press Enter.
+To change the print settings, press Shift+Tab to move through the options. To open an options list, press Spacebar. To move in an options list, press the arrow keys. To select an option, press Enter. To print with the new settings, press the Tab key until you hear "Print button," and then press Enter.
+Print a document to PDF
+Press Ctrl+P. The
+Print
+dialog box opens.
+Press the Tab key until you hear "Printer," followed by the current printer, and press Spacebar to expand the
+Printer
+menu. Press the Up or Down arrow key until you hear "Microsoft Print to PDF," and press Enter.
+Press the Tab key until you hear "Print button," and press Enter.
+The
+Save Print Output As
+dialog box opens. The focus is on the
+File name
+text field. Type a name for your document. Then use the Tab key and the arrow keys to navigate to the location where you want to save the print output. When you're on the right location, press Alt+S to save the file as a PDF.
+See also
+Use a screen reader to insert and change text in Word
+Use a screen reader to insert a picture or image in Word
+Use a screen reader to check spelling and grammar in Word
+Keyboard shortcuts in Word
+Use a screen reader to explore and navigate Word
+Technical support for customers with disabilities
+Microsoft wants to provide the best possible experience for all our customers. If you have a disability or questions related to accessibility, please contact the
+Microsoft Disability Answer Desk
+for technical assistance. The Disability Answer Desk support team is trained in using many popular assistive technologies and can offer assistance in English, Spanish, French, and American Sign Language. Please go to the Microsoft Disability Answer Desk site to find out the contact details for your region.
+If you are a government, commercial, or enterprise user, please contact
+the enterprise Disability Answer Desk
+.

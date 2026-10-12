@@ -1,0 +1,444 @@
+URL: https://support.microsoft.com/en-us/accessibility/windows/narrator/chapter-2-narrator-basics
+Chapter 2: Narrator basics
+Applies To
+Windows 10
+Get help with Copilot
+Can you show me how to get around apps and webpages?
+Show me how get a quick summary of a webpage.
+How do I stop narr at or from reading?
+Windows 11
+Windows 10
+This chapter explains Narrator keyboard navigation. This includes how to get around the screen, find and open apps, and change what Narrator reads. It also explains the basic details of adjusting Narrator speech rate, volume, and how to stop speech.
+Scan mode gives you even more navigation options. We'll cover that in
+Chapter 3: Using scan mode
+Tab, arrow, and Enter keys
+In Windows, use the Tab or arrow keys to move around apps and webpages. When you get to something you want to use, like a link, press
+Enter
+. You can also use the
+Tab
+,
+arrow
+, and
+Enter
+keys to move between and interact with things like checkboxes and buttons.
+Narrator key
+You can choose what modifier key you want to use in Narrator commands. Both the
+Caps lock
+and
+Insert
+keys serve as your
+Narrator
+key by default. You can use either of these keys in any command that uses the
+Narrator
+key. The
+Narrator
+key is referred to as simply "Narrator" in commands. You can change your
+Narrator
+key in Narrator settings.
+Note
+If you're using a Japanese 106 keyboard, Insert and NonConvert are your default Narrator keys.
+Explore your keyboard with Input Learning
+Input learning tells you what keys you're pressing on your keyboard, and the Narrator command associated with them. Turn input learning on or off by pressing
+Narrator
++
+1
+(the number 1 key).
+Common Narrator Commands
+Stop Narrator from reading
+Press the
+Ctrl
+key to stop Narrator from reading at any time.
+Make Narrator speak louder or faster
+To change Narrator volume
+Press
+Narrator
++
+Ctrl
++
+the Plus sign
+(
+⁠+⁠
+) or
+Narrator
++
+Ctrl
++
+Add
+(numeric keypad) to increase volume.
+Press
+Narrator
++
+Ctrl
++
+the Minus sign
+(
+⁠-⁠
+) or
+Narrator
++
+Ctrl
++
+Subtract
+(numeric keypad) to decrease volume.
+To change the rate at which Narrator speaks
+Press
+Narrator
++
+the Plus sign
+(
+⁠+⁠
+) or
+Narrator
++
+the Minus sign
+(
+⁠-⁠
+).
+Note
+The commands that include the
+plus sign
+(
+⁠+⁠
+) and the
+minus sign
+(
+⁠-⁠
+) refer to the physical key and don't require Shift as a modifier. Unless explicitly called out, it isn't necessary to include Shift before the equal key to make it the plus sign as you would when typing the plus sign. Using the Narrator volume command above as an example,
+Narrator
++
+Ctrl
++
+equal
+(=) is the literal command, not
+Narrator
++
+Ctrl
++
+Shift
++
+equal
+(
+⁠=⁠
+).
+Switch the Narrator voice
+You can quickly switch between the installed Narrator voices by using the following shortcuts:
+Press
+Narrator
++
+Alt
++
+the Plus sign
+(
+⁠+⁠
+) to switch to the next Narrator voice.
+Press
+Narrator
++
+Alt
++
+the Minus sign
+(
+⁠-⁠
+) to switch to the previous Narrator voice.
+To Find out the time, day of the week, and date
+Press
+Narrator+F12
+to find out the time, day of the week, and date at any time.
+To find out the battery and network status
+Press
+Narrator+Shift+B
+to find out the battery and network status of your PC.
+Few sample announcements are:
+"Battery 99%, time remaining 1hour 48 minutes, Network Sample Wi-Fi Internet access "
+"Plugged in, battery 23%, network No internet access"
+Turn screen curtain on
+Press
+Narrator+Ctrl+C
+to enable screen curtain for enhanced privacy and focus. When activated, screen curtain completely blacks out the display, ensuring that only the user hears what’s on the screen through Narrator, while the visual content remains hidden from view.
+Refer Narrator's speech
+Press
+Narrator
++
+X
+to re-hear the phrase Narrator spoke last.
+Press
+Narrator
+key+
+Alt
++
+X
+to open speech recap and view the last 500 spoken strings. Note that we refresh the text in this window every time Narrator starts. You can use standard reading commands and arrow keys to read the contents in speech recap window and copy text required for reference.
+Need to save or share something Narrator just said last? You can copy it instantly without opening the speech recap window! Use
+Narrator
+key+
+Ctrl
++
+X
+to copy the last phrase Narrator said to clipboard.
+Few scenarios where you can use speech recap and related shortcuts include referring to a hint you heard when opening a new window, copying an error code that was spoken or adding Narrator speech to training materials.
+Live transcription of Narrator's speech
+Live transcription of Narrator speech is useful for Assistive Technology (AT) trainers, Teacher of Students with Visual Impairments (TSVI) who support students in class or for professionals who are hard of hearing and want to use Narrator. To see live transcription of Narrator audio, use the same command
+Narrator
+key+
+Alt
++
+X
+to open the speech recap window and snap it to the portion of the screen you want to view it. As you do tasks, you can see real-time transcriptions of Narrator’s speech.
+These keyboard shortcuts follow a simple patten making it easy to learn.
+To do this
+Press
+Re-hear what Narrator said last
+Narrator key+X
+Copy what Narrator said last
+Narrator key+control +X
+Open speech recap window for history and live transcriptions
+Narrator key+Alt+X
+Turn braille viewer on/off
+Press
+Narrator key+Alt+B
+to turn on/off braille viewer. For more information, refer to
+Chapter 8: Using Narrator with braille
+.
+Windows keyboard shortcuts
+Windows and Windows apps have keyboard shortcuts that you can use alongside Narrator commands. For example, press the
+Windows
+key to open the Start menu, or, to open quick settings, press the
+Windows
+key+
+A
+.
+For a list of the keyboard shortcuts you can use in Windows, refer to
+Keyboard shortcuts in Windows
+. For a list of keyboard shortcuts in Windows apps, refer to
+Keyboard shortcuts in apps.
+For a list of keyboard shortcuts in other Windows assistive technologies, refer to
+Windows keyboard shortcuts for accessibility
+.
+Get around apps and webpages
+Find and open apps
+To quickly find an app in Windows 11, press the
+Windows
+key on your keyboard to open the Start menu and place focus in the search box. Then, type the name of the app that you're looking for, use the arrow keys to select it in the list of search results, and press the
+Enter
+key to open it.
+Switch between apps
+To switch between open apps on your PC, hold down the
+Alt
+key and then press the
+Tab
+key. The narrator will speak the name of open apps as you cycle through them. When you find the app that you want to use, release both keys.
+Anytime you want to know which app or window has focus, press
+Narrator
++
+T
+to read the title of the window that has focus. To read the title and contents of the window that has focus, press
+Narrator
++
+W
+.
+Let Narrator grab info from the web
+When connected to the internet, Narrator can give you more context for images, links, and webpages by sending them to Microsoft.
+Note
+To turn off these services, go to
+Manage data and services
+in Narrator settings.
+Hyperlinks
+If you would like to know where a hyperlink will take you, press
+Narrator
++
+Ctrl
++
+D
+and Narrator can tell you the page title where the link will take you to. This works well in web and mail applications.
+Image descriptions
+If you come across an image you'd like described, press
+Narrator
++
+Ctrl
++
+D
+. Narrator will send the image to Microsoft, and then read a description of the image.
+Get rich image descriptions on Copilot+Pcs
+Snapdragon-powered Copilot+ PCs utilize the capabilities of AI models in Windows to provide detailed image descriptions directly on your device.
+This feature allows Narrator to generate more comprehensive image descriptions on your Copilot+ PC. By pressing
+Narrator
+key+
+Ctrl
++
+D
+, Narrator will deliver a contextual description of the image, detailing elements such as people, objects, colors, text, and numbers.
+For example, in an image depicting stock performance, you will receive the following detailed description: The image is a graph illustrating the stock prices of Microsoft Corporation, alongside the S&P 500 and NASDAQ Computer indexes. The graph indicates a consistent increase in Microsoft's stock price over the period from June 18th to June 23rd.
+The window also contains regenerate, like, dislike and copy button at the bottom.
+When you use the image descriptions feature for the first time by pressing
+Narrator
+Key+
+Ctrl
++
+D
+, the necessary models for generating image descriptions will be downloaded. You can monitor the download status through
+Settings > Windows update
+. This process may take some time, so we recommend continuing with your other tasks while the setup completes. Once the download is finished, you can generate the description again using the same key combination:
+Narrator
+Key+
+Ctrl
++
+D
+.
+Tip
+The
+G
+or
+Shift
++
+G
+commands in scan mode can be used to focus Narrator on various image or graph elements on the screen.
+Note
+To learn more about scan mode, refer to
+Chapter 3: Using scan mode
+. For any questions regarding privacy and data about this feature, refer to Frequently asked questions about rich image descriptions in Narrator
+Frequently asked questions about rich image descriptions in Narrator
+.
+Webpage summary
+Press
+Narrator
++
+S
+to hear a webpage summary that includes the number of links, landmarks, and headings.
+Popular links and full webpage summary
+Press
+Narrator
++
+S
+twice quickly to pull up a dialog box on the screen with the following info: the number of links, landmarks, and headings on a page, and a list of popular links for a page (popular links are the links on the page that get the most clicks).
+Microsoft Privacy Statement
+Next:
+Chapter 3: Using scan mode
+Go back to the
+Table of Contents
+This chapter explains Narrator keyboard navigation. This includes how to get around the screen, find and open apps, and change what Narrator reads. It also explains the basic details of adjusting Narrator speech rate, volume, and how to stop speech.
+Scan mode gives you even more navigation options. We'll cover that in
+Chapter 3: Using scan mode
+.
+Learn Narrator with QuickStart
+QuickStart is a tutorial that'll guide you through the basics of using Narrator. It shows you how to do things like navigate headings and landmarks, and there's even a sample webpage to help you get comfortable with using Narrator online. Get to QuickStart anytime from Narrator Home, which launches by default when you turn on Narrator.
+Tab, arrow, and Enter keys
+In Windows, use the Tab or arrow keys to move around apps and webpages. When you get to something you want to use, like a link, press Enter. You can also use the Tab, arrow, and Enter keys to move between and interact with things like checkboxes and buttons.
+Narrator key
+You can choose what modifier key you want to use in Narrator commands. Both the Caps lock and Insert keys serve as your Narrator key by default. You can use either of these keys in any command that uses the Narrator key. The Narrator key is referred to as simply "Narrator" in commands. You can change your Narrator key in Narrator settings.
+Note
+: If you're using a Japanese 106 keyboard, Insert and NonConvert are your default Narrator keys.
+Explore your keyboard
+Input learning tells you what keys you're pressing on your keyboard, and the Narrator command associated with them. Turn input learning on or off by pressing
+Narrator
++
+1
+(the number 1 key).
+Stop Narrator from reading
+To stop Narrator from reading at any time, press the
+Ctrl
+key.
+Make Narrator speak louder or faster
+To change Narrator volume, press:
+Narrator
++
+Ctrl
++
+Plus sign (+)
+or
+Narrator
++
+Ctrl
++
+Add
+(numeric keypad) to increase volume.
+Narrator
++
+Ctrl
++
+Minus sign (-)
+or
+Narrator
++
+Ctrl
++
+Subtract
+(numeric keypad) to decrease volume.
+To change the rate at which Narrator speaks, press:
+Narrator
++
+Plus sign (+)
+or
+Narrator
++
+Minus sign (-)
+.
+Note
+: The commands that include plus (+) and minus (-) refer to the physical key and don't require Shift as a modifier. Unless explicitly called out, it isn't necessary to include Shift before the equal key to make it the plus sign as you would when typing the plus sign. Using the Narrator volume command above as an example, Narrator + Ctrl + equal (=) is the literal command, not Narrator + Ctrl + Shift + equal (=).
+Windows keyboard shortcuts
+Windows and Windows apps have keyboard shortcuts that you can use alongside Narrator commands. For example, press the
+Windows logo key
+to open the Start menu, or, to open action center, press the
+Windows logo key
++
+A
+.
+For a list of the keyboard shortcuts you can use in Windows, refer to [Keyboard shortcuts in Windows]((
+https://support.microsoft.com/topic/dcc61a57-8ff0-cffe-9796-cb9706c75eec
+). For a list of keyboard shortcuts in other Windows assistive technologies, refer to
+Windows keyboard shortcuts for accessibility
+.
+Get around apps and webpages
+Find and open apps
+To quickly find an app in Windows 10, press the
+Windows logo key
+on your keyboard to open the Start menu and place focus in the search box. Then, type the name of the app that you're looking for, use the arrow keys to select it in the list of search results, and press the
+Enter
+key to open it.
+Switch between apps
+To switch between open apps on your PC, hold down the
+Alt
+key and then press the
+Tab
+key. Narrator will speak the name of open apps as you cycle through them. When you find the app that you want to use, release both keys.
+Anytime you want to know which app or window has focus, press
+Narrator
++
+T
+to read the title of the window that has focus. To read the title and contents of the window that has focus, press
+Narrator
++
+W
+.
+Find out the time, day of the week, and date
+To find out the time, day of the week, and date at any time, press
+Narrator
++
+F12
+.
+Let Narrator grab info from the web
+When connected to the internet, Narrator can give you more context for images, links, and webpages by sending them to Microsoft.
+Note
+: To turn off these services, go to
+Manage your data and services
+in Narrator settings.
+Hyperlinks
+If you would like to know where a hyperlink will take you, press
+Narrator + Ctrl + D
+and Narrator can tell you the page title where the link will take you to. This works well in web and mail applications.
+Image descriptions
+If you come across an image you'd like described, press
+Narrator + Ctrl + D
+. Narrator will send the image to Microsoft, and then read a description of the image.
+Webpage summary
+Hear a webpage summary that includes the number of links, landmarks, and headings by pressing
+Narrator + S
+.
+Popular links and full webpage summary
+Press
+Narrator + S twice quickly
+to pull up a dialog box on the screen with the following info : the number of links, landmarks, and headings on a page, and a list of popular links for a page (popular links are the links on the page that get the most clicks).
+Microsoft Privacy Statement
+Next:
+Chapter 3: Using scan mode
+Go back to the
+Table of Contents

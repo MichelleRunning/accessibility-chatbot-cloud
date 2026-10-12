@@ -1,0 +1,984 @@
+URL: https://support.microsoft.com/en-us/accessibility/windows/narrator/appendix-b-narrator-keyboard-commands-and-touch-gestures
+Appendix B: Narrator keyboard commands and touch gestures
+Applies To
+Windows 11
+Windows 10
+Windows 11
+Windows 10
+This appendix lists the
+keyboard commands
+and
+touch gestures
+available in the latest version of Windows.
+To view a list of all other keyboard shortcuts in Windows, see
+Keyboard shortcuts in Windows
+.
+Narrator key
+You can choose what modifier key you want to use in Narrator commands. Both the Caps lock and Insert keys serve as your Narrator key by default. You can use either of these keys in any command that uses the
+Narrator
+key. The
+Narrator
+key is referred to as simply "Narrator" in commands. You can change your
+Narrator
+key in Narrator settings.
+Note
+: If you're using a Japanese 106 keyboard, Insert and NonConvert are your default Narrator keys.
+Narrator keyboard commands
+Narrator has two possible keyboard layouts:
+Standard
+and
+Legacy
+. Commands for each are listed below. For the scan mode commands, go to
+Chapter 3: Using scan mode
+.
+Note:
+The commands that include the
+plus sign
+(
+⁠+⁠
+) and the
+minussign
+(
+⁠-⁠
+) refer to the physical key and don't require Shift as a modifier. Unless explicitly called out, it isn't necessary to include
+Shift
+before the equal key to make it the plus sign as you would when typing the plus sign. Using the Narrator volume command above as an example,
+Narrator
++
+Ctrl
++
+equal
+(=) is the literal command, not
+Narrator
++
+Ctrl
++
+Shift
++
+equal
+(=).
+Standard keyboard layout
+General commands
+Press these keys
+To do this
+Windows
+Key+Ctrl+Enter
+Start or stop Narrator
+Narrator+Esc
+Exit Narrator
+Narrator+1
+Toggle input learning
+Narrator+Right arrow
+Move to next item
+Narrator+Left arrow
+Move to previous item
+Narrator+Page up
+Ctrl+Narrator+Up arrow
+Narrator+Page down
+Ctrl+Narrator+Down arrow
+Change view
+Narrator+F1
+Show commands list
+Narrator+F2
+Show commands for current item
+Narrator+Enter
+Do primary action
+Narrator+Ctrl+Enter
+Toggle search mode
+Narrator+\
+Read contents of status bar in Apps such as Microsoft Word, Excel, PowerPoint, etc
+Narrator+F12
+Read current time and date
+Narrator+Shift+B
+Read Battery and Network status
+Narrator+Alt+B
+Toggle braille viewer
+Narrator+Ctrl+C
+Toggle Screen curtain
+Narrator+Ctrl+D
+Describe image using an online service or get the webpage source of a link
+Narrator+S
+Get a webpage summary
+Narrator+S twice quickly
+Get webpage summary and popular links dialog box
+Narrator+Shift+S
+Speech off
+Narrator+Alt+F
+Provide Narrator feedback
+Narrator+Z
+Lock Narrator key
+Narrator+Ctrl+F12
+Toggle developer mode
+Narrator+3
+Pass keys to application
+Narrator+4
+Change capitalization reading mode
+Narrator+Alt+M
+Toggle mouse mode
+Narrator+H
+Turn on or off Outlook column header reading
+Adjust speech
+Press these keys
+To do this
+Ctrl+Narrator+the Plus sign (+)
+Ctrl+Narrator+Add (numeric keypad)
+Increase voice volume
+Ctrl+Narrator+the Minus sign (-)
+Ctrl+Narrator+Subtract (numeric keypad)
+Decrease voice volume
+Narrator+the Plus sign (+)
+Increase voice speed
+Narrator+the Minus sign (-)
+Decrease voice speed
+Narrator+Alt+the Plus sign (+)
+Narrator+Alt+Add (numeric keypad)
+Move to the next voice
+Narrator+Alt+the Minus sign (-)
+Narrator+Alt+Subtract (numeric keypad)
+Move to the previous voice
+Narrator+Alt+Left bracket ([)
+Change to the prior punctuation reading mode
+Narrator+Alt+Right bracket (])
+Change to the next punctuation reading mode
+Narrator+V
+Increase verbosity mode
+Shift+Narrator+V
+Decrease verbosity mode
+Narrator+2
+Toggle character reading
+Narrator+Forward slash (/)
+Read context
+Narrator+Alt+Forward slash (/)
+Set read context verbosity
+Narrator+Ctrl+Forward slash (/)
+Change read context order
+Read and work with text
+Press these keys
+To do this
+Ctrl
+Stop reading
+Narrator+Tab
+Narrator+5 (numeric keypad)
+Read item
+Narrator+Tab twice quickly
+Narrator+5 twice quickly (numeric keypad)
+Narrator+K twice quickly
+Narrator+Ctrl+5 twice quickly (numeric keypad)
+Read item spelled out
+Narrator+0
+Read item advanced
+Narrator+T
+Read window title
+Narrator+W
+Read window
+Narrator+X
+Re-hear what Narrator spoke last
+Narrator+Ctrl+X
+Copy last spoken phrase to clipboard
+Narrator+Alt+X
+Open speech recap window for history and live transcription
+Narrator+R
+Read from cursor
+Ctrl+Narrator+R
+Narrator+Down arrow
+Start reading document
+Narrator+C
+Read document
+Shift+Narrator+J
+Narrator+Alt+Home
+Read text from start to cursor
+Ctrl+Narrator+U
+Read previous page
+Ctrl+Narrator+I
+Read current page
+Ctrl+Narrator+O
+Read next page
+Ctrl+Narrator+J
+Read previous paragraph
+Ctrl+Narrator+K
+Read current paragraph
+Ctrl+Narrator+L
+Read next paragraph
+Narrator+Ctrl+M
+Read previous sentence
+Narrator+Ctrl+comma (,)
+Read current sentence
+Narrator+Ctrl+period (.)
+Read next sentence
+Narrator+U
+Read previous line
+Narrator+I
+Narrator+Up arrow
+Read current line
+Narrator+O
+Read next line
+Narrator+J
+Ctrl+Narrator+Left arrow
+Read previous word
+Narrator+K
+Ctrl+Narrator+5 (numeric keypad)
+Read current word
+Narrator+L
+Ctrl+Narrator+Right arrow
+Read next word
+Narrator+M
+Read previous character
+Narrator+Comma (,)
+5 (numeric keypad)
+Read current character
+Narrator+Period (.)
+Read next character
+Narrator+F
+Read next group of formatting information
+Shift+Narrator+F
+Read previous group of formatting information
+Narrator+B
+Ctrl+Narrator+Home
+Move to beginning of text
+Narrator+E
+Ctrl+Narrator+End
+Move to end of text
+Narrator+Shift+Down arrow
+Read selection
+Narrator+Shift+Down arrow twice quickly
+Spell selection
+Navigate tables
+Press these keys
+To do this
+Ctrl+Alt+Home
+Jump to first cell in table
+Ctrl+Alt+End
+Jump to last cell in table
+Ctrl+Alt+Right arrow
+Jump to next cell in row
+Ctrl+Alt+Left arrow
+Jump to previous cell in row
+Ctrl+Alt+Down arrow
+Jump to next cell in column
+Ctrl+Alt+Up arrow
+Jump to previous cell in column
+Ctrl+Shift+Alt+Left arrow
+Read current row header
+Ctrl+Shift+Alt+Up arrow
+Read current column header
+Ctrl+Shift+Alt+Right arrow
+Read current row
+Ctrl+Shift+Alt+Down arrow
+Read current column
+Ctrl+Shift+Alt+Forward slash (/)
+Ctrl+Shift+Alt+5 (numeric keypad)
+Read which row and column Narrator is in
+Ctrl+Alt+Page up
+Jump to table cell
+Ctrl+Alt+Page down
+Jump to cell contents
+Narrator focus commands
+Press these keys
+To do this
+Narrator+Home
+Move to first item in window
+Narrator+End
+Move to last item in window
+Narrator+Backspace
+Go back one item
+Narrator+N
+Move to main landmark
+Narrator+Left bracket ([)
+Narrator+Subtract (numeric keypad)
+Move Narrator cursor to system cursor
+Narrator+Single quote (')
+Narrator+Add (numeric keypad)
+Set focus to item
+Narrator+A
+Jump to linked item
+Shift+Narrator+A
+Jump to annotated content
+Alt+Narrator+Up arrow
+Navigate to parent (when structural navigation is provided)
+Alt+Narrator+Right arrow
+Navigate to next sibling (when structural navigation is provided)
+Alt+Narrator+Left arrow
+Navigate to previous sibling (when structural navigation is provided)
+Alt+Narrator+Down arrow
+Navigate to first child (when structural navigation is provided)
+Narrator+F7
+List of links
+Narrator+F5
+List of landmarks
+Narrator+F6
+List of headings
+Narrator+Ctrl+F
+Narrator Find
+Narrator+F3
+Continue Find forward
+Narrator+Shift+F3
+Continue Find backward
+Numeric keypad commands
+Press these keys
+To do this
+Narrator+Home
+Move to first item in window
+Narrator+End
+Move to last item in window
+Narrator+Alt+Home
+Read text from start to cursor
+Ctrl+Narrator+Home
+Move to beginning of text
+Ctrl+Narrator+End
+Move to end of text
+Narrator+Left arrow
+Move to previous item
+Narrator+Right arrow
+Move to next item
+Narrator+5 (numeric keypad)
+Read item
+Narrator+5 twice quickly (numeric keypad)
+Narrator+Ctrl+5 twice quickly (numeric keypad)
+Read item spelled out
+Narrator+Up arrow
+Read current line
+Narrator+Down arrow
+Start reading document
+Ctrl+Narrator+Left arrow
+Read previous word
+Ctrl+Narrator+5 (numeric keypad)
+Read current word
+Ctrl+Narrator+Right arrow
+Read next word
+5 (numeric keypad)
+Read current character
+Narrator+Page up
+Ctrl+Narrator+Up arrow
+Change view
+Narrator+Subtract (numeric keypad)
+Move Narrator cursor to system cursor
+Narrator+Add (numeric keypad)
+Set focus to item
+Ctrl+Narrator+Add (numeric keypad)
+Increase voice volume
+Ctrl+Narrator+Subtract (numeric keypad)
+Decrease voice volume
+Narrator+Alt+Add (numeric keypad)
+Move to the next voice
+Narrator+Alt+Subtract (numeric keypad)
+Move to the previous voice
+Narrator+Enter
+Do primary action
+Narrator+Ctrl+Enter
+Toggle search mode
+Narrator touch gestures
+Use this gesture
+To do this
+Touch or drag a single finger
+Read what's under your finger
+Double-tap or hold with one finger and then tap anywhere on the screen with a second finger
+Activate primary action
+Triple-tap or hold with one finger and then double-tap anywhere on the screen with a second finger
+Activate secondary action
+Hold with one finger and then tap anywhere on the screen with two fingers
+Start dragging or extra key options
+Flick left or right with one finger
+Move to next or previous item
+Flick up or down with one finger
+Change view
+Tap once with two fingers
+Stop Narrator from reading
+Tap once with three fingers
+Change verbosity mode
+Tap once with four fingers
+Show Narrator commands for the current item
+Double-tap with two fingers
+Show context menu
+Triple-tap with two fingers
+Dismiss context menus (imitating the Escape key)
+Double-tap with three fingers
+Read text attributes
+Double-tap with four fingers
+Open search mode
+Tap three times with four fingers
+Show all Narrator commands
+Swipe left, right, up, or down with two fingers
+Scroll
+Swipe left or right with three fingers
+Tab forward or backward
+Swipe up with three fingers
+Read current window
+Swipe down with three fingers
+Start reading on explorable text
+Swipe up or down with four fingers
+Turn semantic zoom on or off where supported
+Swipe left or right with four fingers
+Move Narrator cursor to beginning or end of unit
+Next:
+Appendix C: Supported braille displays
+Go back to the
+Table of Contents
+This appendix lists the
+keyboard commands
+and
+touch gestures
+available in the latest version of Windows.
+To view a list of all other keyboard shortcuts in Windows, see
+Keyboard shortcuts in Windows
+.
+Narrator key
+You can choose what modifier key you want to use in Narrator commands. Both the Caps lock and Insert keys serve as your Narrator key by default. You can use either of these keys in any command that uses the Narrator key. The Narrator key is referred to as simply "Narrator" in commands. You can change your Narrator key in Narrator settings.
+Note
+: If you're using a Japanese 106 keyboard, Insert and NonConvert are your default Narrator keys.
+Narrator keyboard commands
+Narrator has two possible keyboard layouts:
+Standard
+and
+Legacy
+. Commands for each are listed below. For the scan mode commands, go to
+Chapter 3: Using scan mode
+.
+Note:
+The commands that include plus (+) and minus (-) refer to the physical key and don't require Shift as a modifier. Unless explicitly called out, it isn't necessary to include Shift before the equal key to make it the plus sign as you would when typing the plus sign. Using the Narrator volume command above as an example, Narrator + Ctrl + equal (=) is the literal command, not Narrator + Ctrl + Shift + equal (=).
+Standard keyboard layout
+General commands
+Press these keys
+To do this
+Windows logo key
++ Ctrl + Enter
+Start or stop Narrator
+Narrator + Esc
+Exit Narrator
+Narrator + 1
+Toggle input learning
+Narrator + Right arrow
+Move to next item
+Narrator + Left arrow
+Move to previous item
+Narrator + Page up
+Ctrl + Narrator + Up arrow
+Narrator + Page down
+Ctrl + Narrator + Down arrow
+Change view
+Narrator + F1
+Show commands list
+Narrator + F2
+Show commands for current item
+Narrator + Enter
+Do primary action
+Narrator + Ctrl + Enter
+Toggle search mode
+Narrator + F12
+Read current time and date
+Narrator + Ctrl + D
+Describe image using an online service or get the webpage source of a link
+Narrator + S
+Get a webpage summary
+Narrator + S twice quickly
+Get webpage summary and popular links dialog box
+Narrator + Alt + F
+Provide Narrator feedback
+Narrator + Z
+Lock Narrator key
+Narrator + Ctrl + F12
+Toggle developer mode
+Narrator + 3
+Pass keys to application
+Narrator + Alt + M
+Toggle mouse mode
+Narrator + H
+Turn on or off Outlook column header reading
+Adjust speech
+Press these keys
+To do this
+Ctrl + Narrator + Plus sign (+)
+Ctrl + Narrator + Add (numeric keypad)
+Increase voice volume
+Ctrl + Narrator + Minus sign (-)
+Ctrl + Narrator + Subtract (numeric keypad)
+Decrease voice volume
+Narrator + Plus sign (+)
+Increase voice speed
+Narrator + Minus sign (-)
+Decrease voice speed
+Alt + Narrator + Subtract (numeric keypad)
+Alt + Narrator + Minus sign (-)
+Alt + Narrator + Add (numeric keypad)
+Alt + Narrator + Plus sign (+)
+Change punctuation reading mode
+Narrator + V
+Increase verbosity mode
+Shift + Narrator + V
+Decrease verbosity mode
+Narrator + 2
+Toggle character reading
+Narrator + Forward slash (/)
+Read context
+Alt + Narrator + Forward slash (/)
+Set read context verbosity
+Ctrl + Narrator + Forward slash (/)
+Change read context order
+Read and work with text
+Press these keys
+To do this
+Ctrl
+Stop reading
+Narrator + Tab
+Narrator + 5 (numeric keypad)
+Read item
+Narrator + Tab twice quickly
+Narrator + 5 twice quickly (numeric keypad)
+Narrator + K twice quickly
+Narrator + Ctrl + 5 twice quickly (numeric keypad)
+Read item spelled out
+Narrator + 0
+Read item advanced
+Narrator + T
+Read window title
+Narrator + W
+Read window
+Narrator + X
+Repeat phrase
+Narrator + R
+Read from cursor
+Ctrl + Narrator + R
+Narrator + Down arrow
+Start reading document
+Narrator + C
+Read document
+Shift + Narrator + J
+Narrator + Alt + Home
+Read text from start to cursor
+Ctrl + Narrator + U
+Read previous page
+Ctrl + Narrator + I
+Read current page
+Ctrl + Narrator + O
+Read next page
+Ctrl + Narrator + J
+Read previous paragraph
+Ctrl + Narrator + K
+Read current paragraph
+Ctrl + Narrator + L
+Read next paragraph
+Narrator + Ctrl + M
+Read previous sentence
+Narrator + Ctrl + comma (,)
+Read current sentence
+Narrator + Ctrl + period (.)
+Read next sentence
+Narrator + U
+Read previous line
+Narrator + I
+Narrator + Up arrow
+Read current line
+Narrator + O
+Read next line
+Narrator + J
+Ctrl + Narrator + Left arrow
+Read previous word
+Narrator + K
+Ctrl + Narrator + 5 (numeric keypad)
+Read current word
+Narrator + L
+Ctrl + Narrator + Right arrow
+Read next word
+Narrator + M
+Read previous character
+Narrator + Comma (,)
+5 (numeric keypad)
+Read current character
+Narrator + Period (.)
+Read next character
+Narrator + F
+Read next group of formatting information
+Shift + Narrator + F
+Read previous group of formatting information
+Narrator + B
+Ctrl + Narrator + Home
+Move to beginning of text
+Narrator + E
+Ctrl + Narrator + End
+Move to end of text
+Narrator + Shift + Down arrow
+Read selection
+Narrator + Shift + Down arrow twice quickly
+Spell selection
+Navigate tables
+Press these keys
+To do this
+Ctrl + Alt + Home
+Jump to first cell in table
+Ctrl + Alt + End
+Jump to last cell in table
+Ctrl + Alt + Right arrow
+Jump to next cell in row
+Ctrl + Alt + Left arrow
+Jump to previous cell in row
+Ctrl + Alt + Down arrow
+Jump to next cell in column
+Ctrl + Alt + Up arrow
+Jump to previous cell in column
+Ctrl + Shift + Alt + Left arrow
+Read current row header
+Ctrl + Shift + Alt + Up arrow
+Read current column header
+Ctrl + Shift + Alt + Right arrow
+Read current row
+Ctrl + Shift + Alt + Down arrow
+Read current column
+Ctrl + Shift + Alt + Forward slash (/)
+Ctrl + Shift + Alt + 5 (numeric keypad)
+Read which row and column Narrator is in
+Ctrl + Alt + Page up
+Jump to table cell
+Ctrl + Alt + Page down
+Jump to cell contents
+Narrator focus commands
+Press these keys
+To do this
+Narrator + Home
+Move to first item in window
+Narrator + End
+Move to last item in window
+Narrator + Backspace
+Go back one item
+Narrator + N
+Move to main landmark
+Narrator + Open square bracket ([)
+Narrator + Subtract (numeric keypad)
+Move Narrator cursor to system cursor
+Narrator + Single quote (')
+Narrator + Add (numeric keypad)
+Set focus to item
+Narrator + A
+Jump to linked item
+Shift + Narrator + A
+Jump to annotated content
+Alt + Narrator + Up arrow
+Navigate to parent (when structural navigation is provided)
+Alt + Narrator + Right arrow
+Navigate to next sibling (when structural navigation is provided)
+Alt + Narrator + Left arrow
+Navigate to previous sibling (when structural navigation is provided)
+Alt + Narrator + Down arrow
+Navigate to first child (when structural navigation is provided)
+Narrator + F7
+List of links
+Narrator + F5
+List of landmarks
+Narrator + F6
+List of headings
+Narrator + Ctrl + F
+Narrator Find
+Narrator + F3
+Continue Find forward
+Narrator + Shift + F3
+Continue Find backward
+Numeric keypad commands
+Press these keys
+To do this
+Narrator + Home
+Move to first item in window
+Narrator + End
+Move to last item in window
+Narrator + Alt + Home
+Read text from start to cursor
+Ctrl + Narrator + Home
+Move to beginning of text
+Ctrl + Narrator + End
+Move to end of text
+Narrator + Left arrow
+Move to previous item
+Narrator + Right arrow
+Move to next item
+Narrator + 5 (numeric keypad)
+Read item
+Narrator + 5 twice quickly (numeric keypad)
+Narrator + Ctrl + 5 twice quickly (numeric keypad)
+Read item spelled out
+Narrator + Up arrow
+Read current line
+Narrator + Down arrow
+Start reading document
+Ctrl + Narrator + Left arrow
+Read previous word
+Ctrl + Narrator + 5 (numeric keypad)
+Read current word
+Ctrl + Narrator + Right arrow
+Read next word
+5 (numeric keypad)
+Read current character
+Narrator + Page up
+Ctrl + Narrator + Up arrow
+Change view
+Narrator + Subtract (numeric keypad)
+Move Narrator cursor to system cursor
+Narrator + Add (numeric keypad)
+Set focus to item
+Ctrl + Narrator + Add (numeric keypad)
+Increase voice volume
+Ctrl + Narrator + Subtract (numeric keypad)
+Decrease voice volume
+Alt + Narrator + Add
+Alt + Narrator + Subtract
+Change punctuation reading mode
+Narrator + Enter
+Do primary action
+Narrator + Shift + Enter
+Toggle search mode
+Legacy keyboard layout
+General commands
+Press these keys
+To do this
+Windows logo key + Ctrl + N
+Open Narrator settings
+Windows logo key + Ctrl + Enter
+Start or stop Narrator
+Narrator + Esc
+Stop Narrator
+Narrator + 1
+Toggle input learning
+Narrator + Right arrow
+Move to next item
+Narrator + Left arrow
+Move to previous item
+Narrator + Up or Down arrow
+Change view
+Narrator + F1
+Show commands list
+Narrator + F2
+Show commands for current item
+Narrator + Enter
+Do primary action
+Narrator + Shift + Enter
+Toggle search mode
+Narrator + C
+Read current time and date
+Narrator + Shift + D
+Describe image using an online service
+Narrator + E
+Narrator + Alt + F
+Provide Narrator feedback
+Narrator + Z
+Lock Narrator key
+Narrator + Shift + F12
+Toggle developer mode
+Narrator + X
+Pass keys to application
+Narrator + Num lock
+Turn mouse mode on or off
+Press Caps lock twice in quick succession
+Turn Caps lock on or off
+Adjust speech
+Press these keys
+To do this
+Narrator + Page Up
+Increase voice volume
+Narrator + Page Down
+Decrease voice volume
+Narrator + Plus sign (+)
+Narrator + Add (numeric keypad)
+Increase voice speed
+Narrator + Minus sign (-)
+Narrator + Subtract (numeric keypad)
+Decrease voice speed
+Narrator + Alt + Plus sign (+)
+Narrator + Alt + Minus sign (-)
+Narrator + Alt + Add (numeric keypad)
+Narrator + Alt + Subtract (numeric keypad)
+Change punctuation reading mode
+Narrator + A
+Narrator + Ctrl + Plus sign (+)
+Narrator + Ctrl + Add (numeric keypad)
+Increase verbosity mode
+Narrator + Ctrl + Minus sign (-)
+Narrator + Ctrl + Subtract (numeric keypad)
+Decrease verbosity mode
+Narrator + F12
+Toggle character reading
+Narrator + Forward slash (/)
+Read context
+Alt + Narrator + Forward slash (/)
+Change how much context is read (verbosity)
+Ctrl + Narrator + Forward slash (/)
+Change read context order
+Read and work with text
+Press these keys
+To do this
+Ctrl
+Stop reading
+Narrator + D
+Read item
+Narrator + S
+Read item spelled out
+Narrator + 0 (zero)
+Read item advanced
+Narrator + T
+Read window title
+Narrator + W
+Read window
+Narrator + V
+Repeat phrase
+Narrator + R
+Read from cursor
+Narrator + M
+Start reading document
+Narrator + H
+Read document
+Narrator + Close square bracket (])
+Read text from start to cursor
+Narrator + Shift + U
+Read previous page
+Narrator + Ctrl + U
+Read current page
+Narrator + U
+Read next page
+Narrator + Shift + I
+Read previous paragraph
+Narrator + Ctrl + I
+Read current paragraph
+Narrator + I
+Read next paragraph
+Narrator + Ctrl + M
+Read previous sentence
+Narrator + Ctrl + comma (,)
+Read current sentence
+Narrator + Ctrl + period (.)
+Read next sentence
+Narrator + Shift + O
+Read previous line
+Narrator + Ctrl + O
+Read current line
+Narrator + O
+Read next line
+Narrator + Shift + P
+Read previous word
+Narrator + Ctrl + P
+Read current word
+Narrator + P
+Read next word
+Narrator + Shift + Open square bracket ([)
+Read previous character
+Narrator + Ctrl + Open square bracket ([)
+Read current character
+Narrator + Open square bracket ([)
+Read next character
+Narrator + F
+Read next group of formatting information
+Shift + Narrator + F
+Read previous group of formatting information
+Narrator + Y
+Move to beginning of text
+Narrator + B
+Move to end of text
+Narrator + J
+Read previous word
+H (with scan mode on)
+Jump to next heading
+Shift + H (with scan mode on)
+Jump to previous heading
+Narrator + L
+Jump to next link
+Narrator + Shift + L
+Jump to previous link
+Narrator + Shift + Down Arrow
+Read current selection
+Navigate tables
+Press these keys
+To do this
+Narrator + F3
+Jump to next cell in row
+Narrator + Shift + F3
+Jump to previous cell in row
+Narrator + F4
+Jump to next cell in column
+Narrator + Shift + F4
+Jump to previous cell in column
+Narrator + F10
+Read current row header
+Narrator + F9
+Read current column header
+Narrator + F8
+Read current row
+Narrator + F7
+Read current column
+Narrator + F5
+Read which row and column Narrator is in
+Narrator + F6
+Jump to table cell
+Narrator + Shift + F6
+Jump to cell contents
+Narrator + K
+Jump to next table
+Narrator + Shift + K
+Jump to previous table
+Narrator focus commands
+Press these keys
+To do this
+Narrator + Home
+Move to first item in window
+Narrator + End
+Move to last item in window
+Narrator + Backspace
+Go back one item
+Narrator + N
+Move to main landmark
+Narrator + G
+Move Narrator cursor to system cursor
+Narrator + tilde (~)
+Set focus to item
+Narrator + Insert
+Jump to linked item
+Narrator + Shift + Insert
+Jump to annotated content
+Ctrl + Narrator + Up arrow
+Navigate to parent (when structural navigation is provided)
+Ctrl + Narrator + Right arrow
+Navigate to next sibling (when structural navigation is provided)
+Ctrl + Narrator + Left arrow
+Navigate to previous sibling (when structural navigation is provided)
+Ctrl + Narrator + Down arrow
+Navigate to first child (when structural navigation is provided)
+Narrator + Q
+Move to last item in containing area
+Narrator touch gestures
+Use this gesture
+To do this
+Touch or drag a single finger
+Read what's under your finger
+Double-tap or hold with one finger and then tap anywhere on the screen with a second finger
+Activate primary action
+Triple-tap or hold with one finger and then double-tap anywhere on the screen with a second finger
+Activate secondary action
+Hold with one finger and then tap anywhere on the screen with two fingers
+Start dragging or extra key options
+Flick left or right with one finger
+Move to next or previous item
+Flick up or down with one finger
+Change view
+Tap once with two fingers
+Stop Narrator from reading
+Tap once with three fingers
+Change verbosity mode
+Tap once with four fingers
+Show Narrator commands for the current item
+Double-tap with two fingers
+Show context menu
+Double-tap with three fingers
+Read text attributes
+Double-tap with four fingers
+Open search mode
+Tap three times with four fingers
+Show all Narrator commands
+Swipe left, right, up, or down with two fingers
+Scroll
+Swipe left or right with three fingers
+Tab forward or backward
+Swipe up with three fingers
+Read current window
+Swipe down with three fingers
+Start reading on explorable text
+Swipe up or down with four fingers
+Turn semantic zoom on or off where supported
+Swipe left or right with four fingers
+Move Narrator cursor to beginning or end of unit
+Next:
+Appendix C: Supported braille displays
+Go back to the
+Table of Contents

@@ -1,0 +1,393 @@
+URL: https://support.microsoft.com/en-us/accessibility/windows/narrator/chapter-7-customizing-narrator
+Chapter 7: Customizing Narrator
+Applies To
+Windows 10
+Windows 11
+Windows 10
+This chapter outlines how to customize Narrator so it works best for you. This includes changing what voice and characteristics of the voice you prefer. Narrator also provides natural sounding voices that can be installed for use with Narrator. To learn more about the languages that Narrator supports for our voices, go to
+Appendix A: Supported languages and voices
+. In addition, you can adjust how Narrator starts, how much feedback you hear when typing, whether the audio from other apps is decreased when Narrator is running, and changing Narrator commands to keyboard shortcuts of your choice. This chapter also provides details about how to use third-party text-to-speech (TTS) software to add more voices to Narrator.
+You can find most of these options in your Narrator settings by pressing
+Windows logo key
++
+Ctrl
++
+N
+.
+Use Narrator settings
+Narrator:
+Turn this
+On
+to activate Narrator. You can modify additional settings that control Narrator startup by expanding the Show all settings button (drop-down arrow) next to the
+Narrator
+on/off switch. Press the Tab key to go to this button and then press Spacebar, or click the button with the mouse, and then modify the following:
+Start Narrator before sign-in:
+Narrator will run on your PC before anyone signs in.
+Start Narrator after sign-in:
+Narrator will start automatically when you sign in to your PC.
+Keyboard shortcut for Narrator:
+Turn this
+On
+to start and stop Narrator using the
+Windows logo key
++
+Ctrl
++
+Enter
+on a keyboard, or the
+Windows button
++
+Volume up
+button on a touch device.
+Narrator Home:
+Narrator Home resides in your system tray and offers useful shortcuts to Narrator features. Expand the Show all settings button to show the following additional settings:
+Open Narrator Home:
+Narrator Home resides in your system tray and offers useful shortcuts to Narrator features.
+Show Narrator Home when Narrator starts:
+Controls whether Narrator Home starts after Narrator is launched. If you do not select this, Narrator Home does not launch when Narrator has started. You can open Narrator Home with the
+Open Narrator Home
+button in settings.
+Complete guide to Narrator:
+Links to an online version of this guide.
+Narrator's voice settings
+Choose a voice:
+Choose from different available Narrator voices in your language. Narrator voices average a maximum of approximately 400 words per minute. However, the English voices Microsoft David, Microsoft Zira, and Microsoft Mark offer a rate of approximately 800 words per minute.
+With Narrator, you can control many characteristics for the voice you have selected. After you have selected a voice, expand the Show all settings button to change the following settings:
+Speed:
+Control the speed at which Narrator speaks.
+Pitch:
+Adjust the pitch of Narrator's voice.
+Volume:
+Adjust the volume at which Narrator speaks.
+Add natural voices:
+Narrator provides three US English natural sounding voices: two female voices, Jenny and Aria, and one male voice, Guy. To install a natural voice, select the
+Add
+button, select the voice you want to install, and then click
+Preview
+to hear a preview of the voice or
+Install
+to start downloading.
+Add legacy voices:
+Takes you to
+Time & language > Speech
+so you can install voices in different languages. Narrator can be used with SAPI 5-based speech synthesizers. Once installed, voices will appear in the list of voices for you to choose. Third-party providers include Harpo Software, CereProc, NextUp, Eloquence, and Vocalizer Expressive. Learn more about adding voices in
+Appendix A: Supported languages and voices
+.
+Tip
+The options above are provided for informational purposes only. Microsoft does not endorse any particular third-party software, nor can it offer any support for their installation and use. For help with any of these products, please contact the original manufacturer.
+Lower the volume of other apps when Narrator is speaking:
+The audio volume from other apps is lowered so you can hear Narrator better.
+Narrator audio output device:
+Narrator lets you choose your default audio output device. If you have multiple sound cards, you can select the device that Narrator's voices will be diverted to. You can use this in situations where you wish to present to an audience and don't want Narrator's speech to be heard from your computer.
+Tip
+If a user wishes to hear Narrator updates consistently across all post-update reboots, they should utilize a USB headset to ensure the best experience. Users who do not utilize USB headsets may experience an inconsistent Narrator readout until the device finishes the updating process.
+Verbosity settings
+Verbosity level:
+Select how descriptive Narrator is about what it is reading. Options include:
+1 - Text only
+,
+2 - Some control details
+,
+3 - All control details
+,
+4 - Some text details
+, and
+5 - All text details
+. Expand the Show all settings button to show additional verbosity options:
+Emphasize formatted text:
+Narrator's voice will put more emphasis on formatted text. This feature is not available when using a natural voice.
+Read phonetically when reading by character:
+For example, Narrator will read the letter A as "alpha."
+Pause slightly when reading punctuation
+(This feature is not available when using a natural voice.)
+Read advanced detail, like help text, on buttons and other controls
+Change how capitalized text is read:
+Options include:
+Don't announce
+,
+Increase pitch
+, and
+Say cap.
+The
+Increase pitch
+option is not supported when using a natural voice.
+Context level for buttons and controls:
+Options include:
+No context
+,
+Immediate context
+,
+Immediate context name and type
+,
+Full context of new control
+, and
+Full context of old and new controls
+. Expand the Show all settings button to show additional options:
+Read hints on how to interact with buttons and other controls
+Tell me why actions can't be performed
+Play sounds instead of announcements for common actions:
+Common actions include actions like turning scan mode on and off, or landing on a link.
+Tell me details about buttons and other controls.
+Options include
+After controls
+or
+Before controls
+.
+Have Narrator announce when I type:
+Expand the Show all settings button to select which items you want Narrator to announce:
+Letters, numbers, and punctuation
+Words
+Function keys
+Arrow, Tab, and other navigation keys
+Toggle keys, like Caps lock and Num lock
+Shift, Alt, and other modifier keys
+Mouse and keyboard settings
+Narrator key:
+You can choose if you want to use
+Caps lock
+,
+Insert
+, or both keys in Narrator commands. Both the Caps lock and Insert keys serve as your Narrator key by default. You can use either of these keys in any command that uses the Narrator key. Expand the Show all settings button to set:
+Lock the Narrator key so I don't have to press it for each command.
+When you press one of the keys, it will remain in a "pressed" state until you press it again to turn it off. You can also lock the Narrator key by pressing
+Narrator
++
+Z
+. This functionality can be disorientating if you aren't used to it, so use caution if you choose to use it.
+On touch keyboards, activate keys when I lift my finger:
+Characters are entered as soon as you lift your finger off the touch keyboard.
+Read and interact with the screen using the mouse:
+When this is turned on, Narrator reads what is under the mouse cursor. Use the numeric keypad to move the mouse.
+Keyboard layout:
+Narrator's Standard layout is more like the keyboard layouts you may have experienced in other screen readers. If you want to use Narrator's original keyboard layout, choose the Legacy keyboard. Learn the commands for each keyboard in
+Appendix B: Narrator keyboard layouts and touch gestures
+. Expand the Show all settings button for more options:
+More about Narrator keyboard layouts:
+Provides more information about Narrator keyboard commands.
+Create a custom keyboard layout:
+Opens a dialogue where you can assign custom commands for Narrator functions. Here's how to use this:
+Choose the command to customize.
+Select
+Change command keyboard shortcut
+.
+In the
+Type a keyboard shortcut
+window, type the keyboard shortcut you want to use on your keyboard. Use any combination of modifier keys (Control, Shift, Alt, Caps lock, or the Windows logo key) together with a non-modifier key. Use function and numeric keypad keys without any modifiers.
+Select
+Restore all default
+to return all commands back to their default settings. To find this setting, press
+Alt
++
+Tab
+after Narrator launches, select the Narrator Settings window, and choose
+Commands
+.
+Narrator cursor settings
+Show the Narrator cursor:
+When this is turned
+On
+, the Narrator cursor is highlighted with a blue focus box.
+Move my text cursor with the Narrator cursor as Narrator reads text:
+When this is turned
+On
+, Narrator will move the text insertion point when navigating by views such as characters and words.
+Sync the Narrator cursor and system focus:
+When this is turned
+On
+, the Narrator cursor and the system cursor will be synchronized when possible.
+Navigation mode:
+Two modes are available:
+Normal
+and
+Advanced
+. Normal mode is recommended and allows Narrator to move between various items such as links, tables, and other elements. Advanced mode lets you use the four arrow keys to move the Narrator cursor through a programmatic representation of an application.
+Braille settings
+To use a braille display, select the "More" button next to
+Use a braille display with Narrator
+, and then select the
+Download and install braille
+button. For more information, go to
+Chapter 8: Using Narrator with braille
+, and for a full list of supported displays, go to
+Appendix C: Supported braille displays
+.
+Extensions
+Narrator now supports the use of extensions to improve the productivity and efficiency of Narrator with applications. Outlook and Excel are the current extensions that are supported.
+Enabling and Disabling of Extensions
+Use the Enable Narrator extensions option to enable or disable all extensions. Extensions are turned on by default. Turning Narrator extensions off will force all extensions to not execute when Narrator is started and when applications are started. In addition, if extensions are turned off we will not check for extensions when Narrator starts up.
+Downloading Extensions on Narrator Startup
+Use the Find and download new extensions on Narrator startup checkbox to enable or disable the ability for Narrator to download extensions when Narrator starts. This feature is enabled by default. Narrator extensions must also be enabled for this feature to work as documented.
+Checking Extension Download Status
+You can find out the last when Narrator attempt to download extensions from the Microsoft store. Enable Scan Mode and read the text below the checkbox. It has a label of Last Updated and shows the date and time of the last successful download from the store of extensions.
+Manage data and services settings
+Sync my Narrator settings on this device:
+Select the
+Sync settings
+button if you want anyone who uses your PC to use your Narrator settings. This is recommended if you use a serial braille display.
+Get image descriptions, page titles, and popular links.
+For more information about this service, go to "Let Narrator grab info from the web" in
+Chapter 2
+.
+Automatically send diagnostic and performance data:
+Turn this
+On
+to send diagnostic and performance data as you use Narrator. To give feedback on Narrator, press
+Narrator
++
+Alt
++
+F
+.
+Privacy Statement:
+Understand how Microsoft uses your Narrator data and for what purposes.
+Next:
+Chapter 8: Using Narrator with braille
+Go back to the
+Table of Contents
+This chapter outlines how to customize Narrator so it works best for you, including changing how Narrator starts, how much feedback you hear when typing, whether the audio from other apps is decreased when Narrator is running, and changing Narrator commands to keyboard shortcuts of your choice. This chapter also provides details about how to use third-party text-to-speech (TTS) software to add more voices to Narrator.
+You can find most of these options in your Narrator settings by pressing
+Windows logo key
++ Ctrl + N
+.
+General settings (Use Narrator)
+This section contains info on the toggle switch to turn Narrator on or off and links to open Narrator Home and this guide.
+Start-up options
+Allow the shortcut key to start Narrator.
+Start and stop Narrator using the
+Windows logo key + Ctrl + Enter
+on a keyboard, or the
+Windows button + Volume up
+button on a touch device.
+Start Narrator after sign-in for me.
+Narrator will start automatically when you sign in to your PC.
+Start Narrator before sign-in for everyone.
+Narrator will run on your PC before anyone signs in.
+Show Narrator Home when Narrator starts. You can also turn this on or off in Narrator Home.
+Minimize Narrator Home to the system tray
+. When this is enabled, Narrator will minimize to the system tray instead of the taskbar.
+Personalize Narrator's voice
+Choose a voice.
+Choose from different available Narrator voices in your language. Narrator voices average a maximum of approximately 400 words per minute. However, the English voices Microsoft David, Microsoft Zira, and Microsoft Mark offer a rate of approximately 800 words per minute.
+Learn how to add more voices.
+Narrator can be used with SAPI 5-based speech synthesizers. Once installed, voices will appear in the list of voices for you to choose. Third-party providers include Harpo Software, CereProc, NextUp, Eloquence, and Vocalizer Expressive. Learn more about adding voices in
+Appendix A: Supported languages and voices
+.
+Note:
+The options above are provided for informational purposes only. Microsoft does not endorse any particular third-party software, nor can it offer any support for their installation and use. For help with any of these products, please contact the original manufacturer.
+Speed.
+Control the speed at which Narrator speaks.
+Pitch.
+Adjust the pitch of Narrator's voice.
+Volume.
+Adjust the volume at which Narrator speaks.
+Lower the volume of other apps.
+The audio volume from other apps is lowered so you can hear Narrator better.
+Select where you hear Narrator's voice.
+Narrator lets you choose your default audio output device.
+Change what you hear when reading and interacting
+Change the level of detail Narrator provides about text.
+Options include: Text only, Some control details, All control details, Some text details, and All text details.
+Change how capitalized text is read.
+Options include: Don't announce, Increase pitch, and Say "cap."
+Have Narrator's voice emphasize formatted text.
+Narrator's voice will put more emphasis on formatted text.
+Hear phonetics as you read by character.
+For example, Narrator will read the letter A as "alpha."
+Have Narrator use punctuation to determine pauses when reading.
+Hear advanced detail, like help text, on buttons and other controls.
+Change the level of context Narrator provides for buttons and other controls.
+Options include: No context, Sounds only, Immediate context, Immediate context name and type, Full context of new control, and Full context of old and new controls.
+Adjust when Narrator provides details about buttons and other controls.
+Options include After controls or Before controls.
+To hear the current context at any time, press
+Narrator + Forward slash (/)
+.
+To change the level of context that's read, press
+Narrator + Alt + Forward slash (/)
+.
+To change whether context is read before or after the current item, press
+Narrator + Ctrl + Forward slash (/)
+.
+Hear hints on how to interact with buttons and other controls.
+Hear Narrator announce why an action can't be performed.
+Hear only sounds for common actions.
+Common actions include actions like turning on and off scan mode and landing on a link.
+Have Narrator be more efficient in Outlook (experimental).
+When this is selected, Outlook will allow you to triage your email in a more natural way .
+Change what you hear when typing
+Hear letters, numbers, and punctuation as you type.
+Characters are announced immediately after you type them. This setting can also be toggled on or off by pressing
+Narrator + 2
+.
+Hear words as you type
+. Typed words are announced immediately after you type them.
+Hear function keys as you type
+Hear arrow, Tab, and other navigation keys as you type
+Hear when toggle keys, like Caps lock and Num lock, are turned on or off
+Hear Shift, Alt, and other modifier keys as you type
+Choose keyboard settings
+Select keyboard layout.
+Narrator's Standard layout is more like the keyboard layouts you may have experienced in other screen readers. If you want to use Narrator's original keyboard layout, choose the Legacy keyboard. Learn the commands for each keyboard in
+Appendix B: Narrator keyboard layouts and touch gestures
+.
+Select Narrator key.
+You can choose if you want to use Caps lock, Insert, or both keys in Narrator commands. Both the Caps lock and Insert keys serve as your Narrator key by default. You can use either of these keys in any command that uses the Narrator key.
+Note:
+If you're using a Japanese 106 keyboard, Insert and NonConvert are your default Narrator keys.
+Lock the Narrator key so I don't have to press it for each command.
+When you press one of the keys, it will remain in a "pressed " state until you press it again to turn it off. You can also lock the Narrator key by pressing
+Narrator + Z
+. This functionality can be disorientating if you aren't used to it, so use caution if you choose to use it.
+On touch keyboards, activate keys when I lift my finger⁠.⁠
+Characters are entered as soon as you lift your finger off the touch keyboard.
+Create your own keyboard commands
+Choose the command to customize.
+Select
+Change command keyboard shortcut
+.
+In the
+Type a keyboard shortcut
+window, type the keyboard shortcut you want to use on your keyboard. Use any combination of modifier keys (Control, Shift, Alt, Caps lock, or the Windows logo key) together with a non-modifier key. Use function and numeric keypad keys without any modifiers.
+Select
+Restore all default
+to return all commands back to their default settings. To find this setting, press
+Alt + Tab
+after Narrator launches, select the Narrator Settings window, and choose
+Commands
+.
+Use Narrator cursor
+Show the Narrator cursor.
+The Narrator cursor is highlighted with a blue focus box.
+Move my cursor with the Narrator cursor as Narrator reads text⁠.⁠
+When this is turned on, Narrator will move the text insertion point when navigating by views such as characters and words.
+Sync the Narrator cursor and system focus⁠.⁠
+When this is turned on, the Narrator cursor and the system cursor will be synchronized when possible.
+Read and interact with the screen using the mouse.
+When this is turned on, Narrator reads what is under the mouse cursor. Use the numeric keypad to move the mouse .
+Select the Narrator cursor navigation mode.
+Two modes are available: normal and advanced. Normal mode is recommended and allows Narrator to move between various items such as links, tables, and other elements. Advanced mode lets you use the four arrow keys to move the Narrator cursor through a programmatic representation of an application.
+Use braille
+To use a braille display with Narrator, select the
+Download and install braille
+button. For more information, go to
+Chapter 8: Using Narrator with braille
+, and for a full list of supported displays, go to
+Appendix C: Supported braille displays
+.
+Manage your data and services
+Sync my settings
+. Select the
+Use current settings before sign-in
+button if you want anyone who uses your PC to use your Narrator settings. This is recommended if you use a serial braille display.
+Get image descriptions, page titles, and popular links.
+For more information about this service, go to "Let Narrator grab info from the web" in
+Chapter 2
+.
+Help make Narrator better
+Turn on the toggle to send diagnostic and performance data as you use Narrator. To give feedback on Narrator, press
+Narrator + Alt + F
+.
+Next:
+Chapter 8: Using Narrator with braille
+Go back to the
+Table of Contents

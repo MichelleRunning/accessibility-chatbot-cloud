@@ -1,0 +1,643 @@
+URL: https://support.microsoft.com/en-us/accessibility/edge/accessibility-features-in-microsoft-edge
+Accessibility features in Microsoft Edge
+Applies To
+Microsoft Edge
+Edge for Mac
+Windows 11
+Windows 10
+Windows 8.1
+Windows 7
+Get help with Copilot
+How do I customize caption style in Edge?
+How do I make Edge easier to read?
+How do I zoom in and out in Edge?
+The new Microsoft Edge
+comes with built-in accessibility options to help you browse the web in a way that best suits your needs.
+Windows
+Mac
+In this topic
+Make text larger
+Have the web read aloud to you
+Read more comfortably
+Get image descriptions for screen readers
+High visibility outline
+Use a keyboard to surf the web
+Caret browsing
+Tab browsing
+Use high contrast for better readability
+Ask before closing windows with tabs
+Customize caption style
+Windows 11
+In Windows 11 all accessibility features can be found on a single settings page in Microsoft Edge.
+Go to
+Settings and more
+>
+Settings
+>
+Accessibility
+.
+Make text larger
+To enlarge a single web page in Microsoft Edge, select
+Settings and more
+and then choose
+Zoom in
+,
+Zoom out
+, or
+Full screen
+.
+Or use the following keyboard shortcuts:
+Press this
+To do this
+Ctrl
++
+Plus sign
+(
+⁠+⁠
+)
+Zoom in by 25%
+Ctrl
++
+Minus sign
+(
+⁠-⁠
+)
+Zoom out by 25%
+Ctrl
++
+0
+Reset zoom level to default
+Ctrl
++
+Scroll wheel up
+Zoom in
+Ctrl
++
+Scroll wheel down
+Zoom out
+F11
+Switch between full screen and exit full screen
+To set the default zoom level for all websites in Microsoft Edge:
+Go to
+Settings and more
+or press Alt + F.
+Select
+Settings
+and choose
+Accessibility
+.
+Select the desired zoom level from the drop-down menu for
+Page zoom
+under
+Visibility
+.
+Easily manage zoom levels for specific sites by selecting
+Zoom levels
+.
+You can also enlarge text in Windows. Changes you make here will apply to most of the text on your device.
+In Windows 11, select
+Start
+>
+Settings
+>
+Accessibility
+>
+Text size
+. Drag the slider until the sample text is easy to read, then select
+Apply
+.
+In Windows 10, select
+Start
+>
+Settings
+>
+Ease of access
+>
+Display
+>
+Make text bigger
+. Drag the slider until the sample text is easy to read, then select
+Apply
+.
+Have the web read aloud to you
+Microsoft Edge can read aloud news, sports stories, and other web pages to you. With your web page open, select and hold (right-click) anywhere on the page and choose
+Read aloud
+. You can also go to
+Settings and more
+and then select
+Read aloud
+. If you don't see Read aloud, select More tools and then choose Read aloud.
+Or use the following keyboard shortcut:
+Press this
+To do this
+Ctrl
++
+Shift
++
+U
+Start or stop Read aloud
+Read more comfortably
+The Immersive Reader in Microsoft Edge provides a cleaner, simpler layout with fewer distractions. Change the theme and text size to what's most comfortable for you.
+In Microsoft Edge, navigate to the page that you want to read.
+Select Enter
+Immersive Reader
+on the address bar (it's only available on some web pages)
+Note
+If you don't see the
+Immersive Reader
+button, select
+More actions
+(circled ellipsis) and then choose
+Immersive Reader
+.
+Under
+Text preferences
+, select the text size, and change the page theme to one of 23 options.
+You can use the following keyboard shortcut for Immersive Reader:
+Press this
+To do this
+F9
+Enter or exit Immersive Reader
+See Use Immersive Reader in Microsoft Edge
+Get image descriptions from Microsoft
+Microsoft Edge can detect unlabeled images and generate descriptions. Image descriptions can be read aloud by screen readers in English, Spanish, Japanese, Portuguese, and simplified Chinese.
+To turn this feature on:
+Go to
+Settings and more
+and choose
+Settings
+.
+Select
+Accessibility
+, choose
+Get image descriptions for screen readers
+, and select
+Yes, I'm in
+.
+When this feature is turned on, Microsoft Edge will automatically generate descriptions for unlabeled images on any website.
+High visibility focus indicator
+The high visibility focus indicator creates a black and white outline around a focused element on a web page. The outline will appear when you select a link or text area and when using keyboard navigation, such as the Tab key.
+To turn this feature on:
+Go to
+Settings and more
+>
+Settings
+.
+Select
+Accessibility
+and turn on
+Show a high visibility outline on the focused object
+.
+When this feature is turned on, a black and white outline will appear for three seconds around the focused element on any web page.
+Use a keyboard to surf the web
+Using just your keyboard, you can quickly move focus through the major panes of your browser, such as:
+Browser tabs
+Address and search bar
+Favorites bar (if available)
+Web page content
+Certain popup dialogs
+Press this
+To do this
+F6
+Move focus to the next browser pane
+Shift
++
+F6
+Move focus to the previous browser pane
+Ctrl
++
+F6
+Move focus to the web content pane
+Turn on caret browsing
+To navigate pages with a text cursor, turn on caret browsing.
+Turn caret browsing on or off only for the current session using the keyboard shortcut:
+Press this
+To do this
+F7
+Turn caret browsing on or off
+Turn on caret browsing indefinitely:
+Go to
+Settings and more
+and choose
+Settings
+.
+Select
+Accessibility
+and turn on
+Navigate pages with a text cursor
+.
+With caret browsing on, you can move the caret within a web page using the
+Up
+,
+Down
+,
+Left
+, and
+Right
+directional arrow keys and
+Home
+,
+Page Up
+, and
+Page Down
+buttons on your keyboard.
+To select text, images, or other elements on the page, hold down
+Shift
+while moving the caret.
+For example, to open the menu for an image on the page:
+Use the arrow keys to move the caret immediately before the image.
+Hold down
+Shift
+while moving the caret using the left or right arrow keys to select the image.
+Then press
+Shift
++
+F10
+to open the menu for the image.
+From this menu, you can do things like copy the image to the clipboard or perform a visual search using the image.
+Tab browsing
+You can use the
+Tab
+key to move quickly through items on the screen, such as:
+Links that are text or images
+Text fields in forms on the web
+The address and search bar
+Buttons on the toolbar
+Browser tabs
+Press this
+To do this
+Tab
+Move focus to the next item
+Shift
++
+Tab
+Move focus to the previous item
+When you move focus to the browser tabs, menus, or lists, you can use the
+Up
+,
+Down
+,
+Left
+, and
+Right
+arrow keys to move focus from item to item.
+You can also rearrange the position of browser tabs (if you have more than one open) or items in your favorites bar. To move an item using keyboard commands, you must have the focus on that item.
+Press this
+To do this
+Alt
++
+Shift
++
+Left arrow
+Move the focused item to the left
+Alt
++
+Shift+ Right arrow
+Move the focused item to the right
+Alt
++
+Shift
++
+Up arrow
+Move the focused item up
+Alt
++
+Shift
++
+Down arrow
+Move the focused item down
+See more keyboard shortcuts for Microsoft Edge
+Use high contrast for better readability
+High contrast mode makes the screen easier to read by using more distinct colors.
+Turn high contrast mode on or off using the keyboard shortcut:
+Press this
+To do this
+Left Alt
++
+Left Shift
++
+Print Screen
+Turn high contrast mode on or off
+Customize a high contrast theme in Windows:
+In Windows 11, select
+Start
+>
+Settings
+>
+Accessibility
+>
+Contrast themes
+. Choose a theme from the drop-down menu and select
+Apply
+.
+In Windows 10, select
+Start
+>
+Settings
+>
+Ease of Access
+>
+High contrast
+. Under
+Use high contrast
+, set
+Turn on high contrast
+to
+On
+. Under Choose a theme, select a high contrast theme, and select
+Apply
+.
+Ask before closing windows with tabs
+In Microsoft Edge, you can prevent your browser from closing a window with multiple open tabs by asking for confirmation before you exit.
+To turn this feature on:
+Go to
+Settings and more
+>
+Settings
+⁠.⁠
+Select
+Accessibility
+and turn on
+Ask before closing a window with multiple tabs
+under
+Usability
+.
+When this feature is turned on, Microsoft Edge will ask for confirmation before closing a window or windows with multiple tabs open.
+Customize caption style
+Make your device easier to use without sound by displaying audio as text.
+To access caption preferences in Microsoft Edge:
+Go to
+Settings and more
+>
+Settings
+.
+Select
+Accessibility
+and select
+Open caption preferences
+.
+To access caption preferences in Windows:
+In Windows 11, select
+Start
+>
+Settings
+>
+Accessibility
+>
+Captions
+. Under
+Captions
+, choose the caption style from the drop-down menu or select
+Edit
+to customize captions.
+In Windows 10, select
+Start
+>
+Settings
+>
+Ease of Access
+>
+Closed captions
+. Under
+Closed captions
+, select from the various drop-down menus to customize captions.
+In this topic
+Zoom in on a web page
+Have the web read aloud to you
+Read more comfortably
+Get image descriptions for screen readers
+High visibility outline
+Use a keyboard to surf the web
+Tab browsing
+Caret browsing
+Ask before closing windows with tabs
+Accessibility features in Microsoft Edge
+In Microsoft Edge all accessibility features can be found on a single settings page.
+Go to
+Settings and more
+>
+Settings
+>
+Accessibility
+.
+Zoom in on a web page
+To enlarge a single web page in Microsoft Edge, select
+Settings and more
+and then choose
+Zoom in
+,
+Zoom out
+, or
+Full screen
+.
+Or use the following keyboard shortcuts:
+Press this
+To do this
+Command
++
+Plus
+(
+⁠+⁠
+)
+Zoom in by 25%
+Command
++
+Minus
+(
+⁠-⁠
+)
+Zoom out by 25%
+Command
++
+0
+Reset zoom level to default
+Ctrl
++
+Command
++
+F
+Switch between full screen and exit full screen
+To set the default zoom level for all websites in Microsoft Edge, go to
+Settings and more
+>
+Settings
+>
+Accessibility
+and select the desired zoom level from the drop-down menu under
+Page zoom
+.
+Easily manage zoom levels for specific sites by selecting
+Zoom levels
+.
+Have the web read aloud to you
+Microsoft Edge can read aloud news, sports stories, and other web pages to you. With your web page open, select and hold (right-click) anywhere on the page and choose
+Read aloud
+. You can also go to
+Settings and more
+and then select
+Read aloud
+.
+Or use the following keyboard shortcut:
+Press this
+To do this
+Command
++
+Shift
++
+U
+Start or stop Read aloud
+Read more comfortably
+The Immersive Reader in Microsoft Edge provides a cleaner, simpler layout with fewer distractions. Change the theme and text size to what's most comfortable for you.
+In Microsoft Edge, navigate to the page that you want to read.
+Select
+Enter Immersive Reader
+on the address bar (it's only available on some web pages).
+Under
+Text preferences
+, select the text size, and change the page theme to one of 23 options.
+You can use the following keyboard shortcut for Immersive Reader:
+Press this
+To do this
+F9
+Enter or exit Immersive Reader
+See Use Immersive Reader in Microsoft Edge
+Get image descriptions from Microsoft
+Microsoft Edge can detect unlabeled images and generate descriptions. Image descriptions can be read aloud by screen readers in English, Spanish, Japanese, Portuguese, and simplified Chinese.
+To turn this feature on:
+Go to
+Settings and more
+>
+Settings
+.
+Select
+Accessibility
+> turn on
+Get image descriptions from Microsoft for screen readers
+, and select
+Yes, I'm in
+.
+When this feature is turned on, Microsoft Edge will automatically generate descriptions for unlabeled images on any website.
+High visibility focus indicator
+The high visibility focus indicator creates a black and white outline around a focused element on a web page. The outline will appear when you select a link or text area and when using keyboard navigation, such as the Tab key.
+To turn this feature on:
+Go to
+Settings and more
+>
+Settings
+.
+Select
+Accessibility
+> and turn on
+Show a high visibility outline around the area of focus on the page
+.
+When this feature is turned on, a black and white outline will appear for three seconds around the focused element on any web page.
+Use a keyboard to surf the web
+To use your keyboard to surf the web, you need to
+set System Preferences on your Mac
+.
+Tab browsing
+You can use the
+Tab
+key to move quickly through items on the screen, such as:
+Links that are text or images
+Text fields in forms on the web
+The address and search bar
+Buttons on the toolbar
+Press this
+To do this
+Tab
+Move focus to the next item
+Shift
++
+Tab
+Move focus to the previous item
+When you move focus to the browser tabs, menus, or lists, you can use the
+Up
+,
+Down
+,
+Left
+, and
+Right
+arrow keys to move focus from item to item.
+You can also rearrange the position browser tabs (if you have more than one open) or items in your favorites bar. To move an item using keyboard commands, you must have the focus on that item.
+Press this
+To do this
+Option
++
+Shift
++
+Left arrow
+Move the focused item to the left
+Option
++
+Shift
++
+Right arrow
+Move the focused item to the right
+Option
++
+Shift
++
+Up arrow
+Move the focused item up
+Option
++
+Shift
++
+Down arrow
+Move the focused item down
+Turn on caret browsing
+To navigate pages with a text cursor, turn on caret browsing.
+Turn caret browsing on or off only for the current session using the keyboard shortcut:
+Press this
+To do this
+F7
+Turn caret browsing on or off
+Turn on caret browsing indefinitely by going to
+Settings and more
+>
+Settings
+>
+Accessibility
+and turn on
+Navigate pages with a text cursor
+.
+With caret browsing on, you can move the caret within a web page using the
+Up
+,
+Down
+,
+Left
+, and
+Right
+directional arrow keys.
+To select text or other elements on the page, hold down
+Shift
+while moving the caret.
+For example, to open the menu for an image on the page:
+Use the arrow keys to move the caret immediately before the image.
+Hold down
+Shift
+while moving the caret using the left or right arrow keys to select the image.
+Then press
+Shift
++
+F10
+to open the menu for the image.
+From this menu, you can do things like copy the image to the clipboard or perform a visual search using the image.
+See more keyboard shortcuts for Microsoft Edge
+Ask before closing windows with tabs
+In Microsoft Edge, you can prevent your browser from closing a window with multiple open tabs by asking for confirmation before you exit.
+To turn this feature on:
+Go to
+Settings and more
+>
+Settings
+.
+Select
+Accessibility
+and turn on
+Ask before closing a window with multiple tabs
+.
+When this feature is turned on, Microsoft Edge will ask for confirmation before closing a window or windows with multiple tabs open.

@@ -1,0 +1,119 @@
+URL: https://support.microsoft.com/en-us/accessibility/windows/narrator/chapter-1-introducing-narrator
+Chapter 1: Introducing Narrator
+Applies To
+Windows 10
+Get help with Copilot
+Can I use chapter 1: introducing narrator?
+What if I can't get a quick summary of a webpage?
+Help me narr at or with quick start.
+Windows 11
+Windows 10
+Narrator lets you use your PC without a mouse to complete common tasks if you're blind or have low vision. It reads and interacts with things on the screen, like text and buttons. Use Narrator to read and write email, browse the internet, and work with documents.
+Specific commands let you navigate Windows, the web, and apps. Navigation is available using headings, links, landmarks, and more. You can read text (including punctuation) by page, paragraph, line, sentence, word, and character, as well as determine characteristics like font and text color. Efficiently review tables with row and column navigation.
+Narrator also has a navigation and reading mode, which you'll learn more about in
+Chapter 3: Using scan mode
+. Use it to get around Windows 11 using just the up and down arrows on your keyboard. You can also use a braille display to navigate your PC and read text, which you'll learn more about in
+Chapter 8: Using Narrator with braille
+.
+You can also customize the speaking rate, pitch, and volume of the voice that Narrator uses, and install other text-to-speech voices.
+Two ways to start and stop Narrator
+To launch Narrator, press the
+Windows logo key
++
+Ctrl
++
+Enter
+. To stop the narrator, press these keys once more. The Windows logo key is typically found on the keyboard's bottom row of keys, either to the left or right of the Alt key.
+To access Narrator settings, use the
+Windows logo key
++
+Ctrl
++
+N.
+Then, switch the toggle next to
+Use Narrator
+.
+Note
+The
+Accessibility
+icon will show up in the bottom right corner of the screen when you log in or access specific menus. By choosing the
+Accessibility
+icon, a menu containing a toggle switch for the narrator's on/off status is displayed. The narrator will stop once you log out or leave the screen.
+Narrator Home
+Every time you turn on Narrator you'll go to Narrator Home, which gives you one place where you can open everything you need, whether you want to change your Narrator settings or learn basics with QuickStart. The links at Narrator Home include QuickStart, Narrator guide (which takes you to this online user guide), What's New, Settings, and Feedback. You can also control whether Narrator Home opens when Narrator starts in Narrator settings or by using the checkbox on Narrator home.
+Learn Narrator with QuickStart
+The QuickStart lesson will walk you through the basics of using Narrator. There is also a sample webpage to get you used to using Narrator online. It shows, among other things, how to use headers and landmarks. When Narrator is turned on, Narrator Home launches and is where you can access QuickStart at any time.
+Start Narrator automatically before or after you sign in to your PC
+Press the
+Windows logo key
++
+Ctrl
++
+N
+to open Narrator settings.
+Expand the
+Show all
+settings button next to the
+Narrator
+toggle switch to show additional options.
+To start Narrator automatically after you sign in, select the checkbox next to
+Start Narrator after sign-in
+.
+To start Narrator automatically before sign-in for all users, select the checkbox next to
+Start Narrator before sign-in
+.
+Next:
+Chapter 2: Narrator basics
+Go back to the
+Table of Contents
+Narrator lets you use your PC without a mouse to complete common tasks if you're blind or have low vision. It reads and interacts with things on the screen, like text and buttons. Use Narrator to read and write email, browse the internet, and work with documents.
+Specific commands let you navigate Windows, the web, and apps. Navigation is available using headings, links, landmarks, and more. You can read text (including punctuation) by page, paragraph, line, sentence, word, and character, as well as determine characteristics like font and text color. Efficiently review tables with row and column navigation.
+Narrator also has a navigation and reading mode, which you'll learn more about in
+Chapter 3: Using scan mode
+. Use it to get around Windows 10 using just the up and down arrows on your keyboard. You can also use a braille display to navigate your PC and read text, which you'll learn more about in
+Chapter 8: Using Narrator with braille
+.
+You can also customize the speaking rate, pitch, and volume of the voice that Narrator uses, and install other text-to-speech voices.
+Narrator Home
+Every time you turn on Narrator you'll go to Narrator Home, which gives you one place where you can open everything you need, whether you want to change your Narrator settings or learn basics with QuickStart. The links at Narrator Home include QuickStart, Narrator guide (which takes you to this online user guide), What's New, Settings, and Feedback. You can also control whether Narrator Home opens when Narrator starts in Narrator settings or by using the checkbox on Narrator home.
+Two ways to start and stop Narrator
+Press the
+Windows logo key
++
+Ctrl
++
+Enter
+together to start Narrator. Press these keys again to stop Narrator. (On older versions of Windows, the command was the
+Windows logo key
+⁠+⁠ Enter⁠.⁠
+) On many keyboards, the Windows logo key is located on the bottom row of keys, to the left or right of the Alt key.
+Press the
+Windows logo key
++
+Ctrl
++
+N
+to open Narrator settings, and then turn on the toggle under
+Use Narrator
+.
+Note: When you're signing in or accessing some menus, the ease of access icon
+will appear in the bottom right corner of the screen. Selecting the ease of access icon
+opens a menu with a toggle switch that you can use to turn Narrator on or off. Narrator will turn off once you sign in or exit the screen.
+Start Narrator automatically before or after you sign in to your PC
+Press the
+Windows logo key
++
+Ctrl
++
+N
+to open Narrator settings.
+To start Narrator automatically after you sign in, select the checkbox next to
+Start Narrator after sign-in for me
+.
+To start Narrator automatically before sign-in for all users, select the checkbox next to
+Start Narrator before sign-in for everyone
+.
+Next:
+Chapter 2: Narrator basics
+Go back to the
+Table of Contents

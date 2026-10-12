@@ -1,0 +1,192 @@
+URL: https://support.microsoft.com/en-us/teams/meetings/use-live-captions-in-microsoft-teams-meetings
+Use live captions in Microsoft Teams meetings
+Applies To
+Teams
+Microsoft Teams
+Desktop
+Mobile
+In this article
+Live captions in Teams
+Set up live translated captions
+Live caption settings
+Use live translated captions
+Live captions in Teams
+Teams can detect what’s said in a meeting and present real-time captions. If you're using the desktop app for Windows or Mac, there are also several caption customization options.
+Note
+People can choose not to be identified in captions. For details, see
+Hide your identity in meeting captions and transcripts
+.
+Teams doesn't save captions. If you'd like a transcript of the meeting, turn on transcription. You'll be able to download the transcript after the meeting.
+There are a couple ways to get live captions in Teams:
+From the built-in captioning provided by Teams
+From a Communication Access Real-time Translation (CART) captioner. To learn how to use CART captions in a Microsoft Teams meeting, refer to
+Use CART captions in a Microsoft Teams meeting (human generated captions)
+.
+Live caption settings
+Teams has built-in closed captioning you can turn on from your
+meeting controls
+.
+Turn captions on and off
+To start using live captions, select
+More actions
+in your
+meeting controls
+. Select
+Language and speech
+>
+Show live captions
+.
+To stop using live captions, select
+More actions
+in your
+meeting controls
+. Select
+Language and speech
+>
+Hide live captions
+.
+Customize captions
+Customize your caption font size and color, increase the number of lines displayed, and change the positioning of the captions in the meeting window.
+To customize live captions:
+Select
+Caption settings
+>
+Caption styles
+next to the captions on your screen.
+Choose the color, position, and style you want to see your captions in.
+Change the spoken language
+Set a meeting’s spoken language to the language people are speaking for more accurate captions.
+If people are speaking a different language than the meeting’s set spoken language, Teams will detect the language mismatch. Then, the meeting organizer, co-organizer, transcript initiator, or initiator of the feature that turned on transcription, will be prompted to update the spoken language:
+Select
+Settings
+to update the meeting spoken language manually.
+Select
+Yes, change it
+to immediately update to the detected meeting spoken language.
+The meeting organizer, co-organizer(s), transcript initiator, or initiator of any feature that turned on transcription, can access the meeting spoken language at any time.
+To access the meeting spoken language settings:
+To the right of captions, select
+Caption settings
+>
+Language settings
+.
+In the
+Meeting spoken language
+dropdown menu, select the language everyone is speaking from the dropdown menu.
+Select
+Update
+to change.
+Important
+For other participants to access the meeting spoken language, transcription must be turned off. If there’s an ongoing transcription, they must first turn it off or turn off the feature that started the transcription. Then, they must manually turn transcription on again.
+Set up live translated captions in an event
+In town halls and live events, organizers preselect which languages attendees can see live captions in. Organizers can select six languages, or ten if they have Premium, from over 50 different languages.
+To set up live translated captions in an event:
+Open the event in your Teams calendar.
+In
+Details
+, select
+Meeting options
+.
+In
+Engagement
+>
+Translate attendee captions
+, select the languages that live translated captions will be available in during your event.
+Select
+Apply
+.
+Attendees can see live translated captions in only one of the languages you preselected.
+Use live translated captions
+By default, live captions are shown in the language used during the meeting or event. Live translated captions allow users to see captions translated into the language they’re most comfortable with.
+Note
+Live translated captions in meetings are available as part of Teams Premium and Microsoft Copilot, an add-on license that provides additional features to make Teams meetings more personalized, intelligent, and secure. To get access to an eligible license, contact your IT admin.
+If the meeting organizer has a Teams Premium or Microsoft Copilot license, all meeting participants can use translated captions and transcription without a specific license required.
+If individual participants have a Teams Premium or Microsoft 35 Copilot license, only those licensed participants will see the
+Translate to
+option and can use translated captions and transcription.
+To use live translated captions:
+Turn on live captions in your meeting.
+To the right of captions, select
+Caption settings
+>
+Language settings
+.
+Make sure
+Meeting spoken language
+is correct.
+Turn on the
+Translate to
+toggle.
+In the dropdown menu, select the language you want your captions translated to.
+Important
+Microsoft reserves the right to restrict or place limitations on the use of Speaker Coach, with reasonable notice, in order to limit excessive use and/or fraud, and to maintain optimal service performance.
+Supported languages:
+English (US), English (Canada), English (India), English (UK), English (Australia), English (New Zealand), Arabic (Saudi Arabia), Arabic (United Arab Emirates), Albanian (Albania), Bulgarian (Bulgaria), Catalan (Catalan), Chinese (Simplified, China), Chinese (Traditional, Hong Kong SAR), Chinese (Traditional, Taiwan), Croatian (Croatia), Czech (Czechia), Danish (Denmark), Dutch (Belgium), Dutch (Netherlands), Estonian (Estonia), Filipino (Philippines), Finnish (Finland), French (Canada), French (France), German (Germany), German (Switzerland), Greek (Greece), Hebrew (Israel), Hindi (India), Hungarian (Hungary), Icelandic (Iceland), Indonesian (Indonesia), Italian (Italy), Japanese (Japan), Kazakh (Kazakhstan), Korean (Korea), Latvian (Latvia), Lithuanian (Lithuania), Malay (Malaysia), Maltese (Malta), Norwegian (Norway), Polish (Poland), Portuguese (Brazil), Portuguese (Portugal), Romanian (Romania), Russian (Russia), Serbian (Cyrillic, Serbia), Slovak (Slovakia), Slovenian (Slovenia), Spanish (Mexico), Spanish (Spain), Swedish (Sweden), Thai (Thailand), Turkish (Turkey), Ukrainian (Ukraine), Vietnamese (Vietnam), Welsh (United Kingdom).
+Supported translation languages:
+Arabic, Chinese Simplified, Chinese Traditional, Czech, Danish, Dutch, English, Finnish, French, French (Canada), German, Greek, Hebrew, Hindi, Hungarian, Italian, Japanese, Korean, Norwegian, Polish, Portuguese (Brazil), Portuguese (Portugal), Romanian, Russian, Slovak, Spanish, Swedish, Thai, Turkish, Ukrainian, Vietnamese
+Get the most out of live captions
+To make sure your live captions are as accurate as possible, try these best practices:
+Speak clearly, slowly, and directly into the mic. As your distance from the mic increases, captions may become less accurate.
+Avoid locations with background noise.
+Avoid having multiple people speak at the same time.
+Use the highest-quality
+Teams-certified equipment
+available to you.
+Note
+Obscenities are obscured by asterisks.
+FAQ
+Where does Teams process the data it uses to provide live captions?
+We process the data in the geographical region where your organization is based.
+What data does Teams use to create the captions?
+The Microsoft Automatic Speech Recognition (ASR) technology service, which generates Teams meeting captions, may use a meeting's subject, invitation, participant names, attachments, and recent emails of the participants to improve the accuracy of captions.
+How does Teams translate live captions?
+We use the Microsoft Speech Translation technology powered by Azure Cognitive Services for translating live captions.
+Who has access to this data?
+No one. Microsoft ASR involves no human intervention, and no one can access the meeting audio or any other meeting information at any time.
+Does Teams store any caption data?
+No. Caption data is permanently deleted after the meeting is over.
+If I don't want Teams to process this data to begin with, can I prevent it?
+Yes. Simply don't turn on live captions. Your admin can also disable the feature altogether. Go
+here
+for more info about how to do that.
+Important
+Microsoft reserves the right to restrict transcription and translation services, with reasonable notice, in order to limit excessive use and/or fraud, and to maintain service performance. These services include live captions, subtitles, and transcription functionality available across Office 365 products like Microsoft Teams, PowerPoint, Stream, and others.
+Teams can detect what's said in a meeting or group call and present real-time captions.
+Note
+Captions aren't yet available in government clouds on the Teams mobile app.
+Turn captions on and off
+In your
+meeting controls
+, select
+More options
+>
+Turn on live captions
+.
+Note
+Teams doesn't save captions.
+Choose
+More options
+>
+Turn off live captions
+to turn them off.
+Customize captions
+Customize your caption colors, background colors, and caption height on Teams for mobile.
+To customize captions:
+Turn live captions on in your meeting.
+Tap
+More options
+>
+Caption style
+in your
+meeting controls
+.
+Choose your desired font customizations.
+Your changes will be applied automatically and will persist across future meetings.
+Get the most out of your captions
+For the most accurate captions possible, try to follow these best practices:
+Speak clearly, slowly, and directly into the mic. As your distance from the mic increases, captions may become less accurate.
+Avoid locations with background noise.
+Avoid having multiple people speak at the same time.
+Note
+Obscenities are obscured by asterisks.
+Teams may use a meeting's subject, invitation, participant names, and attachments to improve caption accuracy.

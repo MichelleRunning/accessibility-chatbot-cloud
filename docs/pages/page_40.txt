@@ -1,0 +1,4424 @@
+URL: https://support.microsoft.com/en-us/accessibility/windows/use-voice-typing-to-talk-instead-of-type-on-your-pc
+Use voice typing to talk instead of type on your PC
+Applies To
+Windows 11
+Windows 10
+Get help with Copilot
+How do I use voice typing to talk instead of type on my PC?
+Show me how use voice to text with Microsoft swiftkey
+How can I install a voice typing language?
+Windows 11
+Windows 10
+With voice typing, you can enter text on your PC by speaking. Voice typing uses online speech recognition, which is powered by Azure Speech services.
+How to start voice typing
+To use voice typing, you'll need to be connected to the internet, have a working microphone, and have your cursor in a text box.
+Once you turn on voice typing, it will start listening automatically. Wait for the "Listening..." alert before you start speaking.
+To turn on voice typing:
+Press
+Windows
+key+
+H
+on a hardware keyboard.
+Press the
+Microphone
+button on the touch keyboard.
+To stop voice typing:
+Say a voice typing command like "Stop listening".
+Press the microphone button on the voice typing menu.
+Note
+Press
+Windows
+key+
+Alt
++
+H
+to navigate through the voice typing menu with your keyboard.
+Echo cancellation ensures Voice Typing listens only to your voice. It automatically suppresses audio coming from your speakers, such as Narrator or app playback so your dictated text stays clean, accurate, and free from unintended echoes.
+Install a voice typing language
+You can use a voice typing language that's different than the one you've chosen for Windows. Here's how:
+Select
+Start
+>
+Settings
+>
+Time & language
+>
+Language & region
+.
+Find
+Preferred languages
+in the list and select
+Add a language
+.
+Search for the language you'd like to install, then select
+Next
+.
+Select
+Next
+or install any optional language features you'd like to use. These features, including speech recognition, aren't required for voice typing to work.
+To see this feature's supported languages, see the
+list in this article.
+Switch voice typing languages
+To switch voice typing languages, you'll need to change the input language you use. Here's how:
+Select the language switcher in the corner of your taskbar
+Press
+Windows
+key+
+Spacebar
+on a hardware keyboard
+Press the language switcher in the bottom right of the touch keyboard
+Supported languages
+These languages support voice typing in Windows 11:
+Bulgarian
+Chinese (Simplified, China)
+Chinese (Traditional, Hong Kong SAR)
+Chinese (Traditional, Taiwan)
+Croatian
+Czech
+Danish
+Dutch (Netherlands)
+English (Australia)
+English (Canada)
+English (India)
+English (New Zealand)
+English (United Kingdom)
+English (United States)
+Estonian
+Finnish
+French (Canada)
+French (France)
+German
+Gujarati
+Hindi
+Hungarian
+Irish
+Italian (Italy)
+Japanese
+Korean
+Latvian
+Lithuanian
+Maltese
+Marathi
+Norwegian (Bokmål)
+Polish
+Portuguese (Brazil)
+Portuguese (Portugal)
+Romanian (Romania)
+Russian
+Slovak
+Slovenian
+Spanish (Mexico)
+Spanish (Spain)
+Swedish (Sweden)
+Tamil (India)
+Telugu
+Thai
+Turkish
+Vietnamese
+Voice typing settings
+Select the gear icon from the voice typing flyout to manage settings for:
+Voice typing launcher, which lets you quickly use voice typing when you’re in a text box.
+Automatic punctuation, to let voice typing automatically insert punctuation based on what you’re saying.
+Filter profanity, which lets you block or allow typing out profanity.
+Default microphone.
+Wait time before acting setting allows users to choose how long Voice typing waits before carrying out a voice command. This provides greater flexibility for users with varying speech patterns, enabling more accurate recognition whether speaking slowly or quickly.
+Fluid dictation
+Fluid dictation is a new feature in Voice typing on Copilot+ PCs, that makes voice-based dictation smoother and smarter. It automatically corrects grammar, punctuation, and filler words as you speak, reducing the need for manual editing. This experience is powered by on-device small language models (SLMs) to ensure fast and private processing.
+Note
+This is a Copilot+ PC feature and is available in all English locales.
+Setting up Fluid dictation
+For Fluid dictation to work, we need to ensure the necessary SLMs are installed into your system. This happens automatically in the background when you launch Voice typing and until the model download is completed, you will see the Fluid dictation option in
+Voice typing settings
+appears dimmed.  You can check the model progress by clicking on view progress from the teaching tip that appears on launching voice typing about setting up new features or directly navigate to
+Settings
+>
+Windows update
+and check the progress on the AI Phi Silica model.
+Once the model download is successfully completed, you will be notified via a teaching tip and will see the fluid dictation option available.
+Note
+Fluid dictation is enabled by default. You can turn it off from
+Voice typing settings
+at any time.
+Using fluid dictation
+Once Fluid dictation is enabled, it works seamlessly across all text editing surfaces. You can dictate as usual, and grammar, punctuation, and spelling errors will be automatically corrected and inserted into the text. If you prefer to keep the original sentence or undo a correction, simply say “
+Revert
+” or “
+Undo that
+” or
+Ctrl+Z
+on your keyboard and Voice typing will restore the original version.
+Note
+Fluid dictation will be automatically disabled on secure fields like passwords or PINs to protect your privacy.
+Turn Fluid dictation on or off
+You can turn on or off fluid dictation from
+Voice typing settings
+.
+Voice typing commands
+Use voice typing commands to quickly edit text by saying things like "delete that" or "select that".
+The following list tells you what you can say. To view supported commands for other languages, change the dropdown to your desired language.
+Select your desired language
+Bulgarian
+Voice typing command
+What you can say
+Stop or pause voice typing
+Пауза при гласово въвеждане
+Пауза при диктуване
+Спиране на гласовото въвеждане
+Спиране на диктовката
+Спиране на слушането
+Спиране на диктуването
+Спиране на гласовия режим
+Пауза при гласовия режим
+Delete last spoken word or phrase
+Изтриване на това
+Изтриване на това
+Задраскване на това
+Select last spoken word or phrase
+Избиране на това
+Press Enter
+натиснете Enter
+Press Backspace
+клавиш backspace
+натиснете backspace
+Press Tab
+клавиш tab
+натиснете tab
+Press Space
+вмъкване на интервал
+натиснете интервал
+Chinese (Simplified, China)
+Voice typing command
+What you can say
+Stop or pause voice typing
+暂停语音输入
+暂停听写
+停止语音输入
+停止听写
+停止侦听
+停止听写
+停止语音模式
+暂停语音模式
+Delete last spoken word or phrase
+刮除它
+Select last spoken word or phrase
+选择它
+Press Enter
+按回车键
+Press Backspace
+退格键
+按退格键
+Press Tab
+制表键
+按制表键
+Press Space
+插入空格
+按空格键
+Chinese (Traditional, Hong Kong SAR)
+Voice typing command
+What you can say
+Stop or pause voice typing
+暫停語音輸入
+暫停聽寫
+停止語音輸入
+停止聽寫
+停止聆聽
+停止聽寫
+停止語音模式
+暫停語音模式
+Delete last spoken word or phrase
+刪除這個
+清除資料
+暫存檔
+Select last spoken word or phrase
+選取這個
+Press Enter
+按 Enter
+Press Backspace
+退格鍵
+按退格鍵
+Press Tab
+Tab
+按 Tab
+Press Space
+插入空格
+按空格鍵
+Chinese (Traditional, Taiwan)
+Voice typing command
+What you can say
+Stop or pause voice typing
+暫停語音輸入
+暫停聽寫
+停止語音輸入
+停止聽寫
+停止聆聽
+停止聽寫
+停止語音模式
+暫停語音模式
+Delete last spoken word or phrase
+刪除這個
+清除資料
+暫存檔
+Select last spoken word or phrase
+選取這個
+Press Enter
+按 Enter
+Press Backspace
+退格鍵
+按退格鍵
+Press Tab
+Tab
+按 Tab
+Press Space
+插入空格
+按空格鍵
+Croatian (Croatia)
+Voice typing command
+What you can say
+Stop or pause voice typing
+Pauziraj glasovni unos
+Pauziraj diktat
+Zaustavi glasovni unos
+Zaustavi diktat
+Zaustavi slušanje
+Zaustavi diktiranje
+Zaustavi glasovni način rada
+Pauziraj glasovni način rada
+Delete last spoken word or phrase
+Izbriši to
+Izbriši to
+Briši to
+Select last spoken word or phrase
+Odaberi to
+Press Enter
+pritisnite enter
+Press Backspace
+backspace
+pritisnite backspace
+Press Tab
+tabulator
+pritisnite tabulator
+Press Space
+umetnite razmak
+pritisnite razmaknicu
+Czech
+Voice typing command
+What you can say
+Stop or pause voice typing
+Pozastavit psaní hlasem
+Pozastavit diktování
+Zastavit psaní hlasem
+Zastavit diktování
+Zastavit poslouchání
+Zastavit diktování
+Zastavit hlasový režim
+Pozastavit hlasový režim
+Delete last spoken word or phrase
+Odstranit to
+Vymazat to
+Vyškrtnout to
+Select last spoken word or phrase
+Vybrat to
+Press Enter
+stisknout enter
+enter
+Press Backspace
+backspace
+stisknout backspace
+Press Tab
+Tab
+tabulátor
+stisknout tab
+stisknout tabulátor
+Press Space
+vložit mezeru
+mezera
+stisknout mezerník
+mezerník
+Danish
+Voice typing command
+What you can say
+Stop or pause voice typing
+Afbryd stemmeindtastning midlertidigt
+Afbryd diktering midlertidigt
+Stop stemmeindtastning
+Stoppe diktering
+Stop lytning
+Stop diktering
+Stop stemmetilstand
+Afbryd stemmetilstand midlertidigt
+Delete last spoken word or phrase
+Slet det
+Udvisk det
+Kassér det
+Select last spoken word or phrase
+Vælg det
+Press Enter
+tryk på Enter
+Press Backspace
+Tilbage-tasten
+Tryk på Tilbage-tasten
+Press Tab
+tabulatortast
+tryk på tabulatortasten
+Press Space
+indsæt mellemrum
+tryk på mellemrumstasten
+Dutch (Netherlands)
+Voice typing command
+What you can say
+Stop or pause voice typing
+Pauzeer spraakgestuurd typen
+Pauzeer dicteren
+Stop met spraakgestuurd typen
+Stop met dicteren
+Stop met luisteren
+Stop met dicteren
+Stop spraakmodus
+Pauzeer spraakmodus
+Delete last spoken word or phrase
+Verwijder dit
+Wis dit
+Select last spoken word or phrase
+Selecteer dit
+Press Enter
+druk op enter
+Press Backspace
+backspace
+druk op backspace
+Press Tab
+tab
+druk op tab
+Press Space
+voeg spatie in
+druk op de spatiebalk
+English (Australia)
+Voice typing command
+What you can say
+Stop or pause voice typing
+Pause voice typing
+Pause dictation
+Stop voice typing
+Stop dictation
+Stop listening
+Stop dictating
+Stop voice mode
+Pause voice mode
+Delete last spoken word or phrase
+Delete that
+Erase that
+Ignore that
+Select last spoken word or phrase
+Select that
+Press Enter
+Press Enter
+Press Backspace
+Backspace
+Press Backspace
+Press Tab
+Tab
+Press Tab
+Press Space
+Insert Space
+Press Space
+Undo previous change
+Undo that
+Revert
+English (Canada)
+Voice typing command
+What you can say
+Stop or pause voice typing
+Pause voice typing
+Pause dictation
+Stop voice typing
+Stop dictation
+Stop listening
+Stop dictating
+Stop voice mode
+Pause voice mode
+Delete last spoken word or phrase
+Delete that
+Erase that
+Ignore that
+Select last spoken word or phrase
+Select that
+Press Enter
+Press Enter
+Press Backspace
+Backspace
+Press Backspace
+Press Tab
+Tab
+Press Tab
+Press Space
+Insert Space
+Press Space
+Undo previous change
+Undo that
+Revert
+English (India)
+Voice typing command
+What you can say
+Stop or pause voice typing
+Pause voice typing
+Pause dictation
+Stop voice typing
+Stop dictation
+Stop listening
+Stop dictating
+Stop voice mode
+Pause voice mode
+Delete last spoken word or phrase
+Delete that
+Erase that
+Ignore that
+Select last spoken word or phrase
+Select that
+Press Enter
+Press Enter
+Press Backspace
+Backspace
+Press Backspace
+Press Tab
+Tab
+Press Tab
+Press Space
+Insert Space
+Press Space
+Undo previous change
+Undo that
+Revert
+English (New Zealand)
+Voice typing command
+What you can say
+Stop or pause voice typing
+Pause voice typing
+Pause dictation
+Stop voice typing
+Stop dictation
+Stop listening
+Stop dictating
+Stop voice mode
+Pause voice mode
+Delete last spoken word or phrase
+Delete that
+Erase that
+Ignore that
+Select last spoken word or phrase
+Select that
+Press Enter
+Press Enter
+Press Backspace
+Backspace
+Press Backspace
+Press Tab
+Tab
+Press Tab
+Press Space
+Insert Space
+Press Space
+Undo previous change
+Undo that
+Revert
+English (United Kingdom)
+Voice typing command
+What you can say
+Stop or pause voice typing
+Pause voice typing
+Pause dictation
+Stop voice typing
+Stop dictation
+Stop listening
+Stop dictating
+Stop voice mode
+Pause voice mode
+Delete last spoken word or phrase
+Delete that
+Erase that
+Ignore that
+Select last spoken word or phrase
+Select that
+Press Enter
+Press Enter
+Press Backspace
+Backspace
+Press Backspace
+Press Tab
+Tab
+Press Tab
+Press Space
+Insert Space
+Press Space
+Undo previous change
+Undo that
+Revert
+English (United States)
+Voice typing command
+What you can say
+Stop or pause voice typing
+Pause voice typing
+Pause dictation
+Stop voice typing
+Stop dictation
+Stop listening
+Stop dictating
+Stop voice mode
+Pause voice mode
+Delete last spoken word or phrase
+Delete that
+Erase that
+Scratch that
+Select last spoken word or phrase
+Select that
+Press Enter
+Press Enter
+Press Backspace
+Backspace
+Press Backspace
+Press Tab
+Tab
+Press Tab
+Press Space
+Insert Space
+Press Space
+Undo previous change
+Undo that
+Revert
+Estonian
+Voice typing command
+What you can say
+Stop or pause voice typing
+Peata dikteerimisega tippimine
+Peata dikteerimine
+Lõpeta dikteerimisega tippimine
+Dikteerimise lõpetamine
+Kuulamise lõpetamine
+Lõpeta dikteerimine
+Lõpeta kõnerežiim
+Peata kõnerežiim
+Delete last spoken word or phrase
+Kustuta see
+Kustutage
+Select last spoken word or phrase
+Vali see
+Press Enter
+vajuta sisestusklahvi
+vajuta klahvi Enter
+Press Backspace
+tagasilükkeklahv
+klahv Backspace
+vajuta tagasilükkeklahvi
+vajuta klahvi Backspace
+Press Tab
+tabeldusklahv
+klahv Tab
+vajuta tabeldusklahvi
+vajuta klahvi Tab
+Press Space
+sisesta tühik
+vajuta tühikuklahvi
+vajuta tühikut
+Finnish
+Voice typing command
+What you can say
+Stop or pause voice typing
+Keskeytä sanelu
+Lopeta sanelu
+Lopeta kuuntelu
+Delete last spoken word or phrase
+Poista se
+Tyhjennä se
+Select last spoken word or phrase
+Valitse se
+Press Enter
+paina Enter-näppäintä
+Press Backspace
+askelpalautin
+paina askelpalautinnäppäintä
+Press Tab
+sarkain
+paina sarkainnäppäintä
+Press Space
+lisää välilyönti
+paina välilyöntinäppäintä
+French (Canada)
+Voice typing command
+What you can say
+Stop or pause voice typing
+Suspendre la dictée vocale
+Suspendre la dictée
+Arrêter la dictée vocale
+Arrêter la dictée
+Arrêter l'écoute
+Arrêter la dictée
+Arrêter le mode vocal
+Suspendre le mode vocal
+Delete last spoken word or phrase
+Supprimer ceci
+Effacer ceci
+Annuler ceci
+Press Enter
+appuyer sur Entrée
+Press Backspace
+suppr arrière
+appuyer sur Suppr arrière
+Press Tab
+tab
+appuyer sur Tab
+Press Space
+insérer une espace
+appuyer sur Espace
+French (France)
+Voice typing command
+What you can say
+Stop or pause voice typing
+Mettre en pause la saisie vocale
+Mettre en pause la dictée
+Arrêter la saisie vocale
+Arrêter la dictée
+Arrêter l'écoute
+Arrêter le mode dictée
+Arrêter le mode vocal
+Mettre en pause le mode vocal
+Delete last spoken word or phrase
+Supprimer ceci
+Effacer ceci
+Annuler ceci
+Press Enter
+appuyer sur entrée
+Press Backspace
+appuyer sur retour arrière
+Press Tab
+tabulation
+appuyer sur tabulation
+German (Germany)
+Voice typing command
+What you can say
+Stop or pause voice typing
+Spracheingabe pausieren
+Diktat pausieren
+Spracheingabe stoppen
+Diktat stoppen
+Spracherkennung beenden
+Diktieren stoppen
+Sprachmodus stoppen
+Sprachmodus pausieren
+Delete last spoken word or phrase
+Lösch das
+Lösch das
+Das hier streichen
+Select last spoken word or phrase
+Das hier markieren
+Press Enter
+Eingabetaste drücken
+Drücke die Eingabetaste
+Drücke Enter
+Press Backspace
+Rücktaste
+Rücktaste drücken
+Drücke die Rücktaste
+Press Tab
+Tab
+Tab drücken
+Drücke Tab
+Tab-Taste drücken
+Drücke die Tabulatortaste
+Press Space
+Leerzeichen einfügen
+Drücke die Leertaste
+Leertaste drücken
+Gujarati
+Voice typing command
+What you can say
+Stop or pause voice typing
+વોઇસ ટાઇપિંગ થોભાવો
+શ્રુતલેખન થોભાવો
+વોઇસ ટાઇપિંગ બંધ કરો
+શ્રુતલેખન બંધ કરો
+સાંભળવાનું બંધ કરો
+શ્રુતલેખન કરવાનું બંધ કરો
+વોઇસ મોડ બંધ કરો
+વોઇસ મોડ થોભાવો
+Delete last spoken word or phrase
+તેને હટાવો
+તેને ભૂંસી નાખો
+તેને સ્ક્રેચ કરો
+Select last spoken word or phrase
+તેને પસંદ કરો
+Press Enter
+enter દબાવો
+enter કી દબાવો
+Press Backspace
+backspace
+backspace કી
+backspace દબાવો
+backspace કી દબાવો
+Press Tab
+tab
+tab દબાવો
+tab કી દબાવો
+Press Space
+સ્પેસ આપો
+સ્પેસ દાખલ કરો
+space દબાવો
+space કી દબાવો
+Hindi
+Voice typing command
+What you can say
+Stop or pause voice typing
+वॉइस टाइपिंग को विराम दें
+डिक्टेशन को विराम दें
+वॉइस टाइपिंग को रोकें
+डिक्टेशन रोकें
+सुनना रोकें
+डिक्टेट करना रोकें
+वॉइस मोड रोकें
+वॉइस मोड को विराम दें
+Delete last spoken word or phrase
+उसे हटाएँ
+उसे मिटाएँ
+उसे स्क्रैच करें
+Select last spoken word or phrase
+उसे चुनें
+Press Space
+स्पेस दें
+स्पेस दबाएँ
+Hungarian
+Voice typing command
+What you can say
+Stop or pause voice typing
+Diktálás szüneteltetése
+Diktálás leállítása
+Figyelés leállítása
+Diktálás leállítása
+Delete last spoken word or phrase
+Rész törlése
+Rész végleges törlése
+Select last spoken word or phrase
+Rész kijelölése
+Press Enter
+lenyomás: enter
+Press Backspace
+backspace
+lenyomás: backspace
+Press Tab
+tab
+tabulátor
+lenyomás: tab
+lenyomás: tabulátor
+Press Space
+beszúrás: szóköz
+lenyomás: szóköz
+Irish
+Voice typing command
+What you can say
+Stop or pause voice typing
+Stop deachtú
+Stop ag éisteacht
+Stop ag deachtú
+Delete last spoken word or phrase
+Scrios sin
+Léirscrios sin
+Scríob sin
+Select last spoken word or phrase
+Roghnaigh sin
+Press Enter
+brúigh enter
+Press Backspace
+backspace
+brúigh backspace
+Press Tab
+tab
+brúigh tab
+Press Space
+ionsáigh spás
+brúigh an spásbharra
+Italian (Italy)
+Voice typing command
+What you can say
+Stop or pause voice typing
+Sospendi dettatura
+Sospendi dettatura
+Termina dettatura
+Termina dettatura
+Termina ascolto
+Termina dettatura
+Termina modalità voce
+Sospendi modalità voce
+Delete last spoken word or phrase
+Elimina elemento
+Cancella elemento
+Scarta elemento
+Select last spoken word or phrase
+Seleziona elemento
+Press Enter
+premi invio
+Press Backspace
+backspace
+premi backspace
+Press Tab
+tab
+premi tab
+Press Space
+inserisci spazio
+premi barra spaziatrice
+Japanese
+Voice typing command
+What you can say
+Stop or pause voice typing
+音声入力を一時停止
+ディクテーションを一時停止
+音声入力を停止
+ディクテーションを停止
+聞き取りを停止
+ディクテーションを停止
+音声モードを停止
+音声モードを一時停止
+Delete last spoken word or phrase
+それを削除
+それを消去
+それを取り消す
+Select last spoken word or phrase
+それを選択
+Press Enter
+Enter キーを押す
+Press Backspace
+BackSpace
+BackSpace キーを押す
+Press Tab
+Tab
+Tab キーを押す
+Press Space
+Space を挿入
+Space キーを押す
+Korean
+Voice typing command
+What you can say
+Stop or pause voice typing
+음성 입력 일시 중지
+받아쓰기 일시 중지
+음성 입력 중지
+받아쓰기 중지
+듣기 중지
+받아쓰기 중지
+음성 모드 중지
+음성 모드 일시 중지
+Delete last spoken word or phrase
+삭제
+지우기
+스크래치
+Select last spoken word or phrase
+선택
+Press Backspace
+백스페이스 키
+Press Space
+공백 삽입해
+공백 삽입해줘
+Lithuanian
+Voice typing command
+What you can say
+Stop or pause voice typing
+Pristabdyti teksto rinkimą balsu
+Pristabdyti diktavimą
+Stabdyti teksto rinkimą balsu
+Stabdyti diktavimą
+Stabdyti klausymąsi
+Baigti diktuoti
+Išjungti komandų balsu režimą
+Pristabdyti komandų balsu režimą
+Delete last spoken word or phrase
+Naikinti tai
+Ištrinti tai
+Panaikinti tai
+Select last spoken word or phrase
+Pasirinkti tai
+Press Enter
+paspauskite klavišą ENTER
+paspauskite įvesties klavišą
+Press Backspace
+backspace
+grįžties klavišas
+paspauskite klavišą BACKSPACE
+paspauskite grįžties klavišą
+Press Tab
+tab
+tabuliacijos klavišas
+paspauskite klavišą TAB
+paspauskite tabuliacijos klavišą
+Press Space
+įterpkite tarpą
+paspauskite tarpo klavišą
+Latvian
+Voice typing command
+What you can say
+Stop or pause voice typing
+Pauzēt rakstīšanu ar balsi
+Pauzēt diktēšanu
+Apturēt rakstīšanu ar balsi
+Apturēt diktēšanu
+Apturēt klausīšanos
+Apturēt diktēšanu
+Apturēt balss režīmu
+Pauzēt balss režīmu
+Delete last spoken word or phrase
+Dzēst to
+Izdzēst to
+Noskrāpēt to
+Select last spoken word or phrase
+Atlasīt to
+Press Enter
+nospiest taustiņu Enter
+nospiest Enter
+Press Backspace
+atpakaļatkāpes taustiņš
+atkāpe
+nospiest atpakaļatkāpes taustiņu
+nospiest atkāpes taustiņu
+Press Tab
+tabulēšanas taustiņš
+Tab
+nospiest tabulēšanas taustiņu
+nospiest Tab
+Press Space
+ievietot atstarpi
+nospiest atstarpes taustiņu
+Marathi
+Voice typing command
+What you can say
+Stop or pause voice typing
+डिक्टेशनला विराम द्या
+व्हॉइस टायपिंग थांबवा
+डिक्टेशन थांबवा
+ऐकणे थांबवा
+डिक्टेट करणे थांबवा
+व्हॉइस मोड थांबवा
+व्हॉइस मोडला विराम द्या
+Delete last spoken word or phrase
+ते हटवा
+ते पुसून टाका
+ते खोडा
+Select last spoken word or phrase
+ते निवडा
+Press Enter
+एंटर दाबा
+Press Backspace
+बॅकस्पेस
+बॅकस्पेस दाबा
+Press Tab
+टॅब
+टॅब दाबा
+Press Space
+स्पेस इन्सर्ट करा
+स्पेस दाबा
+Maltese
+Voice typing command
+What you can say
+Stop or pause voice typing
+Issospendi l-ittajpjar bil-vuċi
+Issospendi d-dettatura
+Waqqaf l-ittajpjar bil-vuċi
+Waqqaf id-dettatura
+Ieqaf isma'
+Ieqaf iddetta
+Waqqaf il-modalità tal-vuċi
+Issospendi l-modalità tal-vuċi
+Delete last spoken word or phrase
+Ħassru
+Ħassru
+Select last spoken word or phrase
+Agħżlu
+Press Enter
+agħfas enter
+Press Backspace
+backspace
+agħfas backspace
+Press Tab
+tab
+agħfas tab
+Press Space
+daħħal spazju
+agħfas spazju
+agħfas spacebar
+Norwegian (Bokmål)
+Voice typing command
+What you can say
+Stop or pause voice typing
+Sett taleskriving på pause
+Sett diktering på pause
+Stopp taleskriving
+Stopp diktering
+Stopp lytting
+Stopp diktering
+Stopp talemodus
+Sett talemodus på pause
+Delete last spoken word or phrase
+Slett det
+Slett det
+Stryk det
+Select last spoken word or phrase
+Velg det
+Press Enter
+trykk på enter
+Press Backspace
+tilbake
+trykk på tilbake
+trykk på tilbake-tasten
+Press Tab
+tabulatortast
+tab
+trykk på tabulatortasten
+trykk på tab
+Press Space
+sett inn mellomrom
+trykk på mellomrom
+trykk på mellomromstasten
+Polish
+Voice typing command
+What you can say
+Stop or pause voice typing
+Wstrzymaj wpisywanie za pomocą głosu
+Wstrzymaj dyktowanie
+Zatrzymaj wpisywanie za pomocą głosu
+Zatrzymaj dyktowanie
+Przestań słuchać
+Przestań dyktować
+Zatrzymaj tryb głosowy
+Wstrzymaj tryb głosowy
+Delete last spoken word or phrase
+Usuń to
+Wymaż to
+Skreśl to
+Select last spoken word or phrase
+Wybierz to
+Press Enter
+naciśnij klawisz enter
+Press Backspace
+backspace
+naciśnij klawisz backspace
+Press Tab
+tab
+naciśnij klawisz tab
+Press Space
+wstaw spację
+naciśnij spację
+Portuguese (Brazil)
+Voice typing command
+What you can say
+Stop or pause voice typing
+Pausar a digitação por voz
+Pausar ditado
+Parar digitação por voz
+Parar ditado
+Parar de ouvir
+Parar de ditar
+Parar modo de voz
+Pausar modo de voz
+Delete last spoken word or phrase
+Excluir isto
+Apagar isto
+Remover isto
+Select last spoken word or phrase
+Selecionar isto
+Press Enter
+pressionar enter
+Press Backspace
+backspace
+pressionar backspace
+Press Tab
+tab
+pressionar tab
+Press Space
+inserir espaço
+pressionar espaço
+Portuguese (Portugal)
+Voice typing command
+What you can say
+Stop or pause voice typing
+Pausar escrita por voz
+Pausar ditado
+Parar escrita por voz
+Parar ditado
+Parar escuta
+Parar de ditar
+Parar modo de voz
+Pausar modo de voz
+Delete last spoken word or phrase
+Eliminar esse
+Eliminar isso
+Rascunhar isso
+Select last spoken word or phrase
+Selecionar esse
+Press Enter
+premir enter
+Press Backspace
+tecla de retrocesso
+retrocesso
+premir tecla de retrocesso
+premir retrocesso
+Press Tab
+tecla de tabulação
+tabulação
+premir tecla de tabulação
+premir tabulação
+Press Space
+inserir espaço
+premir barra de espaço
+premir espaço
+Romanian (Romania)
+Voice typing command
+What you can say
+Stop or pause voice typing
+Pune în pauză tastarea vocală
+Pune în pauză dictarea
+Oprește tastarea vocală
+Oprește dictarea
+Oprește ascultarea
+Oprește dictarea
+Oprește modul voce
+Puneți în pauză modul voce
+Delete last spoken word or phrase
+Șterge aceasta
+Șterge asta
+Mâzgălește asta
+Select last spoken word or phrase
+Selectează asta
+Press Enter
+apăsați pe enter
+apasă pe enter
+Press Backspace
+backspace
+apăsați pe backspace
+apasă pe backspace
+Press Tab
+tab
+apăsați pe tab
+apasă pe tab
+Press Space
+inserați un spațiu
+inserează un spațiu
+apăsați pe bara de spațiu
+apasă pe bara de spațiu
+Russian
+Voice typing command
+What you can say
+Stop or pause voice typing
+Приостановить голосовой ввод
+Приостановить диктовку
+Прекратить голосовой ввод
+Закончить диктовку
+Закончить прослушивание
+Закончить диктовку
+Завершить голосовой режим
+Приостановить голосовой режим
+Delete last spoken word or phrase
+Удалить это
+Стереть это
+Перечеркнуть это
+Select last spoken word or phrase
+Выделить это
+Press Enter
+нажать ВВОД
+нажми ВВОД
+Press Backspace
+BACKSPACE
+нажать BACKSPACE
+нажми BACKSPACE
+Press Tab
+TAB
+нажать TAB
+нажми TAB
+Press Space
+вставить пробел
+вставь пробел
+нажать ПРОБЕЛ
+нажми ПРОБЕЛ
+Slovak
+Voice typing command
+What you can say
+Stop or pause voice typing
+Pozastaviť písanie hlasom
+Pozastaviť diktovanie
+Ukončiť písanie hlasom
+Ukončiť diktovanie
+Ukončiť počúvanie
+Ukončiť diktovanie
+Ukončiť režim hlasu
+Pozastaviť režim hlasu
+Delete last spoken word or phrase
+Odstrániť toto
+Vymazať toto
+Začmárať toto
+Select last spoken word or phrase
+Vybrať toto
+Press Enter
+stlačiť enter
+stlač enter
+Press Backspace
+backspace
+stlačiť backspace
+stlač backspace
+Press Tab
+tab
+stlačiť tab
+stlač tab
+Press Space
+vložiť medzeru
+vlož medzeru
+stlačiť medzerník
+stlač medzerník
+Slovenian
+Voice typing command
+What you can say
+Stop or pause voice typing
+Začasno ustavi glasovno vnašanje
+Začasna ustavitev narekovanja
+Ustavi glasovno vnašanje
+Ustavitev narekovanja
+Ustavi poslušanje
+Ustavi narekovanje
+Ustavi glasovni način
+Začasno ustavi glasovni način
+Delete last spoken word or phrase
+Izbriši to
+Pobriši to
+Briši to
+Select last spoken word or phrase
+Izberi to
+Press Enter
+pritisni tipko enter
+Press Backspace
+backspace
+vračalka
+pritisni tipko backspace
+pritisni vračalko
+Press Tab
+tab
+tabulatorka
+pritisni tipko tab
+pritisni tabulatorko
+Press Space
+vstavi presledek
+pritisni preslednico
+Spanish (Mexico)
+Voice typing command
+What you can say
+Stop or pause voice typing
+Pon en pausa la escritura por voz
+Pon en pausa el dictado
+Detén la escritura por voz
+Detén el dictado
+Detén la escucha
+Detén el modo de dictado
+Detén el modo de voz
+Pon en pausa el modo de voz
+Delete last spoken word or phrase
+Elimina eso
+Borra eso
+Tacha eso
+Select last spoken word or phrase
+Selecciona eso
+Press Enter
+presiona entrar
+Press Backspace
+retroceso
+presiona retroceso
+Press Tab
+tabulador
+presiona tabulador
+Press Space
+inserta un espacio
+presiona espacio
+Spanish (Spain)
+Voice typing command
+What you can say
+Stop or pause voice typing
+Pausa la escritura por voz
+Pausa el dictado
+Detén la escritura por voz
+Detén el dictado
+Detén la escucha
+Detén el modo de dictado
+Detén el modo de voz
+Pausa el modo de voz
+Delete last spoken word or phrase
+Elimina eso
+Borra eso
+Select last spoken word or phrase
+Selecciona eso
+Press Enter
+presiona entrar
+pulsa entrar
+Press Backspace
+retroceso
+presiona retroceso
+pulsa retroceso
+Press Tab
+tabulador
+presiona tabulador
+pulsa tabulador
+Press Space
+inserta un espacio
+presiona espacio
+pulsa espacio
+Swedish (Sweden)
+Voice typing command
+What you can say
+Stop or pause voice typing
+Pausa röstinmatning
+Pausa diktering
+Stoppa röstinmatning
+Stoppa diktering
+Sluta lyssna
+Sluta diktera
+Stoppa röstläge
+Pausa röstläge
+Delete last spoken word or phrase
+Ta bort det
+Radera det
+Stryk det
+Select last spoken word or phrase
+Välj det
+Press Enter
+tryck på retur
+Press Backspace
+backsteg
+tryck på backsteg
+Press Tab
+tabb
+tryck på tabb
+Press Space
+infoga blanksteg
+tryck på blanksteg
+Tamil (India)
+Voice typing command
+What you can say
+Stop or pause voice typing
+குரல் உள்ளிடலை இடைநிறுத்து
+எடுத்துக்கூறலை இடைநிறுத்து
+குரல் உள்ளிடலை நிறுத்து
+எடுத்துக்கூறலை நிறுத்து
+கேட்பதை நிறுத்து
+எடுத்துக்கூறலை நிறுத்து
+குரல் பயன்முறையை நிறுத்து
+குரல் பயன்முறையை இடைநிறுத்து
+Delete last spoken word or phrase
+அதை நீக்கு
+அதை அழி
+அதைக் கீறு
+Select last spoken word or phrase
+அதைத் தேர்ந்தெடு
+Press Enter
+எண்டரை அழுத்து
+Press Backspace
+பேக் ஸ்பேஸ்
+பேக் ஸ்பேஸை அழுத்து
+Press Tab
+டேப் செய்
+டேப்பை அழுத்து
+Press Space
+இன்சர்ட் ஸ்பேஸ்
+ஸ்பேஸை அழுத்து
+Telugu
+Voice typing command
+What you can say
+Stop or pause voice typing
+వాయిస్ టైపింగ్ పాజ్ చేయి
+డిక్టేషన్ పాజ్ చేయి
+వాయిస్ టైపింగ్ ఆపివేయి
+డిక్టేషన్ ఆపివేయి
+వినడం ఆపివేయి
+డిక్టేట్ చేయడాన్ని ఆపివేయి
+వాయిస్ మోడ్ ఆపివేయి
+వాయిస్ మోడ్ పాజ్ చేయి
+Delete last spoken word or phrase
+దానిని తొలగించు
+దానిని ఎరేజ్ చేయి
+దానిని స్క్రాచ్ చేయి
+Select last spoken word or phrase
+దానిని ఎంచుకో
+Press Enter
+ఎంటర్ నొక్కండి
+Press Backspace
+బ్యాక్స్పేస్
+బ్యాక్స్పేస్ నొక్కండి
+Press Tab
+ట్యాబ్
+ట్యాబ్ నొక్కండి
+Press Space
+స్పేస్ ఇన్సర్ట్ చేయండి
+స్పేస్ నొక్కండి
+Thai
+Voice typing command
+What you can say
+Stop or pause voice typing
+หยุดการพิมพ์ด้วยเสียงชั่วคราว
+หยุดการเขียนตามคำบอกชั่วคราว
+หยุดการพิมพ์ด้วยเสียง
+หยุดการเขียนตามคำบอก
+หยุดฟัง
+หยุดเขียนตามคำบอก
+หยุดโหมดเสียง
+หยุดโหมดเสียงชั่วคราว
+Delete last spoken word or phrase
+ลบเลย
+ลบเลย
+ไม่ต้องทำแล้ว
+Select last spoken word or phrase
+เลือกเลย
+Press Enter
+กด Enter
+Press Backspace
+Backspace
+กด Backspace
+Press Tab
+Tab
+กด Tab
+Press Space
+แทรกช่องว่าง
+กด Space
+Turkish
+Voice typing command
+What you can say
+Stop or pause voice typing
+Sesle yazmayı duraklat
+Dikteyi duraklat
+Sesle yazmayı durdur
+Dinlemeyi durdur
+Sesli modu durdur
+Sesli modu duraklat
+Delete last spoken word or phrase
+Şunu sil
+Şunu temizle
+Şunu karala
+Select last spoken word or phrase
+Şunu seç
+Press Enter
+enter tuşuna bas
+Press Backspace
+geri al tuşu
+backspace
+geri al tuşuna bas
+backspace tuşuna bas
+Press Tab
+sekme
+tab
+sekme tuşuna bas
+tab tuşuna bas
+Press Space
+boşluk ekle
+ara çubuğuna bas
+boşluk tuşuna bas
+Vietnamese
+Voice typing command
+What you can say
+Stop or pause voice typing
+Tạm dừng nhập bằng giọng nói
+Tạm dừng đọc chính tả
+Dừng nhập liệu bằng giọng nói
+Ngừng đọc chính tả
+Ngừng lắng nghe
+Ngừng Đọc chính tả
+Dừng chế độ giọng nói
+Tạm dừng chế độ giọng nói
+Delete last spoken word or phrase
+Xóa bỏ cái đó
+Tẩy xóa cái đó
+Cào cái đó
+Select last spoken word or phrase
+Chọn cái đó
+Press Enter
+nhấn enter
+Press Backspace
+backspace
+nhấn backspace
+Press Tab
+tab
+nhấn tab
+Press Space
+chèn khoảng trống
+nhấn phím cách
+Note
+If a word or phrase is selected, speaking any of the "delete that" commands will remove it.
+Punctuation commands
+Use voice typing commands to insert punctuation marks.
+The following list tells you what you can say. To view supported commands for other languages, change the dropdown to your desired language.
+Select your desired language
+Bulgarian
+To Insert this
+Say this
+!
+удивителна
+възклицателна
+възклицателен знак
+удивителен знак
+,
+запетайка
+запетая
+.
+точка
+?
+питанка
+чуденка
+въпросителен знак
+въпросителна
+\n
+започване на нов параграф
+нов ред
+на нов ред
+нов параграф
+Chinese (Simplified, China)
+To Insert this
+Say this
+'
+撇号
+-
+短划线
+减号
+！
+感叹号
+#
+井号
+$
+美元符号
+%
+百分号
+&
+与号
+（
+左括号
+）
+右括号
+*
+星号
+，
+逗号
+、
+顿号
+...
+省略号
+。
+句号
+/
+正斜杠
+斜杠
+：
+冒号
+；
+分号
+？
+问号
+@
+艾特符号
+at符号
+[
+左方括号
+左中括号
+\n
+换行
+分段符
+换行符
+]
+右方括号
+右中括号
+_
+下划线
+‘
+左单引号
+'
+右单引号
+"
+左引号
+"
+右引号
+£
+英镑符号
+¥
+人民币符号
+日元符号
+€
+欧元符号
++
+加号
+<
+小于符号
+小于号
+=
+等号
+>
+大于号
+大于符号
+±
+加减号
+×
+乘号
+÷
+除号
+°
+度标记
+Chinese (Traditional, Hong Kong SAR)
+To Insert this
+Say this
+'
+撇 號
+上 標 點
+上 單 引 號
+略 縮 號
+-
+減 號
+連 字 號
+！
+感 歎 號
+驚 嘆 號
+#
+井 字 號
+$
+美 元 符 號
+%
+百 分 號
+&
+和 號
+（
+上 括 號
+）
+下 括 號
+*
+星 號
+，
+逗 號
+、
+頓 號
+...
+刪 節 號
+。
+句號
+/
+斜 線 符 號
+：
+冒 號
+；
+分 號
+？
+問 號
+@
+at 符 號
+[
+上 方 括 號
+上 夾 註 號
+上 中 括 號
+\n
+換 行
+分 段 符 號
+換 行 符 號
+]
+下 夾 註 號
+下 方 括 號
+下 中 括 號
+_
+下 標 線
+'
+下 單 引 號
+£
+英 鎊 符 號
+¥
+日 圓 符 號
+人 民 幣 符 號
+「
+上 引 號
+」
+下 引 號
+€
+歐 元 符 號
++
+加 號
+<
+小 於 符 號
+=
+等 號
+>
+大 於 符 號
+±
+正 負 號
+×
+乘 號
+÷
+除 號
+°
+度 數 符 號
+Chinese (Traditional, Taiwan)
+To Insert this
+Say this
+'
+撇 號
+上 標 點
+略 縮 號
+-
+減 號
+連 字 號
+！
+感 歎 號
+驚 嘆 號
+#
+井 字 號
+$
+美 元 符 號
+%
+百 分 號
+&
+和 號
+（
+上 括 號
+）
+下 括 號
+*
+星 號
+，
+逗 號
+、
+頓 號
+...
+刪 節 號
+。
+句 號
+/
+斜 線 符 號
+：
+冒 號
+；
+分 號
+？
+問 號
+@
+at 符 號
+[
+上 方 括 號
+上 夾 註 號
+上 中 括 號
+\n
+換 行
+分 段 符 號
+換 行 符 號
+]
+下 夾 註 號
+下 方 括 號
+下 中 括 號
+_
+下 標 線
+‘
+上 單 引 號
+'
+下 單 引 號
+£
+英 鎊 符 號
+¥
+日 圓 符 號
+人 民 幣 符 號
+「
+上 引 號
+」
+下 引 號
+€
+歐 元 符 號
++
+加 號
+<
+小 於 符 號
+=
+等 號
+>
+大 於 符 號
+±
+正 負 號
+×
+乘 號
+÷
+除 號
+°
+度 數 符 號
+Croatian (Croatia)
+To Insert this
+Say this
+!
+uskličnik
+,
+zarez
+.
+točka
+?
+upitnik
+\n
+novi odlomak
+novi red
+novi redak
+novi paragraf
+novi ulomak
+sljedeći redak
+prijelom
+sljedeći red
+Czech
+To Insert this
+Say this
+-
+spojovník
+pomlčka ve slově
+minus
+–
+pomlčka
+!
+vykřičník
+#
+hash tag
+mřížka
+%
+procenta
+procento
+procent
+(
+závorka
+)
+konec závorky
+*
+hvězdička
+,
+čárka
+.
+tečka
+…
+tři tečky
+:
+dvojtečka
+;
+středník
+?
+otazník
+@
+zavináč
+\n
+nový řádek
+nový odstavec
+další řádek
+"
+uvozovky nahoře
+uvozovky dole
++
+plus
+=
+rovná se
+rovnítko
+Danish
+To Insert this
+Say this
+?
+spørgsmålstegn
+,
+komma
+\n
+linjeskift
+nyt afsnit
+.
+punktum
+!
+udråbstegn
+"
+begyndende anførselstegn
+lukkende anførselstegn
+afsluttende anførselstegn
+startende anførselstegn
+;
+semikolon
+:
+kolon
+(
+venstre parentes
+åben parentes
+%
+procenttegn
+#
+pund-tegn
+pund tegn
+hash-tegn
+hash tegn
+nummertegn
+=
+lighedstegn
++
+plustegn
+)
+lukket parentes
+højre parentes
+@
+snabel-a
+snabel a
+...
+ellipse
+*
+stjerne
+÷
+divisionstegn
+]
+højre kantet parentes
+kantet højreparentes
+kantet lukket parentes
+lukket kantet parentes
+[
+venstre kantet parentes
+åben kantet parentes
+åben venstreparentes
+kantet venstreparentes
+'
+apostrof
+'
+afsluttende enkelt anførselstegn
+lukkende enkelt anførselstegn
+åbnende enkelt anførselstegn
+startende enkelt anførselstegn
+<
+mindre end
+&
+og-tegn
+>
+større end
+±
+plus- eller minustegn
+'s
+apostrof s
+$
+dollartegn
+€
+euro-tegn
+;-)
+blinkende smiley
+°
+gradtegn
+grad-tegn
+£
+pund sterling-tegn
+/
+skråstreg
+:-(
+trist smiley
+°
+grad-tegn
+¥
+yen-tegn
+<3
+hjerte
+:-)
+smilende ansigt
+Dutch (Netherlands)
+To Insert this
+Say this
+'
+enkel aanhalingsteken sluiten
+enkel eindaanhalingsteken
+enkel aanhalingsteken openen
+enkel beginaanhalingsteken
+-
+afbreekstreepje
+minteken
+–
+en streepje
+en-streepje
+!
+uitroepteken
+#
+hashtag
+nummerteken
+$
+dollarteken
+%
+procentteken
+&
+ampersand
+en-teken
+(
+linkerhaakje
+)
+haakje sluiten
+,
+komma
+.
+punt
+...
+beletselteken
+/
+slash
+:
+dubbelepunt
+dubbele punt
+;
+puntkomma
+?
+vraagteken
+[
+vierkante linkerhaak
+vierkante haak openen
+\n
+regeleinde
+nieuwe regel
+nieuwe alinea
+]
+vierkante rechterhaak
+vierkante haak sluiten
+_
+onderstrepingsteken
+laag streepje
+'
+apostrof
+"
+beginaanhalingsteken
+aanhalingsteken openen
+"
+aanhalingsteken sluiten
+eindaanhalingsteken
+£
+britse pond-teken
+¥
+yenteken
+€
+euroteken
++
+plusteken
+<
+kleiner dan-teken
+<3
+hart-emoji
+=
+gelijkteken
+>
+groter dan-teken
+±
+plusminusteken
+×
+vermenigvuldigingsteken
+÷
+deelteken
+°
+gradenteken
+'s
+apostrof s
+English
+To Insert this
+Say this
+‘
+begin/open single quote
+'
+end/close single quote
+-
+Hyphen
+minus sign
+n-dash
+—
+m-dash
+!
+exclamation mark/point
+#
+number/pound sign
+$
+dollar sign
+%
+Percent sign
+&
+ampersand, and sign
+(
+left/open parentheses
+)
+right/close parentheses
+*
+asterisk
+,
+comma
+.
+period, full stop
+...
+ellipsis, dot dot dot
+/
+forward slash
+:
+colon
+:(
+frowny face
+:)
+smiley face
+;
+semicolon
+;)
+winky face
+?
+question mark
+@
+at sign, at mention
+[
+left/open (square) bracket
+\
+backslash
+]
+right/close (square) bracket
+^
+caret symbol
+_
+underscore
+`
+backquote, backtick
+{
+left/open (curly) brace
+|
+vertical bar sign/character, pipe character
+}
+right/close (curly) brace
+~
+tilde symbol
+"
+open quotes
+"
+close quotes
+£
+pound sterling sign
+¥
+yen sign
+€
+euro sign
++
+plus sign
+<
+less than sign, left/open angle bracket
+<3
+heart emoji
+=
+equal sign
+>
+greater than sign, right/close angle bracket
+±
+plus or minus sign
+×
+multiplication sign
+÷
+division sign
+§
+section sign
+©
+copyright sign/mark
+®
+registered sign
+°
+degree symbol/sign
+¶
+paragraph sign/mark
+new line
+new/next line
+new paragraph
+new paragraph
+'s
+apostrophe-s
+Estonian
+To Insert this
+Say this
+!
+hüüumärk
+,
+koma
+.
+lauselõpupunkt
+punkt
+?
+küsimärk
+\n
+järgmine lõik
+järgmine rida
+rea algus
+uus lõik
+uus rida
+Finnish
+To Insert this
+Say this
+'
+oikea puolilainausmerkki
+vasen puolilainausmerkki
+-
+miinusmerkki
+yhdysmerkki
+–
+viiva
+!
+huutomerkki
+#
+ristikkomerkki
+$
+dollarin merkki
+%
+prosenttimerkki
+&
+ja-merkki
+et-merkki
+(
+vasen sulkumerkki
+)
+oikea kaarisulje
+*
+tähtimerkki
+,
+pilkku
+.
+piste
+...
+ellipsi
+/
+vinoviiva
+:
+kaksoispiste
+:-(
+surullinen hymiö
+:-)
+hymiö
+;
+puolipiste
+;-)
+silmää iskevä hymiö
+?
+kysymysmerkki
+@
+ät merkki
+ät-maininta
+ät-merkki
+ät maininta
+[
+vasen hakasulje
+\n
+rivinvaihto
+uusi kappale
+uusi rivi
+]
+oikea hakasulje
+_
+alaviiva
+`
+gravis
+'
+heittomerkki
+£
+punnan merkki
+¥
+jenin merkki
+€
+euron merkki
++
+plusmerkki
+<
+pienempi kuin -merkki
+<3
+sydänhymiö
+=
+yhtäläisyysmerkki
+>
+suurempi kuin -merkki
+±
+plus- tai miinusmerkki
+×
+kertomerkki
+÷
+jakomerkki
+°
+astemerkki
+French (Canada)
+To Insert this
+Say this
+'
+guillemet simple fermant
+guillemet simple ouvrant
+-
+tiret
+tiret demi-cadratin
+!
+point d'exclamation
+#
+signe dièse
+$
+signe dollar
+%
+signe pourcentage
+(
+parenthèse ouvrante
+)
+parenthèse fermante
+*
+astérisque
+,
+virgule
+.
+point
+...
+points de suspension
+/
+barre oblique
+:
+deux points
+deux-points
+:-)
+émoticône
+;
+point virgule
+point-virgule
+?
+point d'interrogation
+@
+arobase
+[
+crochet droit ouvrant
+\n
+newline
+nouvelle ligne
+new line
+retour de chariot
+saut de ligne
+nouveau paragraphe
+]
+crochet droit fermant
+_
+trait de soulignement
+'
+apostrophe
+£
+signe livre sterling
+¥
+signe yen
+€
+signe euro
++
+signe plus
+<
+signe inférieur à
+<3
+emoji cœur
+=
+signe égal
+>
+signe supérieur à
+«
+guillemet gauche
+guillemet ouvrant
+ouvrir les guillemets
+»
+guillemet fermant
+guillemet droit
+fermer les guillemets
+×
+signe multiplication
+÷
+signe division
+°
+symbole degré
+French (France)
+To Insert this
+Say this
+'
+guillemet simple ouvrant
+guillemet simple fermant
+-
+tiret demi-cadratin
+tiret
+!
+point d'exclamation
+#
+signe dièse
+$
+signe dollar
+%
+signe pourcentage
+(
+parenthèse gauche
+parenthèse ouvrante
+)
+parenthèse fermante
+*
+astérisque
+,
+virgule
+.
+point
+...
+points de suspension
+/
+barre oblique
+:
+deux points
+deux-points
+:-)
+émoticône
+;
+point-virgule
+point virgule
+?
+point d'interrogation
+@
+arobase
+[
+crochet droit ouvrant
+\n
+newline
+nouveau paragraphe
+saut de ligne
+new line
+]
+crochet droit fermant
+_
+trait de soulignement
+'
+apostrophe
+£
+signe livre sterling
+¥
+signe yen
+€
+signe euro
++
+signe plus
+<
+signe inférieur à
+<3
+emoji cœur
+=
+signe égal
+>
+signe supérieur à
+«
+guillemet ouvrant
+ouvrir les guillemets
+guillemet gauche
+»
+fermer les guillemets
+guillemet fermant
+guillemet droit
+×
+signe multiplication
+÷
+signe division
+°
+symbole degré
+German (Germany)
+To Insert this
+Say this
+-
+Minuszeichen
+Bindestrich
+–
+Halbgeviertstrich
+Gedankenstrich
+!
+Ausrufezeichen
+#
+Rautezeichen
+Nummernzeichen
+Hashtag
+%
+Prozentzeichen
+(
+Klammer auf
+Öffnende Klammer
+Linke Klammer
+)
+Klammer zu
+Rechte Klammer
+Schließende Klammer
+*
+Sternsymbol
+,
+Komma
+.
+Punkt
+Satzende
+...
+Punkt Punkt Punkt
+Auslassungspunkte
+:
+Doppelpunkt
+;
+Strichpunkt
+Semikolon
+?
+Fragezeichen
+@
+At
+Klammeraffe
+\n
+Neue Zeile
+Neuer Absatz
+new line
+newline
+Zeilenumbruch
+"
+Schließendes Gänsefüßchen
+Rechtes Anführungszeichen
+Schließendes Anführungszeichen
+Anführungszeichen oben
+Anführungszeichen unten
+Linkes Anführungszeichen
+Öffnendes Anführungszeichen
+Gänsefüßchen unten
++
+Pluszeichen
+=
+Gleichheitszeichen
+Gujarati
+To Insert this
+Say this
+-
+હાયફન
+લઘુરેખા
+બાદબાકી ચિન્હ
+એન-ડૅશ
+માઇનસ સાઇન
+ગુરુરેખા
+ડૅશ
+વિગ્રહરેખા
+!
+એક્સ્કલેમેશન પોઇન્ટ
+આશ્ચર્ય ચિન્હ
+ઉદગારવાચક ચિન્હ
+એક્સ્કલેમેશન માર્ક
+#
+નંબર સાઇન
+હૅશ ટૅગ
+ક્રમાંક ચિન્હ
+પાઉંડ ચિન્હ
+પાઉંડ સાઇન
+%
+ટકા ચિન્હ
+પરસેંટ સાઇન
+(
+ઓપન પેરેંથેસિસ
+ખુલ્લો કૌંસ
+ડાબો કૌંસ
+લેફ્ટ પેરેંથેસિસ
+)
+રાઇટ પેરેંથેસિસ
+જમણો કૌંસ
+બંધ કૌંસ
+ક્લોઝ પેરેંથેસિસ
+*
+એસ્ટરિક્સ
+તારક ચિન્હ
+,
+અલ્પવિરામ ચિન્હ
+કોમા
+.
+ફુલ સ્ટોપ
+પૂર્ણ વિરામ
+...
+ડૉટ ડૉટ ડૉટ
+અલિપ્સસ
+લોપ ચિન્હ
+:
+કોલન
+મહાવિરામ
+;
+સેમીકોલન
+અર્ધવિરામ
+?
+ક્વેશ્ચન માર્ક
+પ્રશ્નાર્થ ચિન્હ
+પ્રશ્નવાચક ચિન્હ
+પ્રશ્ન ચિહ્ન
+@
+એટ ચિન્હ
+એટ મેંશન
+એટ સાઇન
+\n
+ન્યૂ પેરેગ્રાફ
+નવો પરિચ્છેદ
+નવી લાઇન
+ન્યૂ લાઇન
+"
+અવતરણ ચિન્હ પ્રારંભ
+ખુલ્લા અવતરણ
+ઓપન ક્વોટ્સ
+ઇન્વર્ટેડ કોમાઝ ઓપન
+ઓપન ક્વોટ્
+બિગીન ક્વોટ્સ
+ઇન્વર્ટેડ કોમાઝ બિગીન
+અવતરણ શરૂ
+અવતરણ ચિહ્ન શરૂ
+બિગીન ક્વોટ
+અવતરણ પૂર્ણ
+એંડ ક્વોટ્સ
+અવતરણ ચિન્હ સમાપ્ત
+એંડ ક્વોટ
+ઇન્વર્ટેડ કોમાઝ ક્લોઝ
+ઇન્વર્ટેડ કોમાઝ એંડ
+ક્લોઝ ક્વોટ્સ
+અવતરણ ચિન્હ પૂર્ણ
+ક્લોઝ ક્વોટ
+બંધ અવતરણ
++
+પ્લસ સાઇન
+વત્તા ચિન્હ
+=
+ઇક્વલ સાઇન
+બરાબર ચિન્હ
+Hindi
+To Insert this
+Say this
+-
+योजक चिन्ह
+माइनस साइन
+हाइफ़न साइन
+हाइफ़न मार्क
+ऐन डैश
+निर्देशक चिन्ह
+हाइफन
+–
+डैश
+!
+एक्स्क्लमेशन साइन
+विस्मयादिबोधक चिन्ह
+एक्स्क्लमेशन प्वाइंट
+विस्मयादिवाचक चिन्ह
+एक्स्क्लमेशन मार्क
+#
+हैश टैग
+पाउंड साइन
+नंबर साइन
+%
+परसेंट साइन
+(
+लेफ्ट ब्रैकेट
+लेफ्ट परेन्थसिस
+ओपन परेन्थसिस
+ओपन ब्रैकेट
+कोष्ठक शुरू
+)
+क्लोज़ ब्रैकेट
+कोष्ठक खत्म
+राइट परेन्थसिस
+राइट ब्रैकेट
+क्लोज़ परेन्थसिस
+*
+एस्टरिस्क
+,
+कॉमा
+अल्प विराम
+...
+डॉट डॉट डॉट
+एलिप्सिस
+:
+कोलन
+कोलन मार्क
+उप विराम
+कोलन चिन्ह
+कोलन साइन
+;
+अर्ध विराम
+सेमीकोलन
+?
+क्वेश्चन मार्क
+प्रश्नवाचक चिन्ह
+@
+ऐट साइन
+ऐट मेंशन
+\n
+नेक्स्ट लाइन
+न्यू पैराग्राफ
+नई पंक्ति
+न्यू लाइन
+"
+ओपन कोट्स
+इनवर्टेड कॉमाज़ बिगिन
+क्वोटेशन मार्क स्टार्ट
+अवतरण चिन्ह शुरू
+उदधरण चिन्ह शुरू
+इनवर्टेड कॉमाज़ क्लोज़
+क्वोटेशन मार्क एन्ड
+उदधरण चिन्ह खत्म
+क्लोज़ कोट्स
+अवतरण चिन्ह खत्म
+।
+पूर्ण विराम
+फुल स्टॉप
++
+प्लस साइन
+=
+इक्वल साइन
+Hungarian
+To Insert this
+Say this
+-
+kötőjel
+−
+mínuszjel
+félkvirtmínusz
+nagykötőjel
+gondolatjel
+!
+felkiáltójel
+#
+kettőskereszt
+hashtag
+számjel
+hashmark
+%
+százalékjel
+(
+bal zárójel
+nyitó zárójel
+zárójel nyitva
+)
+berekesztő zárójel
+csukó zárójel
+jobb zárójel
+zárójel zárva
+*
+csillagjel
+csillag
+aszteriszk
+,
+vessző
+.
+pont
+...
+pont pont pont
+:
+kettőspont
+;
+pontosvessző
+?
+kérdőjel
+@
+at-jel
+kukac
+kukacjel
+\n
+sortörés
+új sor
+új bekezdés
+következő sor
+"
+idézőjel bezárva
+idézőjel zárva
+záró macskaköröm
+idézet vége
+idézőjel nyitva
+idézet kezdete
+kezdő macskaköröm
++
+pluszjel
+=
+egyenlőségjel
+…
+hármaspont
+három pont
+Irish
+To Insert this
+Say this
+!
+comhartha uaillbhreasa
+,
+camóg
+.
+lánstad
+?
+comhartha ceiste
+\n
+paragraf nua
+an chéad líne eile
+fotha líne
+líne úr
+paragraf úr
+líne nua
+Italian (Italy)
+To Insert this
+Say this
+'
+aperta virgoletta singola
+chiudi virgoletta singola
+-
+trattino
+!
+punto esclamativo
+#
+cancelletto
+hashtag
+$
+simbolo di dollaro
+&
+e commerciale
+(
+parentesi aperta
+)
+parentesi chiusa
+*
+asterisco
+,
+virgola
+.
+punto
+...
+puntini di sospensione
+:
+due punti
+;
+punto e virgola
+?
+punto di domanda
+punto interrogativo
+@
+a commerciale
+[
+parentesi quadra aperta
+\n
+a capo
+newline
+new line
+nuova riga
+]
+parentesi quadra chiusa
+_
+underscore
+£
+simbolo di sterlina
+¥
+simbolo di yen
+€
+simbolo di euro
+<
+segno di minore
+=
+segno di uguale
+>
+segno di maggiore
+«
+virgolette aperte
+»
+virgolette chiuse
+×
+segno di moltiplicazione
+÷
+segno di divisione
+°
+simbolo di grado
+Japanese
+To Insert this
+Say this
+-
+マイナス記号
+ハイフン
+！
+びっくりマーク
+エクスクラメーションマーク
+感嘆符
+#
+番号記号
+$
+ドル記号
+%
+パーセント記号
+&
+アンド記号
+アンパサンド
+（
+かっこ
+かっこ開く
+左かっこ
+）
+かっことじ
+右かっこ
+かっこ閉じる
+*
+アスタリスク
+、
+読点
+...
+三点リーダー
+。
+句点
+くてん
+；
+セミコロン
+？
+疑問符
+クエスチョンマーク
+はてなマーク
+@
+アット記号
+アットマーク
+[
+左角かっこ
+大かっこ開く
+角かっこ開く
+左大かっこ
+\n
+次の行
+新しい段落
+改行
+かいぎょう
+]
+右大かっこ
+角かっこ閉じる
+大かっこ閉じる
+右角かっこ
+£
+ポンド記号
+¥
+円記号
+「
+かぎかっこ開く
+左かぎかっこ
+」
+右かぎかっこ
+かぎかっこ閉じる
+『
+二重かぎかっこ開く
+左二重かぎかっこ
+』
+二重かぎかっこ閉じる
+右二重かぎかっこ
+€
+ユーロ記号
++
+プラス記号
+<
+小なり記号
+=
+等号
+>
+大なり記号
+±
+プラスマイナス
+°
+度記号
+Korean
+To Insert this
+Say this
+'
+작은따옴표 열고
+작은따옴표 닫고
+-
+붙임표
+하이픈
+―
+줄표
+!
+느낌표
+(
+소괄호 열고
+괄호 열고
+)
+괄호 닫고
+소괄호 닫고
+,
+쉼표
+.
+마침표
+/
+슬래시
+빗금
+:
+콜론
+쌍점
+;
+반쌍점
+쌍반점
+?
+물음표
+[
+대괄호 열고
+\n
+줄바꿈
+새로운 줄
+새로운 단락
+줄 바꿈
+]
+대괄호 닫고
+{
+중괄호 열고
+}
+중괄호 닫고
+~
+물결표
+"
+큰따옴표 열고
+큰따옴표 닫고
+〈
+홑화살괄호 열고
+〉
+홑화살괄호 닫고
+《
+겹화살괄호 열고
+》
+겹화살괄호 닫고
+「
+홑낫표 열고
+」
+홑낫표 닫고
+『
+겹낫표 열고
+』
+겹낫표 닫고
+…
+줄임표
+생략표
+ㆍ
+가운뎃점
+Lithuanian
+To Insert this
+Say this
+!
+šauktukas
+,
+kablelis
+.
+taškas
+?
+klaustukas
+\n
+nauja eilutė
+kita eilutė
+kita pastraipa
+nauja pastraipa
+Latvian
+To Insert this
+Say this
+!
+izsaukuma zīme
+,
+komats
+.
+punkts
+?
+jautājuma zīme
+\n
+jaunā rindiņa
+jauna rindkopa
+nākamā rindiņa
+jauna rinda
+nākamā rinda
+Marathi
+To Insert this
+Say this
+-
+वजा चिन्ह
+डॅश
+मायनस साइन
+संयोग चिन्ह
+अपसारण चिन्ह
+एन-डॅश
+हायफन
+डॅश चिन्ह
+!
+उद्गार बिंदू
+एक्सक्लमेशन पॉइंट
+उद्गारवाचक चिन्ह
+एक्सक्लमेशन मार्क
+#
+नंबर साइन
+हॅश टॅग
+पाउंड साइन
+पाउंड चिन्ह
+संख्या चिन्ह
+क्रमांक चिन्ह
+%
+प्रतिशत चिन्ह
+परसेंट साइन
+टक्का चिन्ह
+(
+ओपन परेंथेसस
+लेफ्ट परेंथेसस
+डावा कंस
+खुला कंस
+ओपन कंस
+)
+राइट परेंथेसस
+क्लोज परेंथेसस
+कंस बंद
+उजवा कंस
+*
+तारांकित
+ऍस्टरिक्स
+,
+कॉमा
+स्वल्पविराम
+.
+फुल स्टॉप
+पूर्णविराम
+...
+लोप चिन्ह
+अलिप्सस
+डॉट डॉट डॉट
+:
+अपूर्णविराम
+कोलन
+;
+अर्धविराम
+सेमीकोलन
+?
+प्रश्न चिन्ह
+क्वेश्चन मार्क
+@
+ऍट मेंशन
+ऍट
+ऍट साइन
+ऍट चिन्ह
+\n
+न्यू पॅरग्राफ
+नवीन ओळ
+न्यू लाइन
+नवीन परिच्छेद
+"
+ओपन कोट
+कोटेशन मार्क स्टार्ट
+खुला कोट
+बिगिन कोट
+अवतरण चिन्ह प्रारंभ
+अवतरण सुरू
+बिगिन कोट्स
+कोट सुरू
+इनवर्टेड कॉमाज बिगिन
+खुले अवतरण
+ओपन कोट्स
+"
+इनवर्टेड कॉमाज क्लोज
+क्लोज कोट्स
+एंड कोट
+कोटेशन मार्क एंड
+अवतरण बंद
+कोट समाप्त
+अवतरण चिन्ह बंद
+कोट बंद
+अवतरण चिन्ह समाप्त
+अवतरण समाप्त
+क्लोज कोट
+एंड कोट्स
++
+प्लस साइन
+अधिक चिन्ह
+=
+इक्वल साइन
+बरोबर चिन्ह
+Maltese
+To Insert this
+Say this
+!
+Punt esklamattiv
+,
+Virgola
+.
+Tikka
+?
+Punt interrogattiv
+\n
+Linja ġdida
+Linja li jmiss
+Paragrafu ġdid
+Norwegian (Bokmål)
+To Insert this
+Say this
+'
+avsluttende enkelt anførselstegn
+venstre enkelt anførselstegn
+høyre enkelt anførselstegn
+begynnende enkelt anførselstegn
+-
+minustegn
+bindestrek
+–
+kort tankestrek
+tankestrek
+!
+utropstegn
+#
+emneknagg
+nummertegn
+$
+dollartegn
+%
+prosenttegn
+&
+og-tegn
+(
+venstreparentes
+)
+høyreparentes
+,
+komma
+.
+punktum
+/
+skråstrek
+:
+kolon
+:-(
+rynkefjes
+:-)
+smilefjes
+;
+semikolon
+;-)
+blinkefjes
+?
+spørsmålstegn
+@
+alfakrøll omtale
+krøllalfategn
+[
+venstre hakeparentes
+\n
+ny linje
+nytt avsnitt
+]
+høyre hakeparentes
+'
+apostrof
+"
+begynnende anførselstegn
+venstre anførselstegn
+"
+avsluttende anførselstegn
+høyre anførselstegn
+£
+britisk pund-tegn
+¥
+yen-tegn
+€
+eurotegn
++
+plusstegn
+<
+mindre enn-tegn
+<3
+hjerte-emoji
+=
+likhetstegn
+>
+større enn-tegn
+±
+pluss- eller minustegn
+×
+multiplikasjonstegn
+÷
+divisjonstegn
+°
+gradetegn
+'s
+apostrof s
+apostrof-ess
+Polish
+To Insert this
+Say this
+–
+myślnik
+!
+wykrzyknik
+(
+nawias
+nawias otwarty
+w nawiasie
+otwieram nawias
+)
+nawias zamknięty
+zamykam nawias
+,
+przecinek
+.
+kropka
+:
+dwukropek
+;
+średnik
+?
+pytajnik
+znak zapytania
+\n
+od nowej linii
+nowa linia
+"
+cytuję
+cudzysłów
+otwieram cudzysłów
+cytując
+"
+koniec cytatu
+zamykam cudzysłów
+...
+wielokropek
+Portuguese (Brazil)
+To Insert this
+Say this
+'
+aspas simples de final
+aspas simples iniciais
+aspas simples inicial
+aspas simples de abertura
+aspas simples de fechamento
+-
+hífen
+sinal de subtração
+!
+ponto de exclamação
+#
+tecla jogo da velha
+$
+cifrão
+%
+sinal de porcentagem
+&
+sinal e
+e comercial
+(
+parêntese de abertura
+parêntese esquerdo
+)
+parêntese direito
+*
+asterisco
+,
+vírgula
+.
+ponto final
+...
+reticências
+:
+dois pontos
+:-)
+smiley
+;
+ponto e vírgula
+?
+ponto de interrogação
+@
+arroba
+[
+abre colchete
+colchete de abertura
+colchete esquerdo
+colchete abertura
+\n
+novo parágrafo
+mudar de linha
+nova linha
+]
+colchete direito
+colchete de fechamento
+fecha colchete
+_
+sublinhado
+`
+aspa invertida
+'
+apóstrofo
+"
+abrir aspas
+"
+fechar aspas
+£
+símbolo da libra esterlina
+¥
+símbolo do Iene
+€
+símbolo do Euro
++
+sinal de adição
+<
+sinal de menor que
+<3
+emoji de coração
+=
+sinal de igual
+>
+sinal de maior que
+±
+sinal de mais ou menos
+×
+sinal de multiplicação
+÷
+sinal de divisão
+°
+sinal de grau
+Portuguese (Portugal)
+To Insert this
+Say this
+'
+aspas simples de final
+aspas simples inicial
+aspas simples de fechamento
+aspas simples de abertura
+aspas simples iniciais
+-
+hífen
+sinal de subtração
+!
+ponto de exclamação
+#
+tecla jogo da velha
+$
+cifrão
+%
+sinal de porcentagem
+&
+sinal e
+e comercial
+(
+parêntese esquerdo
+parêntese de abertura
+)
+parêntese direito
+*
+asterisco
+,
+vírgula
+.
+ponto final
+...
+reticências
+:
+dois pontos
+:-)
+smiley
+;
+ponto e vírgula
+?
+ponto de interrogação
+@
+arroba
+[
+colchete esquerdo
+colchete abertura
+abre colchete
+colchete de abertura
+\n
+nova linha
+mudar de linha
+novo parágrafo
+]
+fecha colchete
+colchete direito
+colchete de fechamento
+_
+sublinhado
+`
+aspa invertida
+'
+apóstrofo
+"
+abrir aspas
+"
+fechar aspas
+£
+símbolo da libra esterlina
+¥
+símbolo do Iene
+€
+símbolo do Euro
++
+sinal de adição
+<
+sinal de menor que
+<3
+emoji de coração
+=
+sinal de igual
+>
+sinal de maior que
+±
+sinal de mais ou menos
+×
+sinal de multiplicação
+÷
+sinal de divisão
+°
+sinal de grau
+Romanian (Romania)
+To Insert this
+Say this
+!
+semnul exclamării
+,
+virgulă
+.
+separator zecimal
+punct de abreviere
+punct
+?
+semn de întrebare
+semnul întrebării
+\n
+paragraf nou
+următorul rând
+linie nouă
+Russian
+To Insert this
+Say this
+-
+дефис
+знак минус
+—
+тире
+!
+восклицательный знак
+#
+знак решётка
+$
+знак доллара
+%
+знак процента
+&
+амперсанд
+(
+открывающая круглая скобка
+скобка открывается
+скобки открываются
+)
+скобки закрываются
+скобка закрывается
+закрывающая круглая скобка
+*
+знак звёздочка
+,
+запятая
+.
+конец предложения
+точка
+/
+косая черта
+:
+двоеточие
+;
+точка с запятой
+?
+вопросительный знак
+знак вопроса
+@
+коммерческое а
+[
+открывающая квадратная скобка
+\n
+с новой строчки
+с новой строки
+новый абзац
+новая строка
+]
+закрывающая квадратная скобка
+_
+знак подчеркивания
+{
+открывающая фигурная скобка
+}
+закрывающая фигурная скобка
++
+знак плюс
+«
+открывающая кавычка
+открыть кавычки
+кавычки открываются
+»
+закрыть кавычки
+кавычки закрываются
+закрывающая кавычка
+...
+многоточие
+Slovak
+To Insert this
+Say this
+!
+výkričník
+,
+čiarka
+.
+bodka
+?
+otáznik
+\n
+nový riadok
+nový odsek
+Slovenian
+To Insert this
+Say this
+!
+klicaj
+,
+vejica
+.
+pika
+?
+vprašaj
+\n
+nov odstavek
+nova vrstica
+naslednja vrstica
+Spanish (Mexico)
+To Insert this
+Say this
+'
+abrir comilla simple
+comilla simple de apertura
+cerrar comilla simple
+comilla simple de cierre
+-
+signo menos
+guion corto
+!
+signo de exclamación
+signos de exclamación
+#
+hashtag
+$
+símbolo del dólar
+%
+signo de porcentaje
+&
+y comercial
+(
+paréntesis de apertura
+abrir paréntesis
+)
+cerrar paréntesis
+paréntesis de cierre
+*
+asterisco
+,
+coma
+.
+punto
+...
+puntos suspensivos
+/
+barra diagonal
+:
+dos puntos
+:-(
+cara enfadada
+:-)
+cara sonriente
+;
+punto y coma
+;-)
+cara con guiño
+?
+signos de interrogación
+signo de interrogación
+@
+arroba
+[
+abrir corchete
+corchete de apertura
+\n
+newline
+nueva línea
+salto de línea
+nuevo párrafo
+new line
+]
+cerrar corchete
+corchete de cierre
+_
+guion bajo
+`
+comilla inversa
+¡
+signo de apertura de exclamación
+signos de apertura de exclamación
+¿
+signos de apertura de interrogación
+signo de apertura de interrogación
+'
+apóstrofo
+£
+símbolo de la libra esterlina
+¥
+símbolo del yen
+€
+símbolo del euro
++
+signo más
+<
+signo menor que
+<3
+emoji de corazón
+=
+signo igual
+>
+signo mayor que
+±
+signo más o menos
+«
+comillas izquierdas
+»
+comillas derechas
+×
+signo de multiplicación
+÷
+signo de división
+°
+símbolo de grado
+Spanish (Spain)
+To Insert this
+Say this
+'
+comilla simple de apertura
+abrir comilla simple
+comilla simple de cierre
+cerrar comilla simple
+-
+guion corto
+signo menos
+!
+signos de exclamación
+signo de exclamación
+#
+hashtag
+$
+símbolo del dólar
+%
+signo de porcentaje
+&
+y comercial
+(
+paréntesis de apertura
+abrir paréntesis
+)
+paréntesis de cierre
+cerrar paréntesis
+*
+asterisco
+,
+coma
+.
+punto
+...
+puntos suspensivos
+/
+barra diagonal
+:
+dos puntos
+:-(
+cara enfadada
+:-)
+cara sonriente
+;
+punto y coma
+;-)
+cara con guiño
+?
+signos de interrogación
+signo de interrogación
+@
+arroba
+[
+corchete de apertura
+abrir corchete
+\n
+nuevo párrafo
+nueva línea
+newline
+new line
+salto de línea
+]
+corchete de cierre
+cerrar corchete
+_
+guion bajo
+`
+comilla inversa
+¡
+signos de apertura de exclamación
+signo de apertura de exclamación
+¿
+signos de apertura de interrogación
+signo de apertura de interrogación
+'
+apóstrofo
+£
+símbolo de la libra esterlina
+¥
+símbolo del yen
+€
+símbolo del euro
++
+signo más
+<
+signo menor que
+<3
+emoji de corazón
+=
+signo igual
+>
+signo mayor que
+±
+signo más o menos
+«
+comillas izquierdas
+»
+comillas derechas
+×
+signo de multiplicación
+÷
+signo de división
+°
+símbolo de grado
+Swedish (Sweden)
+To Insert this
+Say this
+'
+apostrof
+-
+bindestreck
+minustecken
+–
+kort tankstreck
+tankstreck
+!
+utropstecken
+#
+nummertecken
+$
+dollartecken
+%
+procenttecken
+&
+och-tecken
+et-tecken
+(
+inledande parentes
+vänsterparentes
+)
+avslutande parentes
+högerparentes
+*
+asterisk
+,
+kommatecken
+.
+punkt
+/
+framåtlutat snedstreck
+snedstreck
+slash
+;
+semikolon
+;-)
+blinkande smiley
+?
+frågetecken
+@
+at omnämnande
+at-omnämnande
+[
+vänster hakparentes
+inledande hakparentes
+\n
+ny rad
+påbörja ny rad
+]
+avslutande hakparentes
+höger hakparentes
+_
+understreck
+`
+grav accent
+'
+inledande enkelt citattecken
+avslutande enkelt citattecken
+enkelt citattecken
+"
+inledande citattecken
+"
+avslutande citattecken
+£
+pundtecken
+¥
+yentecken
+€
+eurotecken
++
+plustecken
+<
+mindre än-tecken
+>
+större än-tecken
+±
+plus-minustecken
+×
+multiplikationstecken
+÷
+divisionstecken
+°
+gradtecken
+Tamil (India)
+To Insert this
+Say this
+-
+இஎன்-டேஷ்
+டேஷ்
+கழித்தல் குறி
+கோடு குறி
+மைனஸ் சைன்
+இடையீட்டுக்குறி
+ஹைஃபென்
+!
+எக்ஸ்க்ளமேஷன் மார்க்
+உணர்ச்சிக்குறி
+ஆச்சரியக்குறி
+எக்ஸ்க்ளமேஷன் பாயின்ட்
+#
+கொத்துக்குறி
+பவுண்டு சைன்
+எண் குறியீடு
+ஹேஷ் டேக்
+பவுண்டு குறியீடு
+நம்பர் சைன்
+%
+பெர்சென்ட் சைன்
+சதவீதம் குறியீடு
+(
+திறந்த பிறைக்குறி
+இடது அடைப்புக்குறி
+திறந்த அடைப்புக்குறி
+லெஃப்ட் பாரன்தெஸிஸ்
+ஒப்பன் பாரன்தெஸிஸ்
+)
+க்ளோஸ் பாரன்தெஸிஸ்
+வலது அடைப்புக்குறி
+ரைட் பாரன்தெஸிஸ்
+வலது பிறைக்குறி
+மூடிய பிறைக்குறி
+மூடிய அடைப்புக்குறி
+*
+பெருக்கல் குறி
+விண்மீன் குறியீடு
+அஸ்டெரிக்
+நட்சத்திர குறியீடு
+,
+கமா
+காற்புள்ளி
+.
+காலம்
+முற்றுப்புள்ளி
+ஃபுல்ஸ்டாப்
+பீரியட்
+புள்ளி
+...
+எல்லிப்சிஸ்
+டாட் டாட் டாட்
+புள்ளி புள்ளி புள்ளி
+முப்புள்ளி
+:
+கோலன்
+முக்காற் புள்ளி
+;
+செமிகோலன்
+அரைப்புள்ளி
+?
+வினாக்குறி
+கேள்விக்குறி
+குவெஸ்டின் மார்க்
+@
+அட் சைன்
+அட் மென்ஷன்
+\n
+நியூ லைன்
+புதிய கோடு
+புதிய பத்தி
+நியூ பாராகிராஃப்
+புதிய பாரா
+"
+ஒப்பன் குவோட்
+பிகின் குவோட்
+திறந்த மேற்கோள்
+இன்வெர்டட் கமாஸ் ஒப்பன்
+ஒப்பன் குவோட்ஸ்
+இன்வெர்டட் கமாஸ் பிகின்
+தலைகீழ் காற்புள்ளிகள் தொடக்கம்
+மேற்கோள் குறி தொடக்கம்
+திறந்த மேற்கோள்கள்
+பிகின் குவோட்ஸ்
+தொடக்க மேற்கோள்கள்
+"
+இன்வெர்டட் கமாஸ் எண்டு
+தலைகீழ் காற்புள்ளிகள் முடிவு
+க்ளோஸ் குவோட்
+தலைகீழ் காற்புள்ளிகள் மூடுதல்
+மூடிய மேற்கோள்கள்
+இன்வெர்டட் கமாஸ் க்ளோஸ்
+எண்டு குவோட்
+மூடிய மேற்கோள்
+எண்டு குவோட்ஸ்
+க்ளோஸ் குவோட்ஸ்
+மேற்கோள்கள் முடிவு
++
+பிளஸ் சைன்
+கூட்டல் குறியீடு
+=
+சமம் குறியீடு
+ஈகுவல் சைன்
+Telugu
+To Insert this
+Say this
+-
+మైనస్ సైన్
+తీసివేత గుర్తు
+ఎన్ డాష్
+హైఫన్
+డాష్
+అడ్డగీత
+!
+ఆశ్చర్యార్థకం గుర్తు
+ఎక్స్క్లమేషన్ మార్క్
+ఎక్స్క్లమేషన్ పాయింట్
+ఆశ్చర్యార్థకం
+#
+సంఖ్య గుర్తు
+నంబర్ సైన్
+హాష్ ట్యాగ్
+పౌండ్ సైన్
+%
+పర్సెంట్ సైన్
+శాతం
+(
+లెఫ్ట్ పారెంథసిస్
+ఎడమ కుండలీకరణము
+ఓపెన్ పారెంథసిస్
+ప్రారంభ కుండలీకరణము
+)
+ముగింపు కుండలీకరణము
+రైట్ పారెంథసిస్
+క్లోజ్ పారెంథసిస్
+కుడి కుండలీకరణము
+*
+నక్షత్రం గుర్తు
+ఆస్టెరిక్
+,
+కామా
+విరామ చిహ్నము
+.
+పూర్ణ బిందువు
+ఫుల్ స్టాప్
+...
+ఎలిప్సిస్
+డాట్ డాట్ డాట్
+:
+న్యూన బిందువు
+కోలన్
+;
+అర్ధ బిందువు
+సెమీకోలన్
+?
+ప్రశ్నార్థకం
+క్వశ్చన్ మార్క్
+@
+ఎట్ సైన్
+ఎట్ మెన్షన్
+\n
+కొత్త పేరా
+కొత్త వాక్యం
+న్యూ లైన్
+న్యూ పేరాగ్రాఫ్
+తాజా వాక్యము
+"
+ప్రారంభ విలోమ కామాలు
+ఆద్య అనుకరణ చిహ్నము
+బిగిన్ కోట్
+ఓపెన్ కోట్స్
+బిగిన్ కోట్స్
+ఓపెన్ కోట్
+ఇన్వర్టెడ్ కామాస్ బిగిన్
+ఇన్వర్టెడ్ కామాస్ ఓపెన్
+ఆద్య అనుకరణ చిహ్నములు
+"
+క్లోజ్ కోట్స్
+ఎండ్ కోట్
+ముగింపు విలోమ కామాలు
+అంత్య అనుకరణ చిహ్నము
+క్లోజ్ కోట్
+ఇన్వర్టెడ్ కామాస్ ఎండ్
+ఇన్వర్టెడ్ కామాస్ క్లోజ్
+ఎండ్ కోట్స్
++
+కూడిక గుర్తు
+ప్లస్ సైన్
+=
+ఈక్వల్ సైన్
+సమానార్థకము
+Thai
+To Insert this
+Say this
+\n
+บรรทัดใหม่
+ขึ้นบรรทัดใหม่
+Turkish
+To Insert this
+Say this
+-
+eksi
+eksi işareti
+tire
+–
+kısa çizgi
+orta çizgi
+en tire
+en çizgi
+!
+ünlem
+ünlem işareti
+"
+tırnak işareti
+#
+hashtag
+sayı işareti
+kare işareti
+hashtag işareti
+numara işareti
+%
+yüzde işareti
+yüzde
+bölü yüz işareti
+(
+sol parantez
+aç parantez
+)
+kapa parantez
+sağ parantez
+yay ayraç
+*
+yıldız işareti
+yıldız
+,
+virgül
+.
+nokta
+:
+iki nokta üst üste
+;
+noktalı virgül
+?
+soru işareti
+@
+kuyruklu a
+et
+et işareti
+\n
+yeni paragraf
+sonraki satır
+yeni satır
++
+artı işareti
+artı
+=
+eşittir işareti
+eşittir
+...
+üç nokta
+Vietnamese
+To Insert this
+Say this
+-
+dấu gạch nối
+gạch nối
+trừ
+dấu trừ
+–
+gạch ngang
+dấu gạch ngang
+!
+dấu cảm
+dấu chấm cảm
+dấu chấm than
+"
+dấu ngoặc kép
+dấu ngoặc kép mở
+dấu ngoặc kép đóng
+#
+dấu thăng
+%
+phần trăm
+)
+đóng ngoặc đơn
+(
+mở ngoặc đơn
+*
+dấu hoa thị
+dấu sao
+,
+dấu phẩy
+.
+chấm
+dấu chấm
+...
+dấu ba chấm
+dấu chấm lửng
+:
+dấu hai chấm
+;
+dấu chấm phẩy
+?
+dấu chấm hỏi
+dấu hỏi
+dấu hỏi chấm
+@
+a còng
+\n
+xuống dòng
++
+cộng
+dấu cộng
+=
+bằng
+dấu bằng
+Use dictation to convert spoken words into text anywhere on your PC with Windows 10. Dictation uses speech recognition, which is built into Windows 10, so there's nothing you need to download and install to use it.
+To start dictating, select a text field and press the
+Windows logo key
++H
+to open the dictation toolbar. Then say whatever's on your mind. To stop dictating at any time while you're dictating, say "Stop dictation."
+If you're using a tablet or a touchscreen, tap the
+microphone
+button on the touch keyboard to start dictating. Tap it again to stop dictation, or say "Stop dictation."
+To find out more about speech recognition, read
+Use voice recognition in Windows
+. To learn how to set up your microphone, read
+How to set up and test microphones in Windows
+.
+Note
+To use dictation, your PC needs to be connected to the internet.
+Dictation commands
+Use dictation commands to tell you PC what to do, like "delete that" or "select the previous word."
+The following table tells you what you can say. If a word or phrase is in
+bold
+, it's an example. Replace it with similar words to get the result you want.
+To do this
+Say
+Clear a selection
+Clear selection; unselect that
+Delete the most recent dictation result or currently selected text
+Delete that; strike that
+Delete a unit of text, such as the current word
+Delete
+word
+Move the cursor to the first character after a specified word or phrase
+Go after that; move after
+word
+; go to the end of
+paragraph
+; move to the end of that
+Move the cursor to the end of a unit of text
+Go after
+word
+; move after
+word
+; go to the end of that; move to the end of
+paragraph
+Move the cursor backward by a unit of text
+Move back to the previous
+word
+; go up to the previous
+paragraph
+Move the cursor to the first character before a specified word or phrase
+Go to the start of the
+word
+Move the cursor to the start of a text unit
+Go before that; move to the start of that
+Move the cursor forward to the next unit of text
+Move forward to the
+next word
+; go down to the
+next paragraph
+Moves the cursor to the end of a text unit
+Move to the end of the
+word
+; go to the end of the
+paragraph
+Enter one of the following keys: Tab, Enter, End, Home, Page up, Page down, Backspace, Delete
+Tap
+Enter
+; press
+Backspace
+Select a specific word or phrase
+Select
+word
+Select the most recent dictation result
+Select that
+Select a unit of text
+Select the
+next three words
+; select the
+previous two paragraphs
+Turn spelling mode on and off
+Start spelling; stop spelling
+Dictating letters, numbers, punctuation, and symbols
+You can dictate most numbers and punctuation by saying the number or punctuation character. To dictate letters and symbols, say "start spelling." Then say the symbol or letter, or use the ICAO phonetic alphabet.
+To dictate an uppercase letter, say "uppercase" before the letter. For example, "uppercase A" or "uppercase alpha." When you're done, say "stop spelling."
+Here are the punctuation characters and symbols you can dictate.
+To insert this
+Say
+@
+at symbol; at sign
+#
+Pound symbol; pound sign; number symbol; number sign; hash symbol; hash sign; hashtag symbol; hashtag sign; sharp symbol; sharp sign
+$
+Dollar symbol; dollar sign; dollars symbol; dollars sign
+%
+Percent symbol; percent sign
+^
+Caret
+&
+And symbol; and sign; ampersand symbol; ampersand sign
+*
+Asterisk; times; star
+(
+Open paren; left paren; open parenthesis; left paren
+)
+Close paren; right paren; close parenthesis; right parenthesis
+_
+Underscore
+-
+Hyphen; dash; minus sign
+~
+Tilde
+\
+Backslash; whack
+/
+Forward slash; divided by
+,
+Comma
+.
+Period; dot; decimal; point
+;
+Semicolon
+'
+Apostrophe; open single quote; begin single quote; close single quote; close single quote; end single quote
+=
+Equal symbol; equal sign; equals symbol; equal sign
+(space)
+Space
+|
+Pipe
+:
+Colon
+?
+Question mark; question symbol
+[
+Open bracket; open square bracket; left bracket; left square bracket
+]
+Close bracket; close square bracket; right bracket; right square bracket
+{
+Open curly brace; open curly bracket; left curly brace; left curly bracket
+}
+Close curly brace; close curly bracket; right curly brace; right curly bracket
++
+Plus symbol; plus sign
+<
+Open angle bracket; open less than; left angle bracket; left less than
+>
+Close angle bracket; close greater than; right angle bracket; right greater than
+"
+Open quotes; begin quotes; close quotes; end quotes; open double quotes; begin double quotes; close double quotes; end double quotes
+Supported languages
+Dictation commands are available in US English only.
+You can dictate basic text, symbols, letters, and numbers in these languages:
+Simplified Chinese
+English (Australia, Canada, India, United Kingdom)
+French (France, Canada)
+German (Germany)
+Italian (Italy)
+Portuguese (Brazil)
+Spanish (Mexico, Spain)
+To dictate in other languages,
+Use voice recognition in Windows
+.
+Note
+To learn about recent Voice access updates, go to
+What’s new in Voice access
+.

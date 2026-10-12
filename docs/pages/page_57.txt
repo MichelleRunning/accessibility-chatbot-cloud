@@ -1,0 +1,129 @@
+URL: https://support.microsoft.com/en-us/windows/experience/focus-stay-on-task-without-distractions-in-windows
+Focus: Stay on Task Without Distractions in Windows
+Applies To
+Windows 11
+Windows 10
+Windows 11
+Windows 10
+Focus is Windows feature designed to help you stay on task by minimizing distractions. Whether you're working on an important project, studying for an exam, or simply need some uninterrupted time, Focus can help you maintain your concentration and productivity.
+How Focus works
+Focus works by temporarily blocking notifications, sounds, and alerts from apps and contacts. You can customize the settings to allow certain notifications to come through if needed.
+By default, when you're in a focus session, the following happens:
+A
+Focus period
+appears on the screen
+Do not disturb turns on
+Flashing and badges of the apps on the taskbar are temporarily turned off
+You'll receive a notification when your focus session ends. If you need to, you can end a focus session early.
+Note
+Note:
+Focus works with focus periods in the Clock app. If you uninstalled the Clock app, you'll need to reinstall it to use Focus. Get it from the Microsoft Store:
+Install Windows Clock
+How to use Focus
+You can start a Focus session in different ways. Expand each section to learn more:
+From the calendar and notification area
+Select the clock or the notification bell icon on the taskbar, or press the
+Windows key
++
+N
+Choose an amount of time for your focus session
+Select
+Focus
+to start your session
+From Settings
+In the
+Settings app
+on your Windows device
+select
+System
+>
+Focus
+or use the following shortcut:
+Focus
+Under
+Focus
+, select
+Start focus session
+to start your session
+From the Clock app
+In the Clock app on your Windows device, select
+Focus sessions
+or use the following shortcut:
+Focus sessions
+Choose an amount of time for your focus session and if you want to have breaks
+Select
+Start focus session
+to start your session
+When you start a focus session, a focus timer appears on screen. To use additional focus tools in the Clock app, expand the focus timer to get the full view of the Clock app.
+Do not disturb during focus
+When you start a focus session,
+do not disturb
+turns on automatically to silence your notifications. To review notifications that you received during your session, open the
+notification center
+.
+Note
+If do not disturb was turned on before your focus session, it will remain on even after your session has finished.
+To learn more, see
+Notifications and Do Not Disturb in Windows
+.
+How to configure Focus
+In the
+Settings app
+on your Windows device
+select
+System
+>
+Focus
+or use the following shortcut:
+Focus
+Under Focus, select the options you want to apply to future focus sessions:
+Session duration
+Show the timer in the Clock app
+Hide badges on taskbar apps
+Hide flashing on taskbar apps
+Turn on do not disturb
+Play audio from Spotify during focus sessions
+Connect your Spotify account to the Clock app and find the perfect audio to help you focus. Here’s how to link your Spotify account:
+In the Clock app on your Windows device, select
+Focus sessions
+or use the following shortcut:
+Focus sessions
+Select
+Link your Spotify
+and sign in with your Spotify account. Your top playlists and podcasts will appear. Select the playlist or podcast you want to listen to
+Your music will play when you start a focus session
+Keep track of tasks with Microsoft To Do
+If you use Microsoft To Do to manage tasks, you can integrate your task list into the Clock app. Before you start a focus session, you can select the tasks you want to work on. Get it from the Microsoft Store:
+Install Microsoft To Do
+Note
+Support for Windows 10 has ended on October 14, 2025
+After October 14, 2025, Microsoft will no longer provide free software updates from Windows Update, technical assistance, or security fixes for Windows 10. Your PC will still work, but we recommend moving to Windows 11.
+Learn more
+Focus assist allows you to avoid distracting notifications when you need to stay focused. It's set by default to activate automatically when you're duplicating your display, playing a game, or using an app in full screen mode. You can control any or all of these, as well as determining to what level notifications are suppressed.
+In the
+Settings app
+on your Windows device
+select
+System
+>
+Focus assist
+or use the following shortcut:
+Focus assist
+To set the current state of focus assist, select
+Off
+(receive all notifications),
+Priority only
+(receive only notifications from a list you can customize to your liking), or
+Alarms only
+(hide everything except alarms)
+Under
+Automatic rules
+, you can determine the conditions that cause focus assist to activate automatically. Select the item to turn that condition on or off and to determine the time and/or level of focus assist that condition activates, or just select the switch as a shortcut to turning a condition on or off
+Select
+Show me a summary of what I missed while focus assist was on
+to be sent a notification when you exit from focus assist about what was redirected to Action Center. Deselect this to deactivate this notification
+When focus assist turns on automatically, by default a notification appears in the action center explaining that focus assist is on and suppressing notifications. If you would prefer not to see this message, click the
+Change focus assist
+button in the notification, and uncheck
+Show a notification in action center when focus assist is turned on automatically
+in the Settings page that launches

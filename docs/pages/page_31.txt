@@ -1,0 +1,78 @@
+URL: https://support.microsoft.com/en-us/accessibility/teams/use-sign-language-mode-in-microsoft-teams-meetings
+Use Sign Language Mode in Microsoft Teams meetings
+Applies To
+Microsoft Teams
+Get help with Copilot
+Can I turn on sign language mode in Microsoft Teams?
+How should I enable sign language mode in a meeting?
+Use Sign Language Mode in Microsoft Teams meetings for me.
+Microsoft Teams now offers Sign language mode, a redesigned accessibility experience to support sign language communication during meetings. This mode includes enhanced features designed specifically for Deaf or Hard of hearing participants and sign language interpreters, helping to create a more inclusive and seamless meeting experience.
+Note
+Sign language mode is a new experience and is distinct from the earlier Sign Language Mode feature. If you had previously enabled Sign Language Mode, you still need to manually turn on Sign language mode.
+In this topic
+Turn on Sign language mode
+Identify yourself as a Signer or Sign language Interpreter
+What happens after you enable Sign language mode
+Send feedback
+Turn on Sign language mode
+You can enable Sign language mode either from Teams settings or during a meeting.
+To turn on Sign language mode before a meeting:
+In Teams, select
+Settings and more
+.
+Select
+Settings
+>
+Accessibility
+.
+Turn on
+Sign language mode
+toggle button.
+To turn on Sign language mode during a meeting:
+Go to your meeting window and select
+More actions
+>
+Settings
+.
+Open
+Accessibility
+settings.
+Turn on
+Sign language mode
+toggle button.
+Choose your role as a signer or interpreter.
+Note
+You only need to select your role once. Teams will remember your choice for future meetings.
+Identify yourself as a Signer or Sign Language Interpreter
+Once the Sign language mode is turned on, you can identify yourself as a Signer or a Sign language interpreter in Teams. Your selected role will be visible to others during meetings.
+I am a Signer:
+Select this if you are a Deaf or Hard of hearing participant who uses sign language to communicate.
+I am a Sign Language Interpreter:
+Select this if you provide real-time sign language interpretation for others during meetings.
+Your selected role will be visible to other meeting participants and helps Teams adjust your meeting view accordingly.
+What happens after you enable Sign language mode
+After turning on Sign language mode and selecting your role, the following changes apply:
+The
+Sign language view
+is automatically added to your view options and set as your default view.
+Participants identified as signers or interpreters are prioritized in your view, even while content is being shared or different speakers are highlighted.
+Interpreters who have identified themselves will be clearly labeled as
+Sign Language Interpreter
+in the meeting roster.
+Signers will be marked with a waving hand icon in the roster, making it easier to identify and interact with them.
+A special configuration ensures higher video quality for signer video feeds.
+A Sign Language detection model helps identify when a signer is actively signing and may automatically elevate them to active speaker status to maintain conversational flow.
+Send feedback
+To help improve Sign Language mode, you can easily share your feedback with Microsoft. Use this option to report issues, suggest improvements, or share your experience with the feature.
+In Teams, select
+Settings and more
+>
+Feedback
+.
+Choose the relevant category and enter your comments, then select
+Submit
+.
+Your feedback helps Microsoft continue improving the experience for everyone who relies on sign language communication.
+See also
+Use real-time text (RTT) in Microsoft Teams
+Use live captions in Microsoft Teams meetings

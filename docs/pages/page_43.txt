@@ -1,0 +1,2689 @@
+URL: https://support.microsoft.com/en-us/accessibility/outlook/dictate-your-emails-in-outlook
+Dictate your emails in Outlook
+Applies To
+Outlook for Microsoft 365
+Outlook for Microsoft 365 for Mac
+Outlook 2024
+Outlook.com
+New Outlook for Windows
+Outlook Web App
+Get help with Copilot
+How do I dictate emails in new Outlook?
+How do I use Dictation in Outlook?
+Simplify how I can dictate my emails with Copilot.
+Dictation in Outlook lets you use speech-to-text to author content with a microphone and reliable internet connection. It's a quick and easy way to draft emails, send replies, and capture the tone you're going for.
+New Outlook
+Classic Outlook
+Outlook for Mac
+Outlook on the web
+Use the dictation feature to author an email in new Outlook.
+Start a
+New Email
+or reply to a message, and then select the body of the message.
+Go to the
+Message
+tab and select
+Dictate
+.
+Wait for the
+Dictate
+button to turn on and start listening.
+Start speaking to see text appear on the screen.
+Tip
+To resume dictation, use the keyboard shortcut
+ALT+`
+or press the
+Mic
+icon in the ribbon.
+Start a
+New Email
+or reply in classic Outlook. Select the body of the message, go to the
+Message
+tab, and select
+Dictate
+while signed in to Microsoft 365 on a mic-enabled device.
+Wait for the
+Dictate
+button to turn on and start listening.
+Start speaking to see text appear on the screen.
+In Outlook for Mac, start a
+New Email
+or reply to a message. Go to
+Message > Dictate
+while signed in to Microsoft 365 on a mic-enabled device.
+Tip
+You can also start dictation by using the keyboard shortcut:
+⌥ (Option) + F1.
+Wait for the
+Dictate
+button to turn on and start listening.
+Start speaking to see text appear on the screen.
+Can't find the Dictate button?
+The dictation feature is only available to
+Microsoft 365 subscribers
+.
+Use the dictation feature to author an email in new Outlook.
+Start a
+New Email
+or reply, and then select the body of the message.
+Go to the
+Message
+tab and select
+Dictate
+.
+Wait for the
+Dictate
+button to turn on and start listening.
+Start speaking to see text appear on the screen.
+What can I say?
+In addition to dictating your content, you can speak commands to add punctuation and enter special characters.
+Commands by language
+For a list of commands available in each of the supported languages, select a language from the dropdown list.
+Select your language
+Arabic (Bahrain)
+Punctuation
+Phrase(s)
+Output
+علامة شرطة
+-
+علامة ناقص
+-
+علامة تعجب
+!
+بدء التنصيص
+"
+علامة تنصيص مفتوحة
+"
+علامة تنصيص مقفولة
+"
+نهاية التنصيص
+"
+علامة المربع
+#
+علامة رقم
+#
+هاش تاغ
+#
+نسبة مئوية
+%
+قوس مفتوح
+(
+قوس يمين
+(
+قوس شمال
+)
+قوس مقفول
+)
+علامة النجمة
+*
+نقطة
+.
+نقطتان رأسيتان
+:
+إشارة آت
+@
+علامة آت
+@
+أول الخط
+\n
+أول السطر
+\n
+فاصلة
+،
+فاصلة منقوطة
+؛
+علامة استفهام
+؟
+علامة زائد
++
+علامة يساوي
+=
+ثلاث نقط
+…
+علامة اقطاع
+…
+Arabic (Egypt)
+Punctuation
+Phrase(s)
+Output
+علامة شرطة
+-
+علامة ناقص
+-
+شرطة فصل
+–
+علامة تعجب
+!
+علامة تنصيص مفتوحة
+"
+علامة تنصيص مقفولة
+"
+نهاية التنصيص
+"
+علامة المربع
+#
+علامة رقم
+#
+هاش تاغ
+#
+نسبة مئوية
+%
+قوس مفتوح
+(
+قوس يمين
+(
+قوس شمال
+)
+قوس مقفول
+)
+علامة النجمة
+*
+نقطة
+.
+إشارة آت
+@
+علامة آت
+@
+أول الخط
+\n
+أول السطر
+\n
+فاصلة
+،
+فاصلة منقوطة
+؛
+علامة استفهام
+؟
+علامة يساوي
+=
+ثلاث نقط
+…
+علامة اقطاع
+…
+Arabic (Saudi Arabia)
+Punctuation
+Phrase(s)
+Output
+علامة شرطة
+-
+علامة ناقص
+-
+شرطة فصل
+–
+علامة تعجب
+!
+بدء التنصيص
+"
+علامة تنصيص مفتوحة
+"
+علامة تنصيص مقفولة
+"
+نهاية التنصيص
+"
+علامة المربع
+#
+علامة رقم
+#
+هاش تاغ
+#
+نسبة مئوية
+%
+قوس مفتوح
+(
+قوس يمين
+(
+قوس شمال
+)
+قوس مقفول
+)
+علامة النجمة
+*
+نقطة
+.
+نقطتان رأسيتان
+:
+إشارة آت
+@
+علامة آت
+@
+أول الخط
+\n
+أول السطر
+\n
+فاصلة
+،
+فاصلة منقوطة
+؛
+علامة استفهام
+؟
+علامة زائد
++
+علامة يساوي
+=
+ثلاث نقط
+…
+علامة اقطاع
+…
+Bulgarian
+Punctuation
+Phrase(s)
+Output
+възклицателен знак
+!
+възклицателна
+!
+удивителен знак
+!
+удивителна
+!
+запетайка
+,
+запетая
+,
+точка
+.
+въпросителен знак
+?
+въпросителна
+?
+питанка
+?
+чуденка
+?
+започване на нов параграф
+\n
+на нов ред
+\n
+нов параграф
+\n
+нов ред
+\n
+Chinese
+Punctuation
+Phrase(s)
+Output
+句 号
+。
+逗 号
+,
+换 行换行符分段符
+换 行
+问 号
+？
+感叹号
+！
+冒号
+：
+左引号右引号
+" "
+左括号右括号
+（ ）
+分号
+；
+短划线
+-
+左单引号右单引号
+‘ '
+左中括号右中括号
+[ ]
+顿号
+、
+撇号
+'
+省略号
+...
+Symbols
+Phrase(s)
+Output
+艾特符号at符号
+@
+星号
+*
+下划线
+_
+与号
+&
+正斜杠斜杠
+/
+度标记
+°
+Symbols
+Phrase(s)
+Output
+百分号
+%
+井号
+#
+加号
++
+减号
+-
+乘号
+×
+除号
+÷
+等号
+=
+加减号
+±
+小于号大于号
+< >
+Currency
+Phrase(s)
+Output
+美元符号
+$
+英镑符号
+£
+欧元符号
+€
+日元符号
+¥
+人民币符号
+¥
+Danish
+Punctuation
+Phrase(s)
+Output
+punktum
+.
+komma
+,
+spørgsmålstegn
+?
+udråbstegn
+!
+linjeskift
+linjeskift
+kolon
+:
+semikolon
+;
+venstre parentes, åben parenteshøjre parentes, lukket parentes
+( )
+startende anførselstegn, begyndende anførselstegnafsluttende anførselstegn, lukkende anførselstegn
+" "
+nyt afsnit
+nyt afsnit
+apostrof s
+'s
+startende enkelt anførselstegn, åbnende enkelt anførselstegnafsluttende enkelt anførselstegn, lukkende enkelt anførselstegn
+' '
+venstre kantet parentes, åben kantet parenteshøjre kantet parentes, lukket kantet parentes
+[ ]
+apostrof
+'
+ellipse
+...
+Symbols
+Phrase(s)
+Output
+snabel-a
+@
+stjerne
+*
+skråstreg
+/
+og-tegn
+&
+grad-tegn
+°
+Mathematics
+Phrase(s)
+Output
+plustegn
++
+plus- eller minustegn
+±
+divisionstegn
+÷
+lighedstegn
+=
+pund-tegn, nummertegn, hash-tegn
+#
+procenttegn
+%
+mindre end, større end
+< >
+Currency
+Phrase(s)
+Output
+dollartegn
+$
+pund sterling-tegn
+£
+euro-tegn
+€
+yen-tegn
+¥
+Emoji/faces
+Phrase(s)
+Output
+smilende ansigt
+:-)
+hjerte
+<3
+trist smiley
+:-(
+blinkende smiley
+;-)
+Dutch
+Punctuation
+Phrase(s)
+Output
+punt
+.
+komma
+,
+vraagteken
+?
+uitroepteken
+!
+nieuwe regelregeleinde
+nieuwe regel
+puntkomma
+;
+dubbele punt
+:
+afbreekstreepje
+-
+en-streepje
+–
+linkerhaakjehaakje sluiten
+( )
+aanhalingsteken openen, beginaanhalingstekenaanhalingsteken sluiten, eindaanhalingsteken
+" "
+nieuwe alinea
+nieuwe alinea
+apostrof s
+'s
+enkel beginaanhalingsteken, enkel aanhalingsteken openenenkel aanhalingsteken sluiten, enkel eindaanhalingsteken
+' '
+vierkante linkerhaak, vierkante haak openenvierkante rechterhaak, vierkante haak sluiten
+[ ]
+apostrof
+'
+beletselteken
+...
+Symbols
+Phrase(s)
+Output
+ampersand, en-teken
+&
+slash
+/
+onderstrepingsteken, laag streepje
+_
+gradenteken
+°
+Mathematics
+Phrase(s)
+Output
+plusteken
++
+minteken
+-
+vermenigvuldigingsteken
+×
+plusminusteken
+±
+deelteken
+÷
+gelijkteken
+=
+kleiner dan-tekengroter dan-teken
+< >
+procentteken
+%
+nummerteken, hashtag
+#
+Currency
+Phrase(s)
+Output
+euroteken
+€
+yenteken
+¥
+dollarteken
+$
+britse pond-teken
+£
+Emoji/faces
+Phrase(s)
+Output
+hart-emoji
+<3
+English
+Punctuation and symbols
+Phrase
+Output
+period, full stop
+.
+comma
+,
+question mark
+?
+exclamation mark/point
+!
+new line
+new line
+apostrophe-s
+'s
+colon
+:
+semicolon
+;
+open quotesclose quotes
+" "
+hyphen
+-
+ellipsis, dot dot dot
+...
+begin/open single quoteend/close single quote
+' '
+left/open parenthesesright/close parentheses
+( )
+left/open bracketright/close bracket
+[ ]
+left/open braceright/close brace
+{ }
+asterisk
+*
+backslash
+\
+forward slash
+/
+vertical bar sign, pipe character
+|
+backquote, backtick
+`
+underscore
+_
+m-dash
+—
+n-dash
+–
+paragraph sign/mark
+¶
+section sign
+§
+ampersand, and sign
+&
+at sign
+@
+copyright sign
+©
+registered sign
+®
+degree symbol
+°
+caret symbol
+^
+Currency
+Phrase
+Output
+Phrase(s)
+Output
+dollar sign
+$
+pound sterling sign
+£
+euro sign
+€
+yen sign
+¥
+Mathematics
+Phrase
+Output
+Phrase(s)
+Output
+percent sign
+%
+number/pound sign
+#
+plus sign
++
+minus sign
+-
+multiplication sign
+x
+plus or minus sign
+±
+division sign
+÷
+equal sign
+=
+less than sign, left angle bracketgreater than sign, right angle bracket
+< >
+Emojis
+Phrase
+Output
+smiley face
+:)
+frowny face
+:(
+winky face
+;)
+heart emoji
+<3
+French
+Punctuation
+Phrase(s)
+Output
+point
+.
+virgule
+,
+point d'interrogation
+?
+point d'exclamation
+!
+saut de ligne
+saut de ligne
+nouveau paragraphe
+nouveau paragraphe
+deux points
+:
+point-virgule
+;
+guillemet gauche, guillemet ouvrantguillemet droit, guillemet fermant
+« »
+parenthèse gauche, parenthèse ouvranteparenthèse fermante
+( )
+tiret demi-cadratin
+-
+guillemet simple ouvrant
+'
+crochet droit ouvrantcrochet droit fermant
+[ ]
+apostrophe
+'
+guillemet simple fermant
+'
+points de suspension
+...
+Symbols
+Phrase(s)
+Output
+arobase
+@
+astérisque
+*
+trait de soulignement
+_
+barre oblique
+/
+symbole degré
+°
+Mathematics
+Phrase(s)
+Output
+signe dièse
+#
+signe plus
++
+tiret
+-
+signe multiplication
+×
+signe division
+÷
+signe égal
+=
+signe pourcentage
+%
+signe inférieur àsigne supérieur à
+< >
+Currency
+Phrase(s)
+Output
+signe dollar
+$
+signe livre sterling
+£
+signe euro
+€
+signe yen
+¥
+Emoji/faces
+Phrase(s)
+Output
+émoticône
+:-)
+emoji cœur
+<3
+Finnish
+Punctuation
+Phrase(s)
+Output
+piste
+.
+pilkku
+,
+kysymysmerkki
+?
+huutomerkki
+!
+uusi rivirivinvaihto
+uusi rivi
+kaksoispiste
+:
+yhdysmerkki
+-
+vasen sulkumerkkioikea kaarisulje
+( )
+puolipiste
+;
+viiva
+–
+uusi kappale
+uusi kappale
+vasen puolilainausmerkkioikea puolilainausmerkki
+' '
+vasen hakasuljeoikea hakasulje
+[ ]
+heittomerkki
+'
+ellipsi
+...
+Symbols
+Phrase(s)
+Output
+ät-merkki, ät-maininta
+@
+tähtimerkki
+*
+gravis
+`
+et-merkki, ja-merkki
+&
+vinoviiva
+/
+alaviiva
+_
+astemerkki
+°
+Mathematics
+Phrase(s)
+Output
+ristikkomerkki
+#
+prosenttimerkki
+%
+plusmerkki
++
+miinusmerkki
+-
+yhtäläisyysmerkki
+=
+kertomerkki
+×
+plus- tai miinusmerkki
+±
+pienempi kuin -merkkisuurempi kuin -merkki
+< >
+jakomerkki
+÷
+Currency
+Phrase(s)
+Output
+dollarin merkki
+$
+punnan merkki
+£
+euron merkki
+€
+jenin merkki
+¥
+Emoji/faces
+Phrase(s)
+Output
+surullinen hymiö
+:-(
+silmää iskevä hymiö
+;-)
+hymiö
+:-)
+sydänhymiö
+<3
+Croatian (Croatia)
+Punctuation
+Phrase(s)
+Output
+uskličnik
+!
+zarez
+,
+točka
+.
+upitnik
+?
+novi odlomak
+\n
+novi paragraf
+\n
+novi red
+\n
+novi redak
+\n
+novi ulomak
+\n
+prijelom
+\n
+sljedeći red
+\n
+sljedeći redak
+\n
+Estonian
+Punctuation
+Phrase(s)
+Output
+hüüumärk
+!
+koma
+,
+lauselõpupunkt
+.
+Punkt
+.
+küsimärk
+?
+järgmine lõik
+\n
+järgmine rida
+\n
+rea algus
+\n
+uus lõik
+\n
+uus rida
+\n
+German
+Punctuation
+Phrase(s)
+Output
+punktsatzende
+.
+komma
+,
+fragezeichen
+?
+ausrufezeichenrufzeichen
+!
+neue zeilezeilenumbruch
+neue zeile
+doppelpunktkolon
+:
+strichpunktsemikolon
+;
+öffnendes anführungszeichen, beginn zitatschließendes anführungszeichen, ende zitat
+« »
+Greek
+Punctuation
+Phrase(s)
+Output
+θαυμαστικό
+!
+κόμμα
+,
+τελεία
+.
+ερωτηματικό
+;
+επόμενη γραμμή
+\n
+επόμενη σειρά
+\n
+νέα γραμμή
+\n
+νέα παράγραφος
+\n
+νέα σειρά
+\n
+Gujarati (India)
+Punctuation
+Phrase(s)
+Output
+એન-ડૅશ
+-
+ગુરુરેખા
+-
+ડૅશ
+-
+બાદબાકી ચિન્હ
+-
+માઇનસ સાઇન
+-
+લઘુરેખા
+-
+વિગ્રહરેખા
+-
+હાયફન
+-
+આશ્ચર્ય ચિન્હ
+!
+ઉદગારવાચક ચિન્હ
+!
+એક્સ્કલેમેશન પોઇન્ટ
+!
+એક્સ્કલેમેશન માર્ક
+!
+ક્રમાંક ચિન્હ
+#
+નંબર સાઇન
+#
+પાઉંડ ચિન્હ
+#
+પાઉંડ સાઇન
+#
+હૅશ ટૅગ
+#
+ટકા ચિન્હ
+%
+પરસેંટ સાઇન
+%
+ઓપન પેરેંથેસિસ
+(
+ખુલ્લો કૌંસ
+(
+ડાબો કૌંસ
+(
+લેફ્ટ પેરેંથેસિસ
+(
+ક્લોઝ પેરેંથેસિસ
+)
+જમણો કૌંસ
+)
+બંધ કૌંસ
+)
+રાઇટ પેરેંથેસિસ
+)
+એસ્ટરિક્સ
+*
+તારક ચિન્હ
+*
+અલ્પવિરામ ચિન્હ
+,
+કોમા
+,
+પૂર્ણ વિરામ
+.
+ફુલ સ્ટોપ
+.
+અલિપ્સસ
+...
+ડૉટ ડૉટ ડૉટ
+...
+લોપ ચિન્હ
+...
+કોલન
+:
+મહાવિરામ
+:
+અર્ધવિરામ
+;
+સેમીકોલન
+;
+ક્વેશ્ચન માર્ક
+?
+પ્રશ્ન ચિહ્ન
+?
+પ્રશ્નવાચક ચિન્હ
+?
+પ્રશ્નાર્થ ચિન્હ
+?
+એટ ચિન્હ
+@
+એટ મેંશન
+@
+એટ સાઇન
+@
+નવી લાઇન
+\n
+નવો પરિચ્છેદ
+\n
+ન્યૂ પેરેગ્રાફ
+\n
+ન્યૂ લાઇન
+\n
+અવતરણ ચિન્હ પ્રારંભ
+"
+અવતરણ ચિહ્ન શરૂ
+"
+અવતરણ શરૂ
+"
+ઇન્વર્ટેડ કોમાઝ ઓપન
+"
+ઇન્વર્ટેડ કોમાઝ બિગીન
+"
+ઓપન ક્વોટ્
+"
+ઓપન ક્વોટ્સ
+"
+ખુલ્લા અવતરણ
+"
+બિગીન ક્વોટ
+"
+બિગીન ક્વોટ્સ
+"
+અવતરણ ચિન્હ પૂર્ણ
+"
+અવતરણ ચિન્હ સમાપ્ત
+"
+અવતરણ પૂર્ણ
+"
+ઇન્વર્ટેડ કોમાઝ એંડ
+"
+ઇન્વર્ટેડ કોમાઝ ક્લોઝ
+"
+એંડ ક્વોટ્સ
+"
+ક્લોઝ ક્વોટ
+"
+ક્લોઝ ક્વોટ્સ
+"
+બંધ અવતરણ
+"
+પ્લસ સાઇન
++
+વત્તા ચિન્હ
++
+ઇક્વલ સાઇન
+=
+બરાબર ચિન્હ
+=
+Hebrew (Israel)
+Punctuation
+Phrase(s)
+Output
+מינוס
+-
+מקף
+-
+פחות
+-
+קו מפריד
+–
+סימן קריאה
+!
+מירכאות
+"
+סגור מירכאות
+"
+סגור ציטוט
+"
+פתח מירכאות
+"
+סולמית
+#
+אחוז
+%
+אחוזים
+%
+פתח סוגריים
+(
+סגור סוגריים
+)
+סוגריים
+)
+כוכבית
+*
+פסיק
+,
+נקודה
+.
+שלוש נקודות
+...
+נקודותיים
+:
+סימן שאלה
+?
+כרוכית
+@
+שטרודל
+@
+פסקה חדשה
+\n
+שורה הבאה
+\n
+שורה חדשה
+\n
+ועוד
++
+פלוס
++
+שווה
+=
+Hindi
+Punctuation
+Phrase(s)
+Output
+पूर्ण विराम
+।
+पूर्ण विराम चिन्ह
+।
+प्रश्नवाचक चिन्ह , प्रश्न चिन्ह , प्रश्नवाचक
+?
+विस्मयादिबोधक चिन्ह , विस्मयादिबोधक , विस्मयादिवाचक चिन्ह , विस्मयादिवाचक , आश्चर्य चिन्ह
+!
+अल्प विराम , अल्प विराम चिन्ह
+,
+उप विराम , उप विराम चिन्ह
+:
+निर्देशक चिन्ह
+—
+अवतरण चिन्ह शुरू , अवतरण शुरू , उदधरण चिन्ह शुरू , उदधरण शुरूअवतरण चिन्ह खत्म , अवतरण खत्म , उदधरण चिन्ह खत्म , उदधरण खत्म
+" "
+अर्ध विराम , अर्ध विराम चिन्ह
+;
+ओम चिन्ह
+ॐ
+नई पंक्ति
+नई पंक्ति
+कोष्ठक चिन्ह शुरू , कोष्ठक शुरूकोष्ठक चिन्ह खत्म , कोष्ठक खत्म
+( )
+दीर्घ विराम चिन्ह
+।।
+Symbols
+Phrase(s)
+Output
+योजक चिन्ह
+-
+विवरण चिन्ह
+:-
+आदेश चिन्ह
+:-
+Hungarian (Hungary)
+Punctuation
+Phrase(s)
+Output
+kötőjel
+-
+mínuszjel
+−
+félkvirtmínusz
+–
+gondolatjel
+–
+nagykötőjel
+–
+felkiáltójel
+!
+hashmark
+#
+hashtag
+#
+kettőskereszt
+#
+számjel
+#
+százalékjel
+%
+bal zárójel
+(
+nyitó zárójel
+(
+zárójel nyitva
+(
+berekesztő zárójel
+)
+csukó zárójel
+)
+jobb zárójel
+)
+zárójel zárva
+)
+aszteriszk
+*
+csillag
+*
+csillagjel
+*
+vessző
+,
+pont
+.
+pont pont pont
+...
+kettőspont
+:
+pontosvessző
+;
+kérdőjel
+?
+kukac
+@
+kukacjel
+@
+következő sor
+\n
+sortörés
+\n
+új bekezdés
+\n
+új sor
+\n
+idézet vége
+"
+idézőjel bezárva
+"
+idézőjel zárva
+"
+záró macskaköröm
+"
+idézet kezdete
+„
+idézőjel nyitva
+„
+kezdő macskaköröm
+„
+pluszjel
++
+egyenlőségjel
+=
+hármaspont
+…
+három pont
+…
+Irish (Ireland)
+Punctuation
+Phrase(s)
+Output
+comhartha uaillbhreasa
+!
+camóg
+,
+comhartha ceiste
+?
+an chéad líne eile
+\n
+fotha líne
+\n
+líne nua
+\n
+líne úr
+\n
+paragraf nua
+\n
+paragraf úr
+\n
+Italian
+Punctuation
+Phrase(s)
+Output
+punto
+.
+virgola
+,
+punto interrogativopunto di domanda
+?
+punto esclamativo
+!
+a caponuova riga
+nuova riga
+due punti
+:
+punto e virgola
+;
+virgolette apertevirgolette chiuse
+« »
+parentesi apertaparentesi chiusa
+( )
+segno di percentuale
+segno di percentuale
+parentesi quadra apertaparentesi quadra chiusa
+[ ]
+aperta virgoletta singolachiudi virgoletta singola
+' '
+puntini di sospensione
+...
+trattino
+-
+Symbols
+Phrase(s)
+Output
+a commerciale
+@
+asterisco
+*
+underscore
+_
+e commerciale
+&
+simbolo di grado
+°
+Mathematics
+Phrase(s)
+Output
+cancellettohashtag
+#
+segno di divisione
+÷
+segno di moltiplicazione
+×
+segno di uguale
+=
+segno di minoresegno di maggiore
+< >
+Currency
+Phrase(s)
+Output
+simbolo di dollaro
+$
+simbolo di sterlina
+£
+simbolo di euro
+€
+simbolo di yen
+¥
+Japanese
+Punctuation
+Phrase(s)
+Output
+読 点
+、
+句 点
+。
+く て ん
+。
+ク エ ス チ ョ ン マ ー ク , 疑 問 符
+？
+改 行か い ぎ ょ う
+か い ぎ ょ う
+び っ く り マ ー ク , 感 嘆 符
+!
+ハイフン
+-
+二重かぎかっこ開く , 左二重かぎかっこ右二重かぎかっこ , 二重かぎかっこ閉じる
+『 』
+左かっこ , かっこ開く右かっこ , かっこ閉じる
+（ ）
+セミコロン
+；
+新しい段落
+新しい段落
+左かぎかっこ , かぎかっこ開く右かぎかっこ , かぎかっこ閉じる
+「 」
+左大かっこ , 角かっこ開く右大かっこ , 大かっこ閉じる
+[ ]
+三点リーダー
+...
+Symbols
+Phrase(s)
+Output
+アット記号アットマーク
+@
+アスタリスク
+*
+度記号
+°
+アンパサンドアンド記号
+&
+Mathematics
+Phrase(s)
+Output
+番号記号
+#
+プラス記号
++
+マイナス記号
+-
+等号
+=
+パーセント記号
+%
+プラスマイナス
+±
+小なり記号大なり記号
+< >
+Currency
+Phrase(s)
+Output
+ドル記号
+$
+ポンド記号
+£
+ユーロ記号
+€
+円記号
+¥
+Korean
+Punctuation
+Phrase(s)
+Output
+마침표
+.
+쉼표
+,
+물음표
+?
+느낌표
+!
+쌍점 , 콜론
+:
+소괄호 열고 , 괄호 열고소괄호 닫고 , 괄호 닫고
+( )
+중괄호 열고중괄호 닫고
+{ }
+대괄호 열고대괄호 닫고
+[ ]
+홑낫표 열고홑낫표 닫고
+「 」
+겹낫표 열고겹낫표 닫고
+『 』
+홑화살괄호 열고홑화살괄호 닫고
+〈 〉
+겹화살괄호 열고겹화살괄호 닫고
+《 》
+쌍반점 , 반쌍점
+;
+새로운 줄 , 줄 바꿈 , 줄바꿈
+새로운 줄
+새로운 단락
+새로운 단락
+큰따옴표 열고큰따옴표 닫고
+" "
+작은따옴표 열고작은따옴표 닫고
+' '
+가운뎃점
+ㆍ
+줄임표 , 생략표
+...
+Symbols
+Phrase(s)
+Output
+물결표
+~
+빗금 , 슬래시
+/
+줄표
+―
+붙임표
+-
+하이픈
+-
+Lithuanian
+Punctuation
+Phrase(s)
+Output
+šauktukas
+!
+kablelis
+,
+taškas
+.
+klaustukas
+?
+kita eilutė
+\n
+kita pastraipa
+\n
+nauja eilutė
+\n
+nauja pastraipa
+\n
+Marathi (India)
+Punctuation
+Phrase(s)
+Output
+अपसारण चिन्ह
+-
+एन-डॅश
+-
+डॅश
+-
+डॅश चिन्ह
+-
+मायनस साइन
+-
+संयोग चिन्ह
+-
+हायफन
+-
+उद्गार बिंदू
+!
+उद्गारवाचक चिन्ह
+!
+एक्सक्लमेशन पॉइंट
+!
+एक्सक्लमेशन मार्क
+!
+क्रमांक चिन्ह
+#
+नंबर साइन
+#
+पाउंड चिन्ह
+#
+पाउंड साइन
+#
+संख्या चिन्ह
+#
+हॅश टॅग
+#
+टक्का चिन्ह
+%
+परसेंट साइन
+%
+प्रतिशत चिन्ह
+%
+ओपन कंस
+(
+ओपन परेंथेसस
+(
+खुला कंस
+(
+डावा कंस
+(
+लेफ्ट परेंथेसस
+(
+उजवा कंस
+)
+कंस बंद
+)
+क्लोज परेंथेसस
+)
+राइट परेंथेसस
+)
+ऍस्टरिक्स
+*
+तारांकित
+*
+कॉमा
+,
+स्वल्पविराम
+,
+पूर्णविराम
+.
+फुल स्टॉप
+.
+डॉट डॉट डॉट
+...
+लोप चिन्ह
+...
+अपूर्णविराम
+:
+कोलन
+:
+अर्धविराम
+;
+सेमीकोलन
+;
+क्वेश्चन मार्क
+?
+प्रश्न चिन्ह
+?
+ऍट
+@
+ऍट चिन्ह
+@
+ऍट साइन
+@
+नवीन ओळ
+\n
+नवीन परिच्छेद
+\n
+न्यू पॅरग्राफ
+\n
+न्यू लाइन
+\n
+अवतरण चिन्ह प्रारंभ
+"
+अवतरण सुरू
+"
+इनवर्टेड कॉमाज बिगिन
+"
+ओपन कोट
+"
+ओपन कोट्स
+"
+कोट सुरू
+"
+कोटेशन मार्क स्टार्ट
+"
+खुला कोट
+"
+खुले अवतरण
+"
+बिगिन कोट
+"
+बिगिन कोट्स
+"
+अवतरण चिन्ह बंद
+"
+अवतरण चिन्ह समाप्त
+"
+अवतरण बंद
+"
+अवतरण समाप्त
+"
+इनवर्टेड कॉमाज क्लोज
+"
+एंड कोट
+"
+एंड कोट्स
+"
+कोट बंद
+"
+कोट समाप्त
+"
+कोटेशन मार्क एंड
+"
+क्लोज कोट
+"
+क्लोज कोट्स
+"
+अधिक चिन्ह
++
+प्लस साइन
++
+इक्वल साइन
+=
+बरोबर चिन्ह
+=
+Norwegian
+Punctuation
+Phrase(s)
+Output
+punktum
+.
+komma
+,
+spørsmålstegn
+?
+utropstegn
+!
+ny linje
+ny linje
+kolon
+:
+bindestrek
+-
+venstre anførselstegn, begynnende anførselstegnhøyre anførselstegn, avsluttende anførselstegn
+" "
+venstreparenteshøyreparentes
+( )
+semikolon
+;
+tankestrek
+–
+kort tankestrek
+–
+nytt avsnitt
+nytt avsnitt
+apostrof-ess
+'s
+begynnende enkelt anførselstegn, venstre enkelt anførselstegnhøyre enkelt anførselstegn, avsluttende enkelt anførselstegn
+' '
+venstre hakeparenteshøyre hakeparentes
+[ ]
+apostrof
+'
+Symbols
+Phrase(s)
+Output
+krøllalfategnalfakrøll omtale
+@
+og-tegn
+&
+skråstrek
+/
+gradetegn
+°
+Mathematics
+Phrase(s)
+Output
+prosenttegn
+%
+nummertegnemneknagg
+#
+minustegn
+-
+plusstegn
++
+multiplikasjonstegn
+×
+divisjonstegn
+÷
+pluss- eller minustegn
+±
+likhetstegn
+=
+mindre enn-tegnstørre enn-tegn
+< >
+Currency
+Phrase(s)
+Output
+dollartegn
+$
+britisk pund-tegn
+£
+eurotegn
+€
+yen-tegn
+¥
+Emoji/faces
+Phrase(s)
+Output
+rynkefjes
+:-(
+blinkefjes
+;-)
+smilefjes
+:-)
+hjerte-emoji
+<3
+Polish (Poland)
+Punctuation
+Phrase(s)
+Output
+myślnik
+–
+wykrzyknik
+!
+nawias otwarty
+(
+otwieram nawias
+(
+w nawiasie
+(
+nawias zamknięty
+)
+zamykam nawias
+)
+przecinek
+,
+kropka
+.
+dwukropek
+:
+pytajnik
+?
+znak zapytania
+?
+nowa linia
+\n
+od nowej linii
+\n
+cudzysłów
+"
+cytując
+"
+cytuję
+"
+otwieram cudzysłów
+"
+koniec cytatu
+"
+zamykam cudzysłów
+"
+wielokropek
+…
+Portuguese
+Punctuation
+Phrase(s)
+Output
+ponto final
+.
+vírgula
+,
+ponto de interrogação
+?
+ponto de exclamação
+!
+nova linhamudar de linha
+nova linha
+dois pontos
+:
+ponto e vírgula
+;
+abrir aspasfechar aspas
+" "
+hífen
+-
+parêntese esquerdo, parêntese de aberturaparêntese direito
+( )
+aspas simples inicial, aspas simples de aberturaaspas simples de fechamento, aspas simples de final
+' '
+colchete esquerdo, colchete aberturacolchete direito, colchete de fechamento
+[ ]
+apóstrofo
+'
+reticências
+...
+Symbols
+Phrase(s)
+Output
+arroba
+@
+asterisco
+*
+sublinhado
+_
+aspa invertida
+`
+e comercial
+&
+sinal e
+&
+sinal de grau
+°
+Mathematics
+Phrase(s)
+Output
+tecla jogo da velha
+#
+sinal de adição
++
+sinal de subtração
+-
+sinal de divisão
+÷
+sinal de multiplicação
+×
+sinal de igual
+=
+sinal de porcentagem
+%
+sinal de mais ou menos
+±
+sinal de menor quesinal de maior que
+< >
+Currency
+Phrase(s)
+Output
+cifrão
+$
+símbolo da libra esterlina
+£
+símbolo do Euro
+€
+símbolo do Iene
+¥
+Emoji/faces
+Phrase(s)
+Output
+smiley
+:-)
+emoji de coração
+<3
+Romanian (Romania)
+Punctuation
+Phrase(s)
+Output
+semnul exclamării
+!
+virgulă
+,
+punct
+.
+punct de abreviere
+.
+separator zecimal
+.
+semn de întrebare
+?
+semnul întrebării
+?
+paragraf nou
+\n
+următorul rând
+\n
+Russian (Russia)
+Punctuation
+Phrase(s)
+Output
+знак минус
+-
+тире
+—
+восклицательный знак
+!
+знак решётка
+#
+знак процента
+%
+открывающая круглая скобка
+(
+скобка открывается
+(
+закрывающая круглая скобка
+)
+скобка закрывается
+)
+скобки закрываются
+)
+знак звёздочка
+*
+запятая
+,
+конец предложения
+.
+точка
+.
+двоеточие
+:
+вопросительный знак
+?
+знак вопроса
+?
+новая строка
+\n
+новый абзац
+\n
+с новой строки
+\n
+с новой строчки
+\n
+знак плюс
++
+кавычки открываются
+«
+открывающая кавычка
+«
+открыть кавычки
+«
+закрывающая кавычка
+»
+закрыть кавычки
+»
+кавычки закрываются
+»
+многоточие
+…
+Slovenian (Slovenia)
+Punctuation
+Phrase(s)
+Output
+klicaj
+!
+vejica
+,
+pika
+.
+vprašaj
+?
+naslednja vrstica
+\n
+nov odstavek
+\n
+nova vrstica
+\n
+Spanish
+Punctuation
+Phrase(s)
+Output
+punto
+.
+coma
+,
+signo de apertura de interrogación
+¿
+signo de interrogación
+?
+signo de apertura de exclamación
+¡
+signo de exclamación
+!
+salto de líneanueva líneanuevo párrafo
+nueva línea
+dos puntos
+:
+punto y coma
+;
+comillas izquierdascomillas derechas
+« »
+paréntesis de apertura, abrir paréntesisparéntesis de cierre, cerrar paréntesis
+( )
+comilla simple de apertura, abrir comilla simple
+'
+corchete de apertura, abrir corchetecorchete de cierre, cerrar corchete
+[ ]
+guion corto
+-
+apóstrofo
+'
+puntos suspensivos
+...
+cerrar comilla simplecomilla simple de cierre
+' '
+Symbols
+Phrase(s)
+Output
+arroba
+@
+asterisco
+*
+comilla inversa
+`
+guion bajo
+_
+y comercial
+&
+barra diagonal
+/
+símbolo de grado
+°
+Mathematics
+Phrase(s)
+Output
+signo de porcentaje
+%
+hashtag
+#
+signo más
++
+signo menos
+-
+signo de multiplicación
+×
+signo de división
+÷
+signo igual
+=
+signo más o menos
+±
+signo menor quesigno mayor que
+< >
+Currency
+Phrase(s)
+Output
+símbolo del dólar
+$
+símbolo de la libra esterlina
+£
+símbolo del euro
+€
+símbolo del yen
+¥
+Emoji/faces
+Phrase(s)
+Output
+cara sonriente
+:-)
+emoji de corazón
+<3
+cara enfadada
+:-(
+cara con guiño
+;-)
+Swedish
+Punctuation
+Phrase(s)
+Output
+punkt
+.
+kommatecken
+,
+frågetecken
+?
+utropstecken
+!
+påbörja ny radny rad
+ny rad
+bindestreck
+-
+vänsterparentes, inledande parenteshögerparentes, avslutande parentes
+( )
+semikolon
+;
+tankstreck
+–
+kort tankstreck
+–
+inledande citatteckenavslutande citattecken
+" "
+enkelt citattecken, inledande enkelt citatteckenavslutande enkelt citattecken
+' '
+vänster hakparentes, inledande hakparenteshöger hakparentes, avslutande hakparentes
+[ ]
+apostrof
+'
+Symbols
+Phrase(s)
+Output
+at-omnämnande
+@
+asterisk
+*
+framåtlutat snedstreck, snedstreck, slash
+/
+understreck
+_
+grav accent
+`
+et-tecken, och-tecken
+&
+gradtecken
+°
+Mathematics
+Phrase(s)
+Output
+procenttecken
+%
+nummertecken
+#
+plustecken
++
+minustecken
+-
+multiplikationstecken
+×
+plus-minustecken
+±
+divisionstecken
+÷
+mindre än-tecken, större än-tecken
+< >
+Currency
+Phrase(s)
+Output
+dollartecken
+$
+pundtecken
+£
+eurotecken
+€
+yentecken
+¥
+Emoji/faces
+Phrase(s)
+Output
+procenttecken
+%
+nummertecken
+#
+plustecken
++
+minustecken
+-
+multiplikationstecken
+×
+plus-minustecken
+±
+divisionstecken
+÷
+mindre än-tecken, större än-tecken
+< >
+Tamil (India)
+Punctuation
+Phrase(s)
+Output
+இடையீட்டுக்குறி
+-
+கழித்தல் குறி
+-
+கோடு குறி
+-
+டேஷ்
+-
+மைனஸ் சைன்
+-
+ஹைஃபென்
+-
+ஆச்சரியக்குறி
+!
+உணர்ச்சிக்குறி
+!
+எக்ஸ்க்ளமேஷன் பாயின்ட்
+!
+எக்ஸ்க்ளமேஷன் மார்க்
+!
+கொத்துக்குறி
+#
+நம்பர் சைன்
+#
+பவுண்டு குறியீடு
+#
+பவுண்டு சைன்
+#
+ஹேஷ் டேக்
+#
+சதவீதம் குறியீடு
+%
+பெர்சென்ட் சைன்
+%
+இடது அடைப்புக்குறி
+(
+ஒப்பன் பாரன்தெஸிஸ்
+(
+திறந்த அடைப்புக்குறி
+(
+திறந்த பிறைக்குறி
+(
+லெஃப்ட் பாரன்தெஸிஸ்
+(
+க்ளோஸ் பாரன்தெஸிஸ்
+)
+மூடிய அடைப்புக்குறி
+)
+மூடிய பிறைக்குறி
+)
+ரைட் பாரன்தெஸிஸ்
+)
+வலது அடைப்புக்குறி
+)
+வலது பிறைக்குறி
+)
+அஸ்டெரிக்
+*
+நட்சத்திர குறியீடு
+*
+பெருக்கல் குறி
+*
+விண்மீன் குறியீடு
+*
+கமா
+,
+காற்புள்ளி
+,
+ஃபுல்ஸ்டாப்
+.
+காலம்
+.
+பீரியட்
+.
+புள்ளி
+.
+முற்றுப்புள்ளி
+.
+எல்லிப்சிஸ்
+...
+டாட் டாட் டாட்
+...
+புள்ளி புள்ளி புள்ளி
+...
+முப்புள்ளி
+...
+கோலன்
+:
+முக்காற் புள்ளி
+:
+அரைப்புள்ளி
+;
+செமிகோலன்
+;
+குவெஸ்டின் மார்க்
+?
+கேள்விக்குறி
+?
+வினாக்குறி
+?
+அட் சைன்
+@
+அட் மென்ஷன்
+@
+நியூ பாராகிராஃப்
+\n
+நியூ லைன்
+\n
+புதிய கோடு
+\n
+புதிய பத்தி
+\n
+புதிய பாரா
+\n
+இன்வெர்டட் கமாஸ் ஒப்பன்
+"
+இன்வெர்டட் கமாஸ் பிகின்
+"
+ஒப்பன் குவோட்
+"
+ஒப்பன் குவோட்ஸ்
+"
+தலைகீழ் காற்புள்ளிகள் தொடக்கம்
+"
+திறந்த மேற்கோள்
+"
+திறந்த மேற்கோள்கள்
+"
+தொடக்க மேற்கோள்கள்
+"
+பிகின் குவோட்
+"
+பிகின் குவோட்ஸ்
+"
+மேற்கோள் குறி தொடக்கம்
+"
+இன்வெர்டட் கமாஸ் எண்டு
+"
+இன்வெர்டட் கமாஸ் க்ளோஸ்
+"
+எண்டு குவோட்
+"
+எண்டு குவோட்ஸ்
+"
+க்ளோஸ் குவோட்
+"
+தலைகீழ் காற்புள்ளிகள் முடிவு
+"
+தலைகீழ் காற்புள்ளிகள் மூடுதல்
+"
+மூடிய மேற்கோள்
+"
+மூடிய மேற்கோள்கள்
+"
+மேற்கோள்கள் முடிவு
+"
+கூட்டல் குறியீடு
++
+பிளஸ் சைன்
++
+ஈகுவல் சைன்
+=
+சமம் குறியீடு
+=
+Telugu (India)
+Punctuation
+Phrase(s)
+Output
+అడ్డగీత
+-
+ఎన్ డాష్
+-
+తీసివేత గుర్తు
+-
+మైనస్ సైన్
+-
+హైఫన్
+-
+ఆశ్చర్యార్థకం
+!
+ఆశ్చర్యార్థకం గుర్తు
+!
+ఎక్స్క్లమేషన్ పాయింట్
+!
+నంబర్ సైన్
+#
+పౌండ్ సైన్
+#
+సంఖ్య గుర్తు
+#
+హాష్ ట్యాగ్
+#
+పర్సెంట్ సైన్
+%
+శాతం
+%
+ఎడమ కుండలీకరణము
+(
+ఓపెన్ పారెంథసిస్
+(
+ప్రారంభ కుండలీకరణము
+(
+లెఫ్ట్ పారెంథసిస్
+(
+కుడి కుండలీకరణము
+)
+క్లోజ్ పారెంథసిస్
+)
+ముగింపు కుండలీకరణము
+)
+రైట్ పారెంథసిస్
+)
+ఆస్టెరిక్
+*
+నక్షత్రం గుర్తు
+*
+కామా
+,
+విరామ చిహ్నము
+,
+పూర్ణ బిందువు
+.
+ఎలిప్సిస్
+...
+డాట్ డాట్ డాట్
+...
+కోలన్
+:
+న్యూన బిందువు
+:
+అర్ధ బిందువు
+;
+సెమీకోలన్
+;
+క్వశ్చన్ మార్క్
+?
+ప్రశ్నార్థకం
+?
+ఎట్ మెన్షన్
+@
+ఎట్ సైన్
+@
+కొత్త పేరా
+\n
+కొత్త వాక్యం
+\n
+తాజా వాక్యము
+\n
+న్యూ పేరాగ్రాఫ్
+\n
+న్యూ లైన్
+\n
+ఆద్య అనుకరణ చిహ్నము
+"
+ఆద్య అనుకరణ చిహ్నములు
+"
+ఇన్వర్టెడ్ కామాస్ ఓపెన్
+"
+ఇన్వర్టెడ్ కామాస్ బిగిన్
+"
+ఓపెన్ కోట్
+"
+ఓపెన్ కోట్స్
+"
+ప్రారంభ విలోమ కామాలు
+"
+బిగిన్ కోట్
+"
+బిగిన్ కోట్స్
+"
+అంత్య అనుకరణ చిహ్నము
+"
+ఇన్వర్టెడ్ కామాస్ ఎండ్
+"
+ఇన్వర్టెడ్ కామాస్ క్లోజ్
+"
+ఎండ్ కోట్
+"
+ఎండ్ కోట్స్
+"
+క్లోజ్ కోట్స్
+"
+ముగింపు విలోమ కామాలు
+"
+కూడిక గుర్తు
++
+ప్లస్ సైన్
++
+ఈక్వల్ సైన్
+=
+సమానార్థకము
+=
+Thai (Thailand)
+Punctuation
+Phrase(s)
+Output
+วรรค
+\n
+วรรคตอน
+\n
+Turkish
+Punctuation
+Phrase(s)
+Output
+eksi
+-
+eksi işareti
+-
+tire
+-
+en çizgi
+–
+orta çizgi
+–
+ünlem
+!
+ünlem işareti
+!
+tırnak işareti
+"
+hashtag
+#
+kare işareti
+#
+sayı işareti
+#
+yüzde
+%
+yüzde işareti
+%
+aç parantez
+(
+sol parantez
+(
+kapa parantez
+)
+sağ parantez
+)
+yay ayraç
+)
+yıldız
+*
+yıldız işareti
+*
+virgül
+,
+nokta
+.
+iki nokta üst üste
+:
+noktalı virgül
+;
+soru işareti
+?
+et
+@
+kuyruklu a
+@
+sonraki satır
+\n
+yeni paragraf
+\n
+yeni satır
+\n
+artı
++
+artı işareti
++
+eşittir
+=
+eşittir işareti
+=
+üç nokta
+…
+More information
+Spoken languages supported
+By default, Dictation is set to English (United States).
+Microsoft is actively working to improve these languages and add more locales and languages.
+Supported languages
+Chinese (China)
+English (Australia)
+English (Canada)
+English (India)
+English (United Kingdom)
+English (United States)
+French (Canada)
+French (France)
+German (Germany)
+Hindi
+Italian (Italy)
+Japanese
+Portuguese (Brazil)
+Spanish (Spain)
+Spanish (Mexico)
+Preview languages *
+Arabic (Bahrain)
+Arabic (Egypt)
+Arabic (Saudi Arabia)
+Bulgarian
+Chinese (Traditional, Hong Kong)
+Chinese (Taiwan)
+Croatian (Croatia)
+Czech
+Danish
+Dutch (Netherlands)
+English (New Zealand)
+Estonian
+Finnish
+Greek
+Gujarati (India)
+Hebrew
+Hungarian
+Irish
+Korean
+Latvian
+Lithuanian
+Maltese
+Marathi (India)
+Norwegian (Bokmål)
+Polish
+Portuguese (Portugal)
+Romanian
+Russian
+Slovak
+Slovenian
+Swedish (Sweden)
+Tamil (India)
+Telugu (India)
+Thai
+Turkish (Turkey)
+Vietnamese
+* Preview Languages might have lower accuracy or limited punctuation support.
+Dictation settings in Outlook
+Select the gear icon to see the available settings.
+Spoken Language
+: View and change languages in the drop-down.
+Microphone
+: View and change your microphone.
+Auto Punctuation
+: Toggle the checkmark on or off, if it's available for the language chosen.
+Profanity filter
+: Mask potentially sensitive phrases with ***.
+Privacy
+This service doesn't store your audio data or transcribed text.
+Your speech utterances are sent to Microsoft and used only to provide you with text results.
+For more information about experiences that analyze your content, see
+Connected Experiences in Office
+.
+Troubleshooting
+Microphone problems
+If you see "Another app is using your mic":
+Make sure no other application or web page is using the microphone and try again.
+If you see "Mic issue", "Can't detect mic", or "Can't access mic":
+Make sure the microphone is plugged in.
+Test the microphone to make sure it's working.
+Check the microphone settings in the
+Control Panel
+.
+Also, see
+How to set up and test microphones in Windows 10
+.
+On a Surface running Windows 10:
+Adjust microphone settings
+.
+Also, see
+Troubleshoot microphone issues in Microsoft 365 for the web
+.
+Dictation can't hear you
+: If nothing appears on the screen as you dictate:
+Make sure your microphone isn't muted.
+Adjust the input level of your microphone.
+Move to a quieter location.
+If you're using a built-in mic, consider trying again with a headset or external mic.
+Accuracy problems or missed words
+: If you see a lot of incorrect words or missed words:
+Make sure you're on a fast and reliable internet connection.
+Avoid or eliminate background noise that might interfere with your voice.
+Try speaking more deliberately.
+Check to see if the microphone you're using needs to be upgraded.

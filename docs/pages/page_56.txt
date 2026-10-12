@@ -1,0 +1,241 @@
+URL: https://support.microsoft.com/en-us/windows/experience/notifications-and-do-not-disturb-in-windows
+Notifications and Do Not Disturb in Windows
+Applies To
+Windows 11
+Windows 10
+Get help with Copilot
+How do I check my notifications?
+How do I turn on Do Not Disturb automatically?
+How do I configure Do Not Disturb?
+Windows 11
+Windows 10
+Summary
+Notifications in Windows are designed to keep you informed about important updates, messages, and alerts. Whether it's a new email, a calendar reminder, or a system update, notifications help you stay on top of things without constantly checking your apps.
+To help you manage these notifications and minimize distractions, Windows offers a feature called
+Do Not Disturb
+. This feature allows you to silence notifications during specific times or activities, ensuring uninterrupted focus.
+How notifications work
+Notifications in Windows can appear as bannerson your screen and are also accessible in the notification center. You can customize which applications can send you notifications, the priority and the style of these alerts.
+When you have new notifications, the notification bell icon on the taskbar lights up.
+For notifications that display as banners, you can select the quick action buttons within the banner to perform specific tasks, such as dismissing a reminder or snoozing an alarm.
+To check the notifications you missed, open the
+notification center
+using one of the following options:
+Select the clock or the notification bell icon on the taskbar
+Press the
+Windows key
++
+N
+Swipe from the side of the screen
+Actions on notifications in the notification center
+In the notification center, you can take different actions on notifications:
+Read more details or take an action, such as replying to a message without opening the related app
+If a notification has an arrow
+next to the time, select the arrow to expand it and check more details or additional actions
+Select the close button
+on a notification to clear it. You can also select the close button
+next to the app name to clear all notifications from a specific app
+Turn off all notifications for a specific app: select the
+more button
+>
+Turn off all notifications
+Select the
+Clear all
+button to remove all notifications from the notification center
+Configure notifications
+Managing notifications is essential to avoid being overwhelmed by constant alerts. By customizing your notification settings, you can ensure that you only receive the most important updates, allowing you to stay focused and productive without unnecessary interruptions.
+Expand each section to learn more:
+Turn notifications on or off
+Select
+Start
+>
+Settings
+>
+System
+>
+Notifications
+.
+Open Notifications settings
+Toggle the switch next to
+Notifications On
+or
+Off.
+Configure notification settings for each app
+To adjust notification settings for each app on your Windows device:
+Select
+Start
+>
+Settings
+>
+System
+>
+Notifications
+.
+Open Notifications settings
+Select the app under
+Notifications from apps and other senders
+. Adjust the notification preferences, here are the available options:
+Turn notifications on or off: disable notifications for specific apps if you no longer want to receive them
+Show notification banners
+: enable or disable pop-up banners for notifications
+Show notifications in notification center
+: choose whether notifications should appear in the notification center
+Hide content when notifications are on lock screen
+: prevent sensitive notifications from showing on the lock screen
+Play a sound
+: toggle the sound for incoming notifications
+Priority of notifications
+: Set the priority to
+Top
+,
+High
+, or
+Normal
+. Only one app can be set as Top priority, and High priority notifications will appear above Normal ones in the notification center
+Adjust these settings to ensure important alerts are highlighted and less critical ones are minimized.
+Additional Settings
+There are two additional notification settings that you might want to review.
+Select
+Start
+>
+Settings
+>
+System
+>
+Notifications
+.
+Open Notifications settings
+Show the Windows welcome experience after updates and when signed in to show what's new and suggested
+: Enable this checkbox to get a welcome screen with new features and suggestions after updates or when you sign in.
+Get tips and suggestions when using Windows
+: Enable this checkbox to receive helpful tips and suggestions while using Windows
+Do not disturb
+Do not disturb
+in Windows is designed to help you stay focused by silencing notifications during critical times. This feature can be activated manually or set to turn on automatically with
+Focus
+or under specific conditions.
+To manually turn on
+do not disturb
+, open the notification center and select the bell icon with
+zZ
+on it. This will silence all notifications until you manually turn it off.
+When you are ready to receive notifications again, return to the notification center and select the same button to disable do not disturb. You can then review any notifications you missed while do not disturb was active.
+With
+do not disturb
+on, you will only receive banners for alarms, reminders, and apps of your choice. Other notifications are sent directly to the notification center until you turn it off.
+Configure do not disturb
+You can configure do not disturb by setting the conditions to turn it on automatically and by adjusting priority notifications. Expand each section to learn more:
+Turn on "Do not disturb" automatically
+Select
+Start
+>
+Settings
+>
+System
+>
+Notifications
+.
+Open Notifications settings
+Expand
+Turn on do not disturb automatically
+and configure the conditions, which include:
+During certain time of the day
+When duplicating the display
+When playing a game
+When using an app in full-screen mode
+For the first hour after a Windows feature update
+Set priority notifications
+With priority notification settings, you can configure if calls, reminders, and certain app notifications are allowed while do not disturb is on:
+Select
+Start
+>
+Settings
+>
+System
+>
+Notifications
+.
+Open Notifications settings
+Under
+Calls and reminders
+, select the checkboxes to allow incoming calls or reminders while do not disturb is on.
+Under
+Apps
+, select which apps are allowed to send notifications while do not disturb is on by selecting the button
+Add apps.
+Related articles
+Focus: Stay on Task Without Distractions in Windows
+Note
+Support for Windows 10 has ended on October 14, 2025
+After October 14, 2025, Microsoft will no longer provide free software updates from Windows Update, technical assistance, or security fixes for Windows 10. Your PC will still work, but we recommend moving to Windows 11.
+Learn more
+Summary
+Notifications in Windows are designed to keep you informed about important updates, messages, and alerts. Whether it's a new email, a calendar reminder, or a system update, notifications help you stay on top of things without constantly checking your apps.
+How notifications work
+Notifications in Windows can appear as banners on your screen and are also accessible in the action center. You can customize which applications can send you notifications, the priority and the style of these alerts.
+Check your notifications
+When you have new notifications, the notification button
+on the taskbar lights up.
+For notifications that display as banners, you can select the quick action buttons within the banner to perform specific tasks, such as dismissing a reminder or snoozing an alarm.
+To check the notifications you missed, open the
+notification center
+using one of the following options:
+Select the notification button icon
+on the taskbar
+Press the
+Windows key
++
+A
+Swipe from the side of the screen
+Actions on notifications in the notification center
+In the notification center, you can take different actions on notifications:
+Read more details or take an action, such as replying to a message without opening the related app
+If a notification has an arrow next to the time, select the arrow to expand it and check more details or additional actions
+Select the close button on a notification to clear it. You can also select the close button next to the app name to clear all notifications from a specific app
+Turn off all notifications for a specific app: select the settings button >
+Turn off all notifications
+Select
+Clear all notifications
+to remove all notifications from the notification center
+Configure notifications
+You can change your notifications settings from the Settings app.
+In the
+Settings app
+on your Windows device select
+System
+>
+Notifications & actions
+To change notification settings for all senders, under
+Notifications
+, set
+Get notifications from apps and other senders
+to
+On
+or
+Off
+. Set the check boxes for any of the following: you can
+Show notifications on the lock screen
+, you can
+Show reminders and incoming VoIP calls on the lock screen
+, or you can
+Allow notifications to play sounds
+You can also look for an individual app under
+Get notifications from these senders
+, select it, and decide whether you want notifications from this app
+On
+or
+Off
+, and if you want them
+On
+, whether you want that app to
+Show notification banners
+,
+Show notifications in action center
+, or
+Play a sound when a notification arrives
+, as well as how many appear and how they are prioritized
+To learn how to customize the taskbar and the quick actions available in action center, see
+Customize the Taskbar in Windows
+.
+Related articles
+Focus: Stay on Task Without Distractions in Windows

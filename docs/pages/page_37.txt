@@ -1,0 +1,172 @@
+URL: https://support.microsoft.com/en-us/accessibility/windows/voice-access/get-started-with-voice-access
+Get started with voice access
+Get help with Copilot
+How do I get started with voice access?
+What if I can't use screen reader with voice access?
+How would I use the voice access ui?
+This article is for people who want to control their PC and author text using their voice with Windows. This article is part of the
+Accessibility support for Windows
+content set where you can find more information on Windows accessibility features. For general help, visit
+Microsoft Support home
+.
+This article helps you to get familiar with the user interface, settings, and modes of voice access. You will also learn how to open the voice access guide. For a list of voice access commands, go to
+Voice access command list
+.
+Voice access is a feature in Windows 11 that enables everyone to control their PC and author text using only their voice and without an internet connection. For example, you can open and switch between apps, browse the web, and read and author email using your voice. For more information, go to
+Use voice access to control your PC & author text with your voice
+.
+Voice access is available in Windows 11, version 22H2 and later. For more information on Windows 11 22H2 new features, and how to get the update, see
+What's new in recent Windows updates
+. Not sure which version of Windows you have? See:
+Find Windows version
+.
+In this topic
+Voice access guide
+Get to know the voice access UI
+Microphone button and states
+Visual feedback
+Voice access settings
+Voice access help
+Different modes in voice access
+Voice access guide
+The voice access guide helps you learn and practice basic voice access commands that you need to get started with voice access. Each page in the guide shows various instructions on the left and a practice area on the right. You can follow the instructions on the left to learn the voice commands to interact with different menus and options, use the mouse pointer, and dictate text.
+Once you finish setting up voice access, we recommend you start the guide and familiarize yourself with the commands. You can always access the guide at a later point by accessing it from the voice access help menu.
+To quickly open the voice access guide, do one of the following:
+After setting up your microphone, you can either start using voice access right away or open the guide first. For more information, refer to
+Set up voice access
+.
+Select the Help button on the voice access UI, and then select
+Start interactive guide
+.
+When voice access is listening, say "Open voice access guide."
+Get to know the voice access UI
+The voice access UI is the bar that is docked on top of your screen after you successfully launch voice access. The bar lets you control the microphone, view your commands as you speak them, and be informed of the command progress and execution status. You can also access the different voice access settings from the settings menu and access the different help resources voice access has to offer from the help menu.
+This section describes the control buttons of voice access UI.
+Microphone button and states
+Voice access has three microphone states:
+Sleep state: Voice access does not react to anything you say, except the command to switch it into listening state. To switch into listening state, say the voice access wake word, "Voice access wake up," or click the Microphone button.
+Listening state: Voice access listens to everything you say and executes your instructions if it recognizes a valid command. Otherwise, it displays an error message.
+Microphone off state: Voice access is completely off at this point and does not listen to any of your speech. To switch it into listening state, you have to click the Microphone button.
+There are three ways you can switch between the states:
+Through voice commands
+Keyboard shortcuts
+Through mouse clicks
+To do this
+Say this
+Keyboard shortcut
+Mouse clicks (on the microphone button)
+Wake up voice access.
+"Voice access wake up"
+"Unmute"
+Alt+Shift+B
+From sleep state: left-click
+From microphone off state: long press
+Make voice access sleep.
+"Voice access sleep"
+"Mute"
+Alt+Shift+B
+From listening state: left-click
+Turn off the microphone.
+"Turn off microphone"
+Alt+Shift+C
+From listening state: long press
+Turn on the microphone.
+N/A
+Alt+Shift+C
+Left-click
+Note
+If you need help setting up and testing your microphone, refer to
+How to set up and test microphones in Windows
+.
+Visual feedback
+Voice access has robust feedback systems to help you understand what happens from the time you speak something until the time voice access processes and executes it.
+Real-time feedback: When voice access is in the listening state, what you speak is displayed on the left side of the voice access UI. It is a transcription of your speech to text. Refer to this to know what voice access heard.
+Command execution status: This is the feedback that appears in the center of the voice access UI. After you speak a command, here is where voice access lets you know that it is processing your speech.
+Command execution feedback: After voice access processes your speech, if it is a valid command, it performs that action. Otherwise, it displays an error message. This feedback appears when an action is taken, or when voice access cannot perform a given action.
+Voice access settings
+When you click the Settings button, the following options are available:
+Select default microphone
+: This menu lets you switch to a different microphone from the one you are using, or to add a new microphone if you do not find the one you are looking for. You also have quick access to Windows
+Sound
+settings from this menu.
+Manage options
+: This menu contains the following options:
+Fluid dictation:
+This feature is currently available in English and only on Copilot+ PC devices. To learn more, refer to
+Fluid dictation
+.
+Turn on automatic punctuation
+: Refer to
+Turn on automatic punctuation
+.
+Filter profanity
+: Refer to
+Use profanity filtering
+.
+Automatic startup setting
+: This opens up the
+Speech
+section under
+Accessibility
+settings, here you can enable voice access to launch automatically before or after logging into your computer.
+Languages
+: This menu contains the list of languages you can use voice access in. There are "ready to use" languages which you can instantly switch to and "available for download" languages for which you need to download the speech pack before you can start using it.
+Wait time before acting:
+Choose from the different options to select a wait time that matches your pace of speaking. Voice access will start to process your command or input after waiting for the time duration you have set. By default, it is set to
+Medium (0.5 seconds).
+Add to vocabulary:
+Add your own words, including difficult to pronounce words, to the dictionary in voice access to improve dictation accuracy. It increases the probability of recognizing these words more accurately by creating a bias that helps voice access become more context aware and proactively understanding your specific vocabulary. You can also do this directly with the voice command
+“Add to Vocabulary.”
+Turn off voice access
+: This removes the voice access UI from the top of the screen and closes voice access. To launch voice access again, go to
+Settings
+>
+Accessibility
+>
+Speech
+.
+Voice access help
+When you click the Help button, the following options are available:
+View all commands
+: This takes you to a list of all voice access commands which helps you as you are working with voice access to perform different tasks. You can look for any command you need in the command category list on the left or use the search bar to quickly type out what you need.
+Tip
+You can also bring up the command help list by saying "What can I say" or "Show all commands."
+To learn more about what a certain command means, how it can be used, and to get examples, click the command on the help page.
+Start interactive guide
+: This pulls up the same guide that opens when you launch and set up voice access for the first time. You can use this to practice working with different voice commands.
+Tip
+You can also bring up the guide by saying "Open voice access guide."
+Learn more about voice access
+: With this option, you can quickly access the voice access documentation.
+View Microsoft Privacy Statement
+: With this option, you can access and view the Microsoft Privacy Statement.
+Give feedback
+: This takes you to the Feedback Hub where you can log any issues that you see while working with voice access, or send any product improvement suggestions you have for us.
+Note
+The voice access UI is removed once you turn off voice access. This can be done from the settings menu or using the voice command "Turn off voice access" or "Stop voice access."
+Different modes in voice access
+You can work in three different modes based on the tasks you want to perform. In the default mode you can seamlessly switch between commands and authoring text. If you want to issue only commands for performing all tasks but no dictation, use the commands mode. If you want to be able to dictate text and not issue any commands, use the dictation mode, which treats every input as something to be input in an editable field.
+Function
+Command
+Switch to commands only mode.
+"Commands mode"
+Switch to dictation only mode.
+"Dictation mode"
+Switch to default mode (commands & dictation).
+"Default mode"
+Note
+Voice access also gives you a visual cue on what mode it is in. If it is on commands mode or dictation mode, you see the mode on the UI. If it is in the default mode, there won't be any specific message on the UI.
+See also
+Dictate text with voice
+Use voice to work with windows and apps
+Use the mouse with voice
+Use voice to interact with items on the screen
+Use the keyboard with voice
+Voice access Frequently Asked Questions
+Technical support for customers with disabilities
+Microsoft wants to provide the best possible experience for all our customers. If you have a disability or questions related to accessibility, please contact the
+Microsoft Disability Answer Desk
+for technical assistance. The Disability Answer Desk support team is trained in using many popular assistive technologies and can offer assistance in English, Spanish, French, and American Sign Language. Please go to the Microsoft Disability Answer Desk site to find out the contact details for your region.
+If you are a government, commercial, or enterprise user, please contact
+the enterprise Disability Answer Desk
+.

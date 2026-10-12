@@ -1,0 +1,1085 @@
+URL: https://support.microsoft.com/en-us/accessibility/powerpoint/basic-tasks-to-create-a-presentation-in-powerpoint-with-a-screen-reader
+Basic tasks to create a presentation in PowerPoint with a screen reader
+Applies To
+PowerPoint for Microsoft 365
+PowerPoint for Microsoft 365 for Mac
+PowerPoint 2024
+PowerPoint 2024 for Mac
+PowerPoint 2021
+PowerPoint 2021 for Mac
+PowerPoint 2019
+PowerPoint 2019 for Mac
+PowerPoint 2016
+PowerPoint for iPhone
+PowerPoint for Android phones
+PowerPoint Mobile
+This article is for people who use a screen reader program such as Windows Narrator, JAWS, or NVDA with Windows tools or features and Microsoft 365 products. This article is part of the
+Accessibility help & learning
+content set where you can find more accessibility information on our apps. For general help, visit
+Microsoft Support
+.
+Windows
+macOS
+iOS
+Android
+Web
+Use PowerPoint with your keyboard and a screen reader to create, read, and edit presentations. We have tested it with Narrator, JAWS, and NVDA, but it might work with other screen readers as long as they follow common accessibility standards and techniques.
+A PowerPoint presentation is a slide show. Each slide is a canvas for the pictures, words, and shapes that help you build your story.
+Note
+New Microsoft 365 features are released gradually to Microsoft 365 subscribers, so your app might not have these features yet. To learn how you can get new features faster,
+join the Office Insider program
+.
+To learn more about screen readers, go to
+How screen readers work with Microsoft 365
+.
+In this topic
+Open PowerPoint
+Sign in to your Microsoft account
+Open a presentation
+Read slide contents in Normal view
+Read slide contents in other views
+Navigate through slides
+Create a new blank presentation
+Add or change a theme in a presentation
+Insert a new slide
+Save your presentation
+Add text to a slide
+Format text
+Add pictures from your computer
+Add speaker notes
+Present your slides to an audience
+Open PowerPoint
+Press the Windows logo key, type
+PowerPoint
+, and press Enter. PowerPoint opens in a view showing recent presentations, a search field, templates, and themes. The focus is on the
+Blank Presentation
+template.
+Sign in to your Microsoft account
+To get the most out of the PowerPoint features, sign in to your Microsoft account.
+Do one of the following:
+Open PowerPoint as instructed in
+Open PowerPoint
+. You land on the templates view. Press the Tab key until you hear "Sign in to get the most out of Office," and then press Enter.
+If you're already editing a presentation, press Alt+F to open the
+File
+menu. Then press D, S. With Narrator, you hear: “Accounts window.” With JAWS, you hear: “Accounts.” With NVDA, you hear: "Account."
+Type in your email or phone number, press Enter, and then press the Tab key. You hear: “Password."
+Type in your password, and press Enter.
+Note
+If you are using an account in an organization, the sign-in steps might be slightly different. For example, you might need to use a PIN or smartcard.
+Tip
+If you did not sign out of PowerPoint the last time you used it, the app opens without prompting you to sign in.
+Open a presentation
+PowerPoint keeps a list of files you have recently opened, so it is easy to find them again.
+Do one of the following:
+Open PowerPoint, press the Tab key until you hear "Recent," followed by the name of a presentation.
+If you're already editing a presentation, press Alt+F, O. Press the Tab key until you hear the name of a presentation.
+Press the Down arrow key until you hear the presentation you want, and then press Enter.
+If the presentation you want to open isn't in the list of recent presentations, press Alt+H, Y, O. You can now look for the presentation on your computer or in the network locations you are connected to, such as OneDrive.
+Tip
+To search by the name of the presentation, press Alt+O, E and type your search words. Press the Down arrow key until you hear the name of the presentation, and then press Enter to open it.
+Read slide contents in Normal view
+Each slide has one or more text boxes or other content elements or placeholders.
+When the focus is on a slide, press the Tab key to cycle between its elements. Your screen reader announces the element type as you move between them, for example, "Title text box, text box."
+To read the contents of the element, with Narrator, press the SR key+R. JAWS and NVDA usually start reading element content when the focus moves to it. If necessary, to start reading with JAWS, press the SR key+Page up. With NVDA, press the SR key+Down arrow key.
+To stop the continuous reading, press Ctrl.
+After reading the contents, press Esc to return the focus to the slide.
+Read slide contents in other views
+In addition to
+Normal
+view, PowerPoint provides several other views for working with slides.
+Outline View
+. Provides a text-only view of slide contents. To open
+Outline View
+, press Alt+W, P, and then O. To switch between thumbnails and the outline in
+Normal
+view, press Ctrl+Shift+Tab.
+Note
+Screen readers sometimes don't announce
+Outline View
+after pressing Alt+W, P, O.
+Slide Sorter
+. Displays all your slides in order horizontally in rows so you can cut, copy, paste, and rearrange slides easily. Screen readers identify slides by the number and title. To open
+Slide Sorter
+view, press Alt+W, I. To return to
+Normal
+view, press Alt+W, L.
+Reading
+. Offers a way to review a presentation that is similar to
+Slide Show
+view. To open
+Reading View
+, press Alt+W, D. To return to the previous view, press Esc.
+Slide Master
+. Enables you to make design changes that apply to all of your slides. To open
+Slide Master
+view, press Alt+W, M. The
+Slide Master
+tab (Alt+M) is added to the ribbon between the
+File
+and
+Home
+tabs. To close
+Slide Master
+view, press Alt+M, C.
+Slide Show
+. Provides a full-screen display of your slides for an audience to see while you are presenting to them. To start a slide show, press F5. To advance, press the Page down key. To go back, press the Page up key. To end, press Esc.
+Presenter View
+. Work with your presentation with your speaker notes on one computer (your laptop, for example), while the audience views the notes-free presentation on a different monitor. If your computer is connected to a second display screen, when you start your presentation in the
+Slide Show
+view, the
+Presenter View
+opens automatically on your computer screen. If you're working on a single monitor, to open the
+Presenter View
+, press Shift+F10, R.
+To read objects on a slide, first switch the Narrator scan mode on, or with JAWS and NVDA, use the virtual cursor mode. Then use the following shortcuts:
+To go to the slide preview, press the Down arrow key, and then press Enter to move focus to the
+Slide Show
+view.
+In the
+Slide Show
+view, press the Down arrow key to navigate through all of the objects. To read the objects, with Narrator, press the SR key+R. With JAWS, press the SR key+Page down. With NVDA, press the SR key+Down arrow key.
+To switch back to the
+Presenter View
+, press the Down arrow key repeatedly until you hear "Return to Presenter View," and then press Enter.
+Note
+If you're presenting without the
+Presenter View
+, you won't hear "Return to Presenter View."
+For more information, refer to
+Use keyboard shortcuts to deliver PowerPoint presentations
+and
+Use a screen reader to show your presentation with PowerPoint
+.
+Navigate through slides
+You can use the thumbnail pane to quickly move between slides.
+Press F6 until you hear "Thumbnails pane" or "Thumbnails," followed by the title of the current slide.
+When the focus is on the thumbnail pane, screen readers read the slide titles as you move through the slides. To go to the next or previous slide, press the Up or Down arrow key.
+Tip
+Sometimes, your screen reader loses focus and does not read a slide title. If this happens, press Alt+Tab twice to try to move focus out of the PowerPoint window and back to the thumbnails.
+Create a new blank presentation
+To get started quickly, create a new blank presentation. You can add a predesigned theme later to give your presentation a polished appearance.
+Alternatively, you can create a presentation from a template. For instructions, refer to
+Use a screen reader to create a presentation from a template in PowerPoint
+.
+Do one of the following:
+Open PowerPoint. You hear: "Featured, Blank presentation." The focus is on the blank presentation option. Press Enter.
+If you're already editing a presentation and want to start a new blank presentation, press Alt+F, N, then L, and 1.
+Press the Tab key to move the focus to the title placeholder on the first slide and type the title. When you're done, press Esc. To move to the next placeholder, press the Tab key and start typing.
+For more detailed instructions on how to add content to your presentation, go to
+Use a screen reader to add and format text in PowerPoint
+or
+Use a screen reader to insert and edit pictures and tables in PowerPoint
+.
+Add or change a theme in a presentation
+A theme is a collection of coordinated color schemes, backgrounds, font styles, and placement of placeholders. Use predesigned themes to change the overall look of your presentation quickly.
+When editing your presentation, press Alt+G, and then H. You hear "This presentation," followed by the currently selected theme.
+Use the arrow keys to browse to the theme you want, and then press Enter to select.
+Insert a new slide
+With the title slide done, you're ready to add slides for the rest of your presentation. Each theme has a collection of predefined slide layouts. For example, there might be a title slide, a slide that includes a title box and a content box, and a slide that's arranged in two columns.
+Do one of the following:
+To add a new slide based on the layout of the current slide, press Ctrl+M.
+To add a slide that uses one of the other layouts in your chosen theme, press Alt+H, I. The focus moves to the list of slide layouts. Use the arrow keys to browse to the slide layout that you want. To insert a new slide with the currently selected layout, press Enter.
+Tip
+To duplicate a slide and its contents, move the focus to the slide in the thumbnail pane and press Ctrl+D.
+Save your presentation
+It’s a good idea to save your work often. Follow the steps below to name and save your presentation for the first time. For information on other ways to save your presentation, refer to
+Use a screen reader to save your presentation in PowerPoint
+.
+To open the
+Save As
+tab, press Alt+F, A.
+Press the Tab key once and then press the Down arrow key until you hear the file folder location you want, for example, "OneDrive, Microsoft."
+Press the Tab key once to move the focus to the file naming area. The focus lands on the
+Navigate Up
+button.
+If you want to continue to look for the folder that you want, press Enter. Use the arrow keys or the Tab key to navigate and press Enter to select.
+To name your file, press the Tab key until you hear "Enter file name here," and type a name for your presentation.
+Tip
+By default, PowerPoint saves your presentation as a standard PowerPoint file, with the file extension .pptx. If you want to save the presentation as a different file type, press the Tab key once, and then press the Down arrow key to browse through the options. Use the Down and Up arrow keys to navigate the options, and press Enter to make your selection.
+Press the Tab key until you hear "Save button," and then press Enter.
+After you've named your file and saved it for the first time, press Ctrl+S to save your work at any time.
+Add text to a slide
+To move the focus to a slide, press F6 until you hear "Slide,” followed by the slide number.
+Press the Tab key until you hear the text placeholder you want to add text to. You hear, for example, “Title text box, text box” for the slide’s title.
+Type the text you want on the slide.
+To move the insertion point to the next title or body text placeholder, press Ctrl+Enter.
+Note
+If there aren't any more text placeholders, pressing Ctrl+Enter inserts a new slide with the same slide layout as the original slide, and places the focus on the new slide's first placeholder.
+To learn more about how to add text to slides, refer to
+Use a screen reader to add and format text in PowerPoint
+.
+Format text
+You can use different font styles, such as bold or italic, and create bulleted or numbered lists using keyboard shortcuts. To learn more about how to format text in your presentation, refer to
+Use a screen reader to add and format text in PowerPoint
+.
+Change the font style
+In a text placeholder, select the text for which you want to change the font style.
+Tip
+To learn how to select text in PowerPoint using your keyboard, refer to the section "Select text" in
+Use keyboard shortcuts to create PowerPoint presentations
+.
+Use the following keyboard shortcuts to change the font style:
+Press Ctrl+B to make the selected text bold.
+Press Ctrl+I to make the selected text italic.
+Press Ctrl+U to underline the selected text.
+Press Ctrl+Spacebar to remove all styles from the selected text.
+Create a bulleted list as you type
+At the start of a new line, type an asterisk symbol (*), and then press Spacebar or the Tab key.
+Type the text that you want. A filled round bullet list item is automatically created after you press Enter.
+To create a new list item, press Enter.
+To stop creating the list, press Enter, and then press Backspace.
+Create a numbered list as you type
+At the start of a new line, type the number one followed by a period (
+1.)
+, and then press Spacebar or the Tab key.
+Type the text you want. A numbered list item is automatically created after you press Enter.
+To create a new list item, press Enter.
+To stop creating the list, press Enter, and then press Backspace.
+Add pictures from your computer
+You can use graphics and photos to make your presentations livelier. To learn more about inserting and editing pictures in your presentation, refer to
+Use a screen reader to insert and edit pictures and tables in PowerPoint
+.
+When the focus is on a slide, press the Tab key to cycle through its placeholders. Your screen reader announces the placeholder type as you move, for example, "Title text box, text box."
+When you find the placeholder where you want to add a picture, press Alt+N, P, D. The
+Insert Picture
+dialog box opens. By default, the dialog box shows the
+Pictures
+folder of your PC.
+The focus is initially on the
+File name
+field. Type or paste the file name of your picture. To enter the list of matching files, press Ctrl+Down arrow key, and then press the Down arrow key to browse the search results.
+Press Enter to insert the picture to the selected placeholder in your presentation.
+Add speaker notes
+You can put helpful facts and annotations in the speaker notes and refer to them as you present.
+While editing a slide in
+Normal
+view, press F6 until you hear: “Slide notes, pane.”
+Type your notes.
+To return the focus to the slide, press F6 until you hear “Slide,” followed by the slide number.
+Tip
+Sometimes, your screen reader loses focus and does not read a slide title. If this happens, press Alt+Tab twice to try to move focus out of the PowerPoint window and back.
+To learn more about adding speaker notes, refer to
+Use a screen reader to read or add speaker notes and comments in PowerPoint
+.
+Present your slides to an audience
+After your presentation is ready, showing it to others is simple.
+Open your presentation in PowerPoint.
+To start the slide show, press F5.
+Press Spacebar to move to the next slide. To go to the previous slide, press Backspace.
+To exit the slide show, press Esc.
+For more information, refer to
+Use keyboard shortcuts to deliver PowerPoint presentations
+and
+Use a screen reader to show your presentation with PowerPoint
+.
+See also
+Use a screen reader to add and format text in PowerPoint
+Use a screen reader to insert and edit pictures and tables in PowerPoint
+Use keyboard shortcuts to create PowerPoint presentations
+Use keyboard shortcuts to deliver PowerPoint presentations
+Set up your device to work with accessibility in Microsoft 365
+Use a screen reader to explore and navigate PowerPoint
+Use PowerPoint with your keyboard and VoiceOver, the built-in macOS screen reader, to create, read, and edit presentations. A PowerPoint presentation is a slide show. Each slide is a canvas for the pictures, words, and shapes that help you build your story.
+Note
+New Microsoft 365 features are released gradually to Microsoft 365 subscribers, so your app might not have these features yet. To learn how you can get new features faster,
+join the Office Insider program
+.
+This topic assumes that you are using the built-in macOS screen reader, VoiceOver. To learn more about using VoiceOver, go to
+VoiceOver Getting Started Guide
+.
+PowerPoint has different views designed for carrying out various tasks. For example, to add content to your slides, you usually work in the
+Normal
+view, or perhaps in the
+Outline View
+if you're creating an outline or a storyboard for the presentation. The
+Slide Show
+view works for presenting your slides on a computer, while the
+Presenter View
+is useful for showing different screens for the presenter and the audience.
+In this topic
+Open PowerPoint
+Sign in to your Microsoft account
+Open a presentation
+Read the slide contents
+Create a new blank presentation
+Add or change a theme in a presentation
+Insert a new slide
+Add text to a slide
+Format your text
+Save your presentation
+Add pictures
+Add speaker notes
+Present your slides to an audience
+Open PowerPoint
+On your Mac, press Command+Shift+A to open the
+Applications
+view in
+Finder
+.
+Type
+M
+to go straight to the applications that start with an "M."
+Press the Tab key until you hear: “Microsoft PowerPoint application.”
+To open PowerPoint, press Command+Down arrow key.
+Sign in to your Microsoft account
+To get the most out of the PowerPoint features, sign in to your Microsoft account.
+Note
+If you are using an account in an organization, the sign-in steps might be slightly different. For example, you might need to use a PIN or smartcard.
+If you did not sign out of PowerPoint the last time you used it, the app opens without prompting you to sign in.
+Do one of the following:
+Open PowerPoint as instructed in
+Open PowerPoint
+.
+If you're already editing a presentation in the
+Normal
+view and want to sign in, press Shift+Command+P. You hear: "New from template."
+You land in the templates view. Press the Tab key until you hear: "Sign in, account settings, menu button."
+Press Spacebar. The
+Sign in
+dialog box opens. You hear: “Type your email or phone number.”
+Type your email or phone number, and then press Return. VoiceOver announces: “Password, secure edit text.”
+Type your password, and press Return. If you hear “Start using PowerPoint button,” press Spacebar to go to the application.
+After you’ve logged in, to start a blank presentation, press Return.
+Open a presentation
+Do one of the following:
+Open PowerPoint. You land on a start page showing a selection of templates and your pinned and most recent presentations. Press the Tab key until you hear the name of the first presentation in either the
+Pinned
+or
+Recent
+list. To navigate the list, press Control+Option+Down arrow key. To select and open a file, press Control+Option+Spacebar when on the file.
+If you're already editing a presentation, press Command+O. A dialog box for selecting the location and the file opens. If you've opened a PowerPoint file previously, that file is already selected. To navigate the dialog box, use the Tab key and the arrow keys. To enter a list in the dialog box, press Control+Option+Shift+Down arrow key. To select and open a file, press Control+Option+Spacebar when on the file.
+Read the slide contents
+In PowerPoint you can work with your slides in several views which offer unique capabilities. You can read the slide contents in each view.
+Read slide contents in Normal view
+To go to the
+Normal
+view, press Command+1.
+Press F6 repeatedly until you hear: “Thumbnail pane collection.”
+Press Control+Option+Shift+Down arrow key to enter the pane.
+Press the Up or Down arrow key to navigate to the thumbnail of the slide you want to read. VoiceOver announces the slide titles as you move.
+When on the correct thumbnail, press F6 until you hear: “Slide editor pane.” Press the Tab key until you hear the first element with text. You hear, for example, “Entering title text box,” followed by the text in the element.
+To move to the next element on the slide, press the Tab key. VoiceOver announces the element type and reads any textual content automatically.
+Read slide titles in Slide Sorter view
+To go to the
+Slide Sorter
+view, press Command+2. VoiceOver reads the title of the slide that is currently selected.
+Use the arrow keys to navigate the slides and sections. VoiceOver reads the slide titles as you move.
+Read slide notes in Notes Page view
+Navigate to the slide whose notes you want to read and press Command+3. You hear: "Notes Page view, layout area." The
+Notes Page
+view opens.
+Press Control+Option+Shift+Down arrow key to move the focus to the first item on the page which is an image of the slide.
+To navigate to the notes of the slide, press the Tab key. VoiceOver reads and selects the notes text.
+Read slide contents in Outline View
+To go to the
+Outline View
+, press Command+4.
+Press F6 repeatedly until you hear: "Outline pane, layout area."
+Press Control+Option+Shift+Down arrow key to select the pane. VoiceOver starts reading the contents of the slide currently in focus. To browse to another slide, press the Up or Down arrow key until you hear the slide content.
+Read the presenter notes in Presenter View
+In the
+Normal
+view, navigate to the slide whose notes you want to read and press Option+Return to go to the
+Presenter View
+.
+To move to the presenter notes section, press Control+Option+Right or Left arrow key repeatedly until you hear: "Notes pane, layout area."
+Press Control+Option+Shift+Down arrow key to select the notes. VoiceOver reads the notes on the current slide. When you’re done reading, to unselect the notes and return to normal navigation, press Control+Option+Shift+Up arrow key.
+Read the slide contents in Slide Show view
+To start a slide show, press Command+Shift+Return. VoiceOver reads the text content of the slide automatically.
+If you want to read everything that's on a slide, including image alt text, press Control+Option+A.
+If you want to read the items separately, first make sure that the focus is on the slide, not on the slide show controls. Then press Control+Option+Shift+Down arrow key to enter the slide. To navigate the areas on the slide, press Control+Option+Right arrow key. VoiceOver reads the items and texts as you land on them.
+Create a new blank presentation
+To get started quickly, create a new blank presentation. You can add a predesigned theme later to give your presentation a polished appearance.
+Alternatively, you can create a presentation from a template. For instructions, go to
+Use a screen reader to create a presentation from a template in PowerPoint
+.
+Do one of the following:
+Open PowerPoint. PowerPoint opens in a view which lists available templates and themes.
+If you’re already editing a presentation and want to create a new one, press Shift+Command+P.
+Press the Tab key until you hear: “Entering collection, One item selected, Blank presentation.”
+Press Control+Option+Shift+Down arrow key. You hear: “In blank presentation.” Press Control+Option+Spacebar to select and open the blank template in the
+Normal
+view.
+To move to the title placeholder on the first slide and edit it, press the Tab key. VoiceOver announces: "Text is selected. You are currently on a text area, inside of a textbox." Type your own slide title. When finished typing, press Esc.
+Press the Tab key to move to the next placeholder which is a subtitle text field. Type your own subtitle. When finished typing, press Esc.
+Add or change a theme in a presentation
+A theme is a collection of coordinated color schemes, backgrounds, font styles, and placement of placeholders. Use predesigned themes to change the overall look of your presentation quickly.
+In the
+Normal
+view of your presentation, press F6 until you hear the currently selected tab, for example, "Home, selected tab."
+Press Control+Option+Left or Right arrow key until you hear "Design, tab," and then press Control+Option+Spacebar.
+Press the Tab key until you hear: "Entering Themes gallery, Office theme, selected button."
+Press Control+Option+Right arrow key until you hear the theme you want, and then press Control+Option+Spacebar to select it.
+Insert a new slide
+To add a new slide based on the layout of the current slide, press Command+Shift+N. You hear: “New slide.”
+Add text to a slide
+Press Command+1 to make sure you are in the
+Normal
+view.
+Tip
+You can also insert content to your slides in the
+Outline View
+. To switch to the
+Outline View
+, press Command+4.
+To move the focus to a placeholder on the slide, press the Tab key. When you reach a placeholder with text, VoiceOver announces: "Text is selected. You are currently on a text area, inside of a textbox."
+Type your text. When finished typing, press Esc. To move to the next placeholder, press the Tab key and then type your text.
+Format your text
+With formatting, you can improve the readability of your text and draw attention to what's important. PowerPoint offers many options for formatting your content, such as lists, hyperlinks, colors, and different font formatting options.
+To add lists to your text:
+To insert a bulleted list, type an asterisk symbol (*), press Spacebar, type the list item, and press Return.
+To insert a numbered list, type the number one followed by a period (1.), press Spacebar, type the list item, and press Return.
+To use other text formatting options:
+To apply bolded text formatting, press Command+B.
+To apply italics, press Command+I.
+To apply underlining, press Command+U.
+To increase the font size, press Command+Shift+Right angle bracket (>).
+To decrease the font size, press Command+Shift+Left angle bracket (<).
+For additional font formatting options, such as font color, press Command+T to open the
+Font
+dialog box. Press the Tab key to move around in the dialog box. To select an item, press Control+Option+Spacebar.
+To add a hyperlink, press Command+K.
+Save your presentation
+If you’re signed in, PowerPoint saves your work automatically. If you’re not signed in, you can save your presentation manually.
+Press Command+S.
+If you’re saving the presentation for the first time or want to change the file name, type a name for the file.
+Press the Tab key until you hear the default save location, followed by “Where.” To change the save location, press the Down arrow key until you hear the location you want, and press Spacebar.
+Press the Tab key until you hear “Save button,” and press Control+Option+Spacebar.
+Tip
+To save the same presentation with a different name, location, or file format, press Command+Shift+S.
+For detailed information on how to save in another file format or in a format compatible with earlier versions of PowerPoint, refer to
+Use a screen reader to save your presentation in PowerPoint
+.
+Add pictures
+In the
+Normal
+view, press F6 until you hear the currently selected tab, for example, "Home, selected tab."
+Press Control+Option+Right or Left arrow key until you hear “Insert, tab,” and then press Control+Option+Spacebar to select.
+Press the Tab key until you hear: "Pictures, menu button." Press Control+Option+Spacebar to open the menu.
+To browse the menu, press the Down or Up arrow key. VoiceOver announces the menu options. To select an option, press Control+Option+Spacebar.
+A dialog box for selecting a file opens. To navigate in the dialog box, use the Tab key and arrow keys. To insert the picture, press Control+Option+Spacebar.
+For detailed instruction on how to work with pictures, refer to
+Use a screen reader to insert and edit pictures and tables in PowerPoint
+.
+Add speaker notes
+You can add speaker notes to help remind you of what to say when presenting to an audience.
+Press Command+1 to go to the
+Normal
+view.
+Tip
+For information on how to add speaker notes in the
+Notes Page
+view instead, refer to
+Use a screen reader to read or add speaker notes and comments in PowerPoint
+.
+Go to the slide on which you want to add notes, and then press Control+Option+Right arrow key until you hear: "Notes pane, layout area."
+Type your notes for the slide. When you're done, press F6 to leave the
+Notes Pane
+.
+Present your slides to an audience
+In the
+Normal
+view, press Command+Shift+Return to start the slide show.
+Use the following shortcuts to navigate through the slides:
+Press N to move to the next slide.
+Press P to move to the previous slide.
+Press Function+Right arrow key to move to the last slide.
+Press Function+Left arrow key to move to the first slide.
+Press Control+Option+Shift+M to open the context menu. Navigate the options in the menu with the Down arrow key. VoiceOver announces the items as you move.
+For example, to navigate to a certain slide in your presentation, press the Down arrow key until you hear: "By title, submenu." Press the Right arrow key once to move to the submenu, and the Down arrow key to navigate the slides. VoiceOver announces the slide titles as you land on them. When on a slide you want to go to, press Control+Option+Spacebar and the slide opens.
+To exit the slide show, press Esc.
+For more information, refer to
+Use a screen reader to show your presentation with PowerPoint
+.
+See also
+Use a screen reader to add and format text in PowerPoint
+Use a screen reader to insert and edit pictures and tables in PowerPoint
+Use keyboard shortcuts to create PowerPoint presentations
+Use keyboard shortcuts to deliver PowerPoint presentations
+Set up your device to work with accessibility in Microsoft 365
+Use a screen reader to explore and navigate PowerPoint
+Use PowerPoint with VoiceOver, the built-in iOS screen reader, to create, read, and edit presentations. A PowerPoint presentation is a slide show. Each slide is a canvas for the pictures, words, and shapes that help you build your story.
+Note
+New Microsoft 365 features are released gradually to Microsoft 365 subscribers, so your app might not have these features yet. To learn how you can get new features faster,
+join the Office Insider program
+.
+This topic assumes that you are using the built-in iOS screen reader, VoiceOver. To learn more about using VoiceOver, visit
+Apple accessibility
+.
+In this topic
+Open PowerPoint
+Sign in to your Microsoft account
+Open a presentation
+Read slide contents
+Navigate through the slides
+Create a new blank presentation
+Add or change a theme in a presentation
+Insert a new slide
+Save your presentation
+Add text to a slide
+Format your text
+Add speaker notes
+Present your slides to an audience
+Exit the Slide Show view
+Open PowerPoint
+On your iPhone, swipe right or left with three fingers to go the home screen where the PowerPoint app is.
+When on the right home page, swipe right with one finger until you hear "PowerPoint," and then double-tap the screen to open the app.
+Sign in to your Microsoft account
+To get the most out of the PowerPoint features, sign in to your Microsoft account.
+Do one of the following:
+Open PowerPoint as instructed in
+Open PowerPoint
+. The
+Account
+view opens.
+If you're already editing a presentation, swipe left or right until you hear "Close file button," and double-tap the screen. You hear: "Home, heading." Swipe right until you hear "Account button," and then double-tap the screen.
+Swipe left or right until you hear "Sign in button," and then double-tap the screen.
+Slide one finger across the screen until you hear: "Email, phone, or Skype, text field, required."
+Double-tap the screen, and then use the on-screen keyboard to type your email address, phone number, or Skype address.
+Slide one finger across the top half of the screen until you hear "Next button," and then double-tap the screen. You hear: "Enter password."
+Double-tap the screen, and then use the on-screen keyboard to type your password.
+Slide one finger across the top half of the screen until you hear "Sign in button," and then double-tap the screen.
+Open a presentation
+Do one of the following:
+Open PowerPoint. The app opens in the view where you left it previously. If you closed the app completely, it opens in the
+Home
+tab which lists all your pinned or recent presentations.
+If you're already editing a presentation, swipe left or right until you hear "Close file button," and double-tap the screen. You land on the
+Home
+tab which lists all your pinned or recent presentations.
+To navigate the items on the
+Pinned
+and
+Recent
+lists, swipe right until you hear VoiceOver announcing the list items. When you hear the name of the presentation you want, double-tap the screen to open it.
+If the file you want is not on the
+Pinned
+or
+Recent
+list, tap near the bottom of the screen with four fingers. You hear: "Open, tab." Double-tap the screen to select it. Navigate to the file or file location you want.
+Read slide contents
+While editing a presentation, swipe right repeatedly until you reach the slide title text box. VoiceOver reads the slide title.
+Swipe right again to move to the next text box on the slide. VoiceOver reads the contents of the text box.
+To switch to another slide, swipe right until you hear the number and title of the slide you want. Then double-tap the screen to select and open the slide.
+Note
+If you're using the phone in landscape orientation, the slide thumbnail pane appears to the left of the slide, and you need to swipe left instead.
+To read the slide contents, swipe right until you reach the first text element in the slide.
+Navigate through the slides
+Do one of the following:
+To navigate the slide thumbnails in the
+Normal
+view (the view that opens when you open a PowerPoint presentation), swipe right until you hear the first slide. You hear, for example, "Slide one of nine," and the title of the current slide. To navigate to the next thumbnail, swipe right.
+To navigate the slides in the
+Slide Show
+view, swipe left with three fingers to move to the next slide or swipe right with three fingers to move to the previous slide.
+Create a new blank presentation
+To get started quickly, create a new blank presentation. You can add a predesigned theme later to give your presentation a polished appearance.
+Alternatively, you can create a presentation from a template. For instructions, go to
+Use a screen reader to create a presentation from a template in PowerPoint
+.
+Do one of the following:
+Open PowerPoint. The app opens in the view where you left it previously. If you closed the app completely, it opens in the
+Home
+tab which lists all your pinned or recent presentations.
+If you're already editing a presentation, swipe left or right until you hear "Close file button," and double-tap the screen. You land on the
+Home
+tab which lists all your pinned or recent presentations.
+Tap near the bottom of the screen with four fingers. You hear: "Open, tab." Swipe left until you hear "New, tab," and double-tap the screen. You hear: "New, heading."
+Swipe right until you hear "Blank presentation," and double-tap the screen. The presentation opens, and the focus is on the new slide.
+To edit the new slide, swipe right until you hear the first placeholder element on the slide, for example, "Title text box," and then double-tap the screen to select it. To type text in the placeholder, double-tap the screen. Then use the on-screen keyboard to type your text. For more info on how to add text to a slide, refer to
+Use a screen reader to add and format text in PowerPoint
+.
+Add or change a theme in a presentation
+A theme is a collection of coordinated color schemes, backgrounds, font styles, and placement of placeholders. Use predesigned themes to change the overall look of your presentation quickly.
+While editing your presentation, tap near the top of the screen with four fingers. Swipe right until you hear "Show ribbon, button," and double-tap the screen. You hear the name of the currently selected tab, for example, "Home tab."
+Double-tap the screen, swipe left or right until you hear "Design tab," and double-tap the screen.
+Swipe right until you hear "Themes button," and double-tap the screen.
+Swipe right until you hear the name of the theme you want, and then double-tap the screen.
+Swipe right until you hear "Hide ribbon," and double-tap the screen.
+Insert a new slide
+While editing a slide, swipe right until you hear "New slide, button," and then double-tap the screen.
+To edit the new slide, swipe left until you hear the first content placeholder, for example, "Text box, text field," and double-tap the screen.
+Save your presentation
+If you're signed in, PowerPoint automatically saves your presentation to OneDrive as you work. If you're not signed in, you can save the presentation manually to your device or to OneDrive.
+In your PowerPoint presentation, tap near the top of the screen with four fingers. Swipe right until you hear "Close file, button," and double-tap the screen.
+If you're saving the presentation for the first time, you hear: "Save changes to presentation?" Swipe right until you hear "Save ellipses, button," and then double-tap the screen.
+You hear: "Cancel button." The focus moves to the file name text field. Use the on-screen keyboard to type a name for the presentation.
+Tap near the top of the screen with four fingers, and then swipe right to find a location where you want to save, such as your phone or OneDrive. When on the location you want to save to, double-tap the screen. If there are folders to open, swipe right until you're on a folder, and then double-tap to open it.
+To save the presentation, swipe right until you hear: "Save, button." Double-tap the screen to select. Your presentation is saved. The focus moves to the
+Home
+tab.
+Add text to a slide
+On the slide where you want to add text, swipe right or left until VoiceOver announces a text placeholder element. For a title text box, you hear: "Title text box, text box." For a text box, you hear: "Text box." Double-tap to select and edit the element.
+To type with the on-screen keyboard, double-tap the screen, and then slide your finger across the lower part of the screen until VoiceOver announces the letter you want. Lift your finger and double-tap the screen to select the letter. To type another letter, swipe right or left until you hear the letter you want, and double-tap the screen. When finished typing, tap near the top of the screen with four fingers, swipe right until you reach the
+Hide keyboard
+button, and double-tap the screen.
+To move to the next text box, swipe right or left until VoiceOver announces it.
+Double-tap the screen to start adding text to the field. Use the on-screen keyboard to type.
+For more info on how to add text to a slide, refer to
+Use a screen reader to add and format text in PowerPoint
+.
+Format your text
+With formatting, you can improve the readability of your text and draw attention to what's important. PowerPoint offers many options for formatting your content, such as lists, hyperlinks, colors, and different font formatting options.
+On the slide where you want to format text, navigate to the text box you want to edit, and double-tap the screen.
+Tap near the bottom of the screen with four fingers. You hear: "Show ribbon."
+Swipe left until you hear the basic font formatting option you want, such as bold, italic, or underline, and then double-tap the screen to apply the formatting.
+For more info on how to format text on a slide, refer to
+Use a screen reader to add and format text in PowerPoint
+.
+Add a bulleted list
+On the slide where you want to format text, navigate to the text box where you want to add a bulleted list, and double-tap the screen.
+Tap near the bottom of the screen with four fingers. You hear: "Show ribbon."
+Swipe left until you hear: "Bullets, button." Double-tap the screen to start a bulleted list.
+Add a numbered list
+On the slide where you want to format text, navigate to the text box where you want to add a numbered list, and double-tap the screen.
+Tap near the bottom of the screen with four fingers. You hear: "Show ribbon."
+Swipe right until you hear: "Numbering, button." Double-tap the screen to start a numbered list.
+Change the font size
+On the slide where you want to format text, navigate to the text box you want to edit, and double-tap the screen.
+Tap near the top of the screen with four fingers. Swipe right until you hear "Show ribbon," and double-tap the screen.
+Double-tap the screen, swipe left until you hear "Home tab," and double-tap the screen. Swipe right until you hear "Font," followed by the name of the current font. Double-tap the screen to select.
+Do one of the following:
+Swipe right until you hear "Plus, button," and then double-tap the screen to increase the size by one point.
+Swipe right until you hear "Minus, button," and then double-tap the screen to decrease the size by one point.
+Change the font color
+On the slide where you want to format text, navigate to the text box you want to edit, and double-tap the screen.
+Tap near the top of the screen with four fingers. Swipe right until you hear "Show ribbon," and double-tap the screen.
+Double-tap the screen, swipe left until you hear "Home tab," and double-tap the screen. Swipe right until you hear "Font color," followed by the current font color. Double-tap the screen to select.
+Swipe right to navigate the color options. When on a color you want to use, double-tap the screen to select.
+Add speaker notes
+You can add speaker notes to help remind you of what to say when presenting to an audience.
+While editing the slide you want to add speaker notes to, swipe right until you hear "Notes, button," and double-tap the screen.
+The
+Notes
+pane opens. Swipe right until you hear "Slide notes, text box, text field," and then double-tap the screen.
+Use the on-screen keyboard to type your notes.
+When you're finished, to close the
+Notes
+pane, tap near the top of the screen with four fingers, swipe right until you hear "Close button," and double-tap the screen.
+Present your slides to an audience
+In the presentation you want to show to your audience, tap near the top of the screen with four fingers, swipe right until you hear "Start slide show from this slide, button," and double-tap the screen.
+In the slide show, to proceed to the next slide, swipe left with three fingers. To go back to the previous slide, swipe right with three fingers.
+VoiceOver reads the contents of the first text box as you land on a slide. To read the rest of the slide contents, swipe right. The focus moves to the next item and VoiceOver reads the contents.
+When you hear "End of slide show," there is no more content to read. To exit the slide show, double-tap the screen.
+For more information, refer to
+Use a screen reader to show your presentation with PowerPoint
+.
+Exit the Slide Show view
+To exit the
+Slide Show
+view at the end of the presentation, swipe left with three fingers or double-tap the screen. The slide show ends and you return to the
+Normal
+view.
+To exit the
+Slide Show
+view at any time during the presentation, swipe left until you hear: "End slide show, button."
+See also
+Use a screen reader to add and format text in PowerPoint
+Use a screen reader to insert and edit pictures and tables in PowerPoint
+Use keyboard shortcuts to create PowerPoint presentations
+Set up your device to work with accessibility in Microsoft 365
+Use a screen reader to explore and navigate PowerPoint
+Use PowerPoint for Android with TalkBack, the built-in Android screen reader, to create, read, and edit presentations. A PowerPoint presentation is a slide show. Each slide is a canvas for the pictures, words, and shapes that help you build your story.
+Note
+New Microsoft 365 features are released gradually to Microsoft 365 subscribers, so your app might not have these features yet. To learn how you can get new features faster,
+join the Office Insider program
+.
+This topic assumes that you are using the built-in Android screen reader, TalkBack. To learn more about using TalkBack, go to
+Android accessibility
+.
+In this topic
+Open PowerPoint for Android and sign in
+Open a presentation
+Read slide contents in the Editing view
+Read slide contents in other views
+Navigate through slides
+Create a new blank presentation
+Add or change a theme in a presentation
+Insert a new slide
+Save your presentation
+Add text
+Format text
+Add pictures
+Add speaker notes
+Present your slides to an audience
+Open PowerPoint for Android and sign in
+Make the most of the PowerPoint for Android features and take your presentations with you wherever you go by signing in to PowerPoint. You can also use the app without signing in.
+On the start screen or in the
+Apps
+menu of your device, swipe left or right until you hear "PowerPoint," and then double-tap the screen. PowerPoint for Android opens.
+Swipe right until you hear "Sign in," and then double-tap the screen. You hear: "Get things done on the go."
+Swipe right until you hear "Sign in button," and then double-tap the screen.
+Note
+If you don't have an account, swipe right until you hear "Sign up for free," and then double-tap the screen.
+To open the on-screen keyboard, double-tab the screen, and then type the email address, phone number, or Skype address that you used to create your account.
+Swipe right until you hear "Next button," and then double-tap the screen.
+To open the on-screen keyboard, double-tab the screen, and then type your password.
+Swipe right until you hear "Sign in button," and then double tap the screen.
+Open a presentation
+In PowerPoint, you can quickly open a presentation that you've worked on recently or you can browse in OneDrive or your device for the file.
+Do one of the following:
+Open the PowerPoint for Android app.
+If you have a presentation open in the
+Reading
+view and want to open another one, swipe left until you hear "Close button," and double-tap the screen.
+If you're editing a presentation in the
+Editing
+view and want to open another one, swipe left until you hear "Not checked, Done, switch," and then double-tap the screen. Swipe left until you hear "Close button," and double-tap the screen.
+You land on the
+Recent
+tab which lists your pinned and most recent presentations. Swipe right until you hear the name of the presentation you want, and then double-tap the screen.
+If the presentation you want is not in the list of recent or pinned presentations, slide one finger in the lower-right corner of the screen until you hear "Open," and double-tap the screen. Swipe right until you hear the file location you want, and double-tap the screen. Swipe right or left until you hear the name of your presentation, and then double-tap the screen.
+The presentation opens in the
+Reading
+view where you can browse the slides but not edit them. To start editing the presentation, swipe left until you hear "Edit button," and double-tap the screen. The presentation opens in the
+Editing
+view.
+Read slide contents in the Editing view
+You can check the slide contents while you're working on your presentation in the
+Editing
+view.
+On the slide you want to read, swipe right and TalkBack announces the first slide element. If the element is a text element, TalkBack reads its contents.
+Swipe right until you've listened to all elements on the slide.
+Read slide contents in other views
+In the
+Slide show
+view, TalkBack announces the contents of the slide automatically when you open the slide. You can also slide one finger slowly on the top part of the screen and TalkBack announces the slide elements and their contents.
+In the
+Reading
+view, swipe left or right. TalkBack announces the slide number, heading, and if the slide has notes or comments.
+Navigate through slides
+Check that your slides are in the right order and that all content is in your presentation.
+In the
+Editing
+view, to move to the next slide, swipe left with two fingers. To go to the previous slide, swipe right with two fingers.
+In the
+Reading
+view, to move to the next slide, swipe right with one finger. To go to the previous slide, swipe left with one finger.
+Create a new blank presentation
+To get started quickly, create a new blank presentation. You can add a predesigned theme later to give your presentation a polished appearance.
+Alternatively, you can create a presentation from a template. For instructions, go to
+Use a screen reader to create a presentation from a template in PowerPoint
+.
+Do one of the following:
+Open the PowerPoint for Android app.
+If you have a presentation open in the
+Reading
+view and want to open another one, swipe left until you hear "Close button," and double-tap the screen.
+If you're editing a presentation in the
+Editing
+view and want to open another one, swipe left until you hear "Not checked, Done, switch," and then double-tap the screen. Swipe left until you hear "Close button," and double-tap the screen.
+Swipe left or right until you hear "New button," and then double-tap the screen.
+Swipe right until you hear "Blank presentation," and then double-tap the screen. The new presentation opens in the
+Editing
+view, and the focus is on the new slide.
+Swipe right until you hear the first text box, and then double-tap the screen. A context menu opens with the focus on the
+Cut
+button. Swipe right until you hear "Edit text button," and then double-tap the screen. Use the on-screen keyboard to type your text.
+Add or change a theme in a presentation
+A theme is a collection of coordinated color schemes, backgrounds, font styles, and placement of placeholders. Use predesigned themes to change the overall look of your presentation quickly.
+In the
+Editing
+view, swipe left or right until you hear "More options button," and then double-tap the screen. You hear the name of the currently selected tab, followed by "Tab menu," for example, "Home, tab menu."
+Double-tap the screen. Swipe left or right until you hear "Design tab," and double-tap the screen.
+Swipe right until you hear "Themes menu," and double-tap the screen. You hear: "Themes."
+Swipe right until you hear the theme you want, and then double-tap the screen. The selected menu is applied to the whole presentation, and the focus returns to the slide.
+To close the tab menu, swipe right until you hear "More options, switch," and double-tap the screen. You hear: "Off."
+Insert a new slide
+You can add as many slides as you want to your presentation.
+In the
+Editing
+view with the tab menu hidden, swipe right until you hear "Add slide," and then double-tap the screen. A new slide is inserted into your presentation.
+To start editing the new slide, swipe left until you hear a content placeholder, for example, "Title text box," and then double-tap the screen.
+Save your presentation
+If you're signed in, PowerPoint automatically saves your presentation to OneDrive as you work. If you want to save a copy of the presentation on your device, it's easy with TalkBack.
+Do one of the following:
+In the
+Editing
+view, swipe left or right until you hear "More options menu," and double-tap the screen.
+In the
+Reading
+view, swipe left or right until you hear "Menu," and double-tap the screen.
+Swipe right until you hear "Save as button," and double-tap the screen.
+The
+Save as
+dialog box opens. The focus is on the file name text field. Double-tap the screen and use the on-screen keyboard to type the file name with which you want to save your file. To close the on-screen keyboard, swipe down-then-left.
+Swipe left until you hear the location where you want to save the file, for example, "This device, presentations," and double-tap the screen to select.
+Swipe left until you hear the name of the folder you want, and then double-tap the screen.
+Swipe right until you hear "Save button," and then double-tap the screen. The file is saved, and the focus returns to the
+Editing
+or
+Reading
+view.
+Add text
+In the
+Editing
+view, swipe left or right until you hear the first slide element. If the element is a text element, you hear "Title text box" or "Text box."
+On the text element, double-tap the screen. You hear the name of the current text box type, followed by "Selected, Cut button." A context menu opens with the focus on the
+Cut
+button.
+Swipe right until you hear "Edit text button," and then double-tap the screen.
+Tip
+To paste a copied piece of text, swipe right until you hear "Paste button," and then double-tap the screen.
+To type text, drag your finger across the lower part of the screen. TalkBack announces the characters on the on-screen keyboard. When you hear a character you want, lift your finger. The character is added in the text box.
+If predictive text input is activated, you can select the suggested words in the same way.
+When you're finished typing, swipe down-then-left to close the on-screen keyboard.
+For more info on how to add text to a slide, refer to
+Use a screen reader to add and format text in PowerPoint
+.
+Format text
+To make your presentation more accessible for different audiences, you can, for example, increase the font size or apply bold formatting to make the text more legible.
+In the
+Editing
+view with the ribbon and on-screen keyboard hidden, swipe left or right until you hear "More options button," and then double-tap the screen. You hear the name of the currently selected tab, followed by "Tab menu," for example, "Home, tab menu."
+Swipe right until you hear the basic font formatting option you want, such as bold, italic, or underline, and then double-tap the screen to apply the formatting.
+For more info on how to format text on a slide, refer to
+Use a screen reader to add and format text in PowerPoint
+.
+Add pictures
+Sometimes a picture says more than a thousand words, so why not add a picture to liven up your presentation. You can add a picture from your device or cloud storage.
+Note
+The steps below might be slightly different if you're using a corporate account, or depending on your phone model.
+In the
+Editing
+view with the ribbon and on-screen keyboard hidden, swipe right until you hear "Photos button," and then double-tap the screen.
+Swipe left or right until you hear the location from where you want to add the picture, and then double-tap the screen.
+In the selected location, navigate to the image you want, and then double-tap the screen.
+Swipe right until you hear "Save image button," and then double-tap the screen. The image is insert on the slide.
+For more detailed instructions on how to add pictures, refer to
+Use a screen reader to insert and edit pictures and tables in PowerPoint
+.
+Add speaker notes
+With speaker notes you can add reminders or talking points for the presenter.
+In the
+Editing
+view, swipe left or right until you hear "Notes switch," and then double-tap the screen. The
+Notes
+pane opens at the bottom of the screen.
+Swipe right until you hear "Selected, slide notes, edit box," and then double-tap the screen.
+Use the on-screen keyboard to type the notes text. When you're done typing, swipe down-then-left to close the on-screen keyboard.
+To close the
+Notes
+pane, swipe left until you hear "Close button," and then double-tap the screen.
+Present your slides to an audience
+When it's time to share your presentation with your audience, start the slide show.
+In the
+Editing
+view, with the first slide of the presentation open, swipe left or right until you hear "Present button," and then double-tap the screen. The landscape mode activates. The
+Slide show
+view opens.
+To show the next slide, swipe left with two fingers. To go back and show the previous slide, swipe right with two fingers.
+To end the slide show, do one of the following:
+When you hear "End of slide show," you have reached the end of your presentation and have no more slides to show. To stop presenting swipe left with two fingers.
+To end the slide show at any time during your presentation, swipe up with three fingers, swipe left with one finger until you hear "End show," and double-tap the screen.
+For more information, refer to
+Use a screen reader to show your presentation with PowerPoint
+.
+See also
+Use a screen reader to work with slides in PowerPoint
+Use a screen reader to add and format text in PowerPoint
+Use keyboard shortcuts to create PowerPoint presentations
+Set up your device to work with accessibility in Microsoft 365
+Use a screen reader to explore and navigate PowerPoint
+Use PowerPoint for the web with your keyboard and a screen reader to create, read, and edit presentation. We have tested it with Narrator in Microsoft Edge and JAWS and NVDA in Chrome, but it might work with other screen readers and web browsers as long as they follow common accessibility standards and techniques.
+A PowerPoint presentation is a slide show. Each slide is a canvas for the pictures, words, and shapes that help you build your story.
+Note
+If you use Narrator with the Windows 10 Fall Creators Update, you have to turn off scan mode in order to edit documents, spreadsheets, or presentations with Microsoft 365 for the web. For more information, refer to
+Turn off virtual or browse mode in screen readers in Windows 10 Fall Creators Update
+.
+New Microsoft 365 features are released gradually to Microsoft 365 subscribers, so your app might not have these features yet. To learn how you can get new features faster,
+join the Office Insider program
+.
+To learn more about screen readers, go to
+How screen readers work with Microsoft 365
+.
+When you use PowerPoint for the web, we recommend that you use Microsoft Edge as your web browser. Because PowerPoint for the web runs in your web browser, the keyboard shortcuts are different from those in the desktop program. For example, you’ll use Ctrl+F6 instead of F6 for jumping in and out of the commands. Also, common shortcuts like F1 (Help) and Ctrl+O (Open) apply to the web browser – not PowerPoint for the web.
+In this topic
+Open PowerPoint for the web
+Open a presentation
+Open a presentation in the full version of PowerPoint
+Read slide contents in the Editing view
+Read slide contents in the Slide show view
+Navigate through slides
+Create a new blank presentation
+Add or change a theme in a presentation
+Insert a new slide
+Save a local copy of your presentation
+Add text
+Format text
+Add pictures
+Add speaker notes
+Present your slides to an audience
+Open PowerPoint for the web
+Sign in to PowerPoint for the web and take your presentations with you where ever you go.
+In your browser, go to
+Office.com
+. The sign-in page opens.
+Press the Tab key until you hear "Sign-in to your account," and then press Enter. The
+Pick an account
+menu opens.
+Do one of the following:
+To use an existing account to sign in, press the Tab key until you hear the account you want, and then press Enter. Use the credentials connected to the account to sign in.
+To add a new account, press the Tab key until you hear "Use another account, button" and then press Enter. Type your email address, phone number, or Skype address, and then press Enter. Type your password, and press Enter.
+Press the Tab key until you hear "PowerPoint, link," and then press Enter.
+PowerPoint for the web opens. You hear either "Microsoft, PowerPoint for the web" or "Welcome to PowerPoint." The focus is on a new blank presentation option.
+Open a presentation
+In PowerPoint for the web, you can quickly open a presentation that you've worked on recently or you can browse your OneDrive folders for your file.
+Open PowerPoint for the web and sign in if necessary.
+Press the Tab key or Shift+Tab until you hear either the name of a recent presentation that you want to work on or another location of the file, and then press Enter.
+If you selected another file location, press the Tab key and the arrow keys to locate your file, and then press Enter.
+Tip
+If you're already editing a slide, and want to open another presentation, press Alt+Windows logo key+F, then O. Press the Tab key to move to your file or save location in the
+Open
+menu, and then press Enter.
+Open a presentation in the full version of PowerPoint
+If you have the full desktop version of PowerPoint, it gives you many more options when working with your files. It's easy to open the full version from PowerPoint for the web.
+In the
+Editing
+view, press Alt+Windows logo key+Z, M, and then O. The presentation opens in the desktop version.
+Navigate back to PowerPoint for the web, and press Ctrl+W to close the browser tab.
+Read slide contents in the Editing view
+You can check the slide contents while you're working on your presentation in the
+Editing
+view.
+Press Ctrl+F6 until you hear "Slide panel," and then press the Tab key. The screen reader announces the first element on the slide and reads its content.
+To move to the next element and read it, press the Tab key.
+Read slide contents in the Slide show view
+To open the
+Slide show
+view, in the
+Editing
+view, press Alt+Windows logo key+S, and then B. The first slide of your presentation opens in
+Slide show
+view.
+Your screen reader automatically starts to read the contents of the slide. To stop the screen reader, press Ctrl.
+Navigate through slides
+Check that your slides are in the right order and that all content is included.
+In the
+Editing
+view, press Ctrl+F6 until you hear "Editing, thumbnail panel," followed by the number of the current slide. The focus is on the
+Thumbnail
+pane.
+To navigate in the
+Thumbnail
+pane, press the Up or Down arrow key. The screen reader announces the number and title of the slide and if the slide has notes or comments.
+To move from the
+Thumbnail
+pane to the slide, press Ctrl+F6 until you hear "Slide panel," and then press the Tab key.
+To navigate through the slide, press the Tab key until you've gone through all elements on the slide.
+Create a new blank presentation
+To get started quickly, create a new blank presentation. You can add a predesigned theme later to give your presentation a polished appearance.
+Alternatively, you can create a presentation from a template. For instructions, go to
+Use a screen reader to create a presentation from a template in PowerPoint
+.
+Do one of the following:
+Open PowerPoint for the web. You land on a page showing recent presentations, a search field, templates, and themes. The focus is on the new blank presentation template. Press Enter.
+If you're already editing a presentation, press Alt+Windows logo key+F, N to open the
+New
+menu. Then press the Tab key until you hear "New, read only," and press Enter.
+The presentation opens, and the focus is on the first slide. To move to the title text box, press the Tab key.
+Tip
+To quickly create a new presentation in PowerPoint for the web, open your browser, type
+PowerPoint.new
+or
+ppt.new
+in the address bar, and then press Enter.
+Add or change a theme in a presentation
+A theme is a collection of coordinated color schemes, backgrounds, font styles, and placement of placeholders. Use predesigned themes to change the overall look of your presentation quickly.
+In the
+Editing
+view, press Alt+Windows logo key+G, and then H. You hear: "More themes, Microsoft 365 theme."
+Press the Tab key until you hear the theme you want, and then press Enter.
+Insert a new slide
+You can add as many slides as you want to your presentation.
+Press Alt+Windows logo key+H, then I. You hear the name of the current slide theme and the layout option in focus.
+Press the Tab key until you hear the slide layout you want to insert, and then press Enter or Alt+Enter.
+Tip
+To quickly add a new blank slide based on the layout of the previous slide in a presentation, press Ctrl+F6 until you hear "Editing, thumbnail panel," followed by the number of the current slide. The focus is on the
+Thumbnail
+pane. Press the Up or Down arrow key until you hear the slide you want, and then press Ctrl+M.
+Save a local copy of your presentation
+PowerPoint for the web automatically saves your presentation on OneDrive as you work. If you want to save a copy of the presentation on your device, it's easy with your screen reader and keyboard shortcuts. You can download your presentation either as PowerPoint PPTX, PDF, or ODP file.
+Note
+The changes you make to your local copy won't be automatically saved to the original file on OneDrive.
+Press Alt+Windows logo key+F, then A, C. You hear: "Alert, Microsoft, PowerPoint." The focus in on the
+Download
+button.
+To download the presentation, press Enter. The file is downloaded to the
+Downloads
+folder in your device.
+Add text
+Use the screen reader and keyboard shortcuts to easily add text on the slides and get your message out there.
+To move the focus to an editable area on a slide, press Ctrl+F6 until you hear: “Slide panel.”
+To move to the first placeholder on the slide, press the Tab key. The type of the placeholder is announced. If it’s a text placeholder, press Enter, and then type the content.
+When you're finished, press F2. To move to the next placeholder, press the Tab key. To edit the placeholder, press Enter. To exit, press F2. Repeat for all placeholders on the slide.
+Format text
+To make your presentation more accessible for different audiences, you can, for example, increase the font size or apply bold formatting to make text more legible.
+To move the focus to an editable area on a slide, press Ctrl+F6 until you hear: “Slide panel.”
+To move to the first editable area on the slide, press the Tab key.
+To select the editable area, press Enter.
+To select all text in the area, press Ctrl+A. To select a part of the text in the area, press the arrow keys until you hear the text and then press Ctrl+Shift+arrow keys to select the piece of the text you want.
+Use the following shortcuts to apply the most common formatting options to the selected text:
+Bold: Ctrl+B
+Italics: Ctrl+I
+Underline: Ctrl+U
+Increase font size: Ctrl+Right bracket (])
+Decrease font size: Ctrl+Left bracket ([)
+To access more formatting options, with the text selected, press Alt+Windows logo key+H, and then press the Tab key until you hear: "Undo button." Then press the Right or Down arrow key until you hear the formatting option you want, for example, "Bullets button." To select an option, press Spacebar. To expand collapsed menu items, press Alt+Down arrow key.
+Add pictures
+Sometimes a picture says more than a thousand words, so why not add a picture to liven up your presentation. In PowerPoint for the web, you can add images from your own repository or use pictures directly from the internet.
+Tip
+To add pictures in just the right place and of an exact size, use a slide based on a slide layout designed for pictures, such as
+Picture with Caption
+. For more details, go to
+Use a screen reader to insert and edit pictures and tables in PowerPoint
+.
+Add pictures from your device
+Go to the slide where you want to insert a picture and press Alt+Windows logo key+N, then F, P. The Windows
+Open
+dialog box opens with the focus on the file name field.
+Use the Tab key and the arrow keys to navigate to the picture file you want, and then press Enter.
+Add pictures from the internet
+On a slide on which you want to add a picture, press Alt+Windows logo key+N, then F, F. The
+Search Bing Images
+dialog box opens, the focus is on the search field.
+Type your search words and press Enter.
+Use the arrow keys to navigate to the picture you want to insert, and then press Spacebar to select the picture.
+Press the Tab key until you reach the
+Insert
+button, and then press Enter.
+Add speaker notes
+With speaker notes you can add reminders or talking points for the presenter.
+On the slide where you want to add speaker notes, press Ctrl+F6 until you hear: "PowerPoint for the web, Slide notes, editing, pane."
+If you don't hear "Slide notes, editing, pane," press Alt+Windows logo key+W, then P, N to display the slide notes pane.
+The focus moves to the slide notes pane. Type your speaker notes for the slide.
+Present your slides to an audience
+When it's time to share your presentation with your audience, use the keyboard shortcuts and your screen reader to start the slide show.
+In the
+Editing
+view, press Alt+Windows logo key+S, then B. The slide show starts from the first slide in the presentation.
+Tip
+To start the slide show from the current slide, press Alt+Windows logo key+S, then C.
+In the slide show, press the Tab key until you hear the presentation name. The focus moves to the slide show.
+To go to the next slide, press N. To go to the previous slide, press P.
+When you want to stop presenting, press Esc. The focus returns to the
+Editing
+view.
+For more information, refer to
+Use a screen reader to show your presentation with PowerPoint
+and
+Use keyboard shortcuts to deliver PowerPoint presentations
+.
+See also
+Use a screen reader to work with slides in PowerPoint
+Use a screen reader to add and format text in PowerPoint
+Use keyboard shortcuts to create PowerPoint presentations
+Use keyboard shortcuts to deliver PowerPoint presentations
+Use a screen reader to explore and navigate PowerPoint
+Technical support for customers with disabilities
+Microsoft wants to provide the best possible experience for all our customers. If you have a disability or questions related to accessibility, please contact the
+Microsoft Disability Answer Desk
+for technical assistance. The Disability Answer Desk support team is trained in using many popular assistive technologies and can offer assistance in English, Spanish, French, and American Sign Language. Please go to the Microsoft Disability Answer Desk site to find out the contact details for your region.
+If you are a government, commercial, or enterprise user, please contact
+the enterprise Disability Answer Desk
+.

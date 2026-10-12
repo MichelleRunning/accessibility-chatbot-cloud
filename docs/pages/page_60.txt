@@ -1,0 +1,258 @@
+URL: https://support.microsoft.com/en-us/accessibility/office-accessibility/improve-accessibility-with-the-accessibility-checker
+Improve accessibility with the Accessibility Checker
+Applies To
+Excel for Microsoft 365
+Word for Microsoft 365
+Outlook for Microsoft 365
+PowerPoint for Microsoft 365
+OneNote for Microsoft 365
+Excel for Microsoft 365 for Mac
+Word for Microsoft 365 for Mac
+Outlook for Microsoft 365 for Mac
+PowerPoint for Microsoft 365 for Mac
+OneNote for Microsoft 365 for Mac
+Excel 2024
+Word 2024
+Outlook 2024
+PowerPoint 2024
+OneNote 2024
+Visio Professional 2024
+Visio Standard 2024
+Excel 2024 for Mac
+Outlook 2024 for Mac
+PowerPoint 2024 for Mac
+OneNote 2024 for Mac
+Excel 2021
+Word 2021
+Outlook 2021
+PowerPoint 2021
+Visio Professional 2021
+Visio Standard 2021
+OneNote 2021
+Excel 2021 for Mac
+Word 2021 for Mac
+Outlook 2021 for Mac
+PowerPoint 2021 for Mac
+OneNote 2021 for Mac
+Excel 2019
+Word 2019
+Outlook 2019
+PowerPoint 2019
+Visio Professional 2019
+Visio Standard 2019
+Word 2019 for Mac
+Excel 2016
+Word 2016
+Outlook 2016
+PowerPoint 2016
+OneNote 2016
+Visio Professional 2016
+Visio Standard 2016
+Office 365 Small Business
+Microsoft 365 admin
+Office 365 operated by 21Vianet - Small Business Admin
+Get help with Copilot
+What are the steps to use the accessibility checker?
+Tell me about run the spelling and grammar checker.
+Can I apply recommended actions?
+Before you send an Outlook email message or share a Word document, Excel spreadsheet, PowerPoint presentation, or OneNote notebook, run the Accessibility Checker to make your content easier for people to read and edit.
+There is a new version of Accessibility Checker available for the Word desktop app and it will be soon available for other Office desktop apps including Outlook, Excel, and PowerPoint.
+Note
+To learn more about the new Accessibility Assistant, go to
+Improve accessibility in your documents with the Accessibility Assistant.
+To learn more about the real-time on-canvas notification of accessibility issues, go to
+Get real-time notification of accessibility issues while working on Microsoft 365 apps.
+Windows
+macOS
+Web
+In this topic
+Use the Accessibility Checker
+Apply recommended actions
+Don't see the Accessibility Checker?
+Use the Accessibility Checker
+Select the
+Review
+tab.
+Note
+In Outlook, you'll only see the
+Review
+tab when writing or replying to messages.
+Select
+Check Accessibility
+to open the
+Accessibility
+pane on the right.
+Tip
+For Word, Excel, and PowerPoint desktops, select the lower half of the
+Check Accessibility
+button for more options.
+In the
+Accessibility
+pane, review and address the findings under
+Inspection Results
+.
+Apply recommended actions
+In the
+Accessibility
+pane, you'll see a list of errors and warnings, with how-to-fix recommendations for each.
+To quickly correct the issues, apply one of the recommended actions. For more information on how the findings are categorized, see
+Rules for the Accessibility Checker
+.
+In the
+Accessibility
+pane, select an issue under
+Warnings
+or
+Errors
+. The list will expand and show the items and objects affected by the issue.
+Tip
+Select the item or object to view the exact location of the affected item or object.
+To address the issue, select the down arrow
+button next to it and open the
+Recommended Actions
+list.
+To apply a fix, select an action from the
+Recommended Actions
+list. To view more options, select the right arrow
+button next to the action (if available).
+Go through and resolve each issue under
+Warnings
+and
+Errors
+.
+Don't see the Accessibility Checker?
+If you don't see
+Check Accessibility
+on the
+Review
+tab, you might have an older version of the app. Follow these steps to open the Accessibility Checker:
+Select the
+File
+tab and choose
+Info
+.
+Select
+Check for Issues
+.
+In the
+Check for Issues
+drop-down menu, select
+Check Accessibility
+.
+The
+Accessibility Checker
+task pane will appear next to your content and show the inspection results.
+Select an issue under
+Inspection Results
+to see why and how to fix an issue. This info appears under
+Additional Information
+.
+See also
+Check accessibility while you work in Office apps
+Everything you need to know to write effective alt text
+Use a screen reader with the Accessibility Checker
+Make your content accessible to everyone
+Make your content accessible to everyone with the Accessibility Checker
+Use the Accessibility Checker
+To launch the Accessibility Checker, do one of the following depending on the app you are using:
+In Word, Excel, and PowerPoint, select
+Review
+and choose
+Check Accessibility
+.
+In OneNote, select
+View
+and choose
+Check Accessibility
+.
+In Outlook, while writing or replying to an email message, select
+Edit
+on the toolbar and choose
+Check Accessibility
+.
+If you don't see the button on the toolbar, you need to add it there manually. Select
+(See more items) and choose
+Customize toolbar
+. Then drag and drop the
+Check Accessibility
+button to the toolbar.
+The
+Accessibility
+pane opens and issues are organized into
+Warnings
+,
+Errors
+, and
+Tips
+under
+Inspection Results
+.
+For more information on the categorization, go to
+Rules for the Accessibility Checker
+.
+Review and select an issue to see all affected items and objects.
+Select an item or object to see why you should fix the issue and the steps to take to correct it.
+See also
+Everything you need to know to write effective alt text
+Use a screen reader with the Accessibility Checker
+Make your content accessible to everyone
+Make your content accessible to everyone with the Accessibility Checker
+Use the Accessibility Checker
+To check your content for accessibility issues, do one of the following depending on the app you're using:
+Microsoft 365 for the web apps except Outlook on the web
+Select the
+Review
+tab and choose
+Check Accessibility
+.
+The
+Accessibility
+pane will open to the right of the screen. Choose an option to view
+Errors
+,
+Warnings
+,
+Tips
+, or
+Intelligent services
+near the top of the pane.
+For more information on how the findings are categorized, see
+Rules for the Accessibility Checker
+.
+In the chosen category, select the
+to expand an accessibility issue to see all items and objects affected by the issue.
+Select an item or object in the list to highlight the corresponding element, and then fix the issue. Address all issues in the errors and warnings categories.
+When you're done, select
+Recheck
+to make sure you didn't miss anything.
+Outlook on the web
+When writing or replying to a message, select
+Options
+on the toolbar and choose
+Check accessibility
+. The
+Accessibility Checker
+pane will open.
+Select
+Fix this
+to address an issue. For example, if the Accessibility Checker reported missing alt text, select
+Fix this
+to open the
+Add alternative text
+dialog box where you can type the alt text.
+Address all issues and when you're done, select
+Check again
+to ensure you didn't miss anything.
+See also
+Everything you need to know to write effective alt text
+Use a screen reader with the Accessibility Checker
+Make your content accessible to everyone
+Make your content accessible to everyone with the Accessibility Checker
+Make your content accessible in the Microsoft 365 apps
+Technical support for customers with disabilities
+Microsoft wants to provide the best possible experience for all our customers. If you have a disability or questions related to accessibility, please contact the
+Microsoft Disability Answer Desk
+for technical assistance. The Disability Answer Desk support team is trained in using many popular assistive technologies and can offer assistance in English, Spanish, French, and American Sign Language. Please go to the Microsoft Disability Answer Desk site to find out the contact details for your region.
+If you are a government, commercial, or enterprise user, please contact
+the enterprise Disability Answer Desk
+.

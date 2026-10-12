@@ -1,0 +1,1382 @@
+URL: https://support.microsoft.com/en-us/accessibility/excel/accessibility-best-practices-with-excel-spreadsheets
+Accessibility best practices with Excel spreadsheets
+Applies To
+Excel for Microsoft 365
+Excel for Microsoft 365 for Mac
+Excel 2024
+Excel 2024 for Mac
+Excel 2021
+Excel 2021 for Mac
+Excel 2019
+Excel 2016
+Excel for iPad
+Excel for iPhone
+Excel for Android tablets
+Excel for Android phones
+Get help with Copilot
+Can you show me how to delete blank worksheets?
+What if I can't create accessible lists?
+Give me accessibility best practices with Excel
+This topic gives you step-by-step instructions and best practices for making your Excel spreadsheets accessible and unlock your content to everyone, including people with disabilities.
+You learn, for example, how to work with the Accessibility Checker to tackle accessibility issues while you're creating your spreadsheet. You'll also learn how to add alt texts to images so that people using screen readers are able to listen to what the image is all about. You can also read about how to create accessible tables and how to use templates, fonts, and colors to maximize the inclusiveness of your spreadsheets before sharing them with others.
+Windows
+macOS
+Office for iOS
+Office for Android
+Web
+In this topic
+Best practices for making Excel spreadsheets accessible
+Check accessibility while you work in Excel
+Create accessible tables
+Use an accessible template
+Add text to cell A1
+Add alt text to visuals
+Add accessible hyperlink text and ScreenTips
+Use accessible font format and color
+Create accessible charts
+Rename worksheets
+Delete blank worksheets
+Name cells and ranges
+Test the accessibility of your worksheets
+Best practices for making Excel spreadsheets accessible
+The following table includes key best practices for creating Excel spreadsheets that are accessible to people with disabilities.
+What to fix
+How to find it
+Why fix it
+How to fix it
+Avoid common accessibility issues such as missing alternative text (alt text) and low contrast colors.
+Use the
+Accessibility Checker
+.
+Make it easy for everyone to read your spreadsheet.
+Check accessibility while you work in Excel
+Use a simple table structure for data only, and specify column header information.
+To ensure that tables don't contain split cells, merged cells, or nested tables, use the
+Accessibility Checker
+.
+Visually scan your tables to check that they don't have any completely blank rows or columns.
+Screen readers keep track of their location in a table by counting table cells.
+Screen readers also use header information to identify rows and columns.
+Create accessible tables
+Add text to cell A1.
+Make sure that you have text in cell A1.
+Screen readers start reading any worksheet from cell A1.
+Add text to cell A1
+Include alt text with all visuals.
+To find all instances of missing alt text, use the
+Accessibility Checker
+.
+Alt text helps people who can't see the screen to understand what's important in images and other visuals.
+Add alt text to visuals
+Add meaningful hyperlink text and ScreenTips.
+To determine whether hyperlink text makes sense as standalone information and whether it gives readers accurate information about the destination target, visually scan the workbook.
+People who use screen readers sometimes scan a list of links.
+Add accessible hyperlink text and ScreenTips
+Use sufficient contrast for text and background colors.
+To find insufficient color contrast, use the
+Accessibility Checker
+.
+You can also look for text in your spreadsheet that's hard to read or to distinguish from the background.
+If your spreadsheet has a high level of contrast between text and background, more people can see and use the content.
+Use accessible font format and color
+Use an accessible template
+Give all worksheets unique names, and remove blank worksheets.
+To find out whether all sheets that contain content in a workbook have descriptive names and whether there are any blank sheets, use the
+Accessibility Checker
+.
+Screen readers read sheet names, which provide information about what is found on the worksheet, making it easier to understand the contents of a workbook and to navigate through it.
+Rename worksheets
+Delete blank worksheets
+Name cells and ranges.
+Visually scan your workbook to see which cells and ranges would benefit from having a name.
+When you name cells and ranges, screen reader users can quickly identify the purpose of cells and ranges.
+Name cells and ranges
+Top of Page
+Check accessibility while you work in Excel
+The Accessibility Checker is a tool that reviews your content and flags accessibility issues it comes across. It explains why each issue might be a potential problem for someone with a disability. The Accessibility Checker also suggests how you can resolve the issues that appear.
+In Excel, the Accessibility Checker runs automatically in the background when you're creating a document. If the Accessibility Checker detects accessibility issues, you will get a reminder in the status bar.
+To manually launch the Accessibility Checker, select
+Review
+>
+Check Accessibility
+. The
+Accessibility
+pane and the
+Accessibility
+ribbon open, and you can now review and fix accessibility issues. The
+Accessibility
+ribbon contains all the tools you need to create accessible spreadsheets in one place. For more info, go to
+Accessibility Ribbon
+and
+Improve accessibility with the Accessibility Checker
+.
+Top of Page
+Create accessible tables
+Tables can help you identify a set of data by name, and you can format the table using styles that make the data stand out. When you carefully name and format your table, you can be sure that everyone can understand your data.
+It is also important to specify column header information and use a simple table structure to make sure that screen reader users can navigate the tables easily.
+Name a table
+By default, Excel names the tables you create as Table1, Table2, Table3, and so on. To make it easier to refer to a table, give each table a descriptive name. A meaningful table name like "EmployeeList" is more helpful than the generic "Table1."
+With the descriptive name, you can, for example, quickly jump to the table with the
+Go To
+command (Ctrl+G) or the
+Name Manager
+dialog box. You can also easily refer to the table in formulas.
+Place the cursor anywhere in the table.
+On the
+Table Design
+tab, under
+Table Name
+, replace the default name, such as 'Table1,' with a more descriptive one.
+Note
+Table names must start with a letter, an underscore (_), or a backslash (\) and cannot contain spaces. For more info, see section "Important notes for names" in
+Rename an Excel table
+.
+Select an accessible table style
+Light colored tables with low contrast can be hard to read. To make your table more accessible, select a table style that has colors with a strong contrast. For example, choose a style that alternates between white and a dark color, such as black, dark grey, or dark blue.
+Place the cursor anywhere in the table.
+On the
+Table Design
+tab, in the
+Table Styles
+group, select the style you want.
+Use table headers
+Screen readers use header information to identify rows and columns. Clear table headers provide context and make navigating the table content easier.
+Place the cursor anywhere in a table.
+On the
+Table Design
+tab, in the
+Table Style Options
+group, select the
+Header Row
+checkbox.
+Type the column headings.
+For instructions on how to add headers to a new table, go to
+Create and format a table
+.
+Table structures to avoid
+Design your tables keeping in mind the following:
+Avoid blank cells, columns, and rows. When navigating using the keyboard, a blank cell, column, or row might lead a screen reader user to believe there is nothing more in the table.
+If there is no need for a blank cell, column, or row, consider deleting it.
+If you cannot avoid a blank cell, column, or row, enter text explaining that it is blank. For example, type
+N/A
+or
+Intentionally Blank
+.
+Avoid splitting or merging cells: Screen readers keep track of their location in a table by counting table cells. If a table is nested within another table or if a cell is merged or split, the screen reader loses count and can't provide helpful information about the table after that point. Merged or split cells can make navigating Excel tables with assistive technologies very difficult, if not impossible. Always keep your tables straightforward and simple. To ensure that tables don't contain split cells, merged cells, or nested tables, use the
+Accessibility Checker
+.
+Top of Page
+Use an accessible template
+Use one of the accessible Excel templates to make sure that your spreadsheet design, colors, contrast, and fonts are accessible for all audiences. The templates are also designed so that screen readers can more easily read the spreadsheet content.
+When selecting a template, look for a template that has several features that support accessibility. For example:
+Using enough white space makes the spreadsheet easier to read.
+Colors with contrast make them easier to tell apart for low vision and colorblind readers.
+Larger fonts are easier for low-vision users.
+Preset descriptive headings and labels make the spreadsheet easier to understand for users who navigate it with a screen reader.
+For the step-by-step instructions on how to use accessible templates, go to
+Video: Start with an accessible Excel template
+.
+Top of Page
+Add text to cell A1
+A screen reader starts reading any worksheet from cell A1. If you have a table on the worksheet, A1 should preferably be the title of the table.
+If the sheet is long or complex, add instructions or an overview of the sheet in cell A1. This will inform people who are blind what's being presented in your worksheet and how to use it. This instructional text can match the background color. This will hide it from people who can see, but allows it to be read by screen readers.
+Top of Page
+Add alt text to visuals
+Alt text helps people who can't see the screen to understand what's important in visual content. Visual content includes pictures, SmartArt graphics, shapes, groups, charts, pivot charts, embedded objects, ink, and videos. In alt text, briefly describe the image and mention its intent. Screen readers read the text to describe the image to users who can't see the image.
+Avoid using text in images as the sole method of conveying important information. If you must use an image with text in it, repeat that text in the document. In alt text, briefly describe the image and mention the existence of the text and its intent.
+Tip
+To write a good alt text, make sure to convey the content and the purpose of the image in a concise and unambiguous manner. The alt text shouldn't be longer than a short sentence or two—most of the time a few thoughtfully selected words will do. Do not repeat the surrounding textual content as alt text or use phrases referring to images, such as, "a graphic of" or "an image of." For more info on how to write alt text, go to
+Everything you need to know to write effective alt text
+.
+For the step-by-step instructions on how to add alt text, go to
+Add alternative text to a shape, picture, chart, SmartArt graphic, or other object
+.
+To find missing alt text, use the
+Accessibility Checker
+.
+Note
+For audio and video content, in addition to alt text, include closed captioning for people who are deaf or hard of hearing.
+Top of Page
+Add accessible hyperlink text and ScreenTips
+People who use screen readers sometimes scan a list of links. Links should convey clear and accurate information about the destination. For example, avoid using link texts such as "Click here," "See this page," "Go here," or "Learn more." Instead include the full title of the destination page. You can also add ScreenTips that appear when your cursor hovers over text or images that include a hyperlink.
+Tip
+If the title on the hyperlink's destination page gives an accurate summary of what's on the page, use it for the hyperlink text. For example, this hyperlink text matches the title on the destination page:
+Create more with Microsoft templates
+.
+For the step-by-step instructions on how to create hyperlinks and ScreenTips, go to
+Work with links in Excel
+.
+Top of Page
+Use accessible font format and color
+An accessible font doesn't exclude or slow down the reading speed of anyone reading a spreadsheet, including people with low vision or reading disability or people who are blind. The right font improves the legibility and readability of the spreadsheet.
+For instructions on how to change the default font, go to
+Change the font size
+.
+Use accessible font format
+Here are some ideas to consider:
+To reduce the reading load, select familiar sans serif fonts such as Arial or Calibri. Avoid using all capital letters and excessive italics or underlines.
+A person with a vision disability might miss out on the meaning conveyed by particular colors. For example, add an underline to color-coded hyperlink text so that people who are colorblind know that the text is linked even if they can't see the color.
+For headings, consider adding bold or using a larger font.
+Use accessible font color
+The text in your spreadsheet should be readable in a high contrast mode. For example, use bright colors or high-contrast color schemes on opposite ends of the color spectrum. White and black schemes make it easier for people who are colorblind to distinguish text and shapes.
+Here are some ideas to consider:
+To ensure that text displays well in a high contrast mode, use the
+Automatic
+setting for font colors. For instructions on how to change the font color, go to
+Format text in cells
+.
+Use the
+Accessibility Checker
+to analyze the spreadsheet and find insufficient color contrast. The tool now checks the documents for text color against page color, table cell backgrounds, highlight, textbox fill color, paragraph shading, shape and SmartArt fills, headers and footers, and links.
+Use an accessible template
+.
+Top of Page
+Create accessible charts
+Charts help make complex information easier to understand. To make charts accessible, use clear and descriptive language for the chart elements, such as the chart title, axis titles, and data labels. Also make sure their formatting is accessible.
+For instructions on how to add chart elements to your chart and make them accessible, go to
+Video: Create accessible charts in Excel
+.
+Format a chart element
+Select the chart element you want to format, for example, the chart title or data labels.
+Select the
+Format
+tab.
+Under the
+Current Selection
+group, select
+Format Selection
+. The
+Format
+pane opens to the right.
+Select the formatting options that make your chart element accessible, such as a larger font or well-contrasting colors.
+Top of Page
+Rename worksheets
+Screen readers read worksheet names, so make sure those labels are clear and descriptive. Using unique names for worksheets makes it easier to navigate the workbook.
+By default, Excel names worksheets as Sheet1, Sheet2, Sheet3, and so on, but you can easily rename them. For instructions on how to rename worksheets, go to
+Rename a worksheet
+.
+Top of Page
+Delete blank worksheets
+Screen readers read worksheet names, so blank worksheets might be confusing. Do not include any blank sheets in your workbooks.
+For instructions on how to delete worksheets, go to
+Insert or delete a worksheet
+.
+Top of Page
+Name cells and ranges
+Name cells and ranges so that screen reader users can quickly identify the purpose of cells and ranges in Excel worksheets. Users can use the
+Go To
+command (Ctrl+G) to open up a dialog box which lists all the defined names. By selecting a name, a user can quickly jump to the named location.
+Select the cell or range of cells that you want to name.
+Select
+Formulas
+>
+Define name
+.
+Enter the name and select
+OK
+.
+Note
+The name must start with a letter, an underscore (_), or a backslash (\) and cannot contain spaces.
+Top of Page
+Test the accessibility of your worksheets
+When your spreadsheet is ready and you've run the Accessibility Checker to make sure it is inclusive, you can try navigating the spreadsheet using a screen reader, for example, Narrator. Narrator comes with Windows, so there's no need to install anything. This is one additional way to spot issues in the navigation, for example.
+Start the screen reader. For example, to start Narrator, press Ctrl+Windows logo key+Enter.
+Press F6 until the focus, the blue rectangle, is on the worksheet table grid.
+Do the following to test your worksheets:
+Use the arrow keys to move between the cells in the table grid.
+To check the worksheet names in your spreadsheet, press F6 until the focus is on the name of the current worksheet, and then use the Left and Right arrow keys to hear the other worksheet names.
+If your worksheet contains floating shapes such images, press Ctrl+Alt+5. Then, to cycle through the floating shapes, press the Tab key. To return to the normal navigation, press Esc.
+Fix any accessibility issues you spotted when navigating with a screen reader.
+Exit the screen reader. For example, to exit Narrator, press Ctrl+Windows logo key+Enter.
+Note
+Also make sure that your worksheets can be easily read on a mobile phone. This not only benefits people who have low vision and use magnification, but it also benefits a very broad set of mobile phone users.
+Top of Page
+See also
+Rules for the Accessibility Checker
+Everything you need to know to write effective alt text
+Make your Word documents accessible to people with disabilities
+Make your PowerPoint presentations accessible to people with disabilities
+Make your Outlook email accessible to people with disabilities
+Make your OneNote notebooks accessible to people with disabilities
+Excel help & learning
+In this topic
+Best practices for making Excel spreadsheets accessible
+Check accessibility while you work in Excel
+Create accessible tables
+Use an accessible template
+Add text to cell A1
+Add alt text to visuals
+Add accessible hyperlink text and ScreenTips
+Use accessible font format and color
+Create accessible charts
+Rename worksheets
+Delete blank worksheets
+Name cells and ranges
+Test the accessibility of your worksheets
+Best practices for making Excel spreadsheets accessible
+The following table includes key best practices for creating Excel spreadsheets that are accessible to people with disabilities.
+What to fix
+How to find it
+Why fix it
+How to fix it
+Avoid common accessibility issues such as missing alternative text (alt text) and low contrast colors.
+Use the
+Accessibility Checker
+.
+Make it easy for everyone to read your spreadsheet.
+Check accessibility while you work in Excel
+Use a simple table structure for data only, and specify column header information.
+To ensure that tables don't contain split cells, merged cells, or nested tables, use the
+Accessibility Checker
+.
+Visually scan your tables to check that they don't have any completely blank rows or columns.
+Screen readers keep track of their location in a table by counting table cells.
+Screen readers also use header information to identify rows and columns.
+Create accessible tables
+Add text to cell A1.
+Make sure that you have text in cell A1.
+Screen readers start reading any worksheet from cell A1.
+Add text to cell A1
+Include alt text with all visuals.
+To find all instances of missing alt text, use the
+Accessibility Checker
+.
+Alt text helps people who can't see the screen to understand what's important in images and other visuals.
+Add alt text to visuals
+Add meaningful hyperlink text and ScreenTips.
+To determine whether hyperlink text makes sense as standalone information and whether it gives readers accurate information about the destination target, visually scan the workbook.
+People who use screen readers sometimes scan a list of links.
+Add accessible hyperlink text and ScreenTips
+Use sufficient contrast for text and background colors.
+To find insufficient color contrast, use the
+Accessibility Checker
+.
+You can also look for text in your spreadsheet that's hard to read or to distinguish from the background.
+If your spreadsheet has a high level of contrast between text and background, more people can see and use the content.
+Use accessible font format and color
+Use an accessible template
+Give all worksheets unique names, and remove blank worksheets.
+To find out whether all sheets that contain content in a workbook have descriptive names and whether there are any blank sheets, use the
+Accessibility Checker
+.
+Screen readers read sheet names, which provide information about what is found on the worksheet, making it easier to understand the contents of a workbook and to navigate through it.
+Rename worksheets
+Delete blank worksheets
+Name cells and ranges.
+Visually scan your workbook to see which cells and ranges would benefit from having a name.
+When you name cells and ranges, screen reader users can quickly identify the purpose of cells and ranges.
+Name cells and ranges
+Top of Page
+Check accessibility while you work in Excel
+The Accessibility Checker is a tool that reviews your content and flags accessibility issues it comes across. It explains why each issue might be a potential problem for someone with a disability. The Accessibility Checker also suggests how you can resolve the issues that appear.
+In Excel, the Accessibility Checker runs automatically in the background when you're creating a document. If the Accessibility Checker detects accessibility issues, you will get a reminder in the status bar.
+To manually launch the Accessibility Checker, select
+Review
+>
+Check Accessibility
+. The
+Accessibility
+pane and the
+Accessibility
+ribbon open, and you can now review and fix accessibility issues. The
+Accessibility
+ribbon contains all the tools you need to create accessible spreadsheets in one place. For more info, go to
+Accessibility Ribbon
+and
+Improve accessibility with the Accessibility Checker
+.
+Top of Page
+Create accessible tables
+Tables can help you identify a set of data by name, and you can format the table using styles that make the data stand out. When you carefully name and format your table, you can be sure that everyone can understand your data.
+It is also important to specify column header information and use a simple table structure to make sure that screen reader users can navigate the tables easily.
+Name a table
+By default, Excel names the tables you create as Table1, Table2, Table3, and so on. To make it easier to refer to a table, give each table a descriptive name. A meaningful table name like "EmployeeList" is more helpful than the generic "Table1."
+With the descriptive name, you can, for example, quickly jump to the table with the
+Go To
+command (Control+G) or the
+Name Manager
+dialog box. You can also easily refer to the table in formulas.
+Place the cursor anywhere in the table.
+On the
+Table
+tab, under
+Table Name
+, replace the default name, such as 'Table1,' with a more descriptive one.
+Note
+Table names must start with a letter, an underscore (_), or a backslash (\) and cannot contain spaces. For more info, see section "Important notes for names" in
+Rename an Excel table
+.
+Select an accessible table style
+Light colored tables with low contrast can be hard to read. To make your table more accessible, select a table style that has colors with a strong contrast. For example, choose a style that alternates between white and a dark color, such as black, dark grey, or dark blue.
+Place the cursor anywhere in the table.
+On the
+Table
+tab, in the table styles group, select the style you want.
+Use table headers
+Screen readers use header information to identify rows and columns. Clear table headers provide context and make navigating the table content easier.
+Place the cursor anywhere in a table.
+On the
+Table
+tab, in the table styles group, select the
+Header Row
+checkbox.
+Type the column headings.
+For instructions on how to add headers to a new table, go to
+Create and format a table
+.
+Table structures to avoid
+Design your tables keeping in mind the following:
+Avoid blank cells, columns, and rows. When navigating using the keyboard, a blank cell, column, or row might lead a screen reader user to believe there is nothing more in the table.
+If there is no need for a blank cell, column, or row, consider deleting it.
+If you cannot avoid a blank cell, column, or row, enter text explaining that it is blank. For example, type
+N/A
+or
+Intentionally Blank
+.
+Avoid splitting or merging cells: Screen readers keep track of their location in a table by counting table cells. If a table is nested within another table or if a cell is merged or split, the screen reader loses count and can't provide helpful information about the table after that point. Merged or split cells can make navigating Excel tables with assistive technologies very difficult, if not impossible. Always keep your tables straightforward and simple. To ensure that tables don't contain split cells, merged cells, or nested tables, use the
+Accessibility Checker
+.
+Top of Page
+Use an accessible template
+Use one of the accessible Excel templates to make sure that your spreadsheet design, colors, contrast, and fonts are accessible for all audiences. The templates are also designed so that screen readers can more easily read the spreadsheet content.
+When selecting a template, look for a template that has several features that support accessibility. For example:
+Using enough white space makes the spreadsheet easier to read.
+Colors with contrast make them easier to tell apart for low vision and colorblind readers.
+Larger fonts are easier for low-vision users.
+Preset descriptive headings and labels make the spreadsheet easier to understand for users who navigate it with a screen reader.
+To find an accessible template, select
+File
+>
+New from Template
+.
+In the
+Search
+text field, type
+accessible templates
+and press Return.
+In the search results, select a suitable template.
+Top of Page
+Add text to cell A1
+A screen reader starts reading any worksheet from cell A1. If you have a table on the worksheet, A1 should preferably be the title of the table.
+If the sheet is long or complex, add instructions or an overview of the sheet in cell A1. This will inform people who are blind what's being presented in your worksheet and how to use it. This instructional text can match the background color. This will hide it from people who can see, but allows it to be read by screen readers.
+Top of Page
+Add alt text to visuals
+Alt text helps people who can't see the screen to understand what's important in visual content. Visual content includes pictures, SmartArt graphics, shapes, groups, charts, pivot charts, embedded objects, ink, and videos. In alt text, briefly describe the image and mention its intent. Screen readers read the text to describe the image to users who can't see the image.
+Avoid using text in images as the sole method of conveying important information. If you must use an image with text in it, repeat that text in the document. In alt text, briefly describe the image and mention the existence of the text and its intent.
+Tip
+To write a good alt text, make sure to convey the content and the purpose of the image in a concise and unambiguous manner. The alt text shouldn't be longer than a short sentence or two—most of the time a few thoughtfully selected words will do. Do not repeat the surrounding textual content as alt text or use phrases referring to images, such as, "a graphic of" or "an image of." For more info on how to write alt text, go to
+Everything you need to know to write effective alt text
+.
+For the step-by-step instructions on how to add alt text, go to
+Add alternative text to a shape, picture, chart, SmartArt graphic, or other object
+.
+To find missing alt text, use the
+Accessibility Checker
+.
+Note
+For audio and video content, in addition to alt text, include closed captioning for people who are deaf or hard of hearing.
+Top of Page
+Add accessible hyperlink text and ScreenTips
+People who use screen readers sometimes scan a list of links. Links should convey clear and accurate information about the destination. For example, avoid using link texts such as "Click here," "See this page," "Go here," or "Learn more." Instead include the full title of the destination page. You can also add ScreenTips that appear when your cursor hovers over text or images that include a hyperlink.
+Tip
+If the title on the hyperlink's destination page gives an accurate summary of what's on the page, use it for the hyperlink text. For example, this hyperlink text matches the title on the destination page:
+Create more with Microsoft templates
+.
+For the step-by-step instructions on how to create hyperlinks and ScreenTips, go to
+Create or edit a hyperlink
+.
+Top of Page
+Use accessible font format and color
+An accessible font doesn't exclude or slow down the reading speed of anyone reading a spreadsheet, including people with low vision or reading disability or people who are blind. The right font improves the legibility and readability of the spreadsheet.
+For instructions on how to change the default font, go to
+Change the default font in Excel for Mac
+.
+Use accessible font format
+Here are some ideas to consider:
+To reduce the reading load, select familiar sans serif fonts such as Arial or Calibri. Avoid using all capital letters and excessive italics or underlines.
+A person with a vision disability might miss out on the meaning conveyed by particular colors. For example, add an underline to color-coded hyperlink text so that people who are colorblind know that the text is linked even if they can't see the color.
+For headings, consider adding bold or using a larger font.
+Use accessible font color
+The text in your spreadsheet should be readable in a high contrast mode. For example, use bright colors or high-contrast color schemes on opposite ends of the color spectrum. White and black schemes make it easier for people who are colorblind to distinguish text and shapes.
+Here are some ideas to consider:
+To ensure that text displays well in a high contrast mode, use the
+Automatic
+setting for font colors. For instructions on how to change the font color, go to
+Format text in cells
+.
+Use the
+Accessibility Checker
+to analyze the spreadsheet and find insufficient color contrast. The tool now checks the documents for text color against page color, table cell backgrounds, highlight, textbox fill color, paragraph shading, shape and SmartArt fills, headers and footers, and links.
+Use an accessible template
+.
+Top of Page
+Create accessible charts
+Charts help make complex information easier to understand. To make charts accessible, use clear and descriptive language for the chart elements, such as the chart title, axis titles, and data labels. Also make sure their formatting is accessible.
+For instructions on how to add chart elements to your chart and make them accessible, go to
+Create a chart in Excel for Mac
+and
+Video: Create accessible charts in Excel
+.
+Format a chart element
+Select the chart element you want to format, for example, the chart title or data labels.
+Select the
+Format
+tab.
+Select
+Format Pane
+. The pane opens to the right.
+Select the formatting options that make your chart element accessible, such as well-contrasting colors.
+Top of Page
+Rename worksheets
+Screen readers read worksheet names, so make sure those labels are clear and descriptive. Using unique names for worksheets makes it easier to navigate the workbook.
+By default, Excel names worksheets as Sheet1, Sheet2, Sheet3, and so on, but you can easily rename them.
+Do one of the following:
+Double-click the sheet tab, and type the new name.
+On the
+Home
+tab, select
+Format
+>
+Rename Sheet
+, and type the new name.
+Top of Page
+Delete blank worksheets
+Screen readers read worksheet names, so blank worksheets might be confusing. Do not include any blank sheets in your workbooks.
+Go to the worksheet you want to delete.
+On the
+Home
+tab, select
+Delete
+>
+Delete Sheet
+, and then select
+Delete
+to confirm the deletion.
+Top of Page
+Name cells and ranges
+Name cells and ranges so that screen reader users can quickly identify the purpose of cells and ranges in Excel worksheets. Users can use the
+Go To
+command (Control+G) to open up a dialog box which lists all the defined names. By selecting a name, a user can quickly jump to the named location.
+Select the cell or range of cells that you want to name.
+Select
+Formulas
+>
+Define name
+.
+Enter the name and select
+OK
+.
+Note
+The name must start with a letter, an underscore (_), or a backslash (\) and cannot contain spaces.
+Top of Page
+Test the accessibility of your worksheets
+When your spreadsheet is ready and you've run the Accessibility Checker to make sure it is inclusive, you can try navigating the spreadsheet using VoiceOver, the built-in macOS screen reader. This is one additional way to spot issues in the navigation, for example.
+To start VoiceOver, do one of the following:
+Press Command+F5.
+On the
+Apple
+menu, select
+System Preferences
+. Select
+Accessibility
+>
+VoiceOver
+, and then select the
+Enable VoiceOver
+checkbox.
+Put the focus to the worksheet table grid.
+Do the following to test your worksheets:
+Use the arrow keys to move between the cells in the table grid.
+To check the worksheet names in your spreadsheet, press Option+Right or Left arrow key to go to the next or previous worksheet and to hear its name. Check also that there are no blank sheets.
+To check that you have defined a descriptive and useful name for all tables and important cells in your worksheet, press Control+G and review the list in the
+Go To
+dialog box.
+Fix any accessibility issues you spotted when navigating with a screen reader.
+To exit VoiceOver, do one of the following:
+Press Command+F5.
+On the
+Apple
+menu, select
+System Preferences
+. Select
+Accessibility
+>
+VoiceOver
+, and then clear the
+Enable VoiceOver
+checkbox.
+Note
+Also make sure that your worksheets can be easily read on a mobile phone. This not only benefits people who have low vision and use magnification, but it also benefits a very broad set of mobile phone users.
+Top of Page
+See also
+Rules for the Accessibility Checker
+Everything you need to know to write effective alt text
+Make your Word documents accessible to people with disabilities
+Make your PowerPoint presentations accessible to people with disabilities
+Make your Outlook email accessible to people with disabilities
+Make your OneNote notebooks accessible to people with disabilities
+Excel help & learning
+In this topic
+Best practices for making Excel spreadsheets accessible
+Create accessible tables
+Add text to cell A1
+Add alt text to visuals
+Add accessible hyperlink text
+Use accessible font format and color
+Create accessible charts
+Rename worksheets
+Delete blank worksheets
+Test the accessibility of your worksheets
+Best practices for making Excel spreadsheets accessible
+The following table includes key best practices for creating Excel spreadsheets that are accessible to people with disabilities.
+What to fix
+Why fix it
+How to fix it
+Use a simple table structure for data only, and specify column header information.
+Screen readers keep track of their location in a table by counting table cells.
+Screen readers also use header information to identify rows and columns.
+Create accessible tables
+Add text to cell A1.
+Screen readers start reading any worksheet from cell A1.
+Add text to cell A1
+Include alternative text (alt text) with all visuals.
+Alt text helps people who can't see the screen to understand what's important in images and other visuals.
+Add alt text to visuals
+Add meaningful hyperlink text.
+People who use screen readers sometimes scan a list of links.
+Add accessible hyperlink text
+Use sufficient contrast for text and background colors.
+If your spreadsheet has a high level of contrast between text and background, more people can see and use the content.
+Use accessible font format and color
+Give all worksheets unique names, and remove blank worksheets.
+Screen readers read sheet names, which provide information about what is found on the worksheet, making it easier to understand the contents of a workbook and to navigate through it.
+Rename worksheets
+Delete blank worksheets
+Top of Page
+Create accessible tables
+Tables can help you identify a set of data by name, and you can format the table using styles that make the data stand out. When you carefully name and format your table, you can be sure that everyone can understand your data.
+It is also important to specify column header information and use a simple table structure to make sure that screen reader users can navigate the tables easily.
+Name a table
+By default, Excel names the tables you create as Table1, Table2, Table3, and so on. To make it easier to refer to a table, give each table a descriptive name. A meaningful table name like "EmployeeList" is more helpful than the generic "Table1."
+With the descriptive name, you can, for example, easily refer to the table in formulas. When table names are used, you can also quickly jump to the table with the
+Go To
+command in the Excel desktop app.
+Place the cursor anywhere in the table.
+In the toolbar at the bottom of the screen, select
+(Cards View).
+At the upper-right corner, select
+(Table settings).
+Tap the default table name, and replace it with a descriptive name.
+Note
+Table names must start with a letter, an underscore (_), or a backslash (\) and cannot contain spaces. For more info, see section "Important notes for names" in
+Rename an Excel table
+.
+Select an accessible table style
+Light colored tables with low contrast can be hard to read. To make your table more accessible, select a table style that has colors with a strong contrast. For example, choose a style that alternates between white and a dark color, such as black, dark grey, or dark blue.
+Place the cursor anywhere in the table.
+In the toolbar at the bottom of the screen, select
+(Show ribbon).
+Open the tab menu and select the
+Table
+tab.
+Select
+Table Styles
+, and then select the style you want.
+Use table headers
+Screen readers use header information to identify rows and columns. Clear table headers provide context and make navigating the table content easier.
+Add headers to an existing table
+Place the cursor anywhere in a table.
+In the toolbar at the bottom of the screen, select
+(Show ribbon).
+Open the tab menu and select the
+Table
+tab.
+Select
+Style Options
+, and then select
+Header Row
+.
+Type the column headings.
+Add headers to a new table
+Select the cells you want to include in the table.
+In the toolbar at the bottom of the screen, select
+(Show ribbon).
+Open the tab menu and select the
+Insert
+tab.
+Select
+Table
+.
+Turn on the
+Table has headers
+switch.
+Table structures to avoid
+Design your tables keeping in mind the following:
+Avoid blank cells, columns, and rows. When navigating using the keyboard, a blank cell, column, or row might lead a screen reader user to believe there is nothing more in the table.
+If there is no need for a blank cell, column, or row, consider deleting it.
+If you cannot avoid a blank cell, column, or row, enter text explaining that it is blank. For example, type
+N/A
+or
+Intentionally Blank
+.
+Avoid splitting or merging cells: Screen readers keep track of their location in a table by counting table cells. If a table is nested within another table or if a cell is merged or split, the screen reader loses count and can't provide helpful information about the table after that point. Merged or split cells can make navigating Excel tables with assistive technologies very difficult, if not impossible. Always keep your tables straightforward and simple.
+Top of Page
+Add text to cell A1
+A screen reader starts reading any worksheet from cell A1. If you have a table on the worksheet, A1 should preferably be the title of the table.
+If the sheet is long or complex, add instructions or an overview of the sheet in cell A1. This will inform people who are blind what's being presented in your worksheet and how to use it. This instructional text can match the background color. This will hide it from people who can see, but allows it to be read by screen readers.
+Top of Page
+Add alt text to visuals
+Alt text helps people who can't see the screen to understand what's important in visual content. Visual content includes pictures, shapes, groups, charts, embedded objects, ink, and videos. In alt text, briefly describe the image and mention its intent. Screen readers read the text to describe the image to users who can't see the image.
+Avoid using text in images as the sole method of conveying important information. If you must use an image with text in it, repeat that text in the document. In alt text, briefly describe the image and mention the existence of the text and its intent.
+Tip
+To write a good alt text, make sure to convey the content and the purpose of the image in a concise and unambiguous manner. The alt text shouldn't be longer than a short sentence or two—most of the time a few thoughtfully selected words will do. Do not repeat the surrounding textual content as alt text or use phrases referring to images, such as, "a graphic of" or "an image of." For more info on how to write alt text, go to
+Everything you need to know to write effective alt text
+.
+Note
+For audio and video content, in addition to alt text, include closed captioning for people who are deaf or hard of hearing.
+Select the visual.
+To open the
+Picture
+,
+Shape
+, or
+Chart
+tab, select
+(Show ribbon) in the toolbar at the bottom of the screen.
+Select
+Alt Text
+.
+Type the alt text in the
+Description
+field.
+Select
+Done
+.
+Top of Page
+Add accessible hyperlink text
+People who use screen readers sometimes scan a list of links. Links should convey clear and accurate information about the destination. For example, avoid using link texts such as "Click here," "See this page," "Go here," or "Learn more." Instead include the full title of the destination page.
+Tip
+If the title on the hyperlink's destination page gives an accurate summary of what's on the page, use it for the hyperlink text. For example, this hyperlink text matches the title on the destination page:
+Create more with Microsoft templates
+.
+Go to the cell where you want to add a hyperlink.
+In the toolbar at the bottom of the screen, select
+(Show ribbon).
+Open the tab menu and select the
+Insert
+tab.
+Select
+Link
+.
+In the
+ADDRESS
+field, type the destination URL.
+In the
+DISPLAY
+field, type the text that you want to display as the link text.
+Select
+Done
+.
+Top of Page
+Use accessible font format and color
+An accessible font doesn't exclude or slow down the reading speed of anyone reading a spreadsheet, including people with low vision or reading disability or people who are blind. The right font improves the legibility and readability of the spreadsheet.
+Use accessible font format
+Here are some ideas to consider:
+To reduce the reading load, select familiar sans serif fonts such as Arial or Calibri. Avoid using all capital letters and excessive italics or underlines.
+A person with a vision disability might miss out on the meaning conveyed by particular colors. For example, add an underline to color-coded hyperlink text so that people who are colorblind know that the text is linked even if they can't see the color.
+For headings, consider adding bold or using a larger font.
+Select the cells you want to format.
+In the toolbar at the bottom of the screen, select
+(Show ribbon).
+Open the tab menu and select the
+Home
+tab.
+Select the current font type to open the font menu, and then select the font type you want or adjust the font size to your liking.
+Use accessible font color
+The text in your spreadsheet should be readable in a high contrast mode. For example, use bright colors or high-contrast color schemes on opposite ends of the color spectrum. White and black schemes make it easier for people who are colorblind to distinguish text and shapes.
+Select the cells you want to format.
+In the toolbar at the bottom of the screen, select
+(Show ribbon).
+Open the tab menu and select the
+Home
+tab.
+Select
+Font Color
+, and then pick the font color you want.
+Top of Page
+Create accessible charts
+Charts help make complex information easier to understand. To make charts accessible, use clear and descriptive language for the chart elements, such as the chart title, axis titles, and data labels. Also make sure their formatting is accessible.
+Format a chart element
+Select the chart element you want to format, for example, the chart title.
+In the toolbar at the bottom of the screen, select
+(Show ribbon).
+Open the tab menu and select the
+Home
+tab.
+Select the formatting options that make your chart element accessible, such as a larger font or well-contrasting colors.
+Top of Page
+Rename worksheets
+Screen readers read worksheet names, so make sure those labels are clear and descriptive. Using unique names for worksheets makes it easier to navigate the workbook.
+By default, Excel names worksheets as Sheet1, Sheet2, Sheet3, and so on, but you can easily rename them.
+Tap a sheet tab, and then select
+Rename
+.
+Type a brief, unique name for the sheet.
+Top of Page
+Delete blank worksheets
+Screen readers read worksheet names, so blank worksheets might be confusing. Do not include any blank sheets in your workbooks.
+Tap a sheet tab.
+Swipe left in the context menu, and then select
+Delete Sheet
+.
+Select
+Delete
+to confirm the deletion.
+Top of Page
+Test the accessibility of your worksheets
+When your spreadsheet is ready, you can try a few things to make sure it is accessible:
+Switch to the full desktop or web version of Excel, and then run the Accessibility Checker. The Accessibility Checker is a tool that reviews your content and flags accessibility issues it comes across. It explains why each issue might be a potential problem for someone with a disability. The Accessibility Checker also suggests how you can resolve the issues that appear. For instructions, go to
+Improve accessibility with the Accessibility Checker
+.
+In the Excel for iOS app, you can try navigating the pages using the built-in screen reader, VoiceOver.
+To turn on VoiceOver, select
+Settings
+>
+Accessibility
+>
+VoiceOver
+, and then turn on the
+VoiceOver
+switch.
+To navigate the content on the spreadsheet, swipe left or right.
+Fix any accessibility issues you spotted when navigating with a screen reader.
+Top of Page
+See also
+Everything you need to know to write effective alt text
+Make your Word documents accessible to people with disabilities
+Make your PowerPoint presentations accessible to people with disabilities
+Make your Outlook email accessible to people with disabilities
+Make your OneNote notebooks accessible to people with disabilities
+Excel help & learning
+In this topic
+Best practices for making Excel spreadsheets accessible
+Create accessible tables
+Add text to cell A1
+Add alt text to visuals
+Add accessible hyperlink text
+Use accessible font format and color
+Create accessible charts
+Rename worksheets
+Delete blank worksheets
+Test the accessibility of your worksheets
+Best practices for making Excel spreadsheets accessible
+The following table includes key best practices for creating Excel spreadsheets that are accessible to people with disabilities.
+What to fix
+Why fix it
+How to fix it
+Use a simple table structure for data only, and specify column header information.
+Screen readers keep track of their location in a table by counting table cells.
+Screen readers also use header information to identify rows and columns.
+Create accessible tables
+Add text to cell A1.
+Screen readers start reading any worksheet from cell A1.
+Add text to cell A1
+Include alternative text (alt text) with all visuals.
+Alt text helps people who can't see the screen to understand what's important in images and other visuals.
+Add alt text to visuals
+Add meaningful hyperlink text.
+People who use screen readers sometimes scan a list of links.
+Add accessible hyperlink text
+Use sufficient contrast for text and background colors.
+If your spreadsheet has a high level of contrast between text and background, more people can see and use the content.
+Use accessible font format and color
+Give all worksheets unique names, and remove blank worksheets.
+Screen readers read sheet names, which provide information about what is found on the worksheet, making it easier to understand the contents of a workbook and to navigate through it.
+Rename worksheets
+Delete blank worksheets
+Top of Page
+Create accessible tables
+Tables can help you identify a set of data by name, and you can format the table using styles that make the data stand out. When you carefully name and format your table, you can be sure that everyone can understand your data.
+It is also important to specify column header information and use a simple table structure to make sure that screen reader users can navigate the tables easily.
+Name a table
+By default, Excel names the tables you create as Table1, Table2, Table3, and so on. To make it easier to refer to a table, give each table a descriptive name. A meaningful table name like "EmployeeList" is more helpful than the generic "Table1."
+With the descriptive name, you can, for example, easily refer to the table in formulas. When table names are used, you can also quickly jump to the table with the
+Go To
+command in the Excel desktop app.
+Place the cursor anywhere in the table.
+In the toolbar at the bottom of the screen, select
+(Cards View).
+At the upper-right corner, select
+(Table settings).
+Tap the default table name, and replace it with a descriptive name.
+Note
+Table names must start with a letter, an underscore (_), or a backslash (\) and cannot contain spaces. For more info, see section "Important notes for names" in
+Rename an Excel table
+.
+Select an accessible table style
+Light colored tables with low contrast can be hard to read. To make your table more accessible, select a table style that has colors with a strong contrast. For example, choose a style that alternates between white and a dark color, such as black, dark grey, or dark blue.
+Place the cursor anywhere in the table.
+In the toolbar at the bottom of the screen, select
+(More options).
+Open the tab menu and select the
+Table
+tab.
+Select
+Table Styles
+, and then select the style you want.
+Use table headers
+Screen readers use header information to identify rows and columns. Clear table headers provide context and make navigating the table content easier.
+Add headers to an existing table
+Place the cursor anywhere in a table.
+In the toolbar at the bottom of the screen, select
+(More options).
+Open the tab menu and select the
+Table
+tab.
+Select the
+Header Row
+option.
+Tip
+When the option is selected, it's gray.
+Type the column headings.
+Add headers to a new table
+Select the cells you want to include in the table.
+In the toolbar at the bottom of the screen, select
+(More options).
+Open the tab menu and select the
+Insert
+tab.
+Select
+Table
+.
+Select the
+Table has headers
+checkbox.
+Table structures to avoid
+Design your tables keeping in mind the following:
+Avoid blank cells, columns, and rows. When navigating using the keyboard, a blank cell, column, or row might lead a screen reader user to believe there is nothing more in the table.
+If there is no need for a blank cell, column, or row, consider deleting it.
+If you cannot avoid a blank cell, column, or row, enter text explaining that it is blank. For example, type
+N/A
+or
+Intentionally Blank
+.
+Avoid splitting or merging cells: Screen readers keep track of their location in a table by counting table cells. If a table is nested within another table or if a cell is merged or split, the screen reader loses count and can't provide helpful information about the table after that point. Merged or split cells can make navigating Excel tables with assistive technologies very difficult, if not impossible. Always keep your tables straightforward and simple.
+Top of Page
+Add text to cell A1
+A screen reader starts reading any worksheet from cell A1. If you have a table on the worksheet, A1 should preferably be the title of the table.
+If the sheet is long or complex, add instructions or an overview of the sheet in cell A1. This will inform people who are blind what's being presented in your worksheet and how to use it. This instructional text can match the background color. This will hide it from people who can see, but allows it to be read by screen readers.
+Top of Page
+Add alt text to visuals
+Alt text helps people who can't see the screen to understand what's important in visual content. Visual content includes pictures, graphics, shapes, groups, charts, embedded objects, ink, and videos. In alt text, briefly describe the image and mention its intent. Screen readers read the text to describe the image to users who can't see the image.
+Avoid using text in images as the sole method of conveying important information. If you must use an image with text in it, repeat that text in the document. In alt text, briefly describe the image and mention the existence of the text and its intent.
+Tip
+To write a good alt text, make sure to convey the content and the purpose of the image in a concise and unambiguous manner. The alt text shouldn't be longer than a short sentence or two—most of the time a few thoughtfully selected words will do. Do not repeat the surrounding textual content as alt text or use phrases referring to images, such as, "a graphic of" or "an image of." For more info on how to write alt text, go to
+Everything you need to know to write effective alt text
+.
+Note
+For audio and video content, in addition to alt text, include closed captioning for people who are deaf or hard of hearing.
+Select the visual.
+To open the
+Picture
+,
+Shape
+, or
+Chart
+tab, select
+(More options) in the toolbar at the bottom of the screen.
+Select
+Alt Text
+.
+Type a description.
+Top of Page
+Add accessible hyperlink text
+People who use screen readers sometimes scan a list of links. Links should convey clear and accurate information about the destination. For example, avoid using link texts such as "Click here," "See this page," "Go here," or "Learn more." Instead include the full title of the destination page.
+Tip
+If the title on the hyperlink's destination page gives an accurate summary of what's on the page, use it for the hyperlink text. For example, this hyperlink text matches the title on the destination page:
+Create more with Microsoft templates
+.
+Go to the cell where you want to add a hyperlink.
+In the toolbar at the bottom of the screen, select
+(More options).
+Open the tab menu and select the
+Insert
+tab.
+Select
+Link
+, and then select
+Insert Link
+.
+In the
+Text to display
+field, type the text that you want to display as the link text.
+In the
+Address
+field, type the destination URL.
+Select
+Insert
+.
+Top of Page
+Use accessible font format and color
+An accessible font doesn't exclude or slow down the reading speed of anyone reading a spreadsheet, including people with low vision or reading disability or people who are blind. The right font improves the legibility and readability of the spreadsheet.
+Use accessible font format
+Here are some ideas to consider:
+To reduce the reading load, select familiar sans serif fonts such as Arial or Calibri. Avoid using all capital letters and excessive italics or underlines.
+A person with a vision disability might miss out on the meaning conveyed by particular colors. For example, add an underline to color-coded hyperlink text so that people who are colorblind know that the text is linked even if they can't see the color.
+For headings, consider adding bold or using a larger font.
+Select the cells you want to format.
+In the toolbar at the bottom of the screen, select
+(More options).
+Open the tab menu and select the
+Home
+tab.
+Select the current font type to open the font menu, and then select the font type you want or adjust the font size to your liking.
+Use accessible font color
+The text in your spreadsheet should be readable in a high contrast mode. For example, use bright colors or high-contrast color schemes on opposite ends of the color spectrum. White and black schemes make it easier for people who are colorblind to distinguish text and shapes.
+Select the cells you want to format.
+In the toolbar at the bottom of the screen, select
+(More options).
+Open the tab menu and select the
+Home
+tab.
+Select
+Font Color
+, and then pick the font color you want.
+Top of Page
+Create accessible charts
+Charts help make complex information easier to understand. To make charts accessible, use clear and descriptive language for the chart elements, such as the chart title, axis titles, and data labels. Also make sure their formatting is accessible.
+Format a chart element
+Select the chart element you want to format, for example, the chart title.
+From the context menu, select the
+Edit Text
+.
+Select the formatting options that make your chart element accessible, such as a larger font or well-contrasting colors.
+Top of Page
+Rename worksheets
+Screen readers read worksheet names, so make sure those labels are clear and descriptive. Using unique names for worksheets makes it easier to navigate the workbook.
+By default, Excel names worksheets as Sheet1, Sheet2, Sheet3, and so on, but you can easily rename them.
+Tap and hold a sheet tab, and then select
+Rename
+.
+Type a brief, unique name for the sheet.
+Top of Page
+Delete blank worksheets
+Screen readers read worksheet names, so blank worksheets might be confusing. Do not include any blank sheets in your workbooks.
+Tap and hold a sheet tab, and then select
+Delete Sheet
+.
+Select
+Delete
+to confirm the deletion.
+Top of Page
+Test the accessibility of your worksheets
+When your spreadsheet is ready, you can try a few things to make sure it is accessible:
+Switch to the full desktop or web version of Excel, and then run the Accessibility Checker. The Accessibility Checker is a tool that reviews your content and flags accessibility issues it comes across. It explains why each issue might be a potential problem for someone with a disability. The Accessibility Checker also suggests how you can resolve the issues that appear. For instructions, go to
+Improve accessibility with the Accessibility Checker
+.
+In the Excel for Android app, you can try navigating the pages using the built-in screen reader, TalkBack.
+To turn on Talkback, select
+Settings
+>
+Accessibility
+>
+TalkBack
+, and then turn on the
+Use service
+switch.
+To navigate the content on the spreadsheet, swipe left or right.
+Fix any accessibility issues you spotted when navigating with a screen reader.
+Top of Page
+See also
+Everything you need to know to write effective alt text
+Make your Word documents accessible to people with disabilities
+Make your PowerPoint presentations accessible to people with disabilities
+Make your Outlook email accessible to people with disabilities
+Make your OneNote notebooks accessible to people with disabilities
+Excel help & learning
+In this topic
+Best practices for making Excel for the web spreadsheets accessible
+Check accessibility while you work in Excel
+Create accessible tables
+Use an accessible template
+Add text to cell A1
+Add alt text to visuals
+Add accessible hyperlink text
+Use accessible font format and color
+Create accessible charts
+Rename worksheets
+Delete blank worksheets
+Test the accessibility of your worksheets
+Best practices for making Excel for the web spreadsheets accessible
+The following table includes key best practices for creating Excel for the web spreadsheets that are accessible to people with disabilities.
+What to fix
+How to find it
+Why fix it
+How to fix it
+Avoid common accessibility issues such as missing alternative text (alt text) and low contrast colors.
+Use the
+Accessibility Checker
+.
+Make it easy for everyone to read your spreadsheet.
+Check accessibility while you work in Excel
+Use a simple table structure for data only, and specify column header information.
+To ensure that tables don't contain split cells, merged cells, or nested tables, use the
+Accessibility Checker
+.
+Visually scan your tables to check that they don't have any completely blank rows or columns.
+Screen readers keep track of their location in a table by counting table cells.
+Screen readers also use header information to identify rows and columns.
+Create accessible tables
+Add text to cell A1.
+Make sure that you have text in cell A1.
+Screen readers start reading any worksheet from cell A1.
+Add text to cell A1
+Include alt text with all visuals.
+To find all instances of missing alt text, use the
+Accessibility Checker
+.
+Alt text helps people who can't see the screen to understand what's important in images and other visuals.
+Add alt text to visuals
+Add meaningful hyperlink text.
+To determine whether hyperlink text makes sense as standalone information and whether it gives readers accurate information about the destination target, visually scan the workbook.
+People who use screen readers sometimes scan a list of links.
+Add accessible hyperlink text
+Use sufficient contrast for text and background colors.
+To find insufficient color contrast, use the
+Accessibility Checker
+.
+You can also look for text in your spreadsheet that's hard to read or to distinguish from the background.
+If your spreadsheet has a high level of contrast between text and background, more people can see and use the content.
+Use accessible font format and color
+Use an accessible template
+Give all worksheets unique names, and remove blank worksheets.
+To find out whether all sheets that contain content in a workbook have descriptive names and whether there are any blank sheets, use the
+Accessibility Checker
+.
+Screen readers read sheet names, which provide information about what is found on the worksheet, making it easier to understand the contents of a workbook and to navigate through it.
+Rename worksheets
+Delete blank worksheets
+Top of Page
+Check accessibility while you work in Excel
+The Accessibility Checker is a tool that reviews your content and flags accessibility issues it comes across. It explains why each issue might be a potential problem for someone with a disability. The Accessibility Checker also suggests how you can resolve the issues that appear.
+To launch the Accessibility Checker, select
+Review
+>
+Check Accessibility
+. The
+Accessibility
+pane opens, and you can now review and fix accessibility issues. For more info, go to
+Improve accessibility with the Accessibility Checker
+.
+Top of Page
+Create accessible tables
+Tables can help you identify a set of data by name, and you can format the table using styles that make the data stand out. When you carefully name and format your table, you can be sure that everyone can understand your data.
+It is also important to specify column header information and use a simple table structure to make sure that screen reader users can navigate the tables easily.
+Name a table
+By default, Excel names the tables you create as Table1, Table2, Table3, and so on. To make it easier to refer to a table, give each table a descriptive name. A meaningful table name like "EmployeeList" is more helpful than the generic "Table1."
+With the descriptive name, you can, for example, quickly jump to the table with the
+Go To
+command (Ctrl+G). You can also easily refer to the table in formulas.
+Note
+Table names must start with a letter, an underscore (_), or a backslash (\) and cannot contain spaces.
+For the step-by-step instruction on how to name a table, go to
+Rename an Excel table
+.
+Select an accessible table style
+Light colored tables with low contrast can be hard to read. To make your table more accessible, select a table style that has colors with a strong contrast. For example, choose a style that alternates between white and a dark color, such as black, dark grey, or dark blue.
+Place the cursor anywhere in the table.
+On the
+Table Design
+tab, in the
+Table Styles
+group, select the style you want.
+Use table headers
+Screen readers use header information to identify rows and columns. Clear table headers provide context and make navigating the table content easier.
+Add headers to a new table
+Select the cells you want to include in the table.
+Select the
+Insert
+tab and then
+Table
+.
+Do one of the following:
+If the selected range of cells contains data that you want to display as table headers, select the
+My table has headers
+checkbox.
+If the selected range of cells does not contain data that you want to display as table headers, do not select the
+My table has headers
+checkbox. Excel will create a new header row above the selected cells, with the default header names (
+Column1
+,
+Column2
+, and so on)
+Select
+OK
+.
+Replace the default header names with new, descriptive names.
+Add headers to an existing table
+Place the cursor anywhere in a table.
+On the
+Table Design
+tab, in the
+Table Style Options
+group, select the
+Header Row
+checkbox.
+Type the column headings.
+Table structures to avoid
+Design your tables keeping in mind the following:
+Avoid blank cells, columns, and rows. When navigating using the keyboard, a blank cell, column, or row might lead a screen reader user to believe there is nothing more in the table.
+If there is no need for a blank cell, column, or row, consider deleting it.
+If you cannot avoid a blank cell, column, or row, enter text explaining that it is blank. For example, type
+N/A
+or
+Intentionally Blank
+.
+Avoid splitting or merging cells: Screen readers keep track of their location in a table by counting table cells. If a table is nested within another table or if a cell is merged or split, the screen reader loses count and can't provide helpful information about the table after that point. Merged or split cells can make navigating Excel tables with assistive technologies very difficult, if not impossible. Always keep your tables straightforward and simple. To ensure that tables don't contain split cells, merged cells, or nested tables, use the
+Accessibility Checker
+.
+Top of Page
+Use an accessible template
+Use one of the accessible Excel templates to make sure that your spreadsheet design, colors, contrast, and fonts are accessible for all audiences. The templates are also designed so that screen readers can more easily read the spreadsheet content.
+When selecting a template, look for a template that has several features that support accessibility. For example:
+Using enough white space makes the spreadsheet easier to read.
+Colors with contrast make them easier to tell apart for low vision and colorblind readers.
+Larger fonts are easier for low-vision users.
+Preset descriptive headings and labels make the spreadsheet easier to understand for users who navigate it with a screen reader.
+In your browser, choose an accessible
+Excel template
+.
+Select
+Download
+. The template sampler is downloaded to your device.
+Open the sampler in the Excel desktop app, select the template you want to use, and then select
+Download template
+.
+A web page for the template opens. To open a new workbook with the selected template in Excel for the web, select
+Customize in Excel
+.
+Top of Page
+Add text to cell A1
+A screen reader starts reading any worksheet from cell A1. If you have a table on the worksheet, A1 should preferably be the title of the table.
+If the sheet is long or complex, add instructions or an overview of the sheet in cell A1. This will inform people who are blind what's being presented in your worksheet and how to use it. This instructional text can match the background color. This will hide it from people who can see, but allows it to be read by screen readers.
+Top of Page
+Add alt text to visuals
+Alt text helps people who can't see the screen to understand what's important in visual content. Visual content includes pictures, shapes, charts, pivot charts, ink, and videos. In alt text, briefly describe the image and mention its intent. Screen readers read the text to describe the image to users who can't see the image.
+Avoid using text in images as the sole method of conveying important information. If you must use an image with text in it, repeat that text in the document. In alt text, briefly describe the image and mention the existence of the text and its intent.
+Tip
+To write a good alt text, make sure to convey the content and the purpose of the image in a concise and unambiguous manner. The alt text shouldn't be longer than a short sentence or two—most of the time a few thoughtfully selected words will do. Do not repeat the surrounding textual content as alt text or use phrases referring to images, such as, "a graphic of" or "an image of." For more info on how to write alt text, go to
+Everything you need to know to write effective alt text
+.
+To find missing alt text, use the
+Accessibility Checker
+.
+Note
+For audio and video content, in addition to alt text, include closed captioning for people who are deaf or hard of hearing.
+Right-click the visual, and then select
+Alt Text
+to open the
+Alternative Text
+dialog box.
+In the
+Description
+text box, type 1-2 sentences to describe the visual and its context to someone who cannot see it.
+Note
+We recommend only putting text in the description field and leaving the title blank. This will provide the best experience with most major screen readers including Narrator.
+Tip
+To spell check and correct a word you typed, right-click the word and select from the suggested alternatives.
+Select
+OK
+.
+Top of Page
+Add accessible hyperlink text
+People who use screen readers sometimes scan a list of links. Links should convey clear and accurate information about the destination. For example, avoid using link texts such as "Click here," "See this page," "Go here," or "Learn more." Instead include the full title of the destination page.
+Tip
+If the title on the hyperlink's destination page gives an accurate summary of what's on the page, use it for the hyperlink text. For example, this hyperlink text matches the title on the destination page:
+Create more with Microsoft templates
+.
+For the step-by-step instructions on how to create hyperlinks, go to
+Work with links in Excel
+.
+Top of Page
+Use accessible font format and color
+An accessible font doesn't exclude or slow down the reading speed of anyone reading a spreadsheet, including people with low vision or reading disability or people who are blind. The right font improves the legibility and readability of the spreadsheet.
+Use accessible font format
+Here are some ideas to consider:
+To reduce the reading load, select familiar sans serif fonts such as Arial or Calibri. Avoid using all capital letters and excessive italics or underlines.
+A person with a vision disability might miss out on the meaning conveyed by particular colors. For example, add an underline to color-coded hyperlink text so that people who are colorblind know that the text is linked even if they can't see the color.
+For headings, consider adding bold or using a larger font.
+For the step-by-step instructions on how to change the font style and size, go to
+Change the font style and size for a worksheet
+.
+Use accessible font color
+The text in your spreadsheet should be readable in a high contrast mode. For example, use bright colors or high-contrast color schemes on opposite ends of the color spectrum. White and black schemes make it easier for people who are colorblind to distinguish text and shapes.
+Here are some ideas to consider:
+To ensure that text displays well in a high contrast mode, use the
+Automatic
+setting for font colors. For the step-by-step instructions on how to change the font color, go to
+Format text in cells
+.
+Use the
+Accessibility Checker
+to analyze the spreadsheet and find insufficient color contrast. The tool now checks the documents for text color against page color, table cell backgrounds, highlight, textbox fill color, paragraph shading, shape and SmartArt fills, headers and footers, and links.
+Use an accessible template
+.
+Top of Page
+Create accessible charts
+Charts help make complex information easier to understand. To make charts accessible, use clear and descriptive language for the chart elements, such as the chart title, axis titles, and data labels. Also make sure their formatting is accessible.
+For the step-by-step instructions on how to add chart elements to your chart and make them accessible, go to
+Add or remove titles in a chart
+and
+Video: Create accessible charts in Excel
+.
+Format a chart element
+Select the chart element you want to format, for example, the chart title or data labels.
+On the
+Chart
+tab, select
+Format
+. The
+Chart
+pane opens to the right, with the options available for the selected chart element.
+Select the formatting options that make your chart element accessible, such as a larger font or well-contrasting colors.
+Top of Page
+Rename worksheets
+Screen readers read worksheet names, so make sure those labels are clear and descriptive. Using unique names for worksheets makes it easier to navigate the workbook.
+By default, Excel names worksheets as Sheet1, Sheet2, Sheet3, and so on, but you can easily rename them. For the step-by-step instructions on how to rename worksheets, go to
+Rename a worksheet
+.
+Top of Page
+Delete blank worksheets
+Screen readers read worksheet names, so blank worksheets might be confusing. Do not include any blank sheets in your workbooks.
+For the step-by-step instructions on how to delete worksheets, go to
+Insert or delete a worksheet
+.
+Top of Page
+Test the accessibility of your worksheets
+When your spreadsheet is ready and you've run the Accessibility Checker to make sure it is inclusive, you can try navigating the spreadsheet using a screen reader, for example, Narrator. Narrator comes with Windows, so there's no need to install anything. This is one additional way to spot issues in the navigation, for example.
+Start the screen reader. For example, to start Narrator, press Ctrl+Windows logo key+Enter.
+Do the following to test your worksheets:
+Press Ctrl+F6 until the focus, the blue rectangle, is on the worksheet table grid. Use the arrow keys to move between the cells in the table grid.
+If your worksheet contains floating shapes such images, press Ctrl+F6 until the focus is on the worksheet table grid, and then press Ctrl+F6 one more time. You hear "Grid," and the focus is on one of the floating shapes. Then, to cycle through the floating shapes, press the Tab key or Shift+Tab. To return to the normal navigation, press Esc.
+To check the worksheet names in your spreadsheet, press Ctrl+F6 until the focus is on the name of the current worksheet, and then use the Tab key and Shift+Tab to hear the other worksheet names.
+Fix any accessibility issues you spotted when navigating with a screen reader.
+Exit the screen reader. For example, to exit Narrator, press Ctrl+Windows logo key+Enter.
+Note
+Also make sure that your worksheets can be easily read on a mobile phone. This not only benefits people who have low vision and use magnification, but it also benefits a very broad set of mobile phone users.
+Top of Page
+See also
+Rules for the Accessibility Checker
+Everything you need to know to write effective alt text
+Make your Word documents accessible to people with disabilities
+Make your PowerPoint presentations accessible to people with disabilities
+Make your Outlook email accessible to people with disabilities
+Make your OneNote notebooks accessible to people with disabilities
+Excel help & learning
+Technical support for customers with disabilities
+Microsoft wants to provide the best possible experience for all our customers. If you have a disability or questions related to accessibility, please contact the
+Microsoft Disability Answer Desk
+for technical assistance. The Disability Answer Desk support team is trained in using many popular assistive technologies and can offer assistance in English, Spanish, French, and American Sign Language. Please go to the Microsoft Disability Answer Desk site to find out the contact details for your region.
+If you are a government, commercial, or enterprise user, please contact
+the enterprise Disability Answer Desk
+.

@@ -1,0 +1,669 @@
+URL: https://support.microsoft.com/en-us/accessibility/windows/make-it-easier-to-focus-on-tasks
+Make it easier to focus on tasks
+Applies To
+Windows 11
+Windows 10
+Get help with Copilot
+How do I make it easier to focus on tasks?
+Show me how to customize the Widgets board.
+Show me how to configure Widgets settings.
+Windows 11
+Windows 10
+Windows offers many ways to minimize distractions so it's easier to focus on tasks. You can declutter your taskbar and simplify the
+Start
+menu, use
+Focus
+to manage your notifications and use the
+Immersive Reader
+to minimize visual distractions when reading a web page in Microsoft Edge.
+Don't be so animated
+You can minimize visual distractions by turning off animations, background images, and more. Follow below steps to minimize visual distractions:
+Select
+Start
+>
+Settings
+>
+Accessibility
+>
+Visual effects
+.
+To minimize distractions, adjust one or more of the following settings:
+To automatically hide the scrollbars in Windows, turn off the
+Always show scrollbars
+toggle.
+To make window backgrounds more opaque, turn off the
+Transparency effects
+toggle.
+If you don't want Windows to show animations, turn off the
+Animation effects
+toggle.
+To define how long notifications are shown, expand the
+Dismiss notifications after this amount of time
+dropdown  menu and select the option you want.
+Clean up taskbar clutter
+You can control which icons appear on the taskbar and reduce the number of items in view. Follow these steps:
+Go to
+Start
+>
+Settings
+>
+Personalization
+>
+Taskbar
+.
+Use the following options to manage your taskbar items:
+Taskbar items
+: Expand this section to control which icons appear on your taskbar.
+To choose whether to hide or adjust how the search item appears, use the
+Search
+dropdown menu.
+To show or hide the
+Task view
+, turn on or off the toggle.
+To show or hide the
+Widgets
+, turn on or off the toggle.
+System tray icons
+: Expand this section to manage the icons that appear on the system tray.
+To show or hide the
+Pen menu
+icon when the pen is in use, turn the toggle on or off.
+Use the
+Touch keyboard
+dropdown menu to choose whether to hide or show the Touch keyboard icon.
+To show or hide the
+Virtual touchpad
+, turn on or off the toggle.
+Other system tray icons
+: Expand this section to manage additional system tray icons.
+Switch the toggle on or off for hidden icons like Microsoft Teams, Microsoft Outlook, and Windows Explorer.
+Taskbar behaviors:
+Expand this section to manage taskbar alignment, badging, automatic hiding, and multiple displays.
+Use the dropdown menu to manage
+Taskbar alignment
+in the center or left.
+Select or unselect the checkbox to
+Automatically hide the taskbar
+,
+Show badges on the taskbar
+, and
+Show flashing on taskbar apps
+, as per your need.
+Help with taskbar
+: Expand this section and select the
+Changing taskbar color
+link to adjust the taskbar color.
+Simplify the Start menu
+You can select what to show in the Start menu—keeping distractions at a minimum and finding what you need quickly.
+Select
+Start
+>
+Settings
+>
+Personalization
+>
+Start
+.
+To simplify the
+Start
+menu, do one or more of the following:
+To show or hide recently added apps, switch the
+Show recently added apps
+toggle on or off.
+To show or hide the apps you use the most, switch the
+Show most used apps
+toggle  on or off.
+To show or hide your recently opened items, switch the
+Show recently opened items in Start, Jump Lists, and File Explorer
+toggle on or off.
+To select which folders are shown or hidden in the Start menu next to the
+Power
+button, select
+Folders
+, and turn on the toggles for the folders you want to see. Turn the toggles off for the folders you want to hide.
+Quiet down those notifications
+The
+Do not disturb
+setting allows you to define which notifications you see and hear and when you receive them. Notifications that are muted will still go to the Notification Center, where you can view them at any time.
+You can also customize the notifications settings to choose which apps can display notifications.
+Choose the notifications you want to see and hear
+Select
+Start
+>
+Settings
+>
+System
+>
+Notifications
+, then adjust the settings.
+To see and hear fewer notifications, turn on
+Do not disturb
+.
+If you want to allow notifications from certain apps even when
+Do not disturb
+is on, select
+Set priority notifications
+. Modify these options to get the notifications you want to see during
+Do not disturb
+.
+Tip
+To quickly switch
+Do not disturb
+on or off, go to the taskbar and select the battery, network, or volume icon to open the Notification Center, then turn it on or off.
+Limit late-night notifications
+Select
+Start
+>
+Settings
+>
+System
+>
+Notifications
+.
+In
+Turn on do not disturb automatically
+, select
+During these times
+to turn it on.
+Set the times for when
+Do not disturb
+should automatically turn on and off, and how often it should repeat.
+You can also choose the types of tasks that will turn on
+Do not disturb
+automatically.
+Choose which apps display notifications
+If notifications are distracting when they appear on your screen, adjust which apps display notifications and fine-tune how they appear.
+Select
+Start
+>
+Settings
+>
+System
+>
+Notifications
+.
+Under
+Notifications from apps and other senders
+, turn off the apps you don't want notifications from and turn on the apps you do want to get notifications from.
+To define where the notifications appear for each app, select a specific app, then change the options as desired.
+Use Focus to Manage Notifications
+Focus manages notifications to reduce distractions. You can turn it on to pause or silence alerts during meetings, gaming, or specific hours.
+Select
+Start
+>
+Settings
+>
+System
+>
+Focus
+.
+To initiate focus mode, select
+Start focus session
+.
+Under
+Focus
+, adjust the session duration using the
+⁠+⁠
+or
+⁠-⁠
+buttons.
+You can also select or unselect the checkboxes to
+Show the timer in the Clock app
+,
+Hide badges on taskbar apps
+,
+Hide flashing on taskbar apps
+, and
+Turn on do not disturb
+.
+To learn more about
+Focus
+, go to
+How to use focus in Windows 11
+.
+Setup Multitasking settings
+Multitasking lets you run several apps and tasks at once. Features like Snap Layouts, Task View, Virtual Desktops, and
+Alt
++
+Tab
+help you manage and switch between windows effortlessly.
+Select
+Start
+>
+Settings
+>
+System
+>
+Multitasking
+.
+Toggle the
+Snap windows
+switch on to automatically snap Windows for resizing and arranging them into layouts, then expand the
+Snap windows
+dropdown menu and select your desired option.
+To display tabs from apps when snapping or pressing
+Alt
++
+Tab
+, select an option from the dropdown menu:
+20 most recent tabs
+,
+5 most recent tabs
+,
+3 most recent tabs
+, or
+Don't show tabs
+.
+Expand the
+Desktops
+group to customize windows.
+To show all open windows on the taskbar, choose
+Only on the desktop I'm using
+or
+On all desktops
+from the dropdown menu.
+To show all open windows when pressing
+Alt
++
+Tab
+, choose
+Only on the desktop I'm using
+or
+On all desktops
+from the dropdown menu.
+To quickly minimize all open windows except the one you're working on, turn on the
+Title bar window shake
+toggle.
+Expand
+Help with Multitasking
+to access the following links:
+To learn more about splitting the screen, go to Snap your windows
+To learn more about task view, go to Windows 11 Multitasking Mastery.
+Windows Snapping
+Snap Assist allows you to quickly organize and align open Windows on your screen for efficient multitasking. It allows you to snap Windows into predefined layouts, making it easier to work with multiple apps simultaneously.
+Hover over the maximize button or press
+Windows
+logo key
++
+Z
+to view the available grid layout options and choose a layout for your window to snap to.
+After snapping a window to a specific layout, Snap Assist provides suggestions for other open Windows to fill the remaining spaces. Select a suggestion to snap it into place.
+Alternatively,
+Press the
+Windows
+logo key
++
+Left
+or
+Right arrow
+to snap a window to the left or right half of the screen.
+Press the
+Windows
+logo key
++
+Up
+or
+Down arrow
+to snap a window to the top or bottom of the screen.
+Switch between apps, tasks, and virtual desktops
+Windows allows you to switch between open apps, tasks, or virtual desktops. It is efficient for multitasking and improving the workflow.
+Switch between tasks
+To switch between currently running applications or tasks, follow these steps:
+Press and hold the
+Alt
+key, then press the
+Tab
+key to display all the open Windows.
+Continue to press the
+Tab
+key (while holding
+Alt
+) to cycle through the available applications and release the
+Alt
+key to switch to the selected window.
+Switch between windows
+To switch between individual windows of the same or different applications, follow these steps:
+Press the
+Windows
+logo key
++
+Tab
+to view all open windows, and then select the desired option using your mouse or arrow keys.
+Switch between Virtual Desktops
+To switch between multiple virtual desktops, follow these steps:
+Press the
+Windows
+logo key
++
+Tab
+to view all the open virtual desktops and then select the desired one.
+To create a new virtual desktop, select “New desktop.”
+Alternatively,
+Press the
+Ctrl
++
+Windows
+logo key
++
+Right
+or
+Left arrow
+key to navigate between the existing virtual desktops or create a new one.
+Read with fewer distractions
+To read a web page in a simpler and cleaner layout, use the
+Immersive Reader
+in Microsoft Edge. For more information on the
+Immersive Reader
+, go to
+Use Immersive Reader in Microsoft Edge
+. To start using the Immersive Reader, follow these steps:
+Open the web page you want to read in Microsoft Edge, and then press the
+Function
+key+
+F9
+.
+Alternatively, select
+More actions
+and choose
+Immersive Reader
+icon on the address bar.
+Tip
+If you don’t see the
+Enter Immersive Reader
+icon, select the text you want to read, right-click, and select
+Open selection in Immersive Reader
+.
+The page will open in a simplified layout. To customize the page display, use the options on the toolbar at the top of the page. For example, under
+Text preferences
+you can modify the background color using themes or change the font.
+To exit the
+Immersive Reader
+, select the
+Exit Immersive Reader
+icon on the address bar or press the
+Function
+key+
+F9
+.
+Have the web read aloud to you
+The Read Aloud feature in Microsoft Edge allows you to listen to web pages as audio, turning your browser into a personal audiobook. To use Read Aloud, follow the steps below:
+Open a webpage in Microsoft Edge and select the
+Read Aloud
+icon in the toolbar or right-click and select
+Read aloud
+from the context menu.
+You can also use
+Command
++
+Shift
++
+U
+to start or stop Read aloud.
+A toolbar will appear at the top of the browser window. You can pause, skip, adjust speed, or change the voice through the
+Voice options
+button. Choose from a variety of voices with different accents and tones.
+As the text is read, the words will be highlighted on the page, making it easy to follow along if you choose. You can switch between tabs or applications while Read Aloud continues narrating.
+See also
+Make Windows easier to see
+Make Windows easier to hear
+Windows offers many ways to minimize distractions so it's easier to focus on tasks. You can declutter your taskbar and simplify the Start menu, use
+Focus assist
+to manage your notifications, and use the
+Immersive Reader
+to minimize visual distractions when reading a web page in Microsoft Edge.
+Don't be so animated
+You can minimize visual distractions by turning off animations, background images, and more. Follow the below steps to simplify your display settings:
+Select
+Start
+, then select
+Settings
+>
+Ease of Access
+>
+Display
+.
+Choose from the following options to make Windows easier to see and less distracting:
+To adjust the text size, use the slider under
+Make text bigger
+. For details, see
+Change the size of text in Windows
+.
+To change the size of the apps and text on the main display, select the desired size from the combo box under
+Make everything bigger
+.
+Note
+The recommended size is 100%.
+Select the
+Change the size of the apps and text on other displays
+link to change the size of apps and texts on other displays.
+To adjust the size and color of your cursor and mouse pointer, select the relatedlink.
+You can also set the brightness or enable the night light feature for comfortable viewing. Find this option by selecting the
+Change brightness automatically or use night light
+link.
+Note
+For more information on the above steps, visit
+Make Windows easier to see
+.
+To simplify and personalize Windows, explore the following options:
+Turn on or off the
+Show animations in Windows
+toggle.
+Turn on or off the
+Show transparency in Windows
+toggle.
+Turn on or off the
+Automatically hide scroll bars in Windows
+toggle.
+To set the timing for notifications to appear, follow the steps in the ‘Make notifications stick around longer’ section of
+Make Windows easier to hear
+.
+Turn on or off the
+Show desktop background image
+toggle.
+To personalize your background and other colors, select the related link.
+Clean up taskbar clutter
+Choose which icons appear on the taskbar and reduce the number of items in view.
+Select
+Start
+, then select
+Settings
+>
+Personalization
+>
+Taskbar
+.
+Go to the
+Notification area
+, and choose
+Select which icons appear on the taskbar
+.
+System icons, like the clock and battery indicator, can also be turned on or off. Choose
+Turn system icons on or off
+in the Notification area.
+Simplify the Start menu
+Many apps use Live Tiles to show updates on what's happening in your world, like new email, your next appointment, or the weekend weather. If these animations are distracting, you can turn them off.
+Press and hold (or right-click) a tile, and then select
+More
+>
+Turn Live Tile off
+.
+Quiet down those notifications
+Focus assist (also called quiet hours in earlier versions of Windows 10) allows you to avoid distracting notifications when you need to stay focused. It's set by default to activate automatically under certain conditions.
+Here's how to turn focus assist on or off:
+Select the
+Action Center
+icon on the taskbar.
+Select
+Focus assist
+to cycle through the available settings: either
+Priority only
+,
+Alarms only
+, or
+Off
+. (If you don't see the
+Focus assist
+tile, you may need to select
+Expand
+first.)
+Focus assist settings can be edited by selecting
+Start
+>
+Settings
+>
+System
+>
+Focus assist
+. Or you can type
+Focus assist
+into the search box
+on the taskbar, and then select
+Focus assist settings
+from the list of results.
+In the Focus assist settings, you can limit late-night notifications using the
+Automatic rules
+section. To do that, select
+During these times
+and turn on the toggle. Then, select
+Start time
+or
+End time
+, pick a time, and select the check mark
+to save your changes. You can also choose what days you want to apply the rule, and what types of notifications you'd still like to receive during the times you set.
+Open focus assist settings
+If notifications are distracting when they appear on your screen, adjust which apps display notifications and fine-tune how they appear. To change notification settings, select
+Start
+, then select
+Settings
+>
+System
+>
+Notifications & actions
+. You can then choose which types of notifications you want to see.
+Setup Multi-tasking settings
+Multitasking lets you run several apps and tasks at once. Features like Snap Layouts, Task View, Virtual Desktops, and
+Alt
++
+Tab
+help you manage and switch between windows effortlessly.
+Select
+Start
+>
+Settings
+>
+System
+>
+Multi-tasking
+.
+Toggle on the
+Snap windows
+switch to automatically snap windows for resizing and arranging them into layouts and select the check box to customize your preferences.
+To show the suggestions in your timeline, switch the
+Timeline
+toggle on or off.
+To display tabs from apps when snapping or pressing
+Alt
++
+Tab
+, select an option from the dropdown menu.
+Expand the
+Virtual desktops
+to customize windows.
+To show all open windows on the taskbar, choose either
+Only on the desktop I'm using
+or
+All desktops
+from the dropdown menu.
+To show all open windows when pressing
+Alt
++
+Tab
+, choose either
+Only on the desktop I'm using
+or
+All desktops
+from the dropdown menu.
+To learn more about splitting the screen, select the
+Splitting My Screen
+link.
+To learn more about task view, select the
+Using Task View
+link.
+Windows Snapping
+Snap Assist allows you to quickly organize and align open Windows on your screen for efficient multitasking. It allows you to snap Windows into predefined layouts, making it easier to work with multiple apps simultaneously.
+Drag a window to the left or right edge of the screen to snap it to that half of the screen.
+Alternatively, press the
+Windows
+logo key
++
+Left
+or
+Right arrow
+to snap a window to the left or right half of the screen.
+After snapping a window to a specific position/layout, Snap Assist provides suggestions for other open Windows to fill the remaining spaces. Select a suggestion to snap it into place.
+Switch between apps, tasks, and virtual desktops
+The Windows switcher allows you to switch between the open apps, tasks, or virtual desktops. It is efficient for multitasking and improving the workflow.
+Switch between tasks
+To switch between currently running applications or tasks, follow these steps:
+Press and hold the
+Alt
+key, then press the
+Tab
+key to display all the open Windows.
+Continue to press the Tab key (while holding
+Alt
+) to cycle through the available applications and release the Alt key to switch to the selected window.
+Switch between windows
+To switch between individual windows of the same or different applications, follow these steps:
+Press the
+Windows
+logo key
++
+Tab
+to view all open windows, and then select the desired option using your mouse or arrow keys.
+Switch between Virtual Desktop
+To switch between multiple virtual desktops, follow these steps:
+Press the
+Windows
+logo key
++
+Tab
+to view all the open virtual desktops and then select the desired one.
+To create a new virtual desktop, select “New desktop.”
+Alternatively, press the
+Ctrl
++
+Windows
+logo key+
+Right
+or
+Left arrow
+key to navigate between the existing virtual desktops or create a new one.
+Read with fewer distractions
+For a clean and simple layout, use
+Reading view
+in the Microsoft Edge browser address bar to bring whatever you're reading front and center. After you open an article, you'll see a book icon
+on the right side of your browser. When you select it, you'll be in reading view.
+Have the web read aloud to you
+The Read Aloud feature in Microsoft Edge allows you to listen to web pages as audio, turning your browser into a personal audiobook. To use Read Aloud, follow the steps below:
+Open a webpage in Microsoft Edge, select
+More actions
+and choose the
+Read aloud
+or right-click and select
+Read aloud
+from the context menu.
+You can also use
+Command
++
+Shift
++
+U
+to start or stop Read aloud.
+A toolbar will appear at the top of the browser window. You can pause, skip, adjust speed, or change the voice through the
+Voice options
+button. Choose from a variety of voices with different accents and tones.
+As the text is read aloud, the words will be highlighted on the page, making it easy to follow along if you choose. You can switch between tabs or applications while Read Aloud continues narrating.
+See also
+Make Windows easier to see
+Make Windows easier to hear

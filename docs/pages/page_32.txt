@@ -1,0 +1,43 @@
+URL: https://support.microsoft.com/en-us/accessibility/teams/5-tips-for-using-teams-when-you-re-deaf-or-hard-of-hearing
+5 tips for using Teams when you're deaf or hard of hearing
+If you're deaf or hard of hearing, Microsoft Teams, has great accessibility features for ensuring you can get the most of out of your experience. The following five tips will hopefully help you get started!
+Tip 1: Turn on live captions
+Teams can detect what's being said in a meeting and present real-time captions.
+To use live captions in a meeting, go to your meeting controls and select
+More options
+>
+Turn on live captions (preview)
+.
+For more information on live captions, see
+Use live captions in a Teams meeting
+Tip 2: Pin important people in your meetings
+If you're using a sign language interpreter in your meetings, you can pin their video on your screen so it's always visible regardless of who is talking.
+To pin a video, right-click on the video and select
+Pin
+.
+Tip 3: Use the shortcut to quickly turn your camera on or off
+To make signing and lip reading as easy as possible, you can toggle your camera on or off by pressing
+Ctrl
++
+Shift
++
+O
+.
+Tip 4: Access meeting recordings and transcripts
+After a meeting or live event, you can refer to recordings and transcripts for a record of what was discussed.
+For more information on meeting recordings, see
+Play and share a meeting recording in Teams
+.
+Tip 5: Pop out the meeting into a separate window
+Popping out the meeting into a separate window lets you still use Teams to chat and browse meeting related documents.
+To have meetings open in separate windows, go to
+Settings
+>
+General
+, and make sure that the
+Turn on new meeting experience
+setting is enabled.
+See also
+Change your profile photo
+Best practices for setting up and running a Teams meeting or Live event for the deaf and hard of hearing
+Keyboard shortcuts for Microsoft Teams

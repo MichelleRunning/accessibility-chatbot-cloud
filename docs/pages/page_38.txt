@@ -1,0 +1,113 @@
+URL: https://support.microsoft.com/en-us/accessibility/windows/voice-access/set-up-voice-access
+Set up voice access
+Get help with Copilot
+Tell me how to start voice access from settings.
+Show me how use my screen reader with voice access.
+How can I download language files?
+This article is for people who want to control their PC and author text using their voice with Windows. This article is part of the
+Accessibility support for Windows
+content set where you can find more information on Windows accessibility features. For general help, visit
+Microsoft Support home
+.
+To complete the initial set up voice access in Windows, you need an internet connection. For a list of voice access commands, go to
+Voice access command list
+.
+Voice access is a feature in Windows 11 that enables everyone to control their PC and author text using only their voice and without an internet connection. For example, you can open and switch between apps, browse the web, and read and author email using your voice. For more information, go to
+Use voice access to control your PC & author text with your voice
+.
+Voice access is available in Windows 11, version 22H2 and later. For more information on Windows 11 22H2 new features, and how to get the update, see
+What's new in recent Windows updates
+. Not sure which version of Windows you have? See:
+Find Windows version
+.
+In this topic
+Launch voice access
+Download language files
+Launch voice access
+You can launch voice access from
+Settings
+or by using Windows search.
+Start voice access from Settings
+In the Start menu, select
+Settings
+Accessibility
+Speech
+.
+Turn on the
+Voice access
+switch.
+Tip
+If you want to automatically launch voice access every time you start your computer, select the “
+Start voice access before you sign in to your PC
+” or “
+Start voice access after you sign into your PC”
+checkboxes.
+Start voice access from Windows search
+Open Windows search and type
+voice access
+.
+Select
+Open
+to start voice access.
+Tip
+Select
+Pin to Start
+or
+Pin to taskbar
+to make voice access quicker to find in the future.
+Download language files
+Voice access is currently available in the following languages and dialects: English–US, English–UK, English–India, English–New Zealand, English–Canada, English–Australia, Spanish–Spain, Spanish–Mexico, German–Germany, French–France, French–Canada, Simplified Chinese–China, Traditional Chinses–Taiwan, Japanese, and Italian.
+When you open voice access for the first time, you’ll see a welcome screen that explains how the feature works and what it needs to help you get started. Reviewing this information helps you understand how your microphone and speech are used so you can make an informed choice before continuing.
+On this screen, select your preferred
+language
+for voice access. If you display language isn't supported, you can still select from the list of supported languages in voice access and use it.
+When you select
+Agree and continue
+, voice access begins downloading the required language files for the selected language to be used by on-device speech recognition. You’ll need an
+internet connection
+to complete this step. The download happens on the same screen and may take a few minutes. You can
+cancel or exit setup at any time
+. If you exit before the download finishes, you’ll need to restart the setup process the next time you open voice access.
+If you want to learn more before downloading, select the
+More about voice access
+and
+Microsoft Privacy Statement
+links.
+You can switch to a different language at any time from
+Voice access settings
+Languages
+.
+After the language model finishes downloading, you’ll see the
+Setup microphone
+screen. This step helps ensure voice access can hear you clearly and is using the microphone you prefer.
+At this point, voice access is ready to use. As long as a default microphone is selected, you can exit setup and start using voice access immediately. When voice access is active, you’ll see the
+Voice access bar
+at the top of your screen.
+On this page, you can confirm that a microphone is connected and set a default input device for voice access. If you have multiple microphones, you can choose a different one, add a new device, or open Sound settings to make changes.
+If you select
+Continue
+, you’ll be guided through a short interactive guide that shows you how to start controlling your PC with your voice. This step is optional – whether you continue or exit, you can begin using voice access right away. For more information, refer to
+Getting started with voice access
+.
+Note
+Use of the microphone by voice access is controlled by your privacy settings. To check that microphone use is allowed, navigate to
+Settings
+Privacy & security
+Microphone
+Let apps access your microphone
+Let desktop apps access your microphone
+.
+See also
+Dictate text with voice
+Get started with voice access
+Use voice to work with windows and apps
+Using the mouse with voice
+Use voice to interact with items on the screen
+Use the keyboard with voice
+Technical support for customers with disabilities
+Microsoft wants to provide the best possible experience for all our customers. If you have a disability or questions related to accessibility, please contact the
+Microsoft Disability Answer Desk
+for technical assistance. The Disability Answer Desk support team is trained in using many popular assistive technologies and can offer assistance in English, Spanish, French, and American Sign Language. Please go to the Microsoft Disability Answer Desk site to find out the contact details for your region.
+If you are a government, commercial, or enterprise user, please contact
+the enterprise Disability Answer Desk
+.

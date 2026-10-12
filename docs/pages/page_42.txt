@@ -1,0 +1,26 @@
+URL: https://support.microsoft.com/en-us/word/dictate-in-microsoft-365
+Dictate in Microsoft 365
+Applies To
+Word for Microsoft 365
+Outlook for Microsoft 365
+PowerPoint for Microsoft 365
+Word for Microsoft 365 for Mac
+PowerPoint for Microsoft 365 for Mac
+Word for iPhone
+Word for Android phones
+Get help with Copilot
+Can you show me how to dictate in Microsoft 365 in Word?
+What if I can't learn more about Word?
+How do I remove wordart in Word?
+Dictation lets you use speech-to-text to author content in Office with a microphone and reliable internet connection. Use your voice to quickly create documents, emails, notes, presentations, or even slide notes.
+Note
+These steps apply to the desktop versions of Word, Excel, Outlook, and PowerPoint in Microsoft 365 or supported perpetual versions. Features in the web or mobile apps may differ.
+Available Help Articles by App
+Dictate your documents in Word for Windows and MacOS
+Dictate your documents in Word for the Web
+Dictate your documents in Word Mobile
+Dictate your emails in Outlook for Windows and MacOS
+Dictate your notes in OneNote
+Dictate your presentations and slide notes in PowerPoint
+To get a sense of how it works, see the video below:
+Dictation feedback and requests can be sent via in-app feedback or via 'Was this information helpful?' below.

@@ -1,0 +1,1966 @@
+URL: https://support.microsoft.com/en-us/accessibility/teams/quick-start-guide-using-microsoft-teams-with-a-screen-reader
+Quick Start Guide: Using Microsoft Teams with a screen reader
+Applies To
+Microsoft Teams
+This article is for people who use a screen reader program such as Windows Narrator, JAWS, or NVDA with Windows tools or features and Microsoft 365 products. This article is part of the
+Accessibility help & learning
+content set where you can find more accessibility information on our apps. For general help, visit
+Microsoft Support
+.
+If your company or organization has just moved to Microsoft Teams or plans to do so soon, you're in the right place! Perhaps you've never used Microsoft Teams and are wondering how it handles the everyday communication and collaboration tasks you already know how to do with another app. We are here to guide you through this quick start guide to get you navigating this feature-packed tool seamlessly.
+Microsoft Teams is part of Microsoft 365 and has been designed to bring people, conversations, and content together in one convenient interface. Chat with people, make video and audio calls, and schedule and attend online meetings.
+Chat is at the center of everything you do in Microsoft Teams. This feature allows you to communicate one-on-one with one or multiple participants. You can use text, emojis, stickers, and gifs to express yourself and share links and files. In Teams, there are three types of chats: One-on-one chats, to connect with people individually, group chats, to speak with a group of people.
+What exactly is a Team anyway? A Team is a group of co-workers that collaborate on a project together. You might end up on more than one if you are working on multiple projects. Within each Team are "channels" to keep the discussions organized. For example, you work for a company with various clients. Each client project might be set up with its own Team. That team could then have a general channel for announcements and communication, separate channels for people who work on Product A and Product B, one channel for casual chatter, and so on. Microsoft Teams also stores files related to discussions so that they are easily accessible. If Bob shares a PowerPoint presentation on his team channel, it can be opened directly from that channel – no need to go hunting on a network drive or dig through your email. This powerful tool allows you to customize your workspace and set up a Team in a way that works best for you.
+Read on for details and other resources to learn how to do some of the most important tasks in Teams with your computer or device.
+Windows
+macOS
+iOS
+Android
+Web
+Use Microsoft Teams with your keyboard and a screen reader.
+Note
+To learn more about screen readers, go to
+How screen readers work with Microsoft 365
+.
+In this topic
+Open Microsoft Teams
+Send and receive private chats
+Start and reply to posts
+Change your status
+Make and receive calls
+Join a meeting
+Share your desktop in a meeting
+Open Microsoft Teams
+Follow these instructions to open and sign in to Microsoft Teams:
+Press the
+Windows
+key and type
+Teams
+.
+You hear "Microsoft Team app." To open the app, press
+Enter
+.
+Type
+your email
+,
+phone
+, or
+Skype name
+when your screen reader asks you to log in.
+Press the
+Tab
+key until you reach the
+Next
+button, and then press
+Enter
+.
+You're prompted to select the sign-in account and method you want to use. Press the
+Tab
+key until you find the desired option, then press
+Enter
+.
+Depending on the sign-in method, follow the prompts as your screen reader announces them. For example, type
+your password,
+or select your smart card certificate, type the PIN code, and then press
+Enter
+. If needed, press the
+Tab
+key until you reach the
+Sign in
+button, and then press
+Enter
+.
+Send and receive private chats
+Chats in Microsoft Teams are private conversations between specific people or groups. Follow these steps to learn how to start, read, and reply to chats:
+Read chats
+Follow these instructions to read chats:
+Press
+Ctrl
++
+2
+to open the
+Chat
+app.
+Note
+The key number ‘2' signifies the sequential position of the
+Chat
+app within the app bar. This position may vary depending on the individual setup.
+Press the
+Up
+or
+Down arrow
+key until you find the chat you want.
+Press the
+Spacebar
+or
+Ctrl
++
+M
+to read the latest message(s) in the selected chat.
+Use the
+Up
+and
+Down arrow
+keys to move between the messages.
+Press the
+Esc
+or
+Ctrl
++
+L
+key to return to the chat list.
+Reply to chats
+Follow these instructions to reply to chats:
+Press
+Ctrl
++
+2
+to open the
+Chat
+app.
+Note
+The key number ‘2' signifies the sequential position of the
+Chat
+app within the app bar. This position may vary depending on the individual setup.
+Use the
+Up
+or
+Down arrow
+key until you hear the name of the contact or group you want to chat with, followed by the last message in the chat.
+Press
+Enter
+or
+Ctrl
++
+R
+to move the focus to the
+Type a message
+box and type
+your message
+.
+Press
+Enter
+again to send the message.
+Press
+Ctrl
++
+M
+to navigate to the list of chat messages.
+Press the
+Esc
+or
+Ctrl
++
+L
+key to return to the chats list.
+Start a new chat
+Follow these instructions to start a new chat:
+To start a new chat, press
+Ctrl
++
+N
+.
+Type the
+name of the person
+you want to chat with in the
+To
+box. The suggestions will appear in the list as you start typing.
+Navigate through the suggestions using the
+Down
+and
+Up
+arrow keys.
+Select the contact by pressing
+Enter
+.
+Note
+To start a group chat, select the name of the required participants in the
+To
+box. Optionally, you can give the group a name in the
+Group name
+box.
+Press
+Tab
+to jump to the
+Type a message
+box.
+Type
+your message
+and press
+Enter
+again to send the message.
+Start and reply to posts
+You can post in Team channels and these posts are visible to everyone in that Team.
+Read posts in a channel
+Follow these instructions to read posts in a channel:
+Press
+Ctrl
++
+2
+to open the
+Chat
+app.
+Note
+The key ‘2' signifies the sequential position of the
+Chat
+app within the app bar. This position may vary depending on individual setup.
+Press the
+Tab
+key once and then use the
+Up
+or
+Down arrow
+key until you hear “Teams and channels, collapsed, selected.”
+Note
+If you do not see your teams, navigate to the Filter options toolbar and press
+Enter
+when you hear “Channels.”
+Press
+Enter
+to access the teams you've been added to. Use the
+Up
+or
+Down arrow
+key to navigate and press
+Enter
+on the desired team to expand or collapse a team's list of channels.
+Use the
+Up
+and
+Down
+arrow keys to navigate to the channel you want to follow.
+After you have reached the desired channel, press
+Enter
+to display and navigate to channel’s posts. The focus will move to the latest post in that channel.
+Use the
+Up
+and
+Down arrow
+keys to browse the channel's posts.
+Navigate and read replies
+To open the post, press
+Enter
+. You hear the main post.
+To engage with the post, press
+Enter
+. You will now be able to move through the main post and replies.
+To navigate the post replies, press the
+Up
+or
+Down arrow
+key. Your screen reader reads the post and replies as you move through it.
+To move the focus back to the main post, press
+Esc
+.
+To leave the post, press
+Esc
+again.
+Reply to posts
+While reading a post, regardless of the number of replies, press
+Ctrl
++
+R
+.
+Alternatively, press
+Enter
+on the post and then use the
+Down arrow
+key until you hear the "Reply in thread button." Press
+Enter
+.
+Type
+your reply
+and press
+Enter
+to add the reply to the selected post.
+Note
+If you want to start a new post instead of replying to an ongoing one, refer to
+Start a new post
+.
+Start a new post
+Follow these instructions to start a new post:
+Press
+Ctrl
++
+2
+to open the
+Chat
+app.
+Note
+The key number ‘2' signifies the sequential position of the
+Chat
+app within the app bar. This position may vary depending on individual setup.
+Press the
+Tab
+key once and then use the
+Up
+or
+Down arrow
+key until you hear “Teams and channels, collapsed, selected.”
+Note
+If you do not see your teams, navigate to the Filter options toolbar and press
+Enter
+when you hear “Channels.”
+Press
+Enter
+to access the teams you've been added to. Use the
+Up
+or
+Down arrow
+key to navigate and press
+Enter
+on the desired team to expand or collapse a team's list of channels.
+Use the
+Up
+and
+Down arrow
+keys to navigate the channel you want to follow.
+After you have reached the required channel, press
+Enter
+. The focus will move to the latest post in that channel.
+To start a post, press the
+Tab
+key and then the
+Enter
+key on the
+Start a post
+button to open the post edit box.
+Type the
+subject of your post
+.
+Press the
+Tab
+key until you reach the edit box and type
+your message
+.
+Press
+Ctrl
++
+Enter
+to post the message in the channel.
+Alternatively, use the
+Tab
+key to get to the
+Post
+button and press
+Enter
+to post the message.
+Press
+Esc
+to move out of a channel.
+Note
+For screen reader users, the detail whether it is a new post or has new replies is announced to help you decide if you wish to know more details.
+If you want to reply to an ongoing post instead of starting a new one, refer to
+Reply to posts
+.
+Change your status
+To change your status, you can either:
+Press
+Ctrl
++
+E
+to go to the search box.
+Do one of the following:
+To set your status to available, type
+"/available"
+and press
+Enter
+.
+To set your status to away, type
+"/away"
+and press
+Enter
+.
+To set your status to busy, type
+"/busy"
+and press
+Enter
+.
+To set your status to do not disturb, type
+"/dnd"
+and press
+Enter
+Alternatively, press
+Ctrl
++
+E
+, then press the
+Tab
+key until you hear "Your profile picture with status displayed as [
+your status
+].
+Press
+Enter
+to open the options and you will start on your status.
+Press
+Enter
+to open the dropdown list. Use the
+Down
+or
+Up arrow
+key to navigate the status options.
+Press
+Enter
+to select the desired status.
+Make and receive calls
+Start a call
+Follow these instructions to start a call:
+Press
+Ctrl
++
+2
+to go to the
+Chat
+app.
+Press
+Ctrl
++
+N
+to start a new chat or use the
+Up
+or
+Down arrow
+key to select an existing chat from the list and press
+Enter
+.
+To start an audio call, press
+Alt
++
+Shift
++
+A
+.
+To start a video call, press
+Alt
++
+Shift
++
+V
+.
+Note
+Alternatively, press
+Ctrl
++
+E
+to go to the search box and type
+/call
+. Press
+Enter
+and type the
+name of the person
+you want to call. Use the
+Up
+or
+Down arrow
+key to select a result, and press
+Enter
+to start an audio call.
+Tip
+If your organization has calling enabled, you can also just type in phone numbers and press
+Enter
+to call.
+If you have the
+Calls
+app available in Microsoft Teams, you can also use its options to call a contact, browse your call history, and check your voicemail. To go to the
+Calls
+app, press
+Ctrl
++
+4
+. The key number ‘4' signifies the sequential position of the
+Calls
+app within the app bar. This position may vary depending on individual setup.
+Answer a call
+Follow these instructions to answer a call:
+When a contact calls you, the Microsoft Teams notification window opens, and you hear the ringing sound and the caller's name.
+Do one of the following:
+To answer an audio call, press
+Ctrl
++
+Shift
++
+S
+.
+To answer a video call, press
+Ctrl
++
+Shift
++
+A
+.
+To decline the call, press
+Ctrl
++
+Shift
++
+D
+.
+To end the call, use
+Ctrl
++
+Shift
++
+H
+.
+Join a meeting
+After you have received a meeting invitation, joining is simple.
+In Microsoft Teams, press
+Ctrl
++
+3
+to go to the
+Calendar
+app.
+Note
+The number ‘3' is the numeric position of the
+Calendar
+app on the app bar. This position may vary depending on individual setup.
+Press the
+Tab
+key to move the focus to the next meeting in your Calendar. If it's not the meeting you want to join, press the
+Tab
+key until you find the right one. Your screen reader announces its name and time.
+To join the meeting with the default audio and video settings, press
+Tab
+to select the
+Join now
+button, and then press
+Enter
+. You are connected to the meeting and the focus moves to the
+Mute mic
+button in the call controls toolbar.
+To mute your mic, press
+Ctrl
++
+Shift
++
+M
+to mute.
+To turn on or off your video, press
+Ctrl
++
+Shift
++
+O
+.
+Share your desktop in a meeting
+Follow these instructions to share your desktop in a meeting:
+While in a Microsoft Teams meeting call, press
+Ctrl
++
+Shift
++
+E
+to activate the
+Share content
+button.
+To share, for example, your desktop, a program window, or files, do one of the following:
+Note
+What you can share and how the sharing works depends on the organization hosting the meeting, so all the features and functionality described below may not apply to your meeting.
+To share your entire desktop, press the
+Tab
+key until you hear "Choose screen list," and press
+Enter
+.
+To share a program window, press the
+Tab
+key until you hear "Choose windows list." Press
+Enter
+to open a dropdown list with window options. Use the
+Tab
+key and then the
+Down
+and
+Uparrow
+keys until you hear the window you want to share, and press
+Enter
+.
+To share the
+Microsoft Whiteboard
+, press the
+Tab
+key until you hear "Share Microsoft Whiteboard." Then, press
+Enter
+.
+To share a file from your OneDrive, press the
+Tab
+key until you hear "Browse OneDrive" and press
+Enter
+. Use the
+Down
+or
+Up arrow
+key to navigate to a location and press
+Enter
+to select. Find your file in the selected location and press
+Enter
+.
+To share a file from your device, press the
+Tab
+key until you hear "Browse my computer," and press
+Enter
+. Choose the correct folder using the basic navigation keys or type
+the name of the file
+in the
+File name
+edit box. Then, press
+Enter
+.
+To stop sharing, press
+Alt
++
+Tab
+to get to the meeting window, then press
+Ctrl
++
+Shift
++
+E
+.
+See also
+Use a screen reader to create and modify teams in Microsoft Teams
+Use a screen reader to search for a conversation, person, or file in Microsoft Teams
+Keyboard shortcuts for Microsoft Teams
+Set up your device to work with accessibility in Microsoft 365
+Use a screen reader to explore and navigate Microsoft Teams
+Video: What is Microsoft Teams?
+Use Microsoft Teams on Mac with your keyboard and VoiceOver, the built-in Mac OS screen reader.
+Note
+This topic assumes you are using the built-in macOS screen reader, VoiceOver. To learn more about using VoiceOver, go to
+VoiceOver Getting Started Guide
+.
+In this topic
+Open Microsoft Teams
+Send and receive private chats
+Start and reply to posts
+Change your status
+Make and receive calls
+Join a meeting
+Share your desktop in a meeting
+Open Microsoft Teams
+Follow these instructions to open and sign in to Microsoft Teams:
+Press the
+Command
++
+Spacebar
+to open Spotlight.
+Type
+Teams
+and press
+Return
+. A
+Sign-in
+dialog will open.
+Type the
+email address of the account
+you want to sign in with and press
+Return
+. Your organization's sign-in page will open.
+Type
+your password
+in the edit box and press
+Return
+.
+Send and receive private chats
+Chats in Microsoft Teams are private conversations between specific people or groups. Follow these steps to learn how to start, read, and reply to chats:
+Read chats
+Follow these instructions to read chats:
+Press
+Command
++
+2
+to open the
+Chat
+app.
+Note
+The key number ‘2' signifies the sequential position of the
+Chat
+app within the app bar. This position may vary depending on the individual setup.
+Press the
+Down arrow
+key until you find the chat you want to read.
+To move to the latest message(s), press
+Spacebar
+.
+Use the
+Up
+and
+Downarrow
+keys to move between the messages.
+Press the
+Esc
+key or
+Command+L
+to return to thechat list.
+Reply to chats
+Follow these instructions to reply to chats:
+Press
+Command
++
+2
+to open the
+Chat
+app.
+Note
+The key number ‘2' signifies the sequential position of the
+Chat
+app within the app bar. This position may vary depending on the individual setup.
+Press the
+Down arrow
+key until you find the recent chat you want to reply to.
+Press
+Return
+or
+Command+R
+to move the focus to the
+Type a message
+box and type your message.
+Press
+Return
+again to send the message.
+Press the
+Esc
+or
+Command
++
+L
+key to return to the chats list.
+Start a new chat
+Follow these instructions to start a new chat:
+To start a new chat, press
+Command
++
+N
+.
+Type
+the name of the person
+you want to chat with, in the
+To
+box. The suggestions will appear in the list as you start typing.
+Navigate through the suggestions using the
+Down
+and
+Up
+arrow keys.
+Select the contact by pressing
+Return
+.
+Note
+To start a group chat, select the name of the required participants in the
+To
+box. Optionally, you can give the group a name in the
+Group name
+box.
+Press
+Tab
+to jump to the
+Type a message
+box.
+Type
+your message
+and press
+Return
+again to send the message.
+Start and reply to posts
+You can post in Team channels and these posts are visible to everyone in that Team.
+Read and reply to posts in a channel
+Follow these instructions to read and reply to posts in a channel:
+Press
+Command
++
+2
+to open the
+Chat
+app.
+Note
+The key ‘2' signifies the sequential position of the Teams and channel app within the app bar. This position may vary depending on individual setup.
+Use the
+Up
+or
+Down arrow
+key to navigate to the channel you want to follow. To expand or collapse a team's list of channels, press
+Return
+.
+After you have reached the desired channel, press
+Return
+.
+Press
+Shift
++
+Tab
+to move the focus to the most recent post and use the
+Up
+and
+Down arrow
+keys to move between the posts.
+Press
+Return
+to expand the desired post. You hear the first message in the thread.
+Use the
+Up
+or
+Down arrow
+key to move between messages in a post.
+To reply to a post, press
+Control
++
+Shift
++
+R
+.
+Use the
+Down arrow
+key to move past all messages until you hear the "Reply button," and press
+Return
+.
+Type
+your reply
+and press
+Return
+to add the reply to the selected post.
+Note
+If the post has more than a couple of messages, all are not shown by default. To expand the post so that it shows all the messages, open the post, press the
+Down arrow
+key until VoiceOver announces the number of replies and their senders, and press
+Return
+.
+Press
+Esc
+to exit and to move the focus back to the channel, press
+Esc
+again.
+Start a new post
+Follow these instructions to start a new chat:
+Press
+Command
++
+2
+to open the
+Chat
+app.
+Note
+The key ‘2' signifies the sequential position of the Chat app within the app bar. This position may vary depending on individual setup.
+Press the
+Tab
+key once and then use the
+Up
+or
+Down arrow
+key until you hear “Teams and channels, collapsed, selected.”
+Note
+If you do not see your teams, navigate to the Filter options toolbar and press
+Return
+when you hear “Channels.”
+Press
+Return
+to access the teams you've been added to. Use the
+Up
+or
+Down arrow
+key to navigate and press
+Return
+on the desired team to expand or collapse a team's list of channels.
+Use the
+Up
+and
+Down arrow
+keys to navigate to the channel you want to follow.
+After you have reached the desired channel, press
+Return
+.
+Type
+your message
+. To send the message, press
+Return
+.
+Change your status
+To change your status, you can either:
+Press
+Command
++
+E
+to go to the search box.
+Do one of the following:
+To set your status to available, type
+"/available"
+and press
+Return
+.
+To set your status to away, type
+"/away"
+and press
+Return
+.
+To set your status to busy, type
+"/busy"
+and press
+Return
+.
+To set your status to do not disturb, type
+"/dnd"
+and press
+Return
+.
+Alternatively, press
+Command
++
+E
+, then press the
+Tab
+key until you hear "Your profile picture with status displayed as [
+your status
+].
+Press
+Return
+to open the options, and you will start on your status.
+Press
+Return
+to open the dropdown list. Use the
+Down
+or
+Up arrow
+key to navigate the status options.
+Press
+Return
+to select the desired status.
+Make and receive calls
+Start a call
+Follow these instructions to start a call:
+In Microsoft Teams, press
+Command
++
+E
+to go to the search box.
+Type "
+/call
+," press
+Return
+, and type
+the name of the person
+you want to call. The search results are updated as you type.
+To navigate the list of results, press the
+Down
+or
+Up arrow
+key. When you hear the name of the person you want to call, to start an audio call, press
+Return
+. To start a video call, press
+Shift
++
+Command
++
+O
+.
+To end the call, press
+Command
++
+Shift
++
+H
+.
+Alternatively, press the
+Tab
+key until you reach the
+Leave
+button, and press
+Return
+.
+Tip
+If your organization has calling enabled, you can also type in phone numbers and press Return to call.
+If you have the
+Calls
+app available in Microsoft Teams, you can also use its options to call a contact, browse your call history, and check your voicemail. To go to the Calls app, press
+Command
++
+4
+. The key number ‘4' signifies the sequential position of the
+Calls
+app within the app bar. This position may vary depending on individual setup.
+Answer a call
+Follow these instructions to answer a call:
+When a contact calls you, the Microsoft Teams notification window opens, and you hear the caller's name.
+Do one of the following:
+To answer an audio call, press
+Command
++
+Shift
++
+S
+.
+To answer a video call, press
+Command
++
+Shift
++
+A
+.
+To decline the call, press
+Command
++
+Shift
++
+D
+.
+To end the call, press
+Command
++
+Shift
++
+H
+.
+Alternatively, press the
+Tab
+key until you reach the
+Leave
+button, and press
+Return
+.
+Join a meeting
+After you have received a meeting invitation, joining is simple.
+In Microsoft Teams, press
+Command
++
+3
+to go to the
+Calendar
+app.
+Note
+The key number ‘3' is the numeric position of the Calendar app on the app bar. This position may vary depending on individual setup.
+Press the
+Tab
+key to move the focus to the next meeting in your calendar.
+If it's not the meeting you want to join, press the
+Tab
+key until you find the right one. Your screen reader announces its name and time.
+If the meeting is in progress or about to start you can
+Tab
+to the
+Join
+button for the meeting.
+Press
+Return
+to open the meeting details and press
+Tab
+key until you hear "Join button," and then press
+Return
+to join.
+To join the meeting with the default audio and video settings, press the
+Tab
+key until you here "Join now," and then press
+Return.
+You are connected to the meeting and the focus moves to the Mute mic button in the call controls region.
+To mute your mic, use
+Command
++
+Shift
++
+M
+to mute.
+To turn on or off your video, press
+Command
++
+Shift
++
+O
+.
+Share your desktop in a meeting
+Follow these instructions to share your desktop in a meeting:
+While in a Microsoft Teams meeting call, press
+Command
++
+Shift
++
+E
+to activate the
+Share content
+button.
+To share, for example, your desktop, a program window, or files, do one of the following:
+Note
+What you can share and how the sharing works depends on the organization hosting the meeting, so all the features and functionality described below may not apply to your meeting.
+To share your entire desktop, press the
+Tab
+key until you hear "Entire screen list box," and press
+Return
+.
+To share a program window, press the
+Tab
+key until you hear "windows list box." Press
+Return
+to open a dropdown list with window options. Use the
+Tab
+key and then the
+Down
+and
+Up arrow
+keys until you hear the window you want to share, and press
+Return
+.
+To share the Whiteboard, press the
+Tab
+key until you hear "More toggle button," and then press
+Return
+. Use the
+Down
+or
+Up arrow
+key to navigate to a White board item and press
+Return
+.
+To share a document, Press the
+Tab
+until you hear "Documents selected toggle button," and press Enter.
+To share a file from your OneDrive, press the
+Tab
+key until you hear "Browse OneDrive button," and press
+Return
+. Use the
+Down
+or
+Up arrow
+key to navigate to a location and press
+Return
+to select. Find your file in the selected location and press
+Return
+.
+To upload a file from your device, press the
+Tab
+key until you hear "Upload from computer button”, and press
+Return
+. Choose the correct folder using the basic navigation keys or type the name of the file in the File name box. Then, press
+Return
+.
+To stop sharing, press
+Command
++
+Shift
++
+E.
+See also
+Use a screen reader to create and modify teams in Microsoft Teams
+Use a screen reader to search for a conversation, person, or file in Microsoft Teams
+Keyboard shortcuts for Microsoft Teams
+Set up your device to work with accessibility in Microsoft 365
+Use a screen reader to explore and navigate Microsoft Teams
+Video: What is Microsoft Teams?
+Use Microsoft Teams for iOS with your keyboard and VoiceOver, the built-in iOS screen reader.
+Note
+This topic assumes that you are using the built-in iOS screen reader, VoiceOver. To learn more about using VoiceOver, visit
+Apple accessibility
+.
+In this topic
+Open Microsoft Teams
+Send and receive private chats
+Start and reply to posts
+Change your status
+Make and receive calls
+Open Microsoft Teams
+Follow these instructions to open and sign in to Microsoft Teams:
+On your phone, navigate to the home screen where the Microsoft Teams app is, flick right until you hear "Teams," and double-tap the screen to open the app.
+The sign in screen will open. Do one of the following:
+Flick right until you find the account you want to use, and double-tap the screen.
+If you haven't signed in with your account before, flick right until you hear "Use another account," and double-tap the screen. Use the on-screen keyboard to type the email address of the account you want to sign in with. When done, flick right until you reach the
+Next
+button, and double-tap the screen.
+Note
+If the email address field already contains a previously used address, delete it first.
+Your organization's sign in page opens with a focus on the password field. Double-tap the screen, and type
+your password
+. When done, flick right until you hear "Sign in button," and double-tap the screen.
+You may be prompted to select whether to receive notifications or not. Flick right until you hear the option you want, and then double-tap the screen.
+Send and receive private chats
+Chats are only visible to the specific people in that chat.
+Start a chat
+Follow these instructions to start a new chat:
+Tap with four fingers near the top of the screen, flick right until you hear "New message button," and double-tap the screen to start a new chat. The
+New Chat
+window opens, and the focus is on the
+To
+box.
+To search for a contact, double-tap the screen and use the on-screen keyboard to type the name of the contact.
+Tip
+If the contact you seek has a common name, type it out until you get to the part that separates it from the rest. For example, if you type
+John
+, you might get dozens of results, so try typing his full name before browsing the results.
+The search results are listed above the on-screen keyboard as you type. To go to the results, flick left until you hear a contact's name, and keep flicking until you find the result you want. To select the contact, double-tap the screen.
+Flick right until you hear "Type a message text field," and then double-tap the screen.
+Type your message using the on-screen keyboard. To send the message, flick left past the first key of the on-screen keyboard until you hear the "Send button," and then double-tap the screen.
+Read and reply to chats
+Follow these instructions to read and reply to chats:
+Tap with four fingers near the bottom of the screen, flick left until you hear "Chat tab," and then double-tap the screen.
+Flick left until you find the chat you want to read, and then double-tap the screen to open it.
+Flick right until VoiceOver reads one of the messages in the chat and then flick left or right to navigate to earlier or later messages.
+To reply to the chat, flick right until you hear "Type a message text field," and then double-tap the screen.
+Type your message using the on-screen keyboard. To send the message, flick left past the first key of the on-screen keyboard until you hear the "Send button," and then double-tap the screen.
+Start and reply to posts
+You can post in Team channels and these posts are visible to everyone in that Team.
+Start a post
+Follow these instructions to start a new post:
+Tap with four fingers near the bottom of the screen, flick left until you hear "Chat tab," and then double-tap the screen.
+Flick left until you find the team you want. If the team is in a collapsed view, double-tap the screen to expand it so that you can browse its channels.
+Flick left or right until you find the right channel, and double-tap the screen to open the channel.
+Flick right until you hear "Start a post button." And double-tap the screen. You hear "Type a message."
+Type the message using your on-screen keyboard.
+To send the message, flick left past the first key of the on-screen keyboard until you hear the "Send button," and then double-tap the screen.
+Read and reply to posts
+Follow these instructions to read and reply to posts:
+Tap with four fingers near the bottom of the screen, flick left until you hear "Chat tab," and then double-tap the screen.
+Flick left or right until you find the team and channel you want, and double-tap the screen to open the channel. If the team is in a collapsed view, double-tap the screen to expand it so that you can browse its channels.
+To go to the channel's posts, flick right until you hear a message. To browse to other conversations, flick right or left. VoiceOver announces the posts as you move.
+If the post has more than a couple of messages, all of them are not shown in the channel app. To open the post, when VoiceOver announces the number of replies and their senders, double-tap the screen. The post will open.
+Flick right until VoiceOver reads the first message in the post. To read the follow-up messages, keep flicking right.
+To reply to a post, flick right past all messages until you hear "Reply text field," and double-tap the screen. Use the on-screen keyboard to type your message.
+To send the message, flick left past the first key of the on-screen keyboard until you hear the "Send button," and double-tap the screen.
+To close the keyboard and return to the
+Teams
+app, tap with four fingers near the top of the screen. You hear "Back button." And double-tap the screen.
+Change your status
+To change your status, follow below instructions:
+Tap with four fingers near the top of the screen. You hear "More menu button." Double-tap the screen.
+Flick right until you hear "Your current presence status is," followed by the current status. Double-tap the screen, flick right until you find the status you want to use, and then double-tap the screen to confirm.
+To close the
+More
+menu, flick left until you hear "Close the more menu button," and double-tap the screen.
+Make and receive calls
+Start a call
+Follow these instructions to start a call:
+Tap with four fingers near the top of the screen, flick right until you hear "Search field," and double-tap the screen.
+Note
+If you hear "Teams would like to access your contacts," flick right until you hear "OK button," and double-tap the screen.
+To search for a contact, use the on-screen keyboard to type the
+name of the contact
+.
+Tip
+If the contact you seek has a common name, type it out until you get to the part that separates it from the rest. For example, if you type
+John
+, you might get dozens of results, so try typing his full name before browsing the results.
+The search results are listed above the on-screen keyboard as you type. To go to the results, slide your finger around the screen until you hear a contact's name, and flick right or left until you hear the name you want. To select the contact, double-tap the screen.
+Flick right until you hear the "Audio call button," and double-tap the screen.
+To end the call, flick right until you hear the "Hang up call button," and double-tap the screen.
+To close the search view, tap with four fingers near the top of the screen, flick right until you hear the "Cancel button," and double-tap the screen.
+Tip
+If you have the
+Calls
+tab available in Microsoft Teams, you can use its options to directly call a contact, browse your call history, and check your voicemail. To go to the
+Calls
+tab, tap with four fingers near the bottom of the screen. You hear "More tab." Double-tap the screen, flick left until you hear "Calls tab," and double-tap the screen. If you cannot find the
+Calls
+tab in the More menu, the
+Calls
+tab is not available.
+Answer a call
+Follow these instructions to answer a call:
+When a contact calls you, you hear a ringing sound. Do one of the following:
+To answer the call, flick right or left until you hear "Answer call button," and double-tap the screen.
+To decline the call, flick right or left until you hear "Decline button," and double-tap the screen.
+To end the call, flick right or left until you hear the "Hang up call, button," and double-tap the screen.
+See also
+Use a screen reader to search for a conversation, person, or file in Microsoft Teams
+Set up your device to work with accessibility in Microsoft 365
+Use a screen reader to explore and navigate Microsoft Teams
+Video: What is Microsoft Teams?
+Use Microsoft Teams for Android with TalkBack, the built-in Android screen reader.
+Note
+This topic assumes that you are using the built-in Android screen reader, TalkBack. To learn more about using TalkBack, go to
+Android accessibility
+.
+In this topic
+Open Microsoft Teams
+Send and receive private chats
+Start and reply to posts
+Change your status
+Make calls
+Open Microsoft Teams
+Follow these instructions to open and sign in to Microsoft Teams:
+On your phone, navigate to the home screen where the app is, flick right until you hear "Teams,"and then double-tap the screen to open.
+Flick right until you hear "Get started button," and then double tap the screen.
+The sign in screen will open. Flick right until you hear "Enter email or phone number edit box," double-tap the screen, and do one of the following:
+Flick right until you find the account you want to use from suggestions, and double-tap the screen.
+If you haven't signed in with your account before, flick left until you hear "Enter email or phone number edit box," and double-tap the screen. Type the email address of the account you want to sign in with. When done, flick right until you reach the
+Next
+button, and double-tap the screen.
+Note
+If the email address field already contains a previously used address, delete it first.
+Your organization's sign in page will open. Flick right to navigate to the
+Password
+field. Double-tap the screen and type
+your password
+.
+When done, flick right until you reach the
+Sign in
+button, and double-tap the screen.
+Send and receive private chats
+Chats in Microsoft Teams are private conversations between specific people or groups. Follow these steps to learn how to start, read, and reply to chats:
+Start a chat
+Follow these instructions to start a new chat:
+Flick right or left until you hear "Chat tab," and then double-tap the screen.
+Flick right until you hear the "New conversation button," and then double-tap the screen. You hear "Enter name, chat, channel, email or tag edit box."
+Use the on-screen keyboard to type your search words in the edit box. The number of search results is announced as you type.
+Flick right until you reach the first search result. To move in the list, flick right or left until you hear the contact name you are looking for. To select the contact, double-tap the screen.
+Tip
+If the contact you seek has a common name, type it out until you get to the part that separates it from the rest. For example, if you type
+John
+, you might get dozens of results, so try typing his full name before browsing the results.
+Flick right until you hear "Type a message," and then double-tap the screen.
+Type your message using the on-screen keyboard. To send the message, flick right until you hear the "Send message button," and then double-tap the screen.
+When the person replies to your message, you hear "Message received, showing items," followed by the number of the current item and its position in the list of items.
+Read and reply to chats
+Follow these instructions to read and reply to chats:
+Flick right or left until you hear "Chat tab," and then double-tap the screen.
+Flick left until you find the chat you want to read, and then double-tap the screen.
+Flick right or left until TalkBack reads one of the messages in the chat, and then flick left or right to navigate to earlier or later messages.
+To reply to the chat, flick right until you hear "Type a message and then double-tap the screen.
+Type your message using the on-screen keyboard. To send the message, flick right until you hear the "Send message button," and then double-tap the screen.
+Start and reply to posts
+Posts happen in Team channels and are visible to everyone in that Team.
+Start a post
+Follow these instructions to start a post in a channel:
+Flick right or left until you hear: "Channels button," and double-tap the screen to select. To browse the channels, flick left. As you move, TalkBack announces the channel names.
+Tip
+If your Team has lots of channels, all of them may not fit on the screen at the same time. To scroll the list, swipe up or down with two fingers.
+When on the channel you want, double-tap the screen to open the channel.
+Flick left until you hear "New conversation button," and double-tap the screen.
+Type your message using the on-screen keyboard. When done, flick right until you hear "Send message, button," and double-tap the screen.
+Read and reply to posts
+Follow these instructions to read posts in a channel:
+Flick right or left until you hear "Chat button." And double-tap the screen to select. To browse the channels, flick left. As you move, TalkBack announces the Chats and channels names.
+Tip
+If your Team has lots of channels, all of them may not fit on the screen at the same time. To scroll the list, swipe up or down with two fingers.
+When on the channel you want, double-tap the screen to open the channel.
+To go to the latest post, flick right until you hear the message. To browse to older posts, flick left. TalkBack announces the posts as you move.
+To open the post, when on a message in the conversation, double-tap the screen. The
+Post
+tab opens.
+Flick right until TalkBack reads the first message in the conversation. To read the next  messages, keep swiping right.
+To reply to a conversation, flick right past all messages until you hear "Reply edit box," and double-tap the screen.
+Use the on-screen keyboard to type your message. Flick right until you hear "Send message button," and double-tap the screen.
+To close the
+Post
+tab, flick down-then-left. The focus returns to the selected channel.
+Make calls
+Follow these instructions to make a call:
+Flick right or left until you hear "Search button," and double-tap the screen.
+To search for a contact, use the on-screen keyboard to type the name of the contact.
+Tip
+If the contact you seek has a common name, type it out until you get to the part that separates it from the rest. For example, if you type
+John
+, you might get dozens of results, so try typing his full name before browsing the results.
+The search results are listed as you type. To go to the results, flick right until you hear a contact's name, and keep flicking until you hear the name you want. To select the contact, double-tap the screen.
+Flick right until you hear "Audio call button," and double-tap the screen.A pop up window opens to select the
+Audio call
+or
+Video call
+button.
+Flick right until you hear "Audio call button," and double-tap the screen.
+To end the call, flick right until you hear "End call button," and double-tap the screen.
+See also
+Use a screen reader to search for a conversation, person, or file in Microsoft Teams
+Set up your device to work with accessibility in Microsoft 365
+Use a screen reader to explore and navigate Microsoft Teams
+Video: What is Microsoft Teams?
+Use Microsoft Teams on the web with your keyboard and a screen reader. We have tested it with Narrator, JAWS, and NVDA, but it might work with other screen readers if they follow common accessibility standards and techniques.
+Note
+To learn more about screen readers, go to
+How screen readers work with Microsoft 365
+.
+In this topic
+Open Microsoft Teams
+Send and receive private chats
+Start and reply to posts
+Change your status
+Make and receive calls
+Join a meeting
+Share your screen in a meeting
+Open Microsoft Teams
+Follow these instructions to open and sign in to Microsoft Teams:
+Open your browser and browse to
+https:⁠//teams.microsoft.com
+.
+A sign-in page will open with a focus on the
+Email, phone, or Skype
+box.
+If there are no previously used account details, type your information in the edit box.
+If there are several accounts to choose from, press the
+Tab
+key to browse the options. To select, press
+Enter
+.
+Your organization's sign-in page will open. To move between the options, press the
+Tab
+key. To select, press
+Enter
+.
+To navigate to the
+password
+box, press
+Tab
+until you hear "Password," and type
+your password
+. When done, press
+Enter
+.
+Note
+Depending on the sign-in method, follow the prompts as your screen reader announces them.
+Send and receive private chats
+Chats in Microsoft Teams are private conversations between specific people or groups. Follow these steps to learn how to start, read, and reply to chats:
+Read and reply to chats
+Follow these instructions to read and reply to chats:
+Press
+Ctrl
++
+Shift
++
+2
+to open the
+Chat
+app.
+Note
+The key number ‘2' signifies the sequential position of the
+Chat
+app within the app bar. This position may vary depending on the individual setup.
+Press the
+Up
+or
+Down arrow
+key until you find the chat you want.
+Press
+Alt
++
+Shift
++
+M
+to read the latest message in the selected chat.
+Use the
+Up
+and
+Down arrow
+keys to move between the messages.
+To move the focus back to the
+Type a message
+box, press
+Ctrl
++
+F6
+or
+F6
+until you hear: "Type a message."
+To reply to a chat, type
+your message
+in the box, and press
+Enter
+.
+Start a new chat
+Follow these instructions to start a new chat:
+Press
+Ctrl
++
+Shift
++
+2
+to open the
+Chat
+app.
+Note
+The key number ‘2' signifies the sequential position of the
+Chat
+app within the app bar. This position may vary depending on the individual setup.
+Press
+Alt
++
+N
+to open a new chat.
+Type the
+name of the person
+you want to chat with in the
+To
+box. The suggestions will appear in the list as you start typing.
+Navigate through the suggestions using the
+Down
+and
+Up arrow
+keys. Select the contact by pressing
+Enter
+.
+Press
+Tab
+to jump to the
+Type a message
+box.
+Type
+your message
+and press
+Enter
+again to send the message.
+Press the
+Esc
+key or
+Alt
++
+Shift
++
+L
+to return to the chat list.
+Start and reply to posts
+You can post in Team channels and these posts are visible to everyone in that Team.
+Read posts in a channel
+Follow these instructions to read posts in a channel:
+Press
+Ctrl
++
+Shift
++
+2
+to open the
+Chat
+app.
+Note
+The key ‘2' signifies the sequential position of the
+Chat app
+within the app bar. This position may vary depending on individual setup.
+Press the
+Tab
+key once and then use the
+Up
+or
+Down arrow
+key until you hear “Teams and channels, collapsed, selected.”
+Note
+If you do not see your teams, navigate to the Filter options toolbar and press Enter when you hear “Channels.”
+Press
+Enter
+to access the teams you've been added to. Use the
+Up
+or
+Down arrow
+key to navigate and press
+Enter
+on the desired team to expand or collapse a team's list of channels.
+Use the
+Up
+and
+Down arrow
+keys to navigate to the channel you want to follow.
+After you have reached the desired channel, press
+Enter
+to display and navigate to channel’s posts. The focus will move to the latest post in that channel.
+Use the
+Up
+and
+Down arrow
+keys to browse the channel's posts.
+Navigate and read replies in a post
+When you read posts, your screen reader announces the number of replies they have. If the conversation has at least one reply, you need to navigate into the threaded conversation to read the replies.
+To open the post, press
+Enter
+. You hear the main post.
+To engage with the post, press
+Enter
+. You will now be able to move through the main post and replies.
+To navigate the post replies, press the
+Up
+or
+Down arrow
+key. Your screen reader reads the post and replies as you move through it.
+To move the focus back to the main post, press
+Esc
+.
+To leave the post, press
+Esc
+again.
+Reply to posts
+follow these instructions to reply to posts in a channel:
+While reading a post, regardless of the number of replies, press
+Ctrl
++
+R
+.
+Alternatively, press
+Enter
+and then use the
+Down arrow
+key until you hear the "Reply in thread button." Press
+Enter
+.
+Type
+your reply
+and press
+Enter
+to add the reply to the selected post.
+Start a new post
+Follow these instructions to start a new post:
+Press
+Ctrl
++
+Shift
++
+2
+to open the
+Chat
+app.
+Note
+The key ‘2' signifies the sequential position of the
+Chat
+app within the app bar. This position may vary depending on individual setup.
+Press the
+Tab
+key once and then use the
+Up
+or
+Down arrow
+key until you hear “Teams and channels, collapsed, selected.”
+If you do not see your teams, navigate to the Filter options toolbar and press
+Enter
+when you hear “Channels.”
+Press
+Enter
+to access the teams you've been added to. Use the
+Up
+or
+Down arrow
+key to navigate and press
+Enter
+on the desired team to expand or collapse a team's list of channels.
+Use the
+Up
+and
+Down arrow
+keys to navigate the channel you want to follow.
+After you have reached the required channel, press
+Enter
+. The focus will move to the latest post in that channel.
+To start a post, press the
+Tab
+key and then the
+Enter
+key on the
+Start a post
+button to open the post edit box. Type the
+subject
+of your post.
+Press the
+Tab
+key until you reach the edit box and type
+your message
+. Then, press
+Ctrl
++
+Enter
+to post the message in the channel.
+Press
+Esc
+to move out of a channel.
+Change your status
+To change your status, you can either:
+Press
+Ctrl
++
+Shift
++
+E
+to go to the search box.
+Do one of the following:
+To set your status to available, type
+"/available"
+and press
+Enter
+.
+To set your status to away, type
+"/away"
+and press
+Enter
+.
+To set your status to busy, type
+"/busy"
+and press
+Enter
+.
+To set your status to do not disturb, type
+"/dnd"
+and press
+Enter
+.
+Alternatively, press
+Ctrl
++
+Shift
++
+E
+, then press the
+Tab
+key until you hear "Your profile picture with status displayed as [
+your status
+].
+Press
+Enter
+to open the options, and you will start on your status.
+Press
+Enter
+to open the dropdown list. Use the
+Down
+or
+Up arrow
+key to navigate the status options.
+Press
+Enter
+to select the desired status.
+Make and receive calls
+Start a call
+Follow these instructions to start a call:
+Press
+Ctrl
++
+Shift
++
+2
+to go to the
+Chat
+app.
+Press
+Alt
++
+N
+to start a new chat or use the
+Up
+or
+Down arrow
+key to select an existing chat from the list and press
+Enter.
+To start an audio call, press
+Alt
++
+Shift
++
+A
+.
+To start a video call, press
+Alt
++
+Shift
++
+V
+.
+If you get a popup (in Chrome) asking for permission to use your microphone, press the Tab key until you reach the
+Allow
+button and press Enter.
+To end the call, press
+Ctrl
++
+Shift
++
+H
+.
+Alternatively, press the
+Tab
+key until you hear "Leave button," then press
+Enter
+.
+Tip
+You can also press
+Ctrl
++
+E
+to go to the search box and type
+/call
+. Press
+Enter
+and type the
+name of the person
+you want to call. Use the
+Up
+or
+Down arrow
+key to select a result, and press
+Enter
+to start an audio call.
+If your organization has calling enabled, you can just type in phone numbers and press
+Enter
+to call.
+If you have the
+Calls
+app available in Microsoft Teams, you can also use its options to call a contact, browse your call history, and check your voicemail. To go to the
+Calls
+app, press
+Ctrl
++
+Shift
++
+4
+. The key number ‘4' signifies the sequential position of the
+Calls
+app within the app bar. This position may vary depending on individual setup.
+Answer a call
+To know that someone is calling you, ensure you have the
+Sound
+notifications turned on in the Microsoft Teams
+Settings
+. To learn more on how to change your notification settings, refer to the section "Customize the notification settings" in
+Use a screen reader to check recent activity in Microsoft Teams
+.
+When a contact calls you, the Microsoft Teams notification window will open, you hear the ringing sound, and the caller's name.
+Do one of the following:
+To answer an audio call, press
+Ctrl
++
+Shift
++
+S
+.
+To answer a video call, press
+Ctrl
++
+Shift
++
+A
+.
+To decline the call, press
+Ctrl
++
+Shift
++
+D
+.
+To end the call, press
+Ctrl
++
+Shift
++
+H
+.
+Alternatively, press the
+Tab
+key until you hear "Hang up," then press
+Enter
+.
+Join a meeting
+Follow these instructions to join a meeting:
+In Microsoft Teams, press
+Ctrl
++
+Shift
++
+3
+to go to the
+Calendar
+app.
+Note
+The key number ‘3' is the numeric position of the
+Calendar
+app on the app bar. This position may vary depending on individual setup.
+Press the
+Tab
+key once to move the focus to the next meeting in your Calendar. If it's not the meeting you want to join, press the
+Tab
+key until you find the right one. Your screen reader announces its name and time.
+To join the meeting with the default audio and video settings, press the
+Spacebar
+. You are connected to the meeting and the focus moves to the
+Mute mic
+button in the call controls toolbar.
+If you get a popup (in Chrome) asking for permission to use your microphone, press the
+Tab
+key until you reach the
+Allow
+button and press
+Enter
+.
+To mute your mic, use
+Windows
++
+Alt
++
+K
+, or
+Ctrl
++
+Shift
++
+M
+to mute.
+To turn on or off your video, press
+Ctrl
++
+Shift
++
+O
+.
+Share your screen in a meeting
+Follow these instructions to share your screen in a meeting:
+While in a Microsoft Teams meeting, press
+Ctrl
++
+Shift
++
+E
+to activate the
+Share content
+button.
+Do one of the following:
+Note
+What you can share and how the sharing works depends on the organization hosting the meeting, so all the features and functionality described below may not apply to your meeting.
+To share your entire desktop, press the
+Tab
+key until you hear "Choose screen list," and press
+Enter
+.
+To share a program window, press the
+Tab
+key until you hear "Choose windows list." Press
+Enter
+to open a dropdown list with window options. Use the
+Tab
+key and then the
+Down
+and
+Up arrow
+keys until you hear the window you want to share, and press
+Enter
+.
+To share the Whiteboard, press the
+Tab
+key until you hear "Share Microsoft Whiteboard." Then, press
+Enter
+.
+To share a file from your OneDrive, press the
+Tab
+key until you hear "Browse OneDrive 1 of 2," and press
+Enter
+. Use the
+Down
+or
+Up arrow
+key to navigate to a location and press
+Enter
+to select. Find your file in the selected location and press
+Enter
+.
+To share a file from your device, press the
+Tab
+key until you hear "Browse my computer 2 of 2," and press
+Enter
+. Choose the correct folder using the basic navigation keys or type the name of the file in the
+File name
+edit box. Then, press
+Enter
+.
+To stop sharing, do one of the following:
+If you are sharing your entire desktop, an application window, or a Chrome tab, navigate to the Teams meeting window, press the
+Tab
+key until you hear "Stop sharing," and press
+Enter
+.
+If you are sharing a PowerPoint presentation, press the
+Tab
+key until you reach the
+Stop presenting
+button, and press
+Enter
+.
+See also
+Use a screen reader to create and modify teams in Microsoft Teams
+Use a screen reader to search for a conversation, person, or file in Microsoft Teams
+Technical support for customers with disabilities
+Microsoft wants to provide the best possible experience for all our customers. If you have a disability or questions related to accessibility, please contact the
+Microsoft Disability Answer Desk
+for technical assistance. The Disability Answer Desk support team is trained in using many popular assistive technologies and can offer assistance in English, Spanish, French, and American Sign Language. Please go to the Microsoft Disability Answer Desk site to find out the contact details for your region.
+If you are a government, commercial, or enterprise user, please contact
+the enterprise Disability Answer Desk
+.
